@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Sciuridae",
+    "genus": "Funisciurus",
+    "specie": "Funisciurus_anerythrus",
+    "specie_en": "Thomas"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "127.5",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "gbif",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "1-2 pups per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.91",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Funisciurus_congicus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "217.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "52",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "based on Funisciurus_congicus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "based on Funisciurus_congicus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "50",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "based on Funisciurus_congicus"
+  }
+]

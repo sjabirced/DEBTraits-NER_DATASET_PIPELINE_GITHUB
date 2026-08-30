@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Haemulidae",
+    "genus": "Haemulon",
+    "specie": "Haemulon_album",
+    "specie_en": "White margate",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "79",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.2e6/365",
+      "units": "#/d",
+      "label": "max reoduction rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.85 mm of Lutjanus stellatus: pi/6*0.085^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5926",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01202*Li^3.00, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "341",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01202*Lp^3.00, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "22*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BurtPott2019",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

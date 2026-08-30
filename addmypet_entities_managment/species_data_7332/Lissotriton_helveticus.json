@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Lissotriton",
+    "specie": "Lissotriton_helveticus",
+    "specie_en": "Palmate newt"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.9",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "BradGrif1995",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.5",
+    "units": "cm",
+    "label": "ultimate total length of females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.5",
+    "units": "cm",
+    "label": "ultimate total length of males",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Lissotriton vulgaris"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "300/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "150-440 eggs per season"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 1.3-1.8 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.96",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "estimated from 5.2 * (5.4/9.5)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "8-21 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "2.5*30.5",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Wiki",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "1.5-3.5 mnth"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

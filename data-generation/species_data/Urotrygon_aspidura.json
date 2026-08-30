@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Urotrygonidae",
+    "genus": "Urotrygon",
+    "specie": "Urotrygon_aspidura",
+    "specie_en": "Pamamic stingray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "disc width at birth",
+      "bibkey": "TorrMeji2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "26.5",
+      "units": "cm",
+      "label": "ultimate disc width",
+      "bibkey": "TorrMeji2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "18.5",
+      "units": "cm",
+      "label": "ultimate disc width for males",
+      "bibkey": "TorrMeji2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15.0",
+      "units": "cm",
+      "label": "disc width at puberty",
+      "bibkey": "TorrMeji2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13.8",
+      "units": "cm",
+      "label": "disc width at puberty for males",
+      "bibkey": "TorrMeji2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MejiNavi2012",
+      "temp": "C2K(24.9)",
+      "units.temp": "K",
+      "comment": "based on U.rogesi: 3 pups per litter, 1 litter per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "745.5",
+      "units": "g",
+      "label": "wet weight at disc width",
+      "bibkey": "{'MejiNavi2012','TorrMeji2019'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative weight, compared to U.rogersi: 328*(26.5/19.9)^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "309.5",
+      "units": "g",
+      "label": "wet weight at disc width",
+      "bibkey": "{'MejiNavi2012','TorrMeji2019'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.5*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MejiNavi2012",
+      "temp": "C2K(24.9)",
+      "units.temp": "K",
+      "comment": "based on U. rogesi"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "TorrMeji2019",
+      "temp": "C2K(24.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

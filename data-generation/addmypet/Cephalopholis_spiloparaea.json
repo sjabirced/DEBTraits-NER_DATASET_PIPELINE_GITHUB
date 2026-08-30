@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Cephalopholis",
+    "specie": "Cephalopholis_spiloparaea",
+    "specie_en": "Strawberry hind",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "ultimate fork length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "fork length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Cephalopholis_fulva: 14.7*30/44"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "13e4/365",
+      "units": "#/d",
+      "label": "max reoduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Cephalopholis_fulva: 28e4*543/1200"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.95 mm: pi/6*0.095^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "543",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01585*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "18",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01585*Lp^3.07, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

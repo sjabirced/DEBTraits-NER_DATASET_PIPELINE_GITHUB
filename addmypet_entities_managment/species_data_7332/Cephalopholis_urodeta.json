@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Cephalopholis",
+    "specie": "Cephalopholis_urodeta",
+    "specie_en": "Darkfin hind"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "28",
+    "units": "cm",
+    "label": "ultimate fork length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.4",
+    "units": "cm",
+    "label": "fork length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Cephalopholis_fulva: 14.7*28/44"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "72e3/365",
+    "units": "#/d",
+    "label": "max reoduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(28.4)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Cephalopholis_fulva: 28e4*308.5/1200"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.95 mm: pi/6*0.095^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "308.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01230*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "11",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01230*Lp^3.04, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FryBrew2006",
+    "temp": "C2K(28.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

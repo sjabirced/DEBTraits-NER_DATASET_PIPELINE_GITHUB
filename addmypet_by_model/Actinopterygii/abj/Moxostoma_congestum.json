@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Moxostoma",
+    "specie": "Moxostoma_congestum",
+    "specie_en": "Grey jumprock"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "65",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "39.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": " based on SL 9.33 cm and F2"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "28.6e3/365",
+    "units": "#/d",
+    "label": "max Reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": "based on same relative fecundity, compared to Moxostoma_macrolepidotum: 44e3*(65/75)^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.9e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ThomBent2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.54 mm of Moxostoma_cervinum: pi/6*0.154^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.03e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "426",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','ThomBent2015'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Lp^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "might live longer"
+  }
+]

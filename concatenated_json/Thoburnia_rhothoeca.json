@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Thoburnia",
+    "specie": "Thoburnia_rhothoeca",
+    "specie_en": "Torrent sucker"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "RaneLach1946",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 3 yr and tL data"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.8 mm of Erimyzon oblongus: pi/6*0.18^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "38.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Lp^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "4.5",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'RaneLach1946','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "RaneLach1946",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

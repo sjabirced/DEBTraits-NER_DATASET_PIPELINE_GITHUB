@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Acipenser",
+    "specie": "Acipenser_medirostris",
+    "specie_en": "Green sturgeon"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "270",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "166",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "242e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "MoseIsra2016",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.31e-2",
+    "units": "g",
+    "label": "wet weight birth",
+    "bibkey": "MoseIsra2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 4.35 mm: pi/6*0.435^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "117e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00593*Li^3, see F1, fishbase/wiki reports 159 kg for TL 210"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "20",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "MoseIsra2016",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "60*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

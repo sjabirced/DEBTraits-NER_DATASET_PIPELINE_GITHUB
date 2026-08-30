@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Otariidae",
+    "genus": "Zalophus",
+    "specie": "Zalophus_wollebaeki",
+    "specie_en": "Galapagos sea lion"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "1 pup per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "250e3",
+    "units": "g",
+    "label": "ultimate wet weight fem.",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "50-250 kg"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "360e3",
+    "units": "g",
+    "label": "ultimate wet weight male",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "11*30.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "time since birth at puberty (female)",
+    "bibkey": "ADW",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "time since birth at puberty (male)",
+    "bibkey": "ADW",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "11.5*30.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Orectolobiformes",
+    "family": "Orectolobidae",
+    "genus": "Orectolobus",
+    "specie": "Orectolobus_hutchinsi",
+    "specie_en": "Western wobbegong",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "24",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "ChidSimp2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "22-26 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "149",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "110",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ChidSimp2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "112",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "ChidSimp2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "25/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(18.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "78.7",
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "{'HuveStea2013','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "23.5e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Lb^3.12, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "353",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(18.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ChidSimp2007",
+      "temp": "C2K(18.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

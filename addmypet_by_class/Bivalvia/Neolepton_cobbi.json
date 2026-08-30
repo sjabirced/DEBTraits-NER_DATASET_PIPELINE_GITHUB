@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Venerida",
+    "family": "Neoleptonidae",
+    "genus": "Neolepton",
+    "specie": "Neolepton_cobbi",
+    "specie_en": "Bivalve"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.026",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "ItuaPres2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.42",
+    "units": "cm",
+    "label": "ultimate shell height",
+    "bibkey": "ItuaPres2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.13",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "ItuaPres2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'no females found below 1.3 mm"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.0173",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Chamelea_gallina: 19.9*(0.42/4.4)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*30.5",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ItuaPres2017",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

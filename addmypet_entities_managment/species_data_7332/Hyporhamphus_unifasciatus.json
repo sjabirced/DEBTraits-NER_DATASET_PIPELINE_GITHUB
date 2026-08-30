@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Beloniformes",
+    "family": "Hemiramphidae",
+    "genus": "Hyporhamphus",
+    "specie": "Hyporhamphus_unifasciatus",
+    "specie_en": "Common halfbeak"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18.9",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "85.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00234*Li^3.09, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "20.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00234*Lp^3.09, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

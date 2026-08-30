@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Raja",
+    "specie": "Raja_polystigma",
+    "specie_en": "Speckled ray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "10.6",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "PorcBell2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "50.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "PorcBell2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "48.8",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "PorcBell2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "40/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "20 till 62 eggs per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.27e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00166*Li^3.31, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.5*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "PorcBell2020",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

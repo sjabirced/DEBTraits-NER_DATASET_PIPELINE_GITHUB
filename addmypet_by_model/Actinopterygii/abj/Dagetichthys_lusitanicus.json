@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Soleidae",
+    "genus": "Dagetichthys",
+    "specie": "Dagetichthys_lusitanicus",
+    "specie_en": "Portuguese sole"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "27.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Pegusa_impar: 20*40/29"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3e5/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(26.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.7  mm: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "810",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Li^3.07, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "140",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Lp^3.07, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CabrCata2003",
+    "temp": "C2K(26.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

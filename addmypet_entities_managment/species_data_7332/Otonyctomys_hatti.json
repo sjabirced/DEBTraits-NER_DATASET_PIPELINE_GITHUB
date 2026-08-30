@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Otonyctomys",
+    "specie": "Otonyctomys_hatti",
+    "specie_en": "Hatt"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.9*8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "PantMacS2015",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "'1.9 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PantMacS2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "31",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "PantMacS2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "21",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "PantMacS2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "31",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "PantMacS2015",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "70",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "guess based on Apodemus_agrarius"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "21",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "PantMacS2015",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

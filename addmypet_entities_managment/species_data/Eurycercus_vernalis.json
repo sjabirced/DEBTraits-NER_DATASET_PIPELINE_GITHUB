@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Eurycercidae",
+    "genus": "Eurycercus",
+    "specie": "Eurycercus_vernalis",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.059,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "LemkBenk2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 0.27,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "LemkBenk2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.154,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "LemkBenk2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": 2.23,
+      "units": "mug",
+      "label": "dry weight at birth",
+      "bibkey": "LemkBenk2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": 211.3,
+      "units": "mug",
+      "label": "ultimate dry weight",
+      "bibkey": "LemkBenk2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Li/Lp)^3*Wdp"
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": 39.2,
+      "units": "mug",
+      "label": "dry weight at puberty",
+      "bibkey": "LemkBenk2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 1.9,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "LemkBenk2004",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 60.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "LemkBenk2004",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 8.0,
+      "units": "d",
+      "label": "time since birth at at puberty",
+      "bibkey": "LemkBenk2004",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

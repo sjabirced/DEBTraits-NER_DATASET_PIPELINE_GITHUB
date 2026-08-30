@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Ascidiacea",
+    "order": "Stolidobranchia",
+    "family": "Styelidae",
+    "genus": "Botrylloides",
+    "specie": "Botrylloides_violaceus",
+    "specie_en": "Chain tunicate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "450/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": "guess based on kap = 0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.41e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ZaniBuri1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.3 mm of B. schlosseri : pi/6*0.03^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.4e-2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Mill1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on diameter and height of 3 mm: pi/6*0.3^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "40",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "30",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Yama1975",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": "'based on the fact that the colony regresses after first egg liberation"
+    }
+  ]
+}

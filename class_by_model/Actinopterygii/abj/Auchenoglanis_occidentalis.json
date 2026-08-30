@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Claroteidae",
+    "genus": "Auchenoglanis",
+    "specie": "Auchenoglanis_occidentalis",
+    "specie_en": "Bubu"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "39",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "11442 /365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "ShinIpin2012",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ShinIpin2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.5 mm to 1.50 mm: pi/6*0.25^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.8e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01023*Li^3.02, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "653",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01023*Lp^3.02, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

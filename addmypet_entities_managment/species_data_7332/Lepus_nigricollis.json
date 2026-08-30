@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Lagomorpha",
+    "family": "Leporidae",
+    "genus": "Lepus",
+    "specie": "Lepus_nigricollis",
+    "specie_en": "Indian hare"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(38.2)",
+    "units.temp": "K",
+    "comment": "'1-8 pups per litter, 1.84 on average"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "120",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MohaSahu2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(39.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "44",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(39.2)",
+    "units.temp": "K",
+    "comment": "41-47 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "243",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "ADW",
+    "temp": "C2K(39.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "41",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(39.2)",
+    "units.temp": "K",
+    "comment": "Based on Leups californicus"
+  }
+]

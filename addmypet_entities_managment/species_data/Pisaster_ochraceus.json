@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Echinodermata",
+    "class": "Asteroidea",
+    "order": "Forcipulatida",
+    "family": "Asteriidae",
+    "genus": "Pisaster",
+    "specie": "Pisaster_ochraceus",
+    "specie_en": "Ochre sea star",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.02",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Geor1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Bippinaria larvae starts foraging when hatched (0.160-0.250 mm). From Geor1999 (Fig. 2b), fed larvae. I use the larvae width as proxy for arm length. Note that is not the same length used for adults."
+    },
+    {
+      "entity": "Li",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Fede1956",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.22",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "Geor1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.9",
+      "units": "cm",
+      "label": "total length st puberty",
+      "bibkey": "Mona2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "['Information available is from field estimates only. '...\n  'Meng1975, PearEern1986: individuals without gonads until 70g wet-weight. ']"
+    },
+    {
+      "entity": "R400",
+      "entity.value": "4e7/365",
+      "units": "#/d",
+      "label": "reprod rate at 400 g wet weight",
+      "bibkey": "Meng1975",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0142",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Fede1956",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1200",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Fede1956",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "70",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'Meng1975','PearEern1986'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Stra1978",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "34*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MacGMacG1949",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "150",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Stra1978",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "Stra1978: Brachiolaria larvae settles between 76 and 228 d. Gamets are usually released on late spring, when water temperature is  12-13 degC"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Stra1978",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "['Meng1975 estimated 70-90 g for reproduction onset (1974 and 1975). ' ...\n      'From Fede1956 and my lab measurements, juveniles would grow to that weight on 730 days, considering 150 days of larval period. ' ...\n      'Menge (1974) estimated 5 years to reach reproductive maturity, but based on field (suboptimal conditions) observations.']"
+    }
+  ]
+}

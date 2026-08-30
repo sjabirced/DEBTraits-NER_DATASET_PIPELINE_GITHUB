@@ -1,0 +1,113 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "species": "Perdix_perdix",
+    "species_en": "Grey partridge",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "16/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "avibase",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": "5-22 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "14.1",
+      "units": "g",
+      "label": " intitial wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.25",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "386",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "404",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(34)",
+      "units.temp": "K",
+      "comment": "avibase: 23-35 d, temp is guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at first reproduction",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "7 *7",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": "capable of flight between 6 and  8 weeks"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "3",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "avibase",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": "starts to feed around 3 dph"
+    }
+  ]
+}

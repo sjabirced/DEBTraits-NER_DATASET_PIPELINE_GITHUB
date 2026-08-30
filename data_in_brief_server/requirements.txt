@@ -1,0 +1,26 @@
+# Environment for the PARADEB-NER reference baseline.
+#
+# Training ran on the Narval cluster (Digital Research Alliance of Canada),
+# NVIDIA A100 node, job 1371847, 20 August 2026, through
+# slurm/train/bio/train_bert_baseline.sbatch and envs/setup_narval.sh.
+#
+# The Alliance wheelhouse tags its builds "+computecanada"; the upstream
+# version numbers are the ones pinned below. pyarrow is supplied by the
+# cluster module arrow/24.0.0, not by pip.
+# Modules: StdEnv/2023 python/3.11 cuda/12.2 cudnn arrow/24.0.0
+
+# --- training environment (Narval) ---
+numpy==2.4.2
+torch==2.12.1
+transformers==5.13.0
+datasets==5.0.0
+accelerate==1.14.0
+seqeval==1.2.2
+pyyaml==6.0.3
+
+# --- corpus preparation and analysis (local workstation) ---
+spacy==3.8.7
+pandas==2.3.1
+matplotlib==3.10.6
+python-dotenv==1.1.0
+tqdm==4.67.1

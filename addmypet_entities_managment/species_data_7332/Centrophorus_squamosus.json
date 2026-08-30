@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Centrophoridae",
+    "genus": "Centrophorus",
+    "specie": "Centrophorus_squamosus",
+    "specie_en": "Leafscale gulper shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "SeveAfon2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "164",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "ClarConn2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "128",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "ClarConn2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on TL 332-341 cm and F3"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "150",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "ClarConn2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on TL 270-288 cm anf F3"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5.4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "SeveAfon2009",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": "2-10 pups per litter"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ClarConn2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00245*Li^3.20, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "12.6e3",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "ClarConn2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on  0.00245*Lp^3.20, see F2, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "70*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

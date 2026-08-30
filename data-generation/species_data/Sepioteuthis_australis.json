@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Sepioteuthis",
+    "specie": "Sepioteuthis_australis",
+    "specie_en": "Southern reef squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 45.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "Peel2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 55.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "Peel2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 7.0,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "Peel2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 15.0,
+      "units": "cm",
+      "label": "mantle length at puberty for males",
+      "bibkey": "Peel2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 380.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "Peel2000",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.22,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Peel2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 5-10 mm: pi/6*0.75^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": 305.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "Peel2000",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

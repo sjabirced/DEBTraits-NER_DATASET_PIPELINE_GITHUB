@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Beloniformes",
+    "family": "Exocoetidae",
+    "genus": "Cheilopogon",
+    "specie": "Cheilopogon_cyanopterus",
+    "specie_en": "Margined flyingfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40.0",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "28",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length compared to Hirundichthys_affinis: 40*20.9/30"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "22500/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28.4)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Hirundichthys_affinis: 1.5e4*486/324"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki_t",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.5-0.8 mm for tobiko: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "486",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00631*Li^3.05, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "164",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00631*Lp^3.05, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

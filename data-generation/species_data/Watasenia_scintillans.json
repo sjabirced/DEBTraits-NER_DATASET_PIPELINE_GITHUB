@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Enoploteuthidae",
+    "genus": "Watasenia",
+    "specie": "Watasenia_scintillans",
+    "specie_en": "Sparkling enope squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.5",
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "SatoTsud2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on max length of male vs female in sample"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Doryteuthis_pealeii: (17/27)*40"
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "1e4",
+      "units": "#",
+      "label": "fecundity",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Abraliopsis_morisii"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7",
+      "units": "g",
+      "label": "wet weight at death for females",
+      "bibkey": "SatoTsud2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.5",
+      "units": "g",
+      "label": "wet weight at death for males",
+      "bibkey": "SatoTsud2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "6-14 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "365",
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "Wiki",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "365/2",
+      "units": "d",
+      "label": "life span for male",
+      "bibkey": "Wiki",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

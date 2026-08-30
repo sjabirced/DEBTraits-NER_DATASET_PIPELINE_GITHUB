@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Mantellidae",
+    "genus": "Boophis",
+    "specie": "Boophis_occidentalis",
+    "specie_en": "Western white lipped treefrog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5.53",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "2.0",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.8",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "GuarTess2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "210/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "based on Pelophylax_esculentus: 4000*(3/8)^3 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2-2.5 mm: pi/6*0.225^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10.9",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GuarTess2010",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "180",
+      "units": "d",
+      "label": "time birth at metam",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "20 to 32 d"
+    }
+  ]
+}

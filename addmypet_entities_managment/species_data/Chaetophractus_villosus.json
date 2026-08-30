@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cingulata",
+    "family": "Chlamyphoridae",
+    "genus": "Chaetophractus",
+    "specie": "Chaetophractus_villosus",
+    "specie_en": "Big hairy armadillo",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.1)",
+      "units.temp": "K",
+      "comment": "'2 young per litter, 1 litter per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "113.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "DizDugg2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "AnAge gives 128 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: max 10 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "67",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "273",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "76",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "DizDugg2004",
+      "temp": "C2K(35.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

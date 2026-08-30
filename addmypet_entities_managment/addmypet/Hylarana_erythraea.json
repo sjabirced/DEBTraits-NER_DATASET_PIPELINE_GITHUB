@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Hylarana",
+    "specie": "Hylarana_erythraea",
+    "specie_en": "Common green frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6.8",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "BrowAlca1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "BrowAlca1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.7",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "BrowAlca1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "BrowAlca1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "3.55",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "BrowAlca1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2500/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "2000 to 3000 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0042",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on Anaxyrus americanus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "76",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on length-weight of Rana muscosa: (6.8/6.8)^3*76"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "15.4",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on length-weight of Rana muscosa: (4/6.8)^3*76"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "40",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on length-weight of Rana muscosa: (5.5/6.8)^3*76"
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "10.8",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on length-weight of Rana muscosa: (3.55/6.8)^3*76"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BrowAlca1970",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

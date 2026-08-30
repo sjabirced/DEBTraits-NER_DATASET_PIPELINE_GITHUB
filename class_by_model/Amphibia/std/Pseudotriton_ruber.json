@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Pseudotriton",
+    "specie": "Pseudotriton_ruber",
+    "specie_en": "Red salamander"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "0.0039",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "NespSola2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "80/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "29-130 eggs per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0141",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 3 mm: pi/6*0.3^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "NespSola2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "75",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "20.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1825",
+    "units": "d",
+    "label": "time since metam at puberty for female",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

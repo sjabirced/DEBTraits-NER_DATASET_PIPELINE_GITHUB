@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Hemiphaga",
+    "specie": "Hemiphaga_novaeseelandiae",
+    "specie_en": "New Zealand pigeon"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(40.63)",
+    "units.temp": "K",
+    "comment": "1 eggs/clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "18.6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on extrapolation to hatch"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "590",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": " 550 to850 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "28.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(37.85)",
+    "units.temp": "K",
+    "comment": "28 to 29 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(40.63)",
+    "units.temp": "K",
+    "comment": "based on similar sized pegions in AnAge"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(40.63)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "111",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.63)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "37",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Wiki",
+    "temp": "C2K(40.63)",
+    "units.temp": "K",
+    "comment": "30 to 45 d"
+  }
+]

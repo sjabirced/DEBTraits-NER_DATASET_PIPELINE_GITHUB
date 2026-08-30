@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gerreiformes",
+    "family": "Gerreidae",
+    "genus": "Gerres",
+    "specie": "Gerres_oyena",
+    "specie_en": "Common silver-biddy"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16.7",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "KanaTach2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 13.9 cm and F2"
+  },
+  {
+    "entity": "R20",
+    "entity.value": "367200/365",
+    "units": "#/d",
+    "label": "max reprod rate at TL 20.1 cm",
+    "bibkey": "LamtPrat2007",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.54e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LamtPrat2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based guessed egg diameter of 0.5 mm: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "378",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "KanaTach2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.036*(0.83*30)^2.88, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "70.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "KanaTach2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.036*13.9^2.88, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KanaTach2006",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "'all temps are guessed"
+  }
+]

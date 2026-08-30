@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Clupeidae",
+    "genus": "Gudusia",
+    "specie": "Gudusia_chapra",
+    "specie_en": "Indian river shad",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 20.0,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 9.3,
+      "units": "cm",
+      "label": "std length at puberty",
+      "bibkey": "KabiHoss1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": 7.7,
+      "units": "cm",
+      "label": "std length at puberty for males",
+      "bibkey": "KabiHoss1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.00052,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KabiHoss1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 82.8,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00891*Li^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 14.65,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "KabiHoss1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": 7.41,
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "KabiHoss1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 7.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 365.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

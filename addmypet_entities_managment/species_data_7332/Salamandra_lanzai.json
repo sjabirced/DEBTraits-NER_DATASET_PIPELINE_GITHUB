@@ -1,0 +1,191 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Salamandra",
+    "specie": "Salamandra_lanzai",
+    "specie_en": "Lanza"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.3",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "guess based on same relative length, compared to S. salamandra: (3.6/25)*9.1"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.1",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "MiauAndre2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.3",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "MiauAndre2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": "16 cm TL, EoL"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "3.4",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "MiauAndre2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.6",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "MiauAndre2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.0",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "MiauAndre2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/(3.5*365)",
+    "units": "#/d",
+    "label": "reprod rate at 25.3 g",
+    "bibkey": "EoL",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": "upto 6 young per clutch, 3.5 yr in utero"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.125",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "guess based on samle relative weight, compared to S. salamandra: (0.25/40)*20"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "20",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "MiauAndre2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15.5",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "MiauAndre2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "1.5",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "MiauAndre2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "8",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "MiauAndre2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "8.5",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "MiauAndre2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3.5*365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "MiauAndre2001",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": "'3 till 4 yr in utero"
+  },
+  {
+    "entity": "am",
+    "entity.value": "24*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MiauAndre2001",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "4.5*30.5",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "guess",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "guess based on length season"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "MiauAndre2001",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "MiauAndre2001",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": "3 till 5 yr"
+  }
+]

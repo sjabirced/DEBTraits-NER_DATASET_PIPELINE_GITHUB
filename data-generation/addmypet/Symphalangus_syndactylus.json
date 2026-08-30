@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Hylobatidae",
+    "genus": "Symphalangus",
+    "specie": "Symphalangus_syndactylus",
+    "specie_en": "Siamang",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "71-90 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/607",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "519",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10900",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "2600",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "read from t-Ww data at 642 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "43*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "231",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2190",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "642",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

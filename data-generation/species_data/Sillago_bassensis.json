@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sillaginidae",
+    "genus": "Sillago",
+    "specie": "Sillago_bassensis",
+    "specie_en": "Southern school whiting",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "33",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "17.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "HyndPott1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "HyndPott1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "7e6/365",
+      "units": "#/d",
+      "label": "Reprod rate max rate",
+      "bibkey": "guess",
+      "temp": "C2K(17.8)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.5e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HyndPott1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.88 mm: pi/6*0.088^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "382",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00832*Lp^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "54.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'HyndPott1996','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HyndPott1996",
+      "temp": "C2K(17.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

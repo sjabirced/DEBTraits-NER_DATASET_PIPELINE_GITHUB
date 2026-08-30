@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Cephalopholis",
+    "specie": "Cephalopholis_fulva",
+    "specie_en": "Coney"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "44",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "14.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "28e4 /365",
+    "units": "#/d",
+    "label": "reproduction rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.49e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.95 mm: pi/6*0.095^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.2e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01175*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "41.56",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01175*Lp^3.04, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BurtPott2015",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

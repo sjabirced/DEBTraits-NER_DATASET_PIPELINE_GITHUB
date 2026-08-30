@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Ameiurus",
+    "specie": "Ameiurus_catus",
+    "specie_en": "White catfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "95",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "45",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Ameiurus_melas"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.5e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "invasions",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "guessed length at this rate: 40 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.6 mm of Ameiurus_melas: pi/6*0.26^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00776*Li^3.09, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

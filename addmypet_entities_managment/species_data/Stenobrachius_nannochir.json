@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Stenobrachius",
+    "specie": "Stenobrachius_nannochir",
+    "specie_en": "Garnet lanternfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e3/365",
+      "units": "#/d",
+      "label": "max reprod rate ",
+      "bibkey": "guess",
+      "temp": "C2K(2.5)",
+      "units.temp": "K",
+      "comment": "based on kap=0.95"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "43.8",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Li^3.14, see F3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "5.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Lp^3.14, see F3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Adam1979",
+      "temp": "C2K(2.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

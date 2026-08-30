@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Orectolobiformes",
+    "family": "Orectolobidae",
+    "genus": "Orectolobus",
+    "specie": "Orectolobus_maculatus",
+    "specie_en": "Spotted wobbegong",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "320",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "37/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "52",
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "{'HuveStea2013','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "255e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Lb^3.12, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "140.3",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "22*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HuveStea2013",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

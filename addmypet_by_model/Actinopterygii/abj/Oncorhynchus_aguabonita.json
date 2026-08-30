@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Oncorhynchus",
+    "specie": "Oncorhynchus_aguabonita",
+    "specie_en": "Golden trout"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "71",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "NR",
+    "entity.value": "3850",
+    "units": "#",
+    "label": "eggs at the end of life",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "based on Oncorhynchus_masou"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.3137",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on O. nerka"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00955*Li^3.03, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "455",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Lp^3.03, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "145.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "based on O. nerka"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

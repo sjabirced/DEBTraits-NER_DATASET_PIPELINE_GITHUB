@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Bramidae",
+    "genus": "Brama",
+    "specie": "Brama_japonica",
+    "specie_en": "Southern rays bream"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "61",
+    "units": "cm",
+    "label": "ultimate total length of female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "36",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8.4e4/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(9.4)",
+    "units.temp": "K",
+    "comment": "Based on kap = 0.97, as found for  Trichiurus nanhaiensis"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on guessed egg diameter of 1.575 mm of Brama brama: pi/6*.1575^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.2e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01738*Li^2.95, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "678",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01738*Lp^2.95, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PearFish1993",
+    "temp": "C2K(9.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

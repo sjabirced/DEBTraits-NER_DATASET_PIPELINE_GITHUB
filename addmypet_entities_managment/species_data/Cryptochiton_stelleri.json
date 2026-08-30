@@ -1,0 +1,73 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Polyplacophora",
+    "order": "Chitonida",
+    "family": "Acanthochitonidae",
+    "species": "Cryptochiton_stelleri",
+    "species_en": "Gymboot chiton",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "32.5",
+      "units": "cm",
+      "label": "ultimate length",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.125",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative length, compared to Lepidochitona_cinerea: 0.6*32.5/2.4)"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.2e7/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "based on size-corrected value for yearly fecundity of Lepidochitona_cinerea: (32.5/1.4)^3*1.8e3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 160-200 mum for Lepidochitona_cinerea:  pi/6*0.02^3"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "4.3e-6",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on settlement following a few hours after hatching"
+    },
+    {
+      "entity": "am",
+      "entity.value": "34*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Lord2012",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "in view of growth at 12 yr, life span is likely to be underestimated"
+    }
+  ]
+}

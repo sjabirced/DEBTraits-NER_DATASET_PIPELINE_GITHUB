@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Notropis",
+    "specie": "Notropis_amabilis",
+    "specie_en": "Texas shiner",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on the remark in fishesoftexas that TL 4.4 cm was mature"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*286/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Cobu1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.9 mm from typical Notropis species: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.84",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*Lp^3.08, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.21",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

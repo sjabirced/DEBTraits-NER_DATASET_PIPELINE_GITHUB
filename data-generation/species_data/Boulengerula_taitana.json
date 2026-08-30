@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Gymnophiona",
+    "family": "Herpelidae",
+    "genus": "Boulengerula",
+    "specie": "Boulengerula_taitana",
+    "specie_en": "Taita African caecilian",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "7.28",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "MalaMeas2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "33.4",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "MalaMeas2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "31.8",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "MalaMeas2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "14.27",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "KupfKram2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "24.00",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "MalaMeas2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "16/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MalaMeas2005",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "4 to 16 eggs per brood"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.25",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MalaMeas2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10.65",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "MalaMeas2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9.02",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "MalaMeas2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.923",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "MalaMeas2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.713",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "MalaMeas2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "based on other caecilians as given in AnAge"
+    }
+  ]
+}

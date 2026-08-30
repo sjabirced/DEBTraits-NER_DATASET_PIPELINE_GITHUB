@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Trionychidae",
+    "genus": "Pelodiscus",
+    "specie": "Pelodiscus_sinensis",
+    "specie_en": "Chinese softshell turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "33",
+      "units": "cm",
+      "label": "ultimate carapace length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "27",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18.5",
+      "units": "cm",
+      "label": "carapace length at puberty for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "carapace length at puberty for male",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "19*3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "8 to 30 eggs per clutch, 2 to 5 clutches per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "JiChen2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2246",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "50*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "value for Apalone spinifera"
+    }
+  ]
+}

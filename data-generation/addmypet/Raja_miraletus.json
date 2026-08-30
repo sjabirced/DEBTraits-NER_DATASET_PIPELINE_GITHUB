@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Raja",
+    "specie": "Raja_miraletus",
+    "specie_en": "Brown skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "12.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Abde1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "63",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "44",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "55/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(17.6)",
+      "units.temp": "K",
+      "comment": "40-72 eggs per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.45e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "besed on 0.00214*Li^3.24, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5.5*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(17.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Abde1992",
+      "temp": "C2K(17.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

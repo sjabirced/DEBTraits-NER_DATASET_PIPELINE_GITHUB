@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Psittaciformes",
+    "family": "Cacatuidae",
+    "genus": "Zanda",
+    "specie": "Zanda_funerea",
+    "specie_en": "Yellow-tailed black cockatoo",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "avibase",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": "'2 eggs/clutch"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "33.8",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "26",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "800",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "731",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "29",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "avibase",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "28 to 31 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "41*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "avibase",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "228",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "76",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "avibase",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

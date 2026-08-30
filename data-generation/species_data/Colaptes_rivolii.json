@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Colaptes",
+    "specie": "Colaptes_rivolii",
+    "specie_en": "Crimson-mantled woodpecker",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "169.09",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GavrGolu2023",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "avibase",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Melanerpes_formicivorus: 4.7*107/79"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "107",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14.75",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "based on Melanerpes_formicivorus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "avibase",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1.6*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "84",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "28",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "guess",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": "based on Melanerpes_formicivorus"
+    }
+  ]
+}

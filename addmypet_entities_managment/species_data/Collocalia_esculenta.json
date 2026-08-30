@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Apodiformes",
+    "family": "Apodidae",
+    "genus": "Collocalia",
+    "specie": "Collocalia_esculenta",
+    "specie_en": "Glossy swiftlet",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": "2 eggs per clutch, assumed: 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.18",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BryaHail1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tW data"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8.3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "BryaHail1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "21.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ChanBoes2020",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "19-24 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": "based on Apus apus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "126",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": "34-50 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "42",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ChanBoes2020",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": "34-50 d"
+    }
+  ]
+}

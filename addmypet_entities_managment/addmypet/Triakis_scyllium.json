@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Triakis",
+    "specie": "Triakis_scyllium",
+    "specie_en": "Banded houndshark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "25.4",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "FujiTana2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "30 to 36  cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "108.3",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "FujiTana2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "15/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(12.4)",
+      "units.temp": "K",
+      "comment": "10-20 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "61.8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00240*Lb^3.14, see F1"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "16.3e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00240*Li^3.14, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "5.87e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00240*Lp^3.14, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(12.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20.6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FujiTana2013",
+      "temp": "C2K(12.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

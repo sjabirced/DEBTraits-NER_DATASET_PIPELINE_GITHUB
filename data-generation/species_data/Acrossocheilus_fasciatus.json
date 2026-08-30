@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Acrossocheilus",
+    "specie": "Acrossocheilus_fasciatus",
+    "specie_en": "Huangshan barbel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.13",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "19.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.5e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.888 mm: pi/6*0.189^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "68.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00912*Li^3.02, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "9.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00912*Lp^3.02, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "YanGuo2010",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

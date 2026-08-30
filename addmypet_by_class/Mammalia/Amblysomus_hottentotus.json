@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Afrosoricida",
+    "family": "Chrysochloridae",
+    "genus": "Amblysomus",
+    "specie": "Amblysomus_hottentotus",
+    "specie_en": "Hottentot golden mole"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "84.7",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "1-3 pups per litter, 1 or more litters per yr, depending on food"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on head/body length of 5 cm, rel to adult male: 5/12.5*5"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "66",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "80",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "40",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "35-45 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "value is very unsure"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "35",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "4-6 wks d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "200",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "2.5*30.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "2-3 mnth"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Mylocheilus",
+    "specie": "Mylocheilus_caurinus",
+    "specie_en": "Peamouth",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "36",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Cart1959",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.4e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Cart1959",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.165 mm: pi/6*0.165^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "604",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Lp^3.13, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "180",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','MoylBaxt2004'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Scot1952",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

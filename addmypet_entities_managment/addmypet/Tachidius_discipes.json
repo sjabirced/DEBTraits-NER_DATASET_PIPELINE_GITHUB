@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Copepoda",
+    "order": "Harpacticoida",
+    "family": "Tachidiidae",
+    "genus": "Tachidius",
+    "specie": "Tachidius_discipes",
+    "specie_en": "Copepod",
+    "deb_model": "abp"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "mean([17.44, 11.75])",
+      "units": "nL/h/mug",
+      "label": "ultimate specific O2 consumption",
+      "bibkey": "HermHeip1983",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "specific O2 consumption of four brackish water harpacticoida at ultimate length"
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.007812255",
+      "units": "cm",
+      "label": "area^0.5 at birth",
+      "bibkey": "Vigl2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.006852623",
+      "units": "cm",
+      "label": "area^0.5 at hatch",
+      "bibkey": "Vigl2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "1.1*0.0266569358756218",
+      "units": "cm",
+      "label": "ulitmate area^0.5 if growth would not cease at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.0266569358756218",
+      "units": "cm",
+      "label": "area^0.5 at puberty",
+      "bibkey": "Vigl2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "0.0000205716902",
+      "units": "g",
+      "label": "ultimate dry weight at puberty",
+      "bibkey": "Vigl2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "4.375",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "Vigl2023",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "90",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

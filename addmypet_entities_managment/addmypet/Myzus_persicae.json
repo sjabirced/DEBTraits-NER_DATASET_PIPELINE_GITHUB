@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hemiptera",
+    "family": "Aphididae",
+    "genus": "Myzus",
+    "specie": "Myzus_persicae",
+    "specie_en": "Green peach aphid",
+    "deb_model": "hex"
+  },
+  "data": [
+    {
+      "entity": "L2",
+      "entity.value": 0.0834,
+      "units": "cm",
+      "label": "body length of instar 2",
+      "bibkey": "Sylv1954",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "L3",
+      "entity.value": 0.1062,
+      "units": "cm",
+      "label": "body length of instar 3",
+      "bibkey": "Sylv1954",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "L4",
+      "entity.value": 0.1466,
+      "units": "cm",
+      "label": "body length of instar 4",
+      "bibkey": "Sylv1954",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": 0.0779,
+      "units": "cm",
+      "label": "body length at birth",
+      "bibkey": "Sylv1954",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": 0.1957,
+      "units": "cm",
+      "label": "body length at imago stage",
+      "bibkey": "Sylv1954",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri20",
+      "entity.value": 1.66,
+      "units": "#/d",
+      "label": "maximum reproduction rate",
+      "bibkey": "DaviRadc2007",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'recorded over 7 days"
+    },
+    {
+      "entity": "Ri25",
+      "entity.value": 1.65,
+      "units": "#/d",
+      "label": "maximum reproduction rate",
+      "bibkey": "CutlRama2009",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "recorded over 2 days"
+    },
+    {
+      "entity": "Ww9d",
+      "entity.value": 0.0006629,
+      "units": "g",
+      "label": "wet weight after 9 days",
+      "bibkey": "CaoZhan2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "9 day old aphids at 22 degC, fed with young leaves of cabbage, approx. 47 adults and 3 nymphs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 3.326e-05,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Dadd1967",
+      "temp": null,
+      "units.temp": null,
+      "comment": "alatiform data used assuming equal initial weights for both viviparous forms"
+    },
+    {
+      "entity": "am",
+      "entity.value": 5.4,
+      "units": "d",
+      "label": "life span of an imago",
+      "bibkey": "CutlRama2009",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "t1",
+      "entity.value": 2.42,
+      "units": "d",
+      "label": "development time instar 1",
+      "bibkey": "Fenj1945",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "t2",
+      "entity.value": 2.42,
+      "units": "d",
+      "label": "development time instar 2",
+      "bibkey": "Fenj1945",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "t3",
+      "entity.value": 2.46,
+      "units": "d",
+      "label": "development time instar 3",
+      "bibkey": "Fenj1945",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "t4",
+      "entity.value": 2.58,
+      "units": "d",
+      "label": "development time instar 4",
+      "bibkey": "Fenj1945",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": 7.84,
+      "units": "d",
+      "label": "time since birth at adult emergence",
+      "bibkey": "DaviRadc2007",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "species": "Vermicella_annulata",
+    "species_en": "Bandy-bandy"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "17",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "Shin1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "54.4",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Shin1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "39.2",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Shin1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "35.5",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "Shin1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "29",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "Shin1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.29",
+    "units": "g",
+    "label": "weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on photo with diameter/length ratio of 0.0183 and Lb: 17*pi*(17*0.0183/2)^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "42",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on photo with diameter/length ratio of 0.0183 and Li: 54.4*pi*(54.4*0.0183/2)^2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14*7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "maximum life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

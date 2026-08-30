@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Fundulidae",
+    "genus": "Fundulus",
+    "specie": "Fundulus_luciae",
+    "specie_en": "Spotfin topminnow",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "4.7",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "Byrn1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "4.0",
+      "units": "cm",
+      "label": "ultimate standard length for males",
+      "bibkey": "Byrn1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Byrn1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "2.55",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Byrn1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "16/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Byrn1976",
+      "temp": "C2K(26.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Byrn1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','Byrn1976'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00525*Li^3.06, see F1, F2"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "0.365",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "{'fishbase','Byrn1976'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00525*Lim^3.06, see F1, F2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Byrn1976",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at death",
+      "bibkey": "Byrn1976",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "175",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "based on the remark that a second spawning season is unlikely"
+    }
+  ]
+}

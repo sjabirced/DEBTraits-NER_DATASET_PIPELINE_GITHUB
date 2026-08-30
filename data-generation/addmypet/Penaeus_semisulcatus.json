@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Penaeidae",
+    "genus": "Penaeus",
+    "specie": "Penaeus_semisulcatus",
+    "specie_en": "Green tiger prawn",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.14",
+      "units": "g/g",
+      "label": "gonado-somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "based on Haliporoides sibogae"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "ultimate abdominal length for female",
+      "bibkey": "RabaLin2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "sealifebase gives max total length 23 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.22",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "RabaLin2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "sealifebase gives total length 17 cm at puberty"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.74e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on value for Palaemonetes varians"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "130",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "26",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'sealifebase','RabaLin2017'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/Li)^3*Wwi"
+    },
+    {
+      "entity": "am",
+      "entity.value": "1.7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "RabaLin2017",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

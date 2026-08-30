@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Pholidota",
+    "family": "Manidae",
+    "genus": "Phataginus",
+    "specie": "Phataginus_tetradactyla",
+    "specie_en": "Black-bellied pangolin"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "mean([30.0",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "GudePiet2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "range: 30-35 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "120",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "GudePiet2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "GudePiet2020",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "Females can get pregrant right after birth. I estimate 2 per year based on almost 6 months gestation time."
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "mean([100",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "GudePiet2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "range 100-150"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "GudePiet2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.1e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "GudePiet2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "minimum adult weight reported"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "value from P. tricuspis (which was based on oldest one alive in a zoo)"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "140",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "GudePiet2020",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2 * 365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "GudePiet2020",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "estimated by authors"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "3*30.5",
+    "units": "d",
+    "label": "age at weaning",
+    "bibkey": "GudePiet2020",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "starts feeding a few weeks old, leaves mother when other one is born."
+  }
+]

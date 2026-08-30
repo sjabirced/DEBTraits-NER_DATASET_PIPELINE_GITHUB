@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Delphinidae",
+    "genus": "Sotalia",
+    "specie": "Sotalia_fluviatilis",
+    "specie_en": "Tucuxi"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "80",
+    "units": "cm",
+    "label": "length at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: 71 to 106 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "192",
+    "units": "cm",
+    "label": "ultimate length for female",
+    "bibkey": "RamoBene2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "177",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "RamoBene2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "read from tL-curve at tp"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(37.2)",
+    "units.temp": "K",
+    "comment": "guess based on Pontporia"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "55000",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "35 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(37.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "325",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.2)",
+    "units.temp": "K",
+    "comment": "temp from bottlenose dolphin"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "ADW",
+    "temp": "C2K(37.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "8.5*30.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.2)",
+    "units.temp": "K",
+    "comment": "guess based on Pontporia"
+  }
+]

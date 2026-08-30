@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Coraciiformes",
+    "family": "Alcedinidae",
+    "genus": "Halcyon",
+    "specie": "Halcyon_smyrnensis",
+    "specie_en": "White-breasted kingfisher"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "based on Megaceryle_alcyon: 5-8 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "14.7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "NaheSark2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "91.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: 65.5-81 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "19.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "based on Megaceryle_alcyon"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "63",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "ADW: 18-20 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "21",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "NaheSark2020",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "ADW: 18-20 d"
+  }
+]

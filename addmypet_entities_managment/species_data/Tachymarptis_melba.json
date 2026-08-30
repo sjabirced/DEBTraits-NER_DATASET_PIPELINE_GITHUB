@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Apodiformes",
+    "family": "Apodidae",
+    "genus": "Tachymarptis",
+    "specie": "Tachymarptis_melba",
+    "specie_en": "Alpine swift",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "avibase",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": "2.4 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "6.05",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "98",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "94",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "20",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "avibase",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temps from GlutBaue1994"
+    },
+    {
+      "entity": "am",
+      "entity.value": "26*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "avibase",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "avibase",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": "based on Apus apus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "150",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "50",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "avibase",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

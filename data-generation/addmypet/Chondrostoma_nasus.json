@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Chondrostoma",
+    "specie": "Chondrostoma_nasus",
+    "specie_en": "Common nase",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Beek2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "34",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Beek2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Beek2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e5/365",
+      "units": "#/d",
+      "label": "Reprod rate max size",
+      "bibkey": "Beek2007",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Beek2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 1.5 mm: 4/3*pi*0.075^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "23*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Beek2007",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "age at puberty for females",
+      "bibkey": "Beek2007",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "age at puberty for males",
+      "bibkey": "Beek2007",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

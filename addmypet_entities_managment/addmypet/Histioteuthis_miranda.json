@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Histioteuthidae",
+    "genus": "Histioteuthis",
+    "specie": "Histioteuthis_miranda",
+    "specie_en": "Cock-eyed squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 29.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "HoviLipi2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": 29.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "HoviLipi2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 18.0,
+      "units": "cm",
+      "label": "mantle length at puberty for female",
+      "bibkey": "HoviLipi2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": 15.0,
+      "units": "cm",
+      "label": "mantle length at puberty for male",
+      "bibkey": "HoviLipi2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 148000.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "HoviLipi2009",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 2.4e-05,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 0.5 mm and egg width of 0.3 mm for Histioteuthis_bonnellii: pi/6*0.05*0.03^2"
+    },
+    {
+      "entity": "am",
+      "entity.value": 470.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "HoviLipi2009",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

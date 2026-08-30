@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Desmognathus",
+    "specie": "Desmognathus_ocoee",
+    "specie_en": "Ocoee salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "Bruc2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "20/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "13 eggs per clutch (5 to 23), 1 clutch each other yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.5 mm (2 to 3 mm): pi/6*0.25^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Bruc2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "60",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "53 to 66 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1.4*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Bruc2016",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

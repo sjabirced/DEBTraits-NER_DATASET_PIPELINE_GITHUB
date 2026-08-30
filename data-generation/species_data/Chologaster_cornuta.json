@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Percopsiformes",
+    "family": "Amblyopsidae",
+    "genus": "Chologaster",
+    "specie": "Chologaster_cornuta",
+    "specie_en": "Swampfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5.7",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "{'Wiki', 'Poul1963'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL = 7 cm and SL = 0.77 * TL, see F3"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.6",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "Poul1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": "table 5, 23-53 mm standard length"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "98/365",
+      "units": "#/d",
+      "label": "ultimate reprod rate",
+      "bibkey": "Poul1963",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Poul1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Poul1963','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*7^3.12"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.46",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Poul1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/Li)^3*Wwi"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "0.6 * 30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Poul1963",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "average longevity for Amblyopsis_rosae"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "8*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Poul1963",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "tab 5, 11-12 months at first reproduction"
+    }
+  ]
+}

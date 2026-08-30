@@ -1,0 +1,242 @@
+{
+  "Mammalia_stx_cycle_de_vie": {
+    "titre": "Life cycle of class Mammalia — STX (stf with baby stage and weaning)",
+    "ordre": "Eutheria / Metatheria / Monotremata",
+    "classe": "Mammalia",
+    "stades": [
+      {
+        "id": 1,
+        "label": "t0",
+        "nom": "Internal fertilisation",
+        "type": "transition",
+        "termes": [
+          "egg fertilisation",
+          "zygote formation",
+          "gamete fusion",
+          "syngamy",
+          "ovum activation",
+          "reproductive pairing",
+          "zygote stage onset",
+          "gametic union",
+          "fecundation",
+          "internal fertilisation",
+          "copulation",
+          "ovulation event",
+          "sperm-oocyte fusion",
+          "insemination"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Gestation",
+        "nom": "Gestating embryo",
+        "type": "stade",
+        "termes": [
+          "gestating embryo",
+          "embryo during gestation",
+          "in utero embryo",
+          "foetal development stage",
+          "uterine embryo",
+          "embryogenesis",
+          "organogenesis",
+          "embryo growth phase",
+          "placental foetus",
+          "eutherian foetus",
+          "marsupial pouch embryo",
+          "foetal membrane stage"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "G",
+        "nom": "Parturition",
+        "type": "transition",
+        "termes": [
+          "live birth",
+          "parturition",
+          "neonatal emergence",
+          "delivery",
+          "birth event",
+          "viviparous birth",
+          "offspring birth",
+          "gestation completion",
+          "uterine exit",
+          "birth canal passage",
+          "placental birth",
+          "eutherian parturition",
+          "marsupial birth",
+          "monotreme hatching"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Neonatal",
+        "nom": "Neonatal mammal",
+        "type": "stade",
+        "termes": [
+          "newborn",
+          "neonate",
+          "neonatal individual",
+          "newborn offspring",
+          "newborn animal",
+          "post-natal neonate",
+          "birth-stage individual",
+          "neonatal stage",
+          "dependent newborn",
+          "neonatal mammal",
+          "precocial neonate",
+          "altricial neonate",
+          "joey (marsupial)",
+          "pup",
+          "cub",
+          "kit",
+          "fawn",
+          "calf"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "B",
+        "nom": "Onset of lactation",
+        "type": "transition",
+        "termes": [
+          "first exogenous feeding",
+          "first feeding",
+          "yolk-sac resorption",
+          "mouth opening",
+          "first prey capture",
+          "exotrophic transition",
+          "trophic switch",
+          "active feeding onset",
+          "larval feeding commencement",
+          "yolk absorption completion",
+          "nursing onset",
+          "lactation onset",
+          "milk ingestion onset",
+          "teat attachment",
+          "suckling onset"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Suckling / Nursing",
+        "nom": "Suckling juvenile",
+        "type": "stade",
+        "termes": [
+          "suckling juvenile",
+          "nursing offspring",
+          "milk-dependent young",
+          "lactating female's offspring",
+          "nursing stage",
+          "suckling stage",
+          "pre-weaning juvenile",
+          "altricial dependent young",
+          "suckling mammal",
+          "nursing pup",
+          "suckling calf",
+          "kit",
+          "pre-weaning pup",
+          "lactation-dependent offspring"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "X",
+        "nom": "Weaning",
+        "type": "transition",
+        "termes": [
+          "parental provisioning end",
+          "nutritional independence onset",
+          "dietary transition",
+          "provisioning cessation",
+          "weaning",
+          "lactation cessation",
+          "milk independence",
+          "solid food transition",
+          "nutritional emancipation",
+          "suckling end"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Juvenile",
+        "nom": "Juvenile",
+        "type": "stade",
+        "termes": [
+          "juvenile",
+          "sub-adult",
+          "immature individual",
+          "young individual",
+          "pre-reproductive juvenile",
+          "growing juvenile",
+          "immature organism",
+          "juvenile mammal",
+          "sub-adult mammal",
+          "weaned juvenile",
+          "post-weaning young"
+        ]
+      },
+      {
+        "id": 9,
+        "label": "P",
+        "nom": "Sexual maturation",
+        "type": "transition",
+        "termes": [
+          "sexual maturation",
+          "reproductive maturity",
+          "first reproduction event",
+          "gonad maturation",
+          "puberty",
+          "gametogenesis onset",
+          "reproductive activation",
+          "age at first reproduction",
+          "first oestrus",
+          "first ovulation",
+          "puberty onset",
+          "first oestrous cycle",
+          "testicular descent"
+        ]
+      },
+      {
+        "id": 10,
+        "label": "Breeding adult",
+        "nom": "Breeding adult mammal",
+        "type": "stade",
+        "termes": [
+          "sexually mature adult",
+          "reproductively active adult",
+          "breeding individual",
+          "gravid individual",
+          "post-pubertal adult",
+          "reproductively viable organism",
+          "breeding adult mammal",
+          "lactating female",
+          "gravid female",
+          "territorial male",
+          "sexually active adult"
+        ]
+      },
+      {
+        "id": 11,
+        "label": "M",
+        "nom": "Natural death",
+        "type": "transition",
+        "termes": [
+          "natural mortality",
+          "senescence",
+          "age-related death",
+          "post-reproductive mortality",
+          "biological death",
+          "somatic death",
+          "lifespan completion",
+          "ecological mortality",
+          "organismal death",
+          "reproductive senescence",
+          "physiological death",
+          "geriatric death",
+          "senile mortality"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Paroctopus",
+    "specie": "Paroctopus_digueti",
+    "specie_en": "Pacific pigmy octopus",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Ni",
+      "entity.value": 125.0,
+      "units": "#",
+      "label": "fecundity",
+      "bibkey": "ReRuFors1987",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.04,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ReRuFors1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 44.9,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "ReRuFors1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 8.0,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "ReRuFors1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on first mating"
+    },
+    {
+      "entity": "am",
+      "entity.value": 221.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "ReRuFors1987",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

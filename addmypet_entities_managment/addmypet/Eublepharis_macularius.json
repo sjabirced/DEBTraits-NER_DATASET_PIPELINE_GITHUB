@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Eublepharidae",
+    "genus": "Eublepharis",
+    "specie": "Eublepharis_macularius",
+    "specie_en": "Common leopard gecko",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "5 to 7 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "19",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "18 to 20 cm"
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "24",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "20 to 28 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "7*2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": "2 young per clutch, 6 to 8  clutch each yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "2 to 5 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "60",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "50 to 70 g"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "70",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "60 to 80 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "55",
+      "units": "d",
+      "label": "time at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "28.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "400",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

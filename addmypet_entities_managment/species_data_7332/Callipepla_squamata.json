@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Odontophoridae",
+    "genus": "Callipepla",
+    "specie": "Callipepla_squamata",
+    "specie_en": "Scaled quail"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "13/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "9-16 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "10.3",
+    "units": "g",
+    "label": " intitial wet weight",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "177",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "191",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "22",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "avibase",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": "21-23 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at first reproduction",
+    "bibkey": "avibase",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "200",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "explorer",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "based on being mature within the first year after hatching"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "3",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "avibase",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": null
+  }
+]

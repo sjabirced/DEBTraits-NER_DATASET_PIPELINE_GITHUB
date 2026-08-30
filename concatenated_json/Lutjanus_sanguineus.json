@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Lutjanus",
+    "specie": "Lutjanus_sanguineus",
+    "specie_en": "Humphead snapper"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "51.1",
+    "units": "cm",
+    "label": "fork length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2620000/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "fishbase",
+    "temp": "C2K(26.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.8 mm of L. stellatus: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12019",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01445*Li^2.96, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(26.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Mugiliformes",
+    "family": "Mugilidae",
+    "genus": "Oedalechilus",
+    "specie": "Oedalechilus_labeo",
+    "specie_en": "Boxlip mullet",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12.9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6e4/365",
+      "units": "#/d",
+      "label": "max reprod rate ",
+      "bibkey": "guess",
+      "temp": "C2K(19.3)",
+      "units.temp": "K",
+      "comment": "based on Planiliza parsia"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.9 mm for M. cephalus: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "159.2",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01122*Li^2.97, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "22.3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01122*Lp^2.96, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(19.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

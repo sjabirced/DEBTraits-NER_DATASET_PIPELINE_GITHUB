@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Annelida",
+    "class": "Clitellata",
+    "order": "Haplotaxida",
+    "family": "Lumbricidae",
+    "genus": "Aporrectodea",
+    "specie": "Aporrectodea_longa",
+    "specie_en": "Black-headed worm",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ww0",
+      "entity.value": "0.050",
+      "units": "g",
+      "label": "egg wet weight",
+      "bibkey": "Butt1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.040",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guessed from Ww0"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Butt1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.9",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Butt1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab_15",
+      "entity.value": "61",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Butt1993",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab_20",
+      "entity.value": "56",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Butt1993",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Butt1993",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

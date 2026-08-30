@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Carangiformes",
+    "family": "Carangidae",
+    "genus": "Trachurus",
+    "specie": "Trachurus_indicus",
+    "specie_en": "Arabian scad"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "7.3e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Trachurus_picturatus: 302358*422/1742"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.23e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "422",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01175*Li^2.95, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "18.8",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01175*Lp^2.95, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "time at birth",
+    "bibkey": "guess",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "16 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

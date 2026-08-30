@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Ursidae",
+    "genus": "Tremarctos",
+    "specie": "Tremarctos_ornatus",
+    "specie_en": "Spectacled bear",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365/3",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Wiki','GarcRang2012'}",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "Wiki: 2 pups each 3 yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "320",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'AnAge','Wiki'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "animalcorner: 283 - 510 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "65e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'35-82 kg"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "115e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "100-200 kg, 115 kg on average"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "1.3e3",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Ursus americanus, corrected for time since birth at weaning: 14e3*(90/198)^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "39*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "228",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

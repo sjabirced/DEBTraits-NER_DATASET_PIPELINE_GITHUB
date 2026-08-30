@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Anniellidae",
+    "genus": "Anniella",
+    "specie": "Anniella_pulchra",
+    "specie_en": "California legless lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "0.0054",
+      "units": "ml O2/min",
+      "label": "max BMR",
+      "bibkey": "KameGatt1983",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'5-15 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.625",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on TL 9 cm at hatch, at ultimate 18 cm"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW: 0.9-4.6 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since metam at puberty for female",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

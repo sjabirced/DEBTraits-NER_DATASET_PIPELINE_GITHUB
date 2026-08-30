@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Cottus",
+    "specie": "Cottus_hangiongensis",
+    "specie_en": "Hokkaido sculpin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.2",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Goto1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on purberty in second yr and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "500/365",
+      "units": "#/d",
+      "label": "reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.1 mm for Cottus beldingii: pi/6*0.21^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "21.7",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*Li^3.13, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Goto1989",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

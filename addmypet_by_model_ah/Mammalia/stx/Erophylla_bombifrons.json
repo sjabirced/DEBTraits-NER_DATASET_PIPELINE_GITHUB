@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Phyllostomidae",
+    "genus": "Erophylla",
+    "specie": "Erophylla_bombifrons",
+    "specie_en": "Brown flower bat"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "17.7",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(32)",
+    "units.temp": "K",
+    "comment": "corrected PNAS table is used"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(32.4)",
+    "units.temp": "K",
+    "comment": "' 1 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16.1",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "12",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(32)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "30.5*4",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(32)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(32)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "60",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(32)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Chelidae",
+    "genus": "Chelodina",
+    "specie": "Chelodina_oblonga",
+    "specie_en": "Northern snake-necked turtle"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "3.1",
+    "units": "cm",
+    "label": "plastron length at birth",
+    "bibkey": "ErnsBarb1989",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30.0",
+    "units": "cm",
+    "label": "ultimate plastron length for females",
+    "bibkey": "Kenn1996",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "25.0",
+    "units": "cm",
+    "label": "ultimate plastron length for females",
+    "bibkey": "Kenn1996",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "21.0",
+    "units": "cm",
+    "label": "plastron length at puberty for females",
+    "bibkey": "Kenn1996",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16.5",
+    "units": "cm",
+    "label": "plastron length at puberty for males",
+    "bibkey": "Kenn1996",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "14/365",
+    "units": "#/d",
+    "label": "reprod rate at 29 cm",
+    "bibkey": "ErnsBarb1989",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "14.3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ErnsBarb1989",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on eggs 35 mm long, 28 mm wide: pi/6*3.5*2.8^2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "200",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ErnsBarb1989",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "'all temps are guessed"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "life span not yet established"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6.5*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Kenn1996",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3.9*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Kenn1996",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

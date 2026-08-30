@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "genus": "Testudo",
+    "specie": "Testudo_hermanni",
+    "specie_en": "Hermann",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "23",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "14/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "EoL",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "1 till 3 clutches per yr, 7 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "12.8",
+      "units": "g",
+      "label": "wet weight at birth for female",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on Testudo_graeca"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2500",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "90",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(31)",
+      "units.temp": "K",
+      "comment": "'80 till 100 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "31.7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "life span is probably underestimated"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "4560",
+      "units": "d",
+      "label": "age at puberty for female",
+      "bibkey": "AnAge",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Chlidonias",
+    "specie": "Chlidonias_hybrida",
+    "specie_en": "Whiskered tern",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Harr1975",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": "1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "13",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Harr1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": "egg length 3.92 cm, width 2.85 cm, weight: pi/6*3.92*2.85^2=16.7 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "100",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "arkive",
+      "temp": null,
+      "units.temp": null,
+      "comment": "83 to 100 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "20.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "values for Chlidonias_leucopterus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "21*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": "Data for C. niger"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": "Data for C. niger"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "20",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "PailLatr2008",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

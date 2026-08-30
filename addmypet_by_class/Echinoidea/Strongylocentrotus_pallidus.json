@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Echinodermata",
+    "class": "Echinoidea",
+    "order": "Camarodonta",
+    "family": "Strongylocentrotidae",
+    "genus": "Strongylocentrotus",
+    "specie": "Strongylocentrotus_pallidus",
+    "specie_en": "Pale sea urchin"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.18",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "FalkLonn1983",
+    "temp": "C2K(0)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9",
+    "units": "cm",
+    "label": "ultimate test diameter",
+    "bibkey": "BluhPiep1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "test diameter at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Strongylocentrotus_droebachiensis"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.15e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "FalkLonn1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 130 mum: pi/6*0.013^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "42*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BluhPiep1998",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "guess",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "'temps are guessed"
+  }
+]

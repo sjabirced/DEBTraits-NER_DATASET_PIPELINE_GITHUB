@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Bramidae",
+    "genus": "Eumegistus",
+    "specie": "Eumegistus_illustris",
+    "specie_en": "Billiant pomfret",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "91",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "MaheRabh2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW data"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "23",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3e4/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "Robe2014",
+      "temp": "C2K(20.9)",
+      "units.temp": "K",
+      "comment": "based on rel fecundity: 3e4/kg"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Robe2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on guessed egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "996",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MaheRabh2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW data"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MaheRabh2016",
+      "temp": "C2K(20.9)",
+      "units.temp": "K",
+      "comment": "based in tL data"
+    }
+  ]
+}

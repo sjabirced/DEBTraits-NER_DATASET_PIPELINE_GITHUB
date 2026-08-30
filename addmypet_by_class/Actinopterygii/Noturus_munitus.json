@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Noturus",
+    "specie": "Noturus_munitus",
+    "specie_en": "Fracklebelly madtom"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.7",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on TL 9.5 cm, see F2"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.1",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "BennKua2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on observation that SL 4.1 cm had 55 eggs"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "30.55/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "BennKua2010",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.15e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.8 mm of N.flavipinnis: pi/6*0.28^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Li^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "StarStar1985",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Zoarcidae",
+    "genus": "Lycodes",
+    "specie": "Lycodes_reticulatus",
+    "specie_en": "Artic eelpout",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "70",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase gives 36 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "459/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.1131",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 6 mm: pi/6*0.6^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2587",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00309*Li^3.21, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "39.3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'AunePrim2014','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00309*Lp^3.21, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "307",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(3.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "19 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

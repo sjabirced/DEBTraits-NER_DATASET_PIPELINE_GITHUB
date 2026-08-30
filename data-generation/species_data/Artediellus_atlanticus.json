@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Artediellus",
+    "specie": "Artediellus_atlanticus",
+    "specie_en": "Atlantic hookear sculpin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate total length for",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.1",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "62/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.006",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.25 mm: pi/6*0.225^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "29.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00589*Li^3.15, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'AunePrim2014','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00589*Lp^3.15, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

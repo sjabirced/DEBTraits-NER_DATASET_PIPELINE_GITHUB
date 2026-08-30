@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Hirundinidae",
+    "genus": "Tachycineta",
+    "specie": "Tachycineta_bicolor",
+    "specie_en": "Tree swallow"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "5 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.66",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "24.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Kuer1941",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "asymptotic weight of nestling, which is smaller than adult weight"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "15 to 16 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "21.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "60",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "Wiki: 21 to 25 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "20",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "avibase",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "Wiki: 21 to 25 d"
+  }
+]

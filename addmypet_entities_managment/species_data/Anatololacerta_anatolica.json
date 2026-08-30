@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Anatololacerta",
+    "specie": "Anatololacerta_anatolica",
+    "specie_en": "Anatolian rock lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.5",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "7.4",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "YakiTok2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "7.6",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.5*4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "3-8 eggs per clutch, assumed: 3-4 clutches per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7.98",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Bases on Podarcis muralis: 5.41*(7.4/6.5)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "56",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "YakiTok2015",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "YakiTok2015",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

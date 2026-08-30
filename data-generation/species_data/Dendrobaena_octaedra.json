@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Annelida",
+    "class": "Clitellata",
+    "order": "Haplotaxida",
+    "family": "Lumbricidae",
+    "genus": "Dendrobaena",
+    "specie": "Dendrobaena_octaedra",
+    "specie_en": "Earth worm",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.4",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "BindBayl2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "BindBayl2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.2",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "BindBayl2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.777",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "HolmOste1991",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.87e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BindBayl2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "386e-3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "BindBayl2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "159e-3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "BindBayl2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "92",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BindBayl2007",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BindBayl2007",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "42",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "BindBayl2007",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

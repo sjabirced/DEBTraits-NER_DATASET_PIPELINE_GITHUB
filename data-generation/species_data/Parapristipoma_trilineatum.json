@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Haemulidae",
+    "genus": "Parapristipoma",
+    "specie": "Parapristipoma_trilineatum",
+    "specie_en": "Chicken grunt",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "862140/365",
+      "units": "#/d",
+      "label": "max reoduction rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(24.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.85 mm of Lutjanus stellatus: pi/6*0.085^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "619.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of 0.00933*Li^3.01, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "56",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of 0.00933*Lp^3.01, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "22*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "DoiuKoku2007",
+      "temp": "C2K(24.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

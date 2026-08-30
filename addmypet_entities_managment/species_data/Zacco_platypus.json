@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Xenocyprididae",
+    "genus": "Zacco",
+    "specie": "Zacco_platypus",
+    "specie_en": "Freshwater minnow",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.07",
+      "units": "g/g",
+      "label": "Gonado Somatic Index",
+      "bibkey": "BaeWang2024",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "22.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "YanYan2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "YanYan2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.2 mm: pi/6*0.12^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "126",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00813*Li^3.10, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "10",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'YanYan2012','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Lp^3.10, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "150",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

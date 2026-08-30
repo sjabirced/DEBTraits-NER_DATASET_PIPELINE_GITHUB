@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Tyrannidae",
+    "genus": "Silvicultrix",
+    "specie": "Silvicultrix_pulchella",
+    "specie_en": "Golden-browed chat-tyrant",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "30.91",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GavrGolu2023",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "based on Attila_spadiceus: 3.83*12/33"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.39",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "16",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": "based on Attila_spadiceus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "avibase",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "48",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "16",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "guess",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "based on Attila_spadiceus"
+    }
+  ]
+}

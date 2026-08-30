@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Schilbeidae",
+    "genus": "Schilbe",
+    "specie": "Schilbe_mandibularis",
+    "specie_en": "African butter catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14.8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e5/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "OuatLass2008",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "based on rel fecundity of 163600 oocytes per kg "
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "OuatLass2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.24e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "base on 0.00646*Li^3.11, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "28.2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00646*Lip^3.11, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

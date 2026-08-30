@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Lamniformes",
+    "family": "Lamnidae",
+    "genus": "Lamna",
+    "specie": "Lamna_ditropis",
+    "specie_en": "Salmon shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "62.5",
+    "units": "cm",
+    "label": "precaudal length at birth",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": "PCL 60-65 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "217",
+    "units": "cm",
+    "label": "ultimate precaudal length for females",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "190",
+    "units": "cm",
+    "label": "ultimate precaudal length for males",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "175",
+    "units": "cm",
+    "label": "precaudal length at puberty for females",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": "FL 165-180 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "140",
+    "units": "cm",
+    "label": "precaudal length at puberty for males",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(4.7+5)",
+    "units.temp": "K",
+    "comment": "4 pups per litter, 1 litter each 2 yrs"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.42e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00933*{Lb/0.794)^3.04, see F1, F2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "238.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00933*{Li/0.794)^3.04, see F1, F2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "159.2e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00933*(Lim/0.794)^3.04, see F1, F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "124e3",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on0.00933*(Lp/0.794)^3.04, see F1, F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "62.9e3",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00933*Lpm^3.04, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "{'ADW','elasmo'}",
+    "temp": "C2K(4.7+11)",
+    "units.temp": "K",
+    "comment": "uterus temperature during incubation is assumed to exceed the evironmental temperature by 11 C"
+  },
+  {
+    "entity": "am",
+    "entity.value": "27*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(4.7+5)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

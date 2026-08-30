@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Podargiformes",
+    "family": "Podargidae",
+    "genus": "Podargus",
+    "specie": "Podargus_strigoides",
+    "specie_en": "Tawny frogmouth",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "43.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "ALR",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ALR",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "14",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KortGeis1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "473.75",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Snow2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ALR",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temps from KuehGood1990 and BechNico1999"
+    },
+    {
+      "entity": "am",
+      "entity.value": "14600",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wood2012",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "240",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Snow2008",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "97.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "32.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ALR",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastes",
+    "specie": "Sebastes_umbrosus",
+    "specie_en": "Honeycomb rockfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "29.8",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Chen1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "7.8e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(11.3)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Sebastes_ensifer: 35e3*(30/23)^3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.68e-4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm (but viviparous): pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "359",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01000*Li^3.09, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "14.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','Chen1971'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on based on 0.01000*Lp^3.09"
+    },
+    {
+      "entity": "am",
+      "entity.value": "31*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KoloOwen2021",
+      "temp": "C2K(11.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

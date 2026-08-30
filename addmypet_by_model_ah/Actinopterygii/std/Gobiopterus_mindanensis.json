@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Gobiopterus",
+    "specie": "Gobiopterus_mindanensis",
+    "specie_en": "Mindanao glassgoby"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": 0.285,
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Schl1997",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 1.6,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.7,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase gives 27 cm, but that is unlikely given Li"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.000212,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Eviota_queenslandica"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 0.04,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Schl1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 0.0033,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi*(Lp/Li)^3: 0.04*(0.7/1.6)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 5.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 120.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Schl1997",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Diaphus",
+    "specie": "Diaphus_fulgens",
+    "specie_en": "Lanternfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.5",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.25",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e3/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(11.9)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data and egg diameter of 0.7 mm: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.71",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00759*Li^3.02, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(11.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

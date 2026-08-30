@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Aneides",
+    "specie": "Aneides_aeneus",
+    "specie_en": "Green salamander"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.89",
+    "units": "cm",
+    "label": "SVL at birth ",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.1",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "WaldPaul2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.6",
+    "units": "cm",
+    "label": "SVL at puberty ",
+    "bibkey": "WaldPaul2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*21/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "21 eggs per clutch, 2 clutches each yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0141",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 3 mm: pi/6*0.3^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Desmognathus quadramaculatus: (7.1/9)^3*14.6"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "82",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "Anage gives 6.7 yr, but that is less than tp"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "WaldPaul2007",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

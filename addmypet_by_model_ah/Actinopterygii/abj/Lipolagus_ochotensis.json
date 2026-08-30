@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Argentiniformes",
+    "family": "Bathylagidae",
+    "genus": "Lipolagus",
+    "specie": "Lipolagus_ochotensis",
+    "specie_en": "Eared blacksmelt"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "17.3",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.2e4/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(1.8)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.13e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data and egg diameter of 0.6 mm: pi/6*0.06^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "31.1",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00617*Li^2.99, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(1.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

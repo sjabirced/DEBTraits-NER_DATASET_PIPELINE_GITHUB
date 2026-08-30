@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Beloniformes",
+    "family": "Belonidae",
+    "genus": "Ablennes",
+    "specie": "Ablennes_hians",
+    "specie_en": "Flat needlefish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "140",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "47.4",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Belone belone: 31.5*140/93"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.2e4/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(27.9)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Belone belone: (140/75)^3*5000"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.2e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00085*Li^3.12, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "144",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00085*Lp^3.12, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

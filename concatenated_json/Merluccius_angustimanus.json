@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Merlucciidae",
+    "genus": "Merluccius",
+    "specie": "Merluccius_angustimanus",
+    "specie_en": "Panama hake"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.025",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "OomoKats2023",
+    "temp": "C2K(12.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.1 mum: pi/6*0.11^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "399",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi = 0.00447*Li^3.09, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "63",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwp = 0.00447*Lp^3.09, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(12.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

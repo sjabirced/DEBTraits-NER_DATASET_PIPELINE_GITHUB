@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Pelecus",
+    "specie": "Pelecus_cultratus",
+    "specie_en": "Sichel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3e5/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "allfishes",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KujaFurg2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on egg diameter of 1.7 mm given tW data: pi/6*0.17^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2774",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00724*Li^3.14, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "315",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00724*Lp^3.14, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

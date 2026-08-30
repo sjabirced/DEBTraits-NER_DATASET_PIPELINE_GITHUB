@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Dorosomatidae",
+    "genus": "Hilsa",
+    "specie": "Hilsa_kelee",
+    "specie_en": "Kelee shad"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "PanhLiub2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "350e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28.3)",
+    "units.temp": "K",
+    "comment": "based on kap=0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 to 4 mm for Opisthonema_oglinum: pi/6*0.25^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "482",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01047*Li^3.02, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.3)",
+    "units.temp": "K",
+    "comment": "based on Opisthonema_oglinum"
+  }
+]

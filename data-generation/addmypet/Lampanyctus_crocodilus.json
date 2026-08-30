@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Lampanyctus",
+    "specie": "Lampanyctus_crocodilus",
+    "specie_en": "Jewel lanternfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "17",
+      "units": "cm",
+      "label": "standard length fat puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "360e3/365",
+      "units": "#/d",
+      "label": "max reprod rate ",
+      "bibkey": "guess",
+      "temp": "C2K(7.9)",
+      "units.temp": "K",
+      "comment": "based on kap=0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.3 mm of Lampanyctus_ritteri: pi/6*0.03^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "201",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00417*Lp^3.17, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "33.1",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SionCarl2011",
+      "temp": "C2K(7.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

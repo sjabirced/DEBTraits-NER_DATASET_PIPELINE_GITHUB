@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Nimbaphrynoides",
+    "specie": "Nimbaphrynoides_occidentalis",
+    "specie_en": "Mount Nimba toad"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "2.7",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "CastPint2000",
+    "temp": null,
+    "units.temp": null,
+    "comment": "amphibiaweb: 2.05 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.9",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "CastPint2000",
+    "temp": null,
+    "units.temp": null,
+    "comment": "amphibiaweb: 1.8 cm"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.75",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "37/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "4-35 young per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.026",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'SandMull2017','sciencedirect'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on ova of 0.5-0.6 mm in diameter and 300 time increase in weight till birth: 300*pi/6*0.055^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.94",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Bombina bombina (2.7/5.2)^3*13.9"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.68",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Bombina bombina (1.9/5.2)^3*13.9"
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "0.045",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lj/Li)^3*Wwi"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CastPint2000",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since metam at puberty for females",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since metam at puberty for males",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

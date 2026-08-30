@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Eurypygiformes",
+    "family": "Rhynochetidae",
+    "genus": "Rhynochetos",
+    "specie": "Rhynochetos_jubatus",
+    "specie_en": "Kagu",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Diego2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Hunt1997','Diego2012'}",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "60.72",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Breg1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Breg1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "35",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Diego2012",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temp from Lore2012"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10950",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Diego2012",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Diego2012",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "327",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": "'temp from BechNico1999"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "109",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "{'Diego2012','Hunt1997'}",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": "'temp from BechNico1999"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "genus": "Syngnathus",
+    "specie": "Syngnathus_taenionotus",
+    "specie_en": "Darkflank pipefish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.03",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "FranMacc2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "19",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "46/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FranMacc2003",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "based on # eggs per female, males possibly hold eggs of 2 females"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "FranMacc2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.4 mm: pi/6*0.14^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00028*Li^3.21, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.82",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00028*Lp^3.21, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "60",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "FranMacc2003",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "30 till 38 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FranMacc2003",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

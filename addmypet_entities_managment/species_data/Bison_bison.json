@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Bison",
+    "specie": "Bison_bison",
+    "specie_en": "American bison",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "15e3",
+      "units": "g",
+      "label": "wet weight at birth for female",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "25e3",
+      "units": "g",
+      "label": "wet weight at birth for male",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "500e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "360 to 544 kg"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "900e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "460 to 988 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "33.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "274",
+      "units": "d",
+      "label": "gestation time for female calves",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "Wiki",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Wiki",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "259",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

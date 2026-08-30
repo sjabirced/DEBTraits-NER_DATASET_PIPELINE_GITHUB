@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Monodontidae",
+    "genus": "Delphinapterus",
+    "specie": "Delphinapterus_leucas",
+    "specie_en": "Beluga"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "130",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Suyd2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "370",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "Suyd2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "440",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "Suyd2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'AnAge'}",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "1 calf each 0.3 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "60e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "950e3",
+    "units": "g",
+    "label": "ultimate wet weight females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "calculated as (370/440)^3 * 1600 kg"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "1600e3",
+    "units": "g",
+    "label": "ultimate wet weight males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "60*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Suyd2009",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "Data for female, males live shorter"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "416",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "Body temp from Monodon, see HeidNiel2014"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1644",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "2283",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "679",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

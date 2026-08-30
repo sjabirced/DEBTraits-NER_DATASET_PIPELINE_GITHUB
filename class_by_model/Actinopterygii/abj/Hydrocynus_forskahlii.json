@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Characiformes",
+    "family": "Alestidae",
+    "genus": "Hydrocynus",
+    "specie": "Hydrocynus_forskahlii",
+    "specie_en": "Elongate tigerfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "78",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8.4e4/365",
+    "units": "#/d",
+    "label": "reprod rate at Ww = 1.7 kg",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Hydrocynus_vittatus: 342000*6.9/28"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.9e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Paug2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.1 mm: pi/6*0.11^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.9e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'max published weight: 15.5 kg"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "RafaAlko1973",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Munididae",
+    "species": "Cervimunida_johni",
+    "species_en": "Yellow squat lobster",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "KilaAcun2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "4.2",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "KilaAcun2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.976",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "KilaAcun2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4500/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on egg diameter of 1.1 mm of Pandalus borealis: 4/3 * pi * 0.055^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "26.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "KilaAcun2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.002*(10*Li)^2.67, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KilaAcun2015",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1.8*365",
+      "units": "d",
+      "label": "time since metam at puberty for females",
+      "bibkey": "KilaAcun2015",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

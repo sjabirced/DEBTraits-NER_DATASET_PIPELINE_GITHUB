@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Bufo",
+    "specie": "Bufo_gargarizans",
+    "specie_en": "Asiatic toad",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "12.5",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Mi2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "11.5",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "Mi2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Bufo bufo"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "1200-7400 eggs per season"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "250",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Mi2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Onychodactylus_japonicus"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "based on Anaxyrus americanus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "24.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "Mi2015",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Mi2015",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

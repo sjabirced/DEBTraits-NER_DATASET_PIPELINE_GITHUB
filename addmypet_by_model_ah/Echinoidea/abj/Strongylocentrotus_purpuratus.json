@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Echinodermata",
+    "class": "Echinoidea",
+    "order": "Camarodonta",
+    "family": "Strongylocentrotidae",
+    "genus": "Strongylocentrotus",
+    "specie": "Strongylocentrotus_purpuratus",
+    "specie_en": "Purple sea urchin"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.21",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "MeidSche1998",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "value taken from S. droebachiensis"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "ultimate test diameter",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "test diameter at puberty",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "diameter at first spawing is 4 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "echinobase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 80 mum: pi/6*0.008^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "465",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "LarsVada1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length-weight of S. droebachiensis: (Li/4.3)^3*37"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "7.3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/Li)^3*Wwi"
+  },
+  {
+    "entity": "am",
+    "entity.value": "70*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "guess",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "'temps are guessed"
+  }
+]

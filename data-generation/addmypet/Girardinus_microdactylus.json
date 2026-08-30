@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Poeciliidae",
+    "genus": "Girardinus",
+    "specie": "Girardinus_microdactylus",
+    "specie_en": "Smallfinger topminnow",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.001",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "PoncRodr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lbm",
+      "entity.value": "1.001",
+      "units": "cm",
+      "label": "total length at birth for male",
+      "bibkey": "PoncRodr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4.500",
+      "units": "cm",
+      "label": "ultimate total length for felmale",
+      "bibkey": "PoncRodr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "4.000",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "PoncRodr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.910",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "PoncRodr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "3.550",
+      "units": "cm",
+      "label": "total length at puberty for male",
+      "bibkey": "PoncRodr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "20*6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": "based on 20 young per litter, 6 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "13.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Lb^3.05, see F2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.36",
+      "units": "g",
+      "label": "ultimate wet weight of female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Li^3.05, see F2"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "0.95",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Lim^3.05, see F2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "28",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2.5 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "13*7",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "PoncRodr2013",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "13*7",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "PoncRodr2013",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

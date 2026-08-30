@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Syncerus",
+    "specie": "Syncerus_caffer",
+    "specie_en": "African buffalo"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1*0.4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": "1 calf per litter, 0.4 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "37.2e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Pien1969",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "600e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Furs2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": "520 till 635 kg"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "800e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Furs2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": "650 till 850 kg"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "166e3",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "32.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tg",
+    "entity.value": "331",
+    "units": "d",
+    "label": "gestation time for female calves",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1475",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1674",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "289",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

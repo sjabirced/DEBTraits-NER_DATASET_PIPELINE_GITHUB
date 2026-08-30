@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gerreiformes",
+    "family": "Gerreidae",
+    "genus": "Gerres",
+    "specie": "Gerres_cinereus",
+    "specie_en": "Yellow fin mojarra"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.08",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "EspiGall2015",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "41",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "EspiGall2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 13.9 cm and F2"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.56e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "EspiGall2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based guessed egg diameter of 0.31 mm of Gerres_oyena: pi/6*0.031^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1054",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01318*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "66.2",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01318*Lp^3.04, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "EspiGall2014",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

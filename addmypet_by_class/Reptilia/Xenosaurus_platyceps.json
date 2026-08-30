@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Xenosauridae",
+    "genus": "Xenosaurus",
+    "specie": "Xenosaurus_platyceps",
+    "specie_en": "Flathead knob-scaled lizard"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "5.1",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "RojaLemo2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12.5",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "RojaLemo2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "RojaLemo2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(22.7)",
+    "units.temp": "K",
+    "comment": "Xenosaurus_grandis: 2 to 7 young per clutch, but possibly less than 1 clutch per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "23.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Lacerta agilis: (12.5/10)^3*12"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(22.7)",
+    "units.temp": "K",
+    "comment": "based on Xenosaurus_grandis"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(22.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

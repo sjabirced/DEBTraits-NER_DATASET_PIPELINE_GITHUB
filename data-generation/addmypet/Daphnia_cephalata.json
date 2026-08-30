@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Daphniidae",
+    "genus": "Daphnia",
+    "specie": "Daphnia_cephalata",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.090",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "MuruMoor1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.385",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "MuruMoor1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.178",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "MuruMoor1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "200/(52-5)",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MuruMoor1988",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "676",
+      "units": "mug",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based in Daphnia magna: 600*(385/370)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.62",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MuruMoor1988",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "52",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MuruMoor1988",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.9",
+      "units": "d",
+      "label": "time since birth at at puberty",
+      "bibkey": "MuruMoor1988",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

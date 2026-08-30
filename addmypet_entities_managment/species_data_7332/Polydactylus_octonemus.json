@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Polynemiformes",
+    "family": "Polynemidae",
+    "genus": "Polydactylus",
+    "specie": "Polydactylus_octonemus",
+    "specie_en": "Atlantic threadfin"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.06",
+    "units": "g/g",
+    "label": "gonado-somatic index",
+    "bibkey": "DentChit1990",
+    "temp": "C2K(26.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "33",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "19",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on Li, relative to family memeber"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.775 mm: pi/6*0.0775^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "187",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00407*Li^3.07, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(26.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

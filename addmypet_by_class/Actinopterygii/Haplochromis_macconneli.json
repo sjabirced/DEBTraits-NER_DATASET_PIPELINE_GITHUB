@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cichliformes",
+    "family": "Cichlidae",
+    "genus": "Haplochromis",
+    "specie": "Haplochromis_macconneli",
+    "specie_en": "McConnel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.7",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "30/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "based on 30 eggs/young per clutch, one clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "23e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Smit2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Copadichromis chrysonotus egg length of 4.3 mm and presumed width 0f 3.2 mm: pi/6*0.43*0.32^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01514*Li^2.97, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.8",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01514*Lp^2.97, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Sepiolida",
+    "family": "Sepiolidae",
+    "genus": "Rossia",
+    "specie": "Rossia_macrosoma",
+    "specie_en": "Stout Bobtail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "BoleBole1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8.5",
+      "units": "cm",
+      "label": "mantle length at death",
+      "bibkey": "BoleBole1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "30",
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "BoleBole1973",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "20 to 80 eggs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.1",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BoleBole1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "110",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BoleBole1973",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "270",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BoleBole1973",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "8*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "BoleBole1973",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

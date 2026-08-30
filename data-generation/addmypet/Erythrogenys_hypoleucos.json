@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Timaliidae",
+    "genus": "Erythrogenys",
+    "specie": "Erythrogenys_hypoleucos",
+    "specie_en": "Large scimitar babbler",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "148.65",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GavrGolu2023",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "avibase",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "2-5 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "6.7",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Pomatorhinus_schisticeps: 3.6*80/43"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "80",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "75.5",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "19.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "avibase",
+      "temp": "C2K(34)",
+      "units.temp": "K",
+      "comment": "based on Pomatorhinus_schisticeps"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "avibase",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1.5*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "avibase",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "49.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "16.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "avibase",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "based on Pomatorhinus_schisticeps"
+    }
+  ]
+}

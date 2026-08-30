@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Clupeidae",
+    "genus": "Clupea",
+    "specie": "Clupea_bentincki",
+    "specie_en": "Araucanian herring"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30.7",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 28.4 cm SL, converted to TL by TL = SL/ 0.925, from photo"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "mean"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2e4/365/3",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": "based on same weight-specific rate, compared to to Clupea harrengus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter 1.7 mm for Clupea harengus: pi/6*0.17^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "333",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same length-weight, compared to Clupea harrengus: (30.7/45)^3*1050"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "27",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "based on value for Clupea harengus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": "based on value for Clupea harengus"
+  }
+]

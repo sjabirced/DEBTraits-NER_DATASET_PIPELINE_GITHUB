@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Myida",
+    "family": "Corbulidae",
+    "genus": "Corbula",
+    "specie": "Corbula_gibba",
+    "specie_en": "Basket shell",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "1.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "marlin",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.035",
+      "units": "cm",
+      "label": "total length at metamorphosis",
+      "bibkey": "Jens1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.4",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on pubert in autumn after settlement"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "23000/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.0175",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "Laur1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative weight, compared to Corbicula fluminea: 0.08 * (1.2/2)^3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.131e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.006 cm: pi/6*(0.006)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "0.25",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "Trochophore stage"
+    },
+    {
+      "entity": "aj",
+      "entity.value": "9",
+      "units": "d",
+      "label": "age at metamorphosis",
+      "bibkey": "guess",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "1.4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Jens1990",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

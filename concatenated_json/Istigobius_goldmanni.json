@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Istigobius",
+    "specie": "Istigobius_goldmanni",
+    "specie_en": "Goldman"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.0",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "HernMund2005a",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1325/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.7)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.771e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length 1.08 mm, width 0.7 mm of Pomatoschistus minutus: pi/6*0.108*0.07^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.895",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00437*Li^2.97, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.114",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00437*Lp^2.97, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "400",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HernMund2005",
+    "temp": "C2K(27.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Suliformes",
+    "family": "Fregatidae",
+    "genus": "Fregata",
+    "specie": "Fregata_magnificens",
+    "specie_en": "Magnificent frigatebird",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "80",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ToboOsor2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1350",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ToboOsor2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Wiki: 1.1 to 1.59 kg"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "56",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "34*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1826",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "81",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "27",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ToboOsor2006",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

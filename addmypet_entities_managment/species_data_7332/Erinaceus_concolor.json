@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Eulipotyphla",
+    "family": "Erinaceidae",
+    "genus": "Erinaceus",
+    "specie": "Erinaceus_concolor",
+    "specie_en": "Southern white-breasted hedgehog"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "347.2",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.5*1.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "4.5 pups per litter, 1.5 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "22",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "721",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 680-900 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "35",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "213",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "36",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

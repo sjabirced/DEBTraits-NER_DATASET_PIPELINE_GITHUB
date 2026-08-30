@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Phocidae",
+    "genus": "Pusa",
+    "specie": "Pusa_hispida",
+    "specie_en": "Ringed seal",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "144",
+      "units": "cm",
+      "label": "ultimate length",
+      "bibkey": "KrafKova2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "maximum observed length"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "92e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "KrafKova2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "14e3",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "46*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "11*30",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "females"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "53",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

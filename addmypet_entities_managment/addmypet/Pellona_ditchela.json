@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Pristigasteridae",
+    "genus": "Pellona",
+    "specie": "Pellona_ditchela",
+    "specie_en": "Indian pellona",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "16",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "22e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(28.3)",
+      "units.temp": "K",
+      "comment": "based on Sauvagella_robusta: fecundity 2000*(16/7)^3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.68e-4",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "37.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase: based on 0.00692*Li^3.10, see F1, gives 1.7 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

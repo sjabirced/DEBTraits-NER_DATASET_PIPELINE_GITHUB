@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Scorpaenidae",
+    "genus": "Scorpaena",
+    "specie": "Scorpaena_porcus",
+    "specie_en": "Black scorpionfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "14.4",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "32850/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(13.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.5 mm of Scorpaenichthys_marmoratus: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "978.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01318*Li^3.03, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(13.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BilgCeli2009",
+    "temp": "C2K(13.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

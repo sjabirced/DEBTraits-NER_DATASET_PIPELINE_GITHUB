@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Ephemeroptera",
+    "family": "Heptageniidae",
+    "genus": "Epeorus",
+    "specie": "Epeorus_assimilis",
+    "specie_en": "Mayfly"
+  },
+  {
+    "entity": "L0",
+    "entity.value": 0.0234,
+    "units": "cm",
+    "label": "egg length",
+    "bibkey": "Degr1960",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 1.9,
+    "units": "cm",
+    "label": "ultimate forewing length",
+    "bibkey": "BaueSold2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "forewing length of the imago"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": 2.0,
+    "units": "cm",
+    "label": "ultimate length",
+    "bibkey": "BaueSold2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "body length of the larvae, measured from head to end of abdomen"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 9341.0,
+    "units": "#",
+    "label": "maximum egg number",
+    "bibkey": "Degr1960",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "'eggs are set on the last day of lifespan"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 17.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Degr1960",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": "'lab data"
+  },
+  {
+    "entity": "am",
+    "entity.value": 7.0,
+    "units": "d",
+    "label": "life span as (sub)imago",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "'temperature guessed"
+  },
+  {
+    "entity": "tj",
+    "entity.value": 360.0,
+    "units": "d",
+    "label": "time since birth at emergence",
+    "bibkey": "HaybMalz2002",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

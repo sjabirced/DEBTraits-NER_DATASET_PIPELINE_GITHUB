@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Centrarchidae",
+    "genus": "Acantharchus",
+    "specie": "Acantharchus_pomotis",
+    "specie_en": "Mud sunfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Pard1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp of 1 yr and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3812/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Pard1993",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Pard1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.7 mm: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "137",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01230*Li^3.06, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "18.9",
+      "units": "g",
+      "label": "wet weight at piberty",
+      "bibkey": "{'fishbase','Pard1993'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01230*Lp^3.06, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "time since birth at death",
+      "bibkey": "Pard1993",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

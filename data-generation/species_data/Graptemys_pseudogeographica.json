@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Emydidae",
+    "genus": "Graptemys",
+    "specie": "Graptemys_pseudogeographica",
+    "specie_en": "False map turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.2",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "Webb1961",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on plastron length: 2.927/0.92, see F1"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "27",
+      "units": "cm",
+      "label": "ultimate carapace length for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "16.3",
+      "units": "cm",
+      "label": "plastron length at puberty for females",
+      "bibkey": "Webb1961",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on plastron length: 15/0.92, see F1"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7.6",
+      "units": "cm",
+      "label": "plastron length at puberty for males",
+      "bibkey": "Webb1961",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on plastron length: 7/0.92, see F1"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*6.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Webb1961",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "6.5  eggs per clutch, 3 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "6-11 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1800",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "62",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(31)",
+      "units.temp": "K",
+      "comment": "52 to 73 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "35.4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Branta",
+    "specie": "Branta_canadensis",
+    "specie_en": "Canada goose",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.1)",
+      "units.temp": "K",
+      "comment": "2-9 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "60",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Sedi1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1313",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Sedi1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 2.4-5.5 kg "
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1500",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "Sedi1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 2.6-6.5 kg"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "28",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "24-32 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "42*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "157.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "7.5*7",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.1)",
+      "units.temp": "K",
+      "comment": "6-9 wk"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Taurocottus",
+    "specie": "Taurocottus_bergii",
+    "specie_en": "Berg"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "29",
+    "units": "cm",
+    "label": "ultimate total length for",
+    "bibkey": "PancPush2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "PancPush2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data for tp =  3 to 4 yr"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "PancPush2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data for tp =  3 to 4 yr"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3e3/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(1.7)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.94 as found for Cottis volki"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "baed on egg diameter of 1.63 mm for Cottus volki: pi/6*0.163^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PancPush2015",
+    "temp": "C2K(1.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

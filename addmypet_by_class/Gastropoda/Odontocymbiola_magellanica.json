@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Neogastropoda",
+    "family": "Volutidae",
+    "genus": "Odontocymbiola",
+    "specie": "Odontocymbiola_magellanica",
+    "specie_en": "Magellanic volute"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.69",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "ArriPenc2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length, compared to Adelomelon beckii: 1.72*20/49.5"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "BigaPenc2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10.3",
+    "units": "cm",
+    "label": "shell length at puberty for female",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1033/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "Based on kap = 0.8"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "410",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "BigaPenc2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 10^(-4.7960+3.2201*log10(10*Li)), see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BigaPenc2007",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

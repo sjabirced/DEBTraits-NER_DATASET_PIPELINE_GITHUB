@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Calidris",
+    "specie": "Calidris_minutilla",
+    "specie_en": "Least sandpiper",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": "1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WillTiel2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "26",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "20",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "Eggs were placed in an incubator, but egg temp before that is unknown"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "54",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "18",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "WillTiel2007",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

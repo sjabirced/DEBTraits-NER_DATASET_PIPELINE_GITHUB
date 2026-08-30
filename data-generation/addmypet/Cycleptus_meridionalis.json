@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Cycleptus",
+    "specie": "Cycleptus_meridionalis",
+    "specie_en": "Southeastern blue sucker",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.15",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "PeteNich1999",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "59.3",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "39",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 5 yr, and tL data"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.5e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg weight"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.26e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00372*Li^3.12, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "33*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

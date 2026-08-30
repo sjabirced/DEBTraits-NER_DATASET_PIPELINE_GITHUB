@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cobitidae",
+    "genus": "Cobitis",
+    "specie": "Cobitis_elongatoides_x_Cobitis_tanaitica",
+    "specie_en": "Danubian x  Don River Spined loach",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "14.6",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "933/365",
+      "units": "#/d",
+      "label": "Reprod rate max size",
+      "bibkey": "FedoKosc2017",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0026",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "FedoKosc2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 1.7 mm of Cobitis_elongatoides: pi/6*0.17^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "19.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Robo1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 0.00525*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "Robo1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 0.00525*Lp^3.07, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

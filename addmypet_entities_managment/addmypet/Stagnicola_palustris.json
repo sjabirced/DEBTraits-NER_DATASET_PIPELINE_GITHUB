@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Lymnaeidae",
+    "genus": "Stagnicola",
+    "specie": "Stagnicola_palustris",
+    "specie_en": "Common European pondsnail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.08,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "KramKoen2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 1.3,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "KramKoen2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": 0.5,
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "KramKoen2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 1.05,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "KramKoen2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 21.0,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "KramKoen2014",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 5.97e-05,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KramKoen2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 0.2467,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "KramKoen2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimated from (1.75/0.85)^3 * 0.27"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": 0.01404,
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "KramKoen2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 0.13,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "KramKoen2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 12.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "KramKoen2014",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 360.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KramKoen2014",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": 30.0,
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "KramKoen2014",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 52.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "KramKoen2014",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

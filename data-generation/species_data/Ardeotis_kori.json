@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Otidiformes",
+    "family": "Otididae",
+    "genus": "Ardeotis",
+    "specie": "Ardeotis_kori",
+    "specie_en": "Kori bustard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "116.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.004164384",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AZA2009",
+      "temp": "C2K(40.25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "158",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "99",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AZA2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5890",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10870",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "23",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AZA2009",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11680",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AZA2009",
+      "temp": "C2K(40.25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "avibase",
+      "temp": "C2K(40.25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "94.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "31.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ADW",
+      "temp": "C2K(40.25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

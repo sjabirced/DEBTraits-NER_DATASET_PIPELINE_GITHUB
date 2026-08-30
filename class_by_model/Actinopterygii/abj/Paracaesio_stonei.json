@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Paracaesio",
+    "specie": "Paracaesio_stonei",
+    "specie_en": "Cocoa snapper"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "ultimate fork length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "fork length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.4e6/365",
+    "units": "#/d",
+    "label": "max reoduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(19.2)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Lutjanus_carponotatus: 749e3*2754/859"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.85 mm of L. stellatus: pi/6*0.085^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2754",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.03388*Li^2.89, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1445",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.03388*Lp^2.89, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FryBrew2006",
+    "temp": "C2K(19.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

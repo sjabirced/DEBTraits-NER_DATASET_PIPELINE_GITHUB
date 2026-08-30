@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Entognatha",
+    "order": "Entomobryomorpha",
+    "family": "Tomoceridae",
+    "genus": "Tomocerus",
+    "specie": "Tomocerus_minor",
+    "specie_en": "Springtail"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.069",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "JoosVelt1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.36",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "JoosVelt1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.28",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "JoosVelt1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": ".4*15",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "guess based on reprod investment of Folsomia candida: 19.5 * 1.695/ 305 * Wwi/ Wwb"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.46e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on (Lb/Li)^3*Wwi"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.06e-3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on length-weight of Folsomia candida: (Li/0.238)^3 * 305 mug"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "4.99e-4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on (Lp/Li)^3*Wwi"
+  },
+  {
+    "entity": "am",
+    "entity.value": "200",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "JoosVelt1970",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "30",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "JoosVelt1970",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "from inflection-point in tL data"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "50",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "JoosVelt1970",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "genus": "Egernia",
+    "specie": "Egernia_cunninghami",
+    "specie_en": "Cunningham",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "6.92",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "Kear2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "24",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "Kear2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "Barw1965",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Chap2003",
+      "temp": "C2K(22.09023)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7.73",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Kear2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.116467*data.Li^2.531592",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Kear2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.116467*data.Lp^2.531592",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Kear2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "105",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Chap2003",
+      "temp": "C2K(29.3202)",
+      "units.temp": "K",
+      "comment": "temp from 1990-1995 simulation at Weetangera"
+    },
+    {
+      "entity": "am",
+      "entity.value": "43*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Stow2004",
+      "temp": "C2K(22.09023)",
+      "units.temp": "K",
+      "comment": "rough from Harlow pers obs. cited in Stow 2004 - this animal is still going strong at 43 years old!"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "data.ab+1507",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Barw1965",
+      "temp": "C2K(29.3202)",
+      "units.temp": "K",
+      "comment": "based on average Tb analysis for Barwicks site, as per longevity analysis below"
+    }
+  ]
+}

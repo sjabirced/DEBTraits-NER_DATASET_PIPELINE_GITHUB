@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Stichaeidae",
+    "genus": "Stichaeus",
+    "specie": "Stichaeus_grigorjewi",
+    "specie_en": "Shanny",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "93270/365",
+      "units": "#/d",
+      "label": "reprod rate at 11 cm",
+      "bibkey": "fishbase",
+      "temp": "C2K(1.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.7 mm of Stichaeus_punctatus: pi/6*0.17^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.3e3",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00324*Li^3.15, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "145.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','BouaBoud2018'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00324*Lp^3.15, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "17*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(1.8)",
+      "units.temp": "K",
+      "comment": "based on Stichaeus punctatus"
+    }
+  ]
+}

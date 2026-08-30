@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Enteroctopodidae",
+    "genus": "Muusoctopus",
+    "specie": "Muusoctopus_rigbyae",
+    "specie_en": "Antarctic octopus",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Ni",
+      "entity.value": 70.0,
+      "units": "#",
+      "label": "fecundity",
+      "bibkey": "SchwHovi2019",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.1,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SchwHovi2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on oocyte length 5-15 mm, assumed wigth 4 mm: pi/6*1.2*0.4^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 250.0,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "SchwHovi2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 65.0,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "SchwHovi2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 430.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "SchwHovi2019",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Iguanidae",
+    "genus": "Dipsosaurus",
+    "specie": "Dipsosaurus_dorsalis",
+    "specie_en": "Common Desert Iguana",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "4.74",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "Muth1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "13.3",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "Howl1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "14.3",
+      "units": "cm",
+      "label": "ultimate SVL males",
+      "bibkey": "Howl1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11.5",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "Howl1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "12.5",
+      "units": "cm",
+      "label": "SVL at puberty males",
+      "bibkey": "Howl1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Howl1988",
+      "temp": "C2K(28.1)",
+      "units.temp": "K",
+      "comment": "'one clutch per year"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.62",
+      "units": "g",
+      "label": "wet weight of hatchlings",
+      "bibkey": "Muth1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Body mass of hatchlings"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "82",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Minn1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ultimate body mass"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "91",
+      "units": "g",
+      "label": "ultimate wet weight males",
+      "bibkey": "Minn1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ultimate body mass of males"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "44.6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Muth1980",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "44 to 86 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Krek1984",
+      "temp": "C2K(28.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "33*30",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Howl1988",
+      "temp": "C2K(28.1)",
+      "units.temp": "K",
+      "comment": "33 to 45 months"
+    }
+  ]
+}

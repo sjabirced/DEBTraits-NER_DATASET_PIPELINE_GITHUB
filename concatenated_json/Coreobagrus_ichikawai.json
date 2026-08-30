@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Bagridae",
+    "genus": "Coreobagrus",
+    "specie": "Coreobagrus_ichikawai",
+    "specie_en": "Neko-gigi"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10.8",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1751/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(29.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wata1994a",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.6-2.1 mm: pi/6*0.19^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "9.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00832*Li^2.95, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.64",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00832*Lp^2.95, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "19",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

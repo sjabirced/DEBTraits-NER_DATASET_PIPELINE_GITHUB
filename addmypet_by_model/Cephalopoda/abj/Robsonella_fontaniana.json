@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Robsonella",
+    "specie": "Robsonella_fontaniana",
+    "specie_en": "Small octopus"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.2,
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "UriaHern2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 5.0,
+    "units": "cm",
+    "label": "mantle length at death",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "GonzArri2008 total length 26 cm"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": 5.4,
+    "units": "cm",
+    "label": "mantle length at death for males",
+    "bibkey": "GonzArri2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on GonzArri2008 total length 28 cm: 5*28/26"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 2500.0,
+    "units": "#",
+    "label": "fecundity",
+    "bibkey": "UriaHern2010",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ww160",
+    "entity.value": 1.8,
+    "units": "g",
+    "label": "wet weight at 160 d since birth",
+    "bibkey": "UriaHern2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.0129,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "GonzArri2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 4.77 mm, width 2.27 mm: pi/6*0.477*0.227^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 200.0,
+    "units": "g",
+    "label": "wet weight at death",
+    "bibkey": "UriaHern2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 32.0,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative weight, compared to Paroctopus_digueti: 8*200/49.5"
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span for female",
+    "bibkey": "guess",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

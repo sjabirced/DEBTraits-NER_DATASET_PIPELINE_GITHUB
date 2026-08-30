@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Carcharhinus",
+    "specie": "Carcharhinus_acronotus",
+    "specie_en": "Blacknose shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "BarrLess2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "200",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "115",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "220  to 300 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(25.5)",
+    "units.temp": "K",
+    "comment": "varies between 3 and 6 pups per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "18.9e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(25.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(25.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5.5 * 365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "BarrLess2011",
+    "temp": "C2K(25.5)",
+    "units.temp": "K",
+    "comment": "based on Lp interpolation in tL data"
+  }
+]

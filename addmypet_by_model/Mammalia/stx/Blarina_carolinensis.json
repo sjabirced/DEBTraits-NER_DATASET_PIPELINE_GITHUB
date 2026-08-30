@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Eulipotyphla",
+    "family": "Soricidae",
+    "genus": "Blarina",
+    "specie": "Blarina_carolinensis",
+    "specie_en": "Southern short-tailed shrew"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "33.3",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(34.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4*2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(34.2)",
+    "units.temp": "K",
+    "comment": "Wiki: 2-6 pups per litter, 2-3 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.83",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Blarina_brevicauda: 1.34*14/22.6"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "14",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "803",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(34.2)",
+    "units.temp": "K",
+    "comment": "based on Blarina_brevicauda"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "25",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(34.2)",
+    "units.temp": "K",
+    "comment": "21-30 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "46",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(34.2)",
+    "units.temp": "K",
+    "comment": "based on Blarina_brevicauda"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "22",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(34.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

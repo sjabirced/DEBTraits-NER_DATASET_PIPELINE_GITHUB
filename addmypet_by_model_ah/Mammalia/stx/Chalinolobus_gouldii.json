@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Vespertilionidae",
+    "genus": "Chalinolobus",
+    "specie": "Chalinolobus_gouldii",
+    "specie_en": "Gould"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "25.2",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(31.1)",
+    "units.temp": "K",
+    "comment": "corrected PNAS table is used"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(31.1)",
+    "units.temp": "K",
+    "comment": "'1 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Dobsonia_moluccensis: 55*13.7/480"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "17.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "WhitSeym2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 14 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "11.7",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(31.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "92",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(31.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(31.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "7*7",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(31.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

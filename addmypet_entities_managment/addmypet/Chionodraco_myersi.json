@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Channichthyidae",
+    "genus": "Chionodraco",
+    "specie": "Chionodraco_myersi",
+    "specie_en": "Myers",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "39.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "27.55",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Chionodraco_hamatus: 35*39.2/49.8 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6200/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(-0.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0335",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.8-4.2 mm: pi/6*0.4^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "405",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00129*Li^3.45, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "120",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00129*Lp^3.45, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "85",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(-0.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MoraMora2000",
+      "temp": "C2K(-0.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

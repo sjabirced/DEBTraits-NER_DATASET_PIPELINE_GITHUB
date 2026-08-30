@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Delphinidae",
+    "genus": "Stenella",
+    "specie": "Stenella_frontalis",
+    "specie_en": "Atlantic spotted dolphin",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "90",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 89 till 109 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "220",
+      "units": "cm",
+      "label": "ultimate length for females",
+      "bibkey": "SiciRamo2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "EoL",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "inter calving period 1 till 5 yrs with a mean of 3 yrs"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "140e3",
+      "units": "g",
+      "label": "ultimate weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "38*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "350",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "EoL",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "EoL: 8 till 15 yrs"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "EoL",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

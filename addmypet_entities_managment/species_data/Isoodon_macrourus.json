@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Peramelemorphia",
+    "family": "Peramelidae",
+    "genus": "Isoodon",
+    "specie": "Isoodon_macrourus",
+    "specie_en": "Northern brown bandicoot",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4 * 2.7/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.9)",
+      "units.temp": "K",
+      "comment": "4 pups per litter, 2.7 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.1883",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1200",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1700",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "12",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "122",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "200",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

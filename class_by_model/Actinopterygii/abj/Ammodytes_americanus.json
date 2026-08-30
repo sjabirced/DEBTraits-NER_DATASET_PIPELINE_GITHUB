@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Uranoscopiformes",
+    "family": "Ammodytidae",
+    "genus": "Ammodytes",
+    "specie": "Ammodytes_americanus",
+    "specie_en": "American sand lance"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "23",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "58.6e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "WestAber1979",
+    "temp": "C2K(7.9)",
+    "units.temp": "K",
+    "comment": "based on yearly fecundity: 10^(3.857*log10(23)-0.484)"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.9 mm of Ammodytes_marinus: pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "41",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00204*Li^3.16, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.1",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00204*Lp^3.16, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "32",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(7.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(7.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

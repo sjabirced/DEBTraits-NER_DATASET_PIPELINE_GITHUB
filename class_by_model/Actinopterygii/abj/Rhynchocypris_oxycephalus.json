@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Rhynchocypris",
+    "specie": "Rhynchocypris_oxycephalus",
+    "specie_en": "Chinese minnow"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "17.2",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.6",
+    "units": "cm",
+    "label": "standard length at puberty for females",
+    "bibkey": "LingJuan2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 4.9 cm and F2"
+  },
+  {
+    "entity": "R14",
+    "entity.value": "2151/365",
+    "units": "#/d",
+    "label": "reproduction rate at SL 12.14 cm, TL 14.3 cm",
+    "bibkey": "LingJuan2015",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "R5",
+    "entity.value": "174/365",
+    "units": "#/d",
+    "label": "reproduction rate at SL 4.9 cm, TL 5.8 cm",
+    "bibkey": "LingJuan2015",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LingJuan2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.7 mm: pi/6*0.17^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "57.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00776*Li^3.13, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LingJuan2015",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

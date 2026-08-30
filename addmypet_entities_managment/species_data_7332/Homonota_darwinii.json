@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Phyllodactylidae",
+    "genus": "Homonota",
+    "specie": "Homonota_darwinii",
+    "specie_en": "Darwin"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.7",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "KubiPian2012",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.8",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "KubiPian2012",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.4",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "KubiPian2012",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "KubiPian2012",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "KubiPian2012",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "1 young per clutch, 1 clutch each 1 or 2 yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.8",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on size-corrected value for Heteronotia_binoei: (4.8/5)^3*3.1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KubiPian2012",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "KubiPian2012",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Ictiobus",
+    "specie": "Ictiobus_bubalus",
+    "specie_en": "Smallmouth buffalo"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "112",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Jest1973",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Jest1973",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16.1e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01148*TL^3.00, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

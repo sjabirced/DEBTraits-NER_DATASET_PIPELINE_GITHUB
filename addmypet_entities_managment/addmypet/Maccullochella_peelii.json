@@ -1,0 +1,83 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Percichthyidae",
+    "species": "Maccullochella_peelii",
+    "species_en": "Murray cod",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "180",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "9e4/365",
+      "units": "#/d",
+      "label": "Reprod rate max size",
+      "bibkey": "fishbase",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.25 mm: pi/6*0.325^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "113.5e3",
+      "units": "g",
+      "label": "ultimate weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "48*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

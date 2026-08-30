@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lophiiformes",
+    "family": "Lophiidae",
+    "genus": "Lophius",
+    "specie": "Lophius_piscatorius",
+    "specie_en": "Monkfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lh",
+      "entity.value": "0.600",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "HislGall2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "arkive",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "50.8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "arkive",
+      "temp": null,
+      "units.temp": null,
+      "comment": "for males: 4 yr"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "HislGall2001",
+      "temp": "C2K(8.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "40e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "arkive",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "14",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "HislGall2001",
+      "temp": "C2K(8.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(8.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "arkive",
+      "temp": "C2K(8.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tb",
+      "entity.value": "20",
+      "units": "d",
+      "label": "time since hatch at birth",
+      "bibkey": "HislGall2001",
+      "temp": "C2K(8.5)",
+      "units.temp": "K",
+      "comment": "3 degrees C is actually temperature upon spawning"
+    }
+  ]
+}

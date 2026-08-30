@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cichliformes",
+    "family": "Cichlidae",
+    "genus": "Oreochromis",
+    "specie": "Oreochromis_aureus",
+    "specie_en": "Blue tilapia",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "50.8",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4392/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.5 mm : pi/6*0.25^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.35e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01862*Lim^2.99, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "40",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01862*Lp^2.99, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

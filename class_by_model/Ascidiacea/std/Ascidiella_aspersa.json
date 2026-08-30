@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Ascidiacea",
+    "order": "Phlebobranchia",
+    "family": "Ascidiidae",
+    "genus": "Ascidiella",
+    "specie": "Ascidiella_aspersa",
+    "specie_en": "European sea squirt"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "ultimate body length",
+    "bibkey": "Buiz1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.3",
+    "units": "cm",
+    "label": "body length at puberty",
+    "bibkey": "KanaBaba2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.4e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(19.5)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.6e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on height 0.8 mm: Wwi*(0.08/10)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "31",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on height 10 cm, diameter 3 cm, depth 2 cm: pi/6*3*2*10"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "NierHofm1989",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "18*30.5",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Mill1952",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Octopus",
+    "specie": "Octopus_tetricus",
+    "specie_en": "Common Sydney octopus",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Ni",
+      "entity.value": 500000.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "LepoHart2015",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "free interpretation of \"hunderds of thousands of eggs\""
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.0042,
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 1700.0,
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "LepoHart2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 650.0,
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "LepoHart2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 30.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "LepoHart2015",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 600.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "LepoHart2015",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": 50.0,
+      "units": "d",
+      "label": "time since birth at end planktonic paralarva",
+      "bibkey": "LepoHart2015",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 370.0,
+      "units": "d",
+      "label": "age at puberty  for females",
+      "bibkey": "LepoHart2015",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 240.0,
+      "units": "d",
+      "label": "age at puberty for males",
+      "bibkey": "LepoHart2015",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

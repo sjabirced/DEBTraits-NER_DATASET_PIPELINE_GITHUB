@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Pectinida",
+    "family": "Pectinidae",
+    "genus": "Argopecten",
+    "specie": "Argopecten_purpuratus",
+    "specie_en": "Peruvian scallop",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.01",
+      "units": "cm",
+      "label": "shell height at birth",
+      "bibkey": "BellTole1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "11.0",
+      "units": "cm",
+      "label": "ultimate shell height",
+      "bibkey": "Wolf1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.0388",
+      "units": "cm",
+      "label": "shell height at metam",
+      "bibkey": "FariUria1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.0",
+      "units": "cm",
+      "label": "shell height at puberty",
+      "bibkey": "Agui2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "892997",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Agui2013",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "1.334e-7",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "FariUria1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "19.24",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "Agui2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "obtained from Li via LW-regression"
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": "9.8e-7",
+      "units": "g",
+      "label": "dry weight at metam",
+      "bibkey": "FariUria1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "0.16",
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "Agui2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "obtained from Lp via LW-regression"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BellTole1994",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "StotGonz1997",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "4-5 yr"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "24",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "UriaRupp2001",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Agui2013",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

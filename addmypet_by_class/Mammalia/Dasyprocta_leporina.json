@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Dasyproctidae",
+    "genus": "Dasyprocta",
+    "specie": "Dasyprocta_leporina",
+    "specie_en": "Red-rumped agouti"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "'1-3 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "213",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MohaMoha2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3265",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "17.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "112",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "104-120 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "193",
+    "units": "d",
+    "label": "time since birth at puberty female",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "40-50 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "20*7",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

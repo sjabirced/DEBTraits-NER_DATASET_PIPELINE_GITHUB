@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Notoscopelus",
+    "specie": "Notoscopelus_japonicus",
+    "specie_en": "Japanese lanternfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "13.5",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9.5",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e3/365",
+      "units": "#/d",
+      "label": "max reprod rate ",
+      "bibkey": "guess",
+      "temp": "C2K(2.5)",
+      "units.temp": "K",
+      "comment": "based on kap=0.95"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tL data and egg diameter of 0.7 mm: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "16.3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00437*Li^3.16, see F3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(2.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

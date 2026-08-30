@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Beloniformes",
+    "family": "Adrianichthyidae",
+    "genus": "Oryzias",
+    "specie": "Oryzias_latipes",
+    "specie_en": "Medaka",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.45",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Iwam2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Fabe2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.3",
+      "units": "cm",
+      "label": "total length at metamorphosis",
+      "bibkey": "Iwam2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "10.5 to 15.5 mm, average taken here (13mm)"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.53",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "KangYoko2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "24 C, lab data, total length 60 days post hatch"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "30",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnklJohn2004",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "30 eggs per day up to 4 months = 3600 eggs per female in four  months is 3600/365 per day"
+    },
+    {
+      "entity": "Wd0",
+      "entity.value": "(0.17 + 0.31)/2*1e-3",
+      "units": "g",
+      "label": "egg dry weight",
+      "bibkey": "Stan1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": "The mean egg size is used here. The variability in eggs between clutches was high (0.17-0.31 mg DW) but not within a clutch. It seems older females spawn heavier eggs."
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "0.13e-3",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "MartHint1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "26 C, lab data, Stan1972 measure 0.150 mg dry"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.65e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MartHint1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "26 C, lab data"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'AnklJohn2004','GhonEgam1982'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'females can reach 0.91 g"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.178",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "KangYoko2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "24 C, lab data, 60 days post hatch"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "11",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Fabe2013",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "'artemia salina ad libitum"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EgamEtoh1969",
+      "temp": "C2K(15.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since hatch at puberty",
+      "bibkey": "Fabe2013",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "'temperature not reported"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "28",
+      "units": "d",
+      "label": "time since hatch at metamorphosis",
+      "bibkey": "Fabe2013",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "'temperature not reported"
+    }
+  ]
+}

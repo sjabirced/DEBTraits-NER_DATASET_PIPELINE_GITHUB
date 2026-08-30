@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Dactylopteriformes",
+    "family": "Dactylopteridae",
+    "genus": "Dactylopterus",
+    "specie": "Dactylopterus_volitans",
+    "specie_en": "Flying gurnard",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.07",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(23.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.0e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.05-1.25 mm of Prionotus evolans: pi/6*0.115^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1854",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00912*Li^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "78.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00912*Lp^3.05, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "9",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(23.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(23.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

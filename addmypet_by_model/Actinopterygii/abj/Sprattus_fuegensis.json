@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Clupeidae",
+    "genus": "Sprattus",
+    "specie": "Sprattus_fuegensis",
+    "specie_en": "Falkland sprat"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Sprattus sprattus"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "288*21.4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(7.8)",
+    "units.temp": "K",
+    "comment": "based on relative fecundity of 288 eggs/g"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.1e-4",
+    "units": "g",
+    "label": "weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.99 mm: pi/6*0.099^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "21.4",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00347*Li^3.02, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "6.3",
+    "units": "g",
+    "label": "weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00347*Lp^3.02, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(7.8)",
+    "units.temp": "K",
+    "comment": "based on Sprattus sprattus"
+  }
+]

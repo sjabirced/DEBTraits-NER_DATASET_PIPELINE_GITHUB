@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Dipodillus",
+    "specie": "Dipodillus_campestris",
+    "specie_en": "North African gerbil",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "46.8",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5*4.3/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "gbif",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": "'4.3 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Gerbillus_pyramidum"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "42.2",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "GenoIsle2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "21",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(35.3)",
+      "units.temp": "K",
+      "comment": "based on Gerbillus_pyramidum"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "74",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": "based on Gerbillus_pyramidum"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "21",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": "based on Gerbillus_pyramidum"
+    }
+  ]
+}

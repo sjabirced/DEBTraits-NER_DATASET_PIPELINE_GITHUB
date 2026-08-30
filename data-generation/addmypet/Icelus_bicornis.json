@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Icelus",
+    "specie": "Icelus_bicornis",
+    "specie_en": "Twohorn sculpin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "12.8",
+      "units": "cm",
+      "label": "ultimate total length for",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.0",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "725/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(0.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0042",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "26.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00776*Li^3.19, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'AunePrim2014','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00776*Lp^3.19, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "113",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(0.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(0.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(0.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

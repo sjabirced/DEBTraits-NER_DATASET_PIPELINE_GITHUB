@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Semotilus",
+    "specie": "Semotilus_corporalis",
+    "specie_en": "Fallfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "51",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Reed1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 4 yr and tL data"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Reed1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 3 yr and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12321/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.3e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Reed1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.16 mm: pi/6*0.216^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.94e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00912*Li^3.12 (see F1)"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Reed1971",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

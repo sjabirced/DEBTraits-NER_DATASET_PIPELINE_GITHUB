@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Eurycea",
+    "specie": "Eurycea_longicauda",
+    "specie_en": "Long-tailed salamander"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.0",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "Irel1974",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "TL = 5.0+7.2 cm"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "2.55",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.8",
+    "units": "cm",
+    "label": "total length at puberty ",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "75/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "60-110 eggs per season"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.1796",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 7 mm: pi/6*0.7^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.56",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Eurycea lucifuga: 2.6*(5.5/4.56)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "56",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "4-12 wk"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "based on Eurycea lucifuga"
+  }
+]

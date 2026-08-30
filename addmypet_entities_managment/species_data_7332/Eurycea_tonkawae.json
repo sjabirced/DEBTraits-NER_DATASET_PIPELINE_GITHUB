@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Eurycea",
+    "specie": "Eurycea_tonkawae",
+    "specie_en": "Jollyville Plateau salamander"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.29",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Bend2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "converted from SVL 0.8 cm: 3.86/2.39*0.8"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.14",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Bend2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "converted from SVL 4.2 cm: 3.86/2.39*4.42"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.86",
+    "units": "cm",
+    "label": "total length at puberty ",
+    "bibkey": "Bend2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "SVL 2.39 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "17/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "'Data from E. lucifuga"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "largest mentioned body weight for E. lucifuga is 3.7 g, not clear if this is maximum weight"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "45",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Bend2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ah",
+    "entity.value": "31",
+    "units": "d",
+    "label": "age at hatch",
+    "bibkey": "Bend2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Bend2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Gliridae",
+    "genus": "Graphiurus",
+    "specie": "Graphiurus_murinus",
+    "specie_en": "Woodland dormouse"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "40.36",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*3/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "'3 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "34",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "24-34 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "24",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "150",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "24",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on tg"
+  }
+]

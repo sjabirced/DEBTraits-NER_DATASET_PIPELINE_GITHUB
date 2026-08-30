@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Alburnoides",
+    "specie": "Alburnoides_eichwaldii_Tajan",
+    "specie_en": "Caspian Spirlin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "17",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "KeivNasr2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "EsmaRahm2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "6.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "EsmaRahm2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6500/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "EsmaRahm2012",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BeekEmme2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 1.8 mm: 4/3*pi*0.09^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "guess on the basis of Rutilus rutilus, BeekEmme2007"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "3",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "guess on the basis of Alburnoides_bipunctatus data with ah = 3 "
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KeivNasr2016",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "age at puberty for females",
+      "bibkey": "EsmaRahm2012",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "1*365",
+      "units": "d",
+      "label": "age at puberty for males",
+      "bibkey": "EsmaRahm2012",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

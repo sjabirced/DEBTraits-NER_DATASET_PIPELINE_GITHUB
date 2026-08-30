@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lepisosteiformes",
+    "family": "Lepisosteidae",
+    "genus": "Lepisosteus",
+    "specie": "Lepisosteus_oculatus",
+    "specie_en": "Spotted gar",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.2",
+      "units": "cm",
+      "label": "standard length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 2.5 cm: SL = 0.89 * TL, see F1"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "133",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 150 cm: SL = 0.89 * TL, see F1"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WallYeag1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.5 mm: pi/6*0.25^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "12",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "10 to 14 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

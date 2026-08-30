@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Dorosomatidae",
+    "genus": "Dorosoma",
+    "specie": "Dorosoma_petenense",
+    "specie_en": "Threadfin shad"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "19.5",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "John1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'This is for saltwater specimens"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.8",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "John1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Read from LN data"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "John1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "115",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'John1970','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*(Li/0.82)^2.98, see F2,F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "John1970",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

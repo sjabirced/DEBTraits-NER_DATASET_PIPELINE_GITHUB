@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "genus": "Varanus",
+    "specie": "Varanus_acanthurus",
+    "specie_en": "Spiny-tailed monitor"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "0.1039",
+    "units": "ml O2/min",
+    "label": "max BMR",
+    "bibkey": "NespSola2017",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "18/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Lb = 15 cm, Li = 70 cm: 304.45*(15/70)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "304.45",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "3-5 mnth"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since metam at puberty for female",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

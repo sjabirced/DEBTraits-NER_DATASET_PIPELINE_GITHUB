@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Venerida",
+    "family": "Arcticidae",
+    "genus": "Arctica",
+    "specie": "Arctica_islandica",
+    "specie_en": "Ocean quahog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 14.0,
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Rope1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": 0.024,
+    "units": "cm",
+    "label": "shell length at metamorphosis",
+    "bibkey": "LutzMann1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'smallest shell lenght metamorphosed = 240 um"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 4.0,
+    "units": "cm",
+    "label": "shell lenght at puberty",
+    "bibkey": "{'ThomJone1980','Ball2017'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "RL",
+    "entity.value": 1096.0,
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Oerz1972",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "mean number eggs per 5 cm length indiv = 400000(/365 days=1096) Annual mean temperature kiel Bay: Begum et al. 2008"
+  },
+  {
+    "entity": "Wdp",
+    "entity.value": 0.98,
+    "units": "g",
+    "label": "dry weight at puberty",
+    "bibkey": "Ball2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": 0.01375,
+    "units": "mg",
+    "label": "wet weight of an egg.",
+    "bibkey": "{'Oerz1972'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'400000 eggs -5500 mg (fresh weight)- 1egg= 0.01375 mg. 0.0095 oocytes length from Ingoya by Ball2017"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 4.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "LutzMann1982",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "4d from Fig.2"
+  },
+  {
+    "entity": "am",
+    "entity.value": 185055.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ButlWana2012",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": 34.0,
+    "units": "d",
+    "label": "time since birth at metamorphosis",
+    "bibkey": "LutzMann1982",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "32-36 days after fertilization"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 2190.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ThomJone1980",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "6 years and average annual temperature from NOAA report (Taylor et al.2009)"
+  }
+]

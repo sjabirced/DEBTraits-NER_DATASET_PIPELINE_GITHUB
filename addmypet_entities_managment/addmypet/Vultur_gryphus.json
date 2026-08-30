@@ -1,0 +1,113 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Cathartiformes",
+    "family": "Cathartidae",
+    "species": "Vultur_gryphus",
+    "species_en": "Andean condor",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FergChris2001",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "280",
+      "units": "g",
+      "label": "egg wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "224",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "0.8*W0 to account for water and energy loss"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10500",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'FergChris2001','AnAge'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "females 7.5-11 kg"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "12000",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "{'FergChris2001','AnAge'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "males 11-15 kg"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "56",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'FergChris2001','AnAge'}",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temps are guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "79*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "2555",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "549",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "6*30.5",
+      "units": "d",
+      "label": "time since birth at fledge",
+      "bibkey": "FergChris2001",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

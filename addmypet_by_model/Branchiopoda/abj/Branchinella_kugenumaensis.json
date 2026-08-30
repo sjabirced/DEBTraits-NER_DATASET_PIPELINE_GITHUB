@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anostraca",
+    "family": "Thamnocephalidae",
+    "genus": "Branchinella",
+    "specie": "Branchinella_kugenumaensis",
+    "specie_en": "Fairy shrimp"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.04,
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Phallocryptus_spinosus"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 3.0,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "HuanChou2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 1.0,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "HuanChou2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 0.0459,
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in Arteria salina: 0.0017*(3/1)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 1.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 50.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HuanChou2010",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "sM",
+    "entity.value": 5.0,
+    "units": "-",
+    "label": "acceleration factor",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "pseudo-data based on mean value for fairy shrimps"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 5.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "HuanChou2010",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on tL_L1 data and Lp"
+  }
+]

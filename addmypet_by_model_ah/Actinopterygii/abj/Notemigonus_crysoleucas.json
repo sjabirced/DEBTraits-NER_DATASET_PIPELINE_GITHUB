@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Notemigonus",
+    "specie": "Notemigonus_crysoleucas",
+    "specie_en": "Golden shiner"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "32",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp and tL data"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "360",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01202*Lp^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.61",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "JohaMcQu1989",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

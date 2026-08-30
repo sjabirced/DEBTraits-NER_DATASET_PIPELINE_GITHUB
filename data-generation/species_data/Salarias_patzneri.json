@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Blenniiformes",
+    "family": "Blenniidae",
+    "genus": "Salarias",
+    "specie": "Salarias_patzneri",
+    "specie_en": "Patzner",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.06",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(28.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wils2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 1.1 mm and width 0.6 mm: 4/3*pi*0.03^2*0.055"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Wils2004','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00776*Li^3.00, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "15",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "FariGil2010",
+      "temp": "C2K(28.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

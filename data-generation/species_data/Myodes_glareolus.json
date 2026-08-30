@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Myodes",
+    "specie": "Myodes_glareolus",
+    "specie_en": "Bank vole",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "6*4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "'4-8 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Balc2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "36",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "42*30.5",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "21",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Wiki",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6*7",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "6 weeks for females, 8 for males"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "22",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Wiki",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "20-25 d"
+    }
+  ]
+}

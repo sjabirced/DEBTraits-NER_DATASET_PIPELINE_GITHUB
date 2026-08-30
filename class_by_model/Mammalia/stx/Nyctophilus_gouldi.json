@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Vespertilionidae",
+    "genus": "Nyctophilus",
+    "specie": "Nyctophilus_gouldi",
+    "specie_en": "Gould"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "12.20",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "1-2 pups per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.65",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11.32",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "gbif: 5.2-16.5 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "AnAge gives > 4 yrs"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "23",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "240",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "gbif",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "42",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "gbif",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

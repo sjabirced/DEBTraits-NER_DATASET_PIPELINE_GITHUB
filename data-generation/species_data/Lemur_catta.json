@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Lemuridae",
+    "genus": "Lemur",
+    "specie": "Lemur_catta",
+    "specie_en": "Ring-tailed lemur",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1.1*0.9/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "1.1 pups per litter, 0.9 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "55",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BeniMill1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2555",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki gives 2.2 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "37.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "135",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "595",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "912",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "152",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

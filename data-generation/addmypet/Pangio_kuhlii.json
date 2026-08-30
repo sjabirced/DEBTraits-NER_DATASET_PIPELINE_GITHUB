@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cobitidae",
+    "genus": "Pangio",
+    "specie": "Pangio_kuhlii",
+    "specie_en": "Coolie loach",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7",
+      "units": "cm",
+      "label": " total length at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10.3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00525*Li^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.0",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "{'Wiki','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 0.00525*Lp^3.05, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

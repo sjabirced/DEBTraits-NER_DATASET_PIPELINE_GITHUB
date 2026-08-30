@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Daphniidae",
+    "genus": "Daphnia",
+    "specie": "Daphnia_cucullata",
+    "specie_en": "Waterflea"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.04",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.17",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "nina",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.085",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Vijv1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/1.5",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "BoerVijv1994",
+    "temp": "C2K(17.5)",
+    "units.temp": "K",
+    "comment": "'4 eggs per first brood"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "23.5",
+    "units": "mug",
+    "label": "ultimate dry weight",
+    "bibkey": "Mich2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "cumputed from Li as exp(1.807+2.517 * ln(Li))"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "BoerVijv1994",
+    "temp": "C2K(17.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "140",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(17.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

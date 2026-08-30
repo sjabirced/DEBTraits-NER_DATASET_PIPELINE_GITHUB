@@ -1,0 +1,70 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Cyprinodontidae",
+    "species": "Aphanius_dispar",
+    "species_en": "Arabian toothcarp"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 2 mnth and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "200/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00741*Li^3.18, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

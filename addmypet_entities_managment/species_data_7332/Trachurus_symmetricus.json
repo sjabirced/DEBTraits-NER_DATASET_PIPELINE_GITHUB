@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Carangiformes",
+    "family": "Carangidae",
+    "genus": "Trachurus",
+    "specie": "Trachurus_symmetricus",
+    "specie_en": "Pacific jack mackerel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "81",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "31",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "for females"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "53000/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(9.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.78e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.81 mm of Trachurus_mediterraneus: pi/6*0.081^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.355e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Lp^2.96, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "253.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1.4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "30 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(9.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

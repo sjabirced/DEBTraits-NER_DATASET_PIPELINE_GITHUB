@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Odontophoridae",
+    "genus": "Colinus",
+    "specie": "Colinus_virginianus",
+    "specie_en": "Bobwhite quail"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "26",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Shan1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "page 11, in text"
+  },
+  {
+    "entity": "Ww14",
+    "entity.value": "33",
+    "units": "g",
+    "label": "wet weight at 14d since birth",
+    "bibkey": "Bayer",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "NewsBeac2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "NewsBeac2008 page 541, Table 1 says 6 g - Bayer study shows chick weight at hatch to be variable between 5 and 9 g with mean 6.5."
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "200",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Bayer",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "194.2",
+    "units": "g",
+    "label": "wet weight at first reproduction",
+    "bibkey": "RobeLind1966",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "182.9",
+    "units": "g",
+    "label": "wet weight at fledging",
+    "bibkey": "RobeLind1966",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "page 134, Table 2, Mean weight of juveniles, which were seperated from adults via plumage."
+  },
+  {
+    "entity": "ab",
+    "entity.value": "23",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "HernPete2007",
+    "temp": "C2K(37.8)",
+    "units.temp": "K",
+    "comment": "page 6, in text, corresponds to hatch - temperature is unknown, but the temperature for incubating eggs was found on the Noah website."
+  },
+  {
+    "entity": "am",
+    "entity.value": "6.4 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Zamm1986",
+    "temp": "C2K(38.9)",
+    "units.temp": "K",
+    "comment": "page 2742, Table 3"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "might be breeding after a year"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "100",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "{'SchoAbbo1974', 'Bayer'}",
+    "temp": "C2K(38.9)",
+    "units.temp": "K",
+    "comment": "age at which preparation period is initiated- reproduction starts 4 weeks after"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "30",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "BrenHern2020",
+    "temp": "C2K(38.9)",
+    "units.temp": "K",
+    "comment": "assumed to occer when the young no longer need breeding"
+  }
+]

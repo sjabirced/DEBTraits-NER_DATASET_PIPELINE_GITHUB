@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Pholidota",
+    "family": "Manidae",
+    "genus": "Smutsia",
+    "specie": "Smutsia_temminckii",
+    "specie_en": "Ground pangolin"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "PietJans2020",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": "['Females possibly give birth only every second year. Twins have been recorded.', ...\n'Females may become pregnant while nursing current young.']"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "340",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PietJans2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "15 cm long"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16.1e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "PietJans2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "maximum weight of males from table 1.1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "8e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "SvarRich1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "individuals less than 8 kg regarded as sub-adults"
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PietJans2020",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "authors guess 20-30 years, there is no data."
+  },
+  {
+    "entity": "tg",
+    "entity.value": "mean([105,140])",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "PietJans2020",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "Gestation period is 105-140 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2 * 365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "PietJans2020",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "males and females might be roaming around for some years before actually reproducing."
+  },
+  {
+    "entity": "tx",
+    "entity.value": "3*30.5",
+    "units": "d",
+    "label": "age at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Balaenopteridae",
+    "genus": "Balaenoptera",
+    "specie": "Balaenoptera_acutorostrata",
+    "specie_en": "Minke whale",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.5e2",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "NOAA2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "2.4-3.5 m"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10e2",
+      "units": "cm",
+      "label": "ultimate length",
+      "bibkey": "NOAA2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7e2",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "NOAA2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "NOAA2004",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "AnAges gives a litter interval of 470 d"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.2e5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9.2e6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "NOAA2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "50 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "312",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5.8*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "OlseSund2002",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "sexually mature at around 3-8 years of age, NOAA2004"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "183",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "4-6 months"
+    }
+  ]
+}

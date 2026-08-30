@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Nectomys",
+    "specie": "Nectomys_squamipes",
+    "specie_en": "South American water rat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5*5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "5 pups per litter, assumed: 5 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "12.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AndrHort1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "200",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AndrHort1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: 160-420 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "2-5 yr"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "30",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "27-28 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "44.4",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "23",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "20-25 d"
+  }
+]

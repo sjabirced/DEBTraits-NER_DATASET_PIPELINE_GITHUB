@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Procyonidae",
+    "genus": "Nasua",
+    "specie": "Nasua_narica",
+    "specie_en": "White-nosed coati",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "1205.8",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "WhitSeym2003",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4.17/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": "'ADW: 2-7 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "140",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3665",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 2–7.2 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "26.4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "78",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": "60-73 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "712",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "127",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

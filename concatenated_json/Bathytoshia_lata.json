@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Dasyatidae",
+    "genus": "Bathytoshia",
+    "specie": "Bathytoshia_lata",
+    "specie_en": "Broad stingray"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "disc width at birth",
+    "bibkey": "DaleHoll2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "260",
+    "units": "cm",
+    "label": "ultimate disc width ",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "104.9",
+    "units": "cm",
+    "label": "disc width at puberty for females",
+    "bibkey": "DaleHoll2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "74.9",
+    "units": "cm",
+    "label": "disc width at puberty for males",
+    "bibkey": "DaleHoll2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "based on DaleHoll2012 who remark that fecundity is low: 6 pups per litter, 1 litter each 2 yrs, in view of ab "
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1.8*365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "28*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "DaleHoll2012",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

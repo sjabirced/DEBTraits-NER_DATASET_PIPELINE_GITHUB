@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Trichiuridae",
+    "genus": "Aphanopus",
+    "specie": "Aphanopus_intermedius",
+    "specie_en": "Intermediate scabbardfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "147.6",
+      "units": "cm",
+      "label": "ultimate total length of female",
+      "bibkey": "DelgReis2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "136.5",
+      "units": "cm",
+      "label": "ultimate total length of male",
+      "bibkey": "DelgReis2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Aphanopus carbo"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.3e5/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(9.4)",
+      "units.temp": "K",
+      "comment": "Based on kap = 0.97, as found for  Trichiurus nanhaiensis"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on guessed egg diameter of 1 mm: pi/6*.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.5e3",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "{'DelgReis2013','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00110*Li^3.09, see F1"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "4.3e3",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "{'DelgReis2013','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00110*Lim^3.09, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "11",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(9.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(9.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(9.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

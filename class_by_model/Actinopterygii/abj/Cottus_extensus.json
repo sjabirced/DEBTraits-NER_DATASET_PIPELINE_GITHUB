@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Cottus",
+    "specie": "Cottus_extensus",
+    "specie_en": "Bear Lake sculpin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "{'fishbase','RuzyWurt1998'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on largest male of TL 9 cm, and female 9.5 cm in RuzyWurt1998"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.75",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "RuzyWurt1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "5.75",
+    "units": "cm",
+    "label": "total length at puberty for maes",
+    "bibkey": "RuzyWurt1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "486/365",
+    "units": "#/d",
+    "label": "reproduction rate at TL 9.5 cm",
+    "bibkey": "RuzyWurt1998",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "based on F = -334 + 86.3 * 9.5"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.63 mm for Cottus volki: pi/6*0.163^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "26.6",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "{'RuzyWurt1998','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00891*Lp^3.12, see F1"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "20.7",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "{'RuzyWurt1998','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00891*Lim^3.12, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.089",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "RuzyWurt1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "2.089",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "RuzyWurt1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "RuzyWurt1998",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

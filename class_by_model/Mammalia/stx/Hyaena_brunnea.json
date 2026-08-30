@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Hyaenidae",
+    "genus": "Hyaena",
+    "specie": "Hyaena_brunnea",
+    "specie_en": "Brown hyena"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.4*2.5/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "'2.5 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "688",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "42250",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "27400",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "31.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "92",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1000",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "342",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

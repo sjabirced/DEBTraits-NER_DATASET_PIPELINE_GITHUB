@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Haemulidae",
+    "genus": "Pomadasys",
+    "specie": "Pomadasys_argyreus",
+    "specie_en": "Bluecheek silver grunt",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AgatYonv2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Pomadasys_kaakan: 35*40/80"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5*43182/365",
+      "units": "#/d",
+      "label": "reproduction rate at TL 58 cm",
+      "bibkey": "AgatYonv2019",
+      "temp": "C2K(28.4)",
+      "units.temp": "K",
+      "comment": "based on 43182 ova each month from May till Sept"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.35e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AgatYonv2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.4 mm: pi/6*0.04^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "912",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01479*Li^2.99, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "33.9",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'AgatYonv2019','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01479*Lp^2.99, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3.3",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.4)",
+      "units.temp": "K",
+      "comment": "base on growth at 5 yr"
+    }
+  ]
+}

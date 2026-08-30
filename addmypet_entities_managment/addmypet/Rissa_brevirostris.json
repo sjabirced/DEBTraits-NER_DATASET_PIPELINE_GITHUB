@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Rissa",
+    "specie": "Rissa_brevirostris",
+    "specie_en": "Red-legged kittiwake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "Data for R. tridactyla"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "30",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "LancRoby2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "480",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "325 till 510 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "27",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "'Temperature is guessed based on being the optimal temperature for artificial incubation for several species"
+    },
+    {
+      "entity": "am",
+      "entity.value": "27*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1460",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "Data for R. tridactyla"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "96",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "32",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "LancRoby2000",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

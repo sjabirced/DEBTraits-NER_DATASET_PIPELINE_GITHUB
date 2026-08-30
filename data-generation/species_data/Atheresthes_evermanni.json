@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Atheresthes",
+    "specie": "Atheresthes_evermanni",
+    "specie_en": "Kamchatka flounder",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "100",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5e5/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Zimm1997",
+      "temp": "C2K(1.7)",
+      "units.temp": "K",
+      "comment": "based on max fecundity of 5e5, which is much lower than for Atheresthes_stomias"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BlooMata2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 1.64–1.9 mm: pi/6*0.175^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8.7e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00759*Li^3.03, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "15",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(1.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "33*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(1.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

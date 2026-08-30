@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Octopus",
+    "specie": "Octopus_briareus",
+    "specie_en": "Caribbean reef octopus ",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lp",
+      "entity.value": 8.0,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "HanlWolt1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "4.5-12 cm"
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 955.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "HanlWolt1989",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.127,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HanlWolt1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 10-14 mm, width 4-5 mm: pi/6*1.2*0.45^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 1500.0,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 50.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "HanlWolt1989",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 518.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HanlWolt1989",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

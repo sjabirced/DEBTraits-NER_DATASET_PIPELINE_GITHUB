@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Phenacobius",
+    "specie": "Phenacobius_mirabilis",
+    "specie_en": "Suckermouth minnow",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1640/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.10^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "15",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Lp^3.13, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

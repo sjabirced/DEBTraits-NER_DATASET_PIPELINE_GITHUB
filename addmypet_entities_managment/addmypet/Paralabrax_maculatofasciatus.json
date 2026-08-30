@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Paralabrax",
+    "specie": "Paralabrax_maculatofasciatus",
+    "specie_en": "Spotted sand bass",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.04",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(22.3)",
+      "units.temp": "K",
+      "comment": "based on Mycteroperca_bonaci"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "std length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9390",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01288*Li^3.00, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "347.8",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01288*Lp^3.00, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(22.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(22.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

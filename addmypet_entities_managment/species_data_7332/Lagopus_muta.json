@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Lagopus",
+    "specie": "Lagopus_muta",
+    "specie_en": "Rock ptarmigan"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "2-16 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "20",
+    "units": "g",
+    "label": " intitial wet weight",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "12.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "510.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "520",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "22.2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "avibase",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": "21-24 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11.7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at first reproduction",
+    "bibkey": "AnAge",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "adult size achieved in 2-3 months"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "7",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "avibase",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "10-12 d"
+  }
+]

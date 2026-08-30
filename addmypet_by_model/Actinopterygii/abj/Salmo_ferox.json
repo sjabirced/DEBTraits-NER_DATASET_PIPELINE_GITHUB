@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Salmo",
+    "specie": "Salmo_ferox",
+    "specie_en": "Ferox trout"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "80",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0335",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 4 mm: pi/6*0.4^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.1e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01047*Li^3.03, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "61",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "23*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

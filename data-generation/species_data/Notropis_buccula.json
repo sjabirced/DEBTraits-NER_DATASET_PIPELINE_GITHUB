@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Notropis",
+    "specie": "Notropis_buccula",
+    "specie_en": "Smalleye shiner",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "9.88",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 8.3 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.2",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "{'fishesoftexas','Mark1999'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 1 yr and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4084/365",
+      "units": "#/d",
+      "label": "max Reprod rate",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.05e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.2 mm: pi/6*0.12^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*Li^3.08, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.25",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','Mark1999'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*Lp^3.08, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

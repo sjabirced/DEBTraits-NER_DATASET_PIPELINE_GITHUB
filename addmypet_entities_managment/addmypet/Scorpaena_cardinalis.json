@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Scorpaenidae",
+    "genus": "Scorpaena",
+    "specie": "Scorpaena_cardinalis",
+    "specie_en": "Eastern red scorpionfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.03",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "StewHugh2010",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "based on Parablennius ruber"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "40.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "22",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Scorpaena scrofa"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.5 mm of Scorpaenichthys_marmoratus: pi/6*0.15^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.78e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01778*Li^3.03, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(17.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "33*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(17.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

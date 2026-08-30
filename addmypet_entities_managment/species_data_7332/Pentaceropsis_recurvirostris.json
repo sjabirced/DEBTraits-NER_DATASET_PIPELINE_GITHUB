@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acropomatiformes",
+    "family": "Pentacerotidae",
+    "genus": "Pentaceropsis",
+    "specie": "Pentaceropsis_recurvirostris",
+    "specie_en": "Longsnout boarfish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.098",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "CoulHall2016",
+    "temp": "C2K(17.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "24",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.1e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 1.1 mm and width of 0.6 mm: pi/6*0.11*0.06^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.6e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01995*Li^3.01, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "284.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01995*Lp^3.01, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4.9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(15.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "55*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CoulHall2016",
+    "temp": "C2K(15.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Bramidae",
+    "genus": "Brama",
+    "specie": "Brama_australis",
+    "specie_en": "Southern rays bream",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "59",
+      "units": "cm",
+      "label": "ultimate total length of female",
+      "bibkey": "OyarCort2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "36.9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.4e4/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "Based on kap = 0.97, as found for  Trichiurus nanhaiensis"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on guessed egg diameter of 1.575 mm of Brama brama: pi/6*.1575^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.5e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "OyarCort2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "653",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01820*Lp^2.96, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "OyarCort2013",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Hippoglossoides",
+    "specie": "Hippoglossoides_robustus",
+    "specie_en": "Bering flounder",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.09",
+      "units": "g/g",
+      "label": "gonadosomatic index",
+      "bibkey": "guess",
+      "temp": "C2K(0.1)",
+      "units.temp": "K",
+      "comment": "based on H. elassodon"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "35",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Star2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 0.92 mm of H. elassodon: pi/6*0.092^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "444",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Star2011','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00676*Li^3.12, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "32",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00676*Lp^3.12, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "29*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Star2011",
+      "temp": "C2K(0.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

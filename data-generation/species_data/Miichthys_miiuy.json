@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Miichthys",
+    "specie": "Miichthys_miiuy",
+    "specie_en": "Mi-iuy croaker",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.4",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "LeeChun2017",
+      "temp": "C2K(21.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "73.8",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "35",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.37e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Value for Argyrosomus_regius"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00851*Li^3.06, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "451.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00851*Lp^3.06, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(21.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(21.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

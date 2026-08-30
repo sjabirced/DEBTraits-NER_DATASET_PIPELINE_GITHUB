@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Pleuronectes",
+    "specie": "Pleuronectes_quadrituberculatus",
+    "specie_en": "Alaska plaice"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "87",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "size at 50% maturity 24-37 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.9e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ZhanWild1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.9 to 2.05 mm: pi/6*0.195^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.5e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00794*Lp^3.08, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "287",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "49",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(3.3)",
+    "units.temp": "K",
+    "comment": "based on Pleuronectes platessa"
+  },
+  {
+    "entity": "am",
+    "entity.value": "37 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(3.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Darevskia",
+    "specie": "Darevskia_unisexualis",
+    "specie_en": "Unisexual lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.25",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Darevskia_derjugini"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.7",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "ArakPetr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "8 eggs per clutch, 1 cluth per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.26",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Darevskia_derjugini"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8.38",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ArakPetr2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "ArakPetr2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

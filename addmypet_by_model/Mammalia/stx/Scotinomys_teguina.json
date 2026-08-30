@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Scotinomys",
+    "specie": "Scotinomys_teguina",
+    "specie_en": "Alston"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "31.2",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(37.6)",
+    "units.temp": "K",
+    "comment": "corrected table of WhitSeym2003 is used"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*2.8/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(37.6)",
+    "units.temp": "K",
+    "comment": "'2.8 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HoopCarl1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "WhitSeym2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "31",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "34",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "21",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.6)",
+    "units.temp": "K",
+    "comment": "ADW: 20-25 d"
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Colubridae",
+    "genus": "Nerodia",
+    "specie": "Nerodia_sipedon",
+    "specie_en": "Common watersnake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "26.8",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "King1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "103",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "King1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "82.3",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "King1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "King1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "10.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "King1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "745",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "122",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "9.6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

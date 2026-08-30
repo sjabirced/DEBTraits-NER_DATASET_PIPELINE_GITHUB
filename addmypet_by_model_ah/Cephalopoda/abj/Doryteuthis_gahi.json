@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Doryteuthis",
+    "specie": "Doryteuthis_gahi",
+    "specie_en": "Patagonian squid"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.06",
+    "units": "g/g",
+    "label": "gonado somatic index at death",
+    "bibkey": "Vill2001",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "mantle length at death for female",
+    "bibkey": "Vill2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li_m",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "mantle length at death for male",
+    "bibkey": "Vill2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "mantle length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0082",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "RoseOjed2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.5 mm: pi/6*0.25^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "100",
+    "units": "g",
+    "label": "wet weight at death for female",
+    "bibkey": "Vill2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "130",
+    "units": "g",
+    "label": "wet weight at death for male",
+    "bibkey": "Vill2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.2*365",
+    "units": "d",
+    "label": "life span for female",
+    "bibkey": "Vill2001",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am_m",
+    "entity.value": "1.2*365",
+    "units": "d",
+    "label": "life span for male",
+    "bibkey": "Vill2001",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

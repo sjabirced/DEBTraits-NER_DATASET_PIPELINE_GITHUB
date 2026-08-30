@@ -1,0 +1,83 @@
+{
+  "taxonomy": {
+    "phylum": "Annelida",
+    "class": "Polychaeta",
+    "order": "Myzostomida",
+    "family": "Myzostomidae",
+    "species": "Myzostoma_cirriferum",
+    "species_en": "Feather Star Louse",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 0.21,
+      "units": "cm",
+      "label": "ultimate body length",
+      "bibkey": "EeckJang1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.05,
+      "units": "cm",
+      "label": "body length at puberty",
+      "bibkey": "EeckJang1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 5.2e-07,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on guessed egg diameter of 100 mum: pi/6*0.01^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 0.0017,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on disc-shape of hight 0.05 cm: pi/4*Li^2*0.05"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 2.3e-05,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on (Lp/Li)^3*Wwi"
+    },
+    {
+      "entity": "am",
+      "entity.value": 190.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EeckJang1997",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 55.0,
+      "units": "d",
+      "label": "time since birth at puberty (pinnular stage)",
+      "bibkey": "EeckJang1997",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "all temps are guessed"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Haemulidae",
+    "genus": "Pomadasys",
+    "specie": "Pomadasys_argenteus",
+    "specie_en": "Silver grunt",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "70",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Pomadasys_kaakan: 35*70/80"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "286520/365",
+      "units": "#/d",
+      "label": "reproduction rate at TL 58 cm",
+      "bibkey": "Desh1973",
+      "temp": "C2K(27.4)",
+      "units.temp": "K",
+      "comment": "based on 286520 ova at TL = 58 cm"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Desh1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.3e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Li^2.98, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27.4)",
+      "units.temp": "K",
+      "comment": "base on growth at 5 yr"
+    }
+  ]
+}

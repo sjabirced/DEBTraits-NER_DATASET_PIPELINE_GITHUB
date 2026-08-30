@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Sciuridae",
+    "genus": "Sciurus",
+    "specie": "Sciurus_niger",
+    "specie_en": "Fox squirrel",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": "'3 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "15",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "800",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "44",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "373",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "84",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

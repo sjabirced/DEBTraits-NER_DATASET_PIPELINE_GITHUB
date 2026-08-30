@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Serranus",
+    "specie": "Serranus_scriba",
+    "specie_en": "Painted comber (CAB population)"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.13",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Alva2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "min length of larvae with opened mounth"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "28",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "AlonAlos2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'max. TL reported in Cabrera Reserve in June is 22.5 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "AlonAlos2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "TL of the younger individual reported with mature gondas in Cabrera Reserve"
+  },
+  {
+    "entity": "Wd0",
+    "entity.value": "1.0128e-5",
+    "units": "g",
+    "label": "average egg dry weight",
+    "bibkey": "AlosAlon2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Cabrera population"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "(712.2409/(2*10000))^3*pi*(4/3)",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AlosAlon2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed from egg diameter of 0.712 mm: 4/3*pi*(0.0712/2)^3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "6.63",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "AlonAlos2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Younger individual reported with mature gonads in Cabrera Reserve"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AlonAlos2011",
+    "temp": "C2K(18.5)",
+    "units.temp": "K",
+    "comment": "Elder individual reported with mature gonads in Cabrera Reserve"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "AlonAlos2011",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "Younger individual reported with mature gonads in Cabrera Reserve"
+  }
+]

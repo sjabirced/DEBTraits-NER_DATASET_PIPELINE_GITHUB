@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Economidichthys",
+    "specie": "Economidichthys_trichonis",
+    "specie_en": "Caucasian dwarf goby"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.0",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": "2e3",
+    "units": "#",
+    "label": "total fecundity",
+    "bibkey": "DaouEcon1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "reproduces onceonly, but eggs in nests might be from several females"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.13e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "DaouEcon1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length 0.64 mm, width 0.58 mm: pi/6*0.064*0.058^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.276",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.058",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Lp^3.04, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.75*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

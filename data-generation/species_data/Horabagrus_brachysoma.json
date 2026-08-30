@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Horabagridae",
+    "genus": "Horabagrus",
+    "specie": "Horabagrus_brachysoma",
+    "specie_en": "Guenther",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "BindPadm2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "17.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "BindPadm2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BindPadm2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.6 mm: pi/6*0.16^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "689",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','BindPadm2012'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00479*Lp^3.12, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "43",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "{'fishbase','BindPadm2012'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

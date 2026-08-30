@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Phocidae",
+    "genus": "Cystophora",
+    "specie": "Cystophora_cristata",
+    "specie_en": "Hooded seal",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "100",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "203",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "260",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "18e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "300e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "405e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "43.3e3",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "27*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MillJone1999",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "240",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1095",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "1826",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "7",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Wiki",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Spinus",
+    "specie": "Spinus_magellanicus",
+    "specie_en": "Hooded siskin"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "36.36",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "3-5 eggs per clutch, 2-4 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.39",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Spinus_pinus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "13.6",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "avibase",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "57",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "19",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "avibase",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "18-21 d"
+  }
+]

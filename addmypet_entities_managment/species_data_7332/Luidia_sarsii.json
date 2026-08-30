@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Echinodermata",
+    "class": "Asteroidea",
+    "order": "Paxillosida",
+    "family": "Luidiidae",
+    "genus": "Luidia",
+    "specie": "Luidia_sarsii",
+    "specie_en": "Sea star"
+  },
+  {
+    "entity": "JX",
+    "entity.value": "28.4*0.434/21",
+    "units": "g/d",
+    "label": "feeding rate at 8.9 g",
+    "bibkey": "Fenc1965",
+    "temp": "C2K(13.5)",
+    "units.temp": "K",
+    "comment": "Sea stars of 8.93 g ate 28.4 brittle stars of 0.434 g in 21 d and gained 3.8 g (mean of 10 individuals)"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate radius",
+    "bibkey": "Fenc1965",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.5",
+    "units": "cm",
+    "label": "diameter at metam",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'guess based on Astropecten irregularis"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5e5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.85"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter 0f 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "marlin",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "dWw",
+    "entity.value": "3.8/24",
+    "units": "g/d",
+    "label": "gain wet weight at 8.9 g",
+    "bibkey": "Fenc1965",
+    "temp": "C2K(13.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "1.5*30.5",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "marlin",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Fenc1965",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

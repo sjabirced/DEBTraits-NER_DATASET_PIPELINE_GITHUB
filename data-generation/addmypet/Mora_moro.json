@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Moridae",
+    "genus": "Mora",
+    "specie": "Mora_moro",
+    "specie_en": "Common mora",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "34",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.8e6/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.6"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.5e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "RotlMora2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based guessed egg diameter of 0.5 mm: pi/6*0.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00603*Li^3.15, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "402",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00603*Lp^3.15, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "40*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "VieiFigu2013",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

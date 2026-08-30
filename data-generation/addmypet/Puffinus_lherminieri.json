@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Procellariiformes",
+    "family": "Procellariidae",
+    "genus": "Puffinus",
+    "specie": "Puffinus_lherminieri",
+    "specie_en": "Audubon",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "EoL",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "32",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Ramo2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'value for Puffinus_baroli"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "210",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Harr1969",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Asymptotic mass prior to fledging, mean adult mass is smaller: 170 g (Ramo2013), or 150-230 g (Wiki)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "51",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "52 till 58"
+    },
+    {
+      "entity": "am",
+      "entity.value": "19*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "value for Puffinus puffinus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "231",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "77",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Ramo2013",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

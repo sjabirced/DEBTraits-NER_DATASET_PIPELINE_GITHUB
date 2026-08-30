@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Capoeta",
+    "specie": "Capoeta_tinca",
+    "specie_en": "Anatolian khramulya"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.06",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "EkmekOzer2003",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "36",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "17",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "EkmekOzer2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.6 mm: pi/6*0.16^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "433",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01072*Li^2.96, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "47",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01072*Li^2.96, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

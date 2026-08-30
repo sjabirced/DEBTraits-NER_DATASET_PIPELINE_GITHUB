@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Somniosidae",
+    "genus": "Centroscymnus",
+    "specie": "Centroscymnus_crepidater",
+    "specie_en": "Longnose velvet dogfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "105",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "93",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "86",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "76-102 cm"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "65.4",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "59-81 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365/3",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FranJone2018",
+      "temp": "C2K(6.4)",
+      "units.temp": "K",
+      "comment": "2-10 pups per litter, 1 litter per at 3 yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10.1e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','FranJone2018'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00457*Li^3.14, see F3"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "6.9e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "{'fishbase','FranJone2018'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00457*Lim^3.14, see F3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "FranJone2018",
+      "temp": "C2K(6.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "26.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FranJone2018",
+      "temp": "C2K(6.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

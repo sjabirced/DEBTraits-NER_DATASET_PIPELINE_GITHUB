@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Phalangeridae",
+    "genus": "Spilocuscus",
+    "specie": "Spilocuscus_maculatus",
+    "specie_en": "Common spotted cuscus",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "1020",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": "'1 litter per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.9",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "no more than 1 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "1.5-6 kg"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "1700",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "17*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "13",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "222",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "AnAge",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "243",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "AnAge",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "240",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

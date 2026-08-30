@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Noturus",
+    "specie": "Noturus_exilis",
+    "specie_en": "Slender madtom"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.74/0.88",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Vive1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on SL 4.74 cm, see F2"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.68e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Vive1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.1 to 4.47 mm: pi/6*0.447^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "25.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.1",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'Vive1987','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Lp^3.10, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Vive1987",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Porifera",
+    "class": "Demospongiae",
+    "order": "Haplosclerida",
+    "family": "Chalinidae",
+    "genus": "Haliclona",
+    "specie": "Haliclona_oculata",
+    "specie_en": "Mermaid",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1000/365",
+      "units": "#/d",
+      "label": "max repod rate",
+      "bibkey": "guess",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "No info on spawning could be found"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0016",
+      "units": "g",
+      "label": "wet weight of larva",
+      "bibkey": "VaceBour1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Estimated from photo: cylinder of 1 mm diameter, 2 mm length: pi*0.05^2*0.2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "100",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "No info on start egg production could be found"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

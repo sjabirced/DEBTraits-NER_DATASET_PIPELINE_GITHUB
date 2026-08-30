@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Sepiolida",
+    "family": "Sepiolidae",
+    "genus": "Sepietta",
+    "specie": "Sepietta_obscura",
+    "specie_en": "Mysterious bobtail squid"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.2,
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "BoleBole1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 2.4,
+    "units": "cm",
+    "label": "ultimate mantle length",
+    "bibkey": "BoleBole1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 1.6,
+    "units": "cm",
+    "label": "mantle length at puberty",
+    "bibkey": "BoleBole1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 125.0,
+    "units": "#",
+    "label": "cum reprod at death",
+    "bibkey": "BoleBole1971",
+    "temp": "C2K(16.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.004,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lb/2)^3 * 4, since Sepiola atlantica weighs 4 g at mantle length 2 cm"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 6.9,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Li/2)^3 * 4, since Sepiola atlantica weighs 4 g at mantle length 2 cm"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 2.1,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/2)^3 * 4, since Sepiola atlantica weighs 4 g at mantle length 2 cm"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 45.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "BoleBole1971",
+    "temp": "C2K(16.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 230.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": NaN,
+    "temp": "C2K(16.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": 115.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "BoleBole1971",
+    "temp": "C2K(16.5)",
+    "units.temp": "K",
+    "comment": "from growth curve L(ap) = Lp"
+  }
+]

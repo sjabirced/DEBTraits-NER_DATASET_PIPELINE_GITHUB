@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ariidae",
+    "genus": "Carlarius",
+    "specie": "Carlarius_parkii",
+    "specie_en": "Guinean sea catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "75",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "32",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.6e4/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(9.4)",
+      "units.temp": "K",
+      "comment": "Based on kap = 0.97, as found for  Trichiurus nanhaiensis"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Li^3.06, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "328",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Lp^3.06, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(23.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

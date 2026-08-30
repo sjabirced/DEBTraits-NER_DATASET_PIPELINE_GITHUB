@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Cardinalidae",
+    "genus": "Cyanoloxia",
+    "specie": "Cyanoloxia_cyanoides",
+    "specie_en": "Blue-black grosbeak"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "67.5",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "69.09",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "3.68",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "bow",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg length 23.5 mm, width 17.3 mm: pi/6*2.35*1.73^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "33.6",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "bow",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30.6",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "bow",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "bow",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1.1*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "33",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "11.5",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "bow",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

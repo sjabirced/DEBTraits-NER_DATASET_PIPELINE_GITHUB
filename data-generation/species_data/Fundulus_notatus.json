@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Fundulidae",
+    "genus": "Fundulus",
+    "specie": "Fundulus_notatus",
+    "specie_en": "Blackstripe topminnow",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "250/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "fishesoftexas: 20-30 eggs over a short period"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.8 mm : pi/6*0.18^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.64",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00603*Li^3.08, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "2.2*365",
+      "units": "d",
+      "label": "time since birth at death",
+      "bibkey": "NiemWall1974",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

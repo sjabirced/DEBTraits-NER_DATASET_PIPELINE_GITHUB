@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Alligatoridae",
+    "genus": "Caiman",
+    "specie": "Caiman_crocodilus",
+    "specie_en": "Spectacled caiman"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "CampMour2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "161",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "250",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "120",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "140",
+    "units": "cm",
+    "label": "total length at puberty for male",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "40/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "61",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "{'CampMagn2008','MiraMora2002'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Volume converted to weight using 1 g/cm^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "20e3",
+    "units": "g",
+    "label": "ultimate wet weight of female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "58e3",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "61.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "MiraMora2002",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "90*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "AnAge give 24.1 yr"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "age at puberty for female",
+    "bibkey": "Wiki",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "4-7 yrs"
+  }
+]

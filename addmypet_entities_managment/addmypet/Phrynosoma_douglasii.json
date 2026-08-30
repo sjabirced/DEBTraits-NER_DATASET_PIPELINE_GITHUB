@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Phrynosomatidae",
+    "genus": "Phrynosoma",
+    "specie": "Phrynosoma_douglasii",
+    "specie_en": "Pygmy short-horned lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "9/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "EoL",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": "'3 till 15 eggs/clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.8",
+      "units": "g",
+      "label": "wet at birth",
+      "bibkey": "Laht2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "36",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "Mont1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "10",
+      "units": "g",
+      "label": "wet at puberty for females",
+      "bibkey": "Laht2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": null,
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "idaho",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "idaho",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

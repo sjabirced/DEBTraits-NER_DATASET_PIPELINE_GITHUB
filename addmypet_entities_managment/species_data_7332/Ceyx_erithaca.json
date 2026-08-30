@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Coraciiformes",
+    "family": "Alcedinidae",
+    "genus": "Ceyx",
+    "specie": "Ceyx_erithaca",
+    "specie_en": "Black-backed dwarf kingfisher"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "30.33",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.4",
+    "units": "g",
+    "label": "weight at birth",
+    "bibkey": "bow",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg length 18.9 mm, width 15.6 mm: pi/6*1.89*1.56^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Wiki: 14-16 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "18",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(33)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "avibase",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "57",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "19",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Wiki",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

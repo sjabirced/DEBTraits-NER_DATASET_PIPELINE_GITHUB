@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Pectinida",
+    "family": "Pectinidae",
+    "genus": "Mimachlamys",
+    "specie": "Mimachlamys_varia",
+    "specie_en": "Variegated scallop",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "ultimate shell height",
+      "bibkey": "marlin",
+      "temp": null,
+      "units.temp": null,
+      "comment": " 3-10 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.75",
+      "units": "cm",
+      "label": "shell height at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6e6/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "based on size-corrected fecundity of Aequipecten_opercularis"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.64e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "marlin",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 68 mum egg diameter for Aequipecten_opercularis: pi/6*0.0068^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "31.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on size-corrected value for Aequipecten_opercularis: 107*(6/9)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "based on 2 d for Pecten maximus at 18 C"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "sealifebase",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "20",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "based on Aequipecten_opercularis"
+    }
+  ]
+}

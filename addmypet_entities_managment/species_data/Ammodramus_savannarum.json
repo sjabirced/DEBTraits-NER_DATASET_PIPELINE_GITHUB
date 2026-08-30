@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Passerellidae",
+    "genus": "Ammodramus",
+    "specie": "Ammodramus_savannarum",
+    "specie_en": "Grasshopper sparrow",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "(6*2)/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "McNa1986",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "max 6 eggs per clutch, 2 clutch per year assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2",
+      "units": "g",
+      "label": "wet weight at hatching",
+      "bibkey": "Walk1940",
+      "temp": null,
+      "units.temp": null,
+      "comment": "1.7 to 2.3 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "20.42",
+      "units": "g",
+      "label": "wet weight at ultimate state",
+      "bibkey": "Dela1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": "maximum weight of A. s. floridanus females"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "12",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Smit1968",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "11 to 13 days of incubation time for the egg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Vick1996",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "max. longevity in the wild"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Vick1996",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "25.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "8.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Walk1940",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "species": "Micropogonias_undulatus",
+    "species_en": "Atlantic croaker"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.07",
+    "units": "g/g",
+    "label": "gonado somatic index for female",
+    "bibkey": "BarbCit1994",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "55",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BarbCit1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter og 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.75e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00871*Li^3.16, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "80.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','fishesoftexas'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00871*Lp^3.16, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

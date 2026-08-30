@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Octopus",
+    "specie": "Octopus_bimaculoides",
+    "specie_en": "California two-spot octopus",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 12.0,
+      "units": "cm",
+      "label": "ultimate dorsal mantle length",
+      "bibkey": "ForsHanl1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 10.0,
+      "units": "cm",
+      "label": "dorsal mantle length at puberty",
+      "bibkey": "ForsHanl1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on maturing in the second year, combined with tL data"
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 2000.0,
+      "units": "#",
+      "label": "cum reprod at 404 d",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "based on Octopus joubini"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.07,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ForsHanl1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 619.0,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "ForsHanl1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 46.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ForsHanl1988",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 404.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ForsHanl1988",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

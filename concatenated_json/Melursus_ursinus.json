@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Ursidae",
+    "genus": "Melursus",
+    "specie": "Melursus_ursinus",
+    "specie_en": "Sloth bear"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5/365/3",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "Wiki: 1-2 pups each 3 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "400",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "105e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "145e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "33.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "198",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "76",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Hyracoidea",
+    "family": "Procaviidae",
+    "genus": "Procavia",
+    "specie": "Procavia_capensis",
+    "specie_en": "Rock hyrax",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Four1983",
+      "temp": "C2K(36.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "658",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Four1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2830",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Four1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "awf",
+      "temp": "C2K(36.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "278",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Four1983",
+      "temp": "C2K(36.9)",
+      "units.temp": "K",
+      "comment": "RubsKett80: 37-40 C"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "17*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Four1983",
+      "temp": "C2K(36.9)",
+      "units.temp": "K",
+      "comment": "2 out of 7 reached puberty at 17 month"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "3.2*30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Four1983",
+      "temp": "C2K(36.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

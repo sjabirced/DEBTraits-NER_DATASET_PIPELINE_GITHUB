@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Labridae",
+    "genus": "Symphodus",
+    "specie": "Symphodus_tinca",
+    "specie_en": "East Atlantic peacock wrasse"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "51.8",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "44 cm SL, and SL=0.85*TL from photo: 44/0.85 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "12 to 15.2 cm SL, and SL=0.85*TL from photo: 13.5/0.85 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "35e3",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "BougDerb2015",
+    "temp": "C2K(18.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.1e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BougDerb2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.227  mm for Labrus meruls: pi/6*0.0227^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.8e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','GordMoli2000'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.29*Li^2.795, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(18.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

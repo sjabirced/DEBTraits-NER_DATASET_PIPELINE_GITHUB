@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Labridae",
+    "genus": "Thalassoma",
+    "specie": "Thalassoma_bifasciatum",
+    "specie_en": "Bluehead wrasse"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "23",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Fedd1965",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.6 mm: pi/6*0.06^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "118",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Li^3.02, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Lp^3.02, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3.6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(26.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(26.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

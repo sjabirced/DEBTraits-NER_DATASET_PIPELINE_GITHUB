@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lophiiformes",
+    "family": "Lophiidae",
+    "genus": "Lophius",
+    "specie": "Lophius_americanus",
+    "specie_en": "American anglerfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ArmsMusi1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "37.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "ArmsMusi1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.6e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ArmsMusi1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.67 mm of Lophius piscatorius (from fishbase): pi/6*0.067^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "21.7e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Li^2.98, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

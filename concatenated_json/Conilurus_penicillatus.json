@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Conilurus",
+    "specie": "Conilurus_penicillatus",
+    "specie_en": "Brush-tailed rabbit rat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*2.73/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Kemp2021",
+    "temp": "C2K(35.9)",
+    "units.temp": "K",
+    "comment": "'2.73 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "10",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Kemp2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "males are heavier"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "168",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Kemp2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "27",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "Kemp2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "23-40 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "41",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Kemp2021",
+    "temp": "C2K(35.9)",
+    "units.temp": "K",
+    "comment": "36-46 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "70",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(35.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "25",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Kemp2021",
+    "temp": "C2K(35.9)",
+    "units.temp": "K",
+    "comment": "23-40"
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Atheriniformes",
+    "family": "Atherinidae",
+    "genus": "Atherina",
+    "specie": "Atherina_presbyter",
+    "specie_en": "Sand smelt",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.696",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "PalmCull2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "eol",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "PajuLore2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6900/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "TurnBamb1981",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "PajuLore2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as 0.006542 * Lb^3.04922"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "70.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "PajuLore2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as Wi = 0.006542 * Li^3.04922"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.26",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "PajuLore2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as Wp = 0.006542 * Lp^3.04922"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "26",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "PalmCull2006",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "TurnBamb1981",
+      "temp": "C2K(16.5)",
+      "units.temp": "K",
+      "comment": "for females"
+    }
+  ]
+}

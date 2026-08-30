@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Viperidae",
+    "genus": "Sistrurus",
+    "specie": "Sistrurus_miliarius",
+    "specie_en": "Pygmy rattlesnake"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "49",
+    "units": "cm",
+    "label": "ultimate SVL of females",
+    "bibkey": "MayFarr2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "49",
+    "units": "cm",
+    "label": "ultimate SVL of males",
+    "bibkey": "MayFarr2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "{'ADW','MayFarr2012'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 2 yr, and tL data"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "{'ADW','MayFarr2012'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 2 yr, and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "2 to 12 young per clutch, 1 clutch per yr assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "1.8 to 5 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "16.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

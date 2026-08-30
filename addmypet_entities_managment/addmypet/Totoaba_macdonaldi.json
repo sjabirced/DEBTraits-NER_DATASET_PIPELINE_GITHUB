@@ -1,0 +1,93 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "species": "Totoaba_macdonaldi",
+    "species_en": "Totoaba",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "103",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "CisnMont1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "61067*103/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "CisnMont1995",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on 61067 eggs per kg"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.1e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CisnMont1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter og 0.6 mm (> 0.5 mm is mature): pi/6*0.06^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "103e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00891*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "13.5e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','CisnMont1995'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00891*Lp^3.07, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "24*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "{'CisnMont1995','fishbase'}",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

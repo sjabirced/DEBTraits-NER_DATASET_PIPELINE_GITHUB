@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Ascidiacea",
+    "order": "Aplousobranchia",
+    "family": "Didemnidae",
+    "genus": "Diplosoma",
+    "specie": "Diplosoma_listerianum",
+    "specie_en": "Grey crust tunicate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "60/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": "guess based on kap = 0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MartBuri1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.02 cm : pi/6*0.02^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.9e-4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Mill1970','MartBuri1988'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on height zooid of 0.2 cm, diameter 0.05 cm, cilindrical shape: pi/4*0.05^2*0.2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "90",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Yama1975",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "50",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Yama1975",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": "'based on the fact that the colony regresses after first egg liberation"
+    }
+  ]
+}

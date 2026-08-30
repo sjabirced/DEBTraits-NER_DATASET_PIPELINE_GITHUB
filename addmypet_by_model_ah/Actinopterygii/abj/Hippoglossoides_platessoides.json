@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Hippoglossoides",
+    "specie": "Hippoglossoides_platessoides",
+    "specie_en": "American plaice"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "82.6",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "367/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(5.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0141",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter 3 mm : pi/6*0.3^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.7e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00646*Li^3.06, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "342",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00646*Lp^3.06, see F2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(5.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(5.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

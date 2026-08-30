@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Peramelemorphia",
+    "family": "Peramelidae",
+    "genus": "Isoodon",
+    "specie": "Isoodon_auratus",
+    "specie_en": "Golden bandicoot"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "149.80",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "2.6 pups per litter, 1 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.18",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on  Isoodon_macrourus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "450",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": "300-670 g males heavier than females"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "670",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": "300-670 g males heavier than females"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6.7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tg",
+    "entity.value": "12",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "171",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "8*7",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

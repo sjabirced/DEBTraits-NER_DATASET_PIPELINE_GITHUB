@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Myida",
+    "family": "Teredinidae",
+    "genus": "Teredo",
+    "specie": "Teredo_navalis",
+    "specie_en": "Naval shipworm",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.012",
+      "units": "cm",
+      "label": "shell length of umboveliger",
+      "bibkey": "Cull1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.005",
+      "units": "cm",
+      "label": "length of trochophora",
+      "bibkey": "Cull1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.1",
+      "units": "cm",
+      "label": "body length at the end of metamorphosis",
+      "bibkey": "Grave1928",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Grave1928",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": "'spawns 3 to 4 times per season, spawning 1e6 to 5e6 eggs"
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "0.01",
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "MannGall1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.3e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'75 to 88 mum long, 55 to 57 mum wide: pi/6*56^2*80e-12"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "47",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from length of 60 cm, diameter of 1 cm: pi*0.5^2*60"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "9",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Cull1975",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "feeding stats when trochophora becomes umboveliger"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "1",
+      "units": "d",
+      "label": "age at hatching",
+      "bibkey": "Cull1975",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "'trochophora hatches when gastrulation is completed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am11",
+      "entity.value": "730",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Grave1928",
+      "temp": "C2K(11.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "51",
+      "units": "d",
+      "label": "time since birth at settlement",
+      "bibkey": "Grave1928",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "['Observation of first release mid-May while the veliger had spent 2 to 3 weeks (mean=17d) in the gill chamber of the females. ' ...\n  'Then, veliger and umboveliger spent 14-30d (mean=21d) of Pelagic Larval Dispersal (PLD) at in situ temperature. ' ...\n  'Then, it takes between 14-21d (mean=17d) to complete metamorphosis after settling (acquiring rasping ridges into its shell to bore the wood). ' ...\n  'First observation of young metamorphosized juveniles at the beginning of July: 17+17+17=51 days.  ' ...\n  '(May temperature 10 C, June temperature in Woods Hole 15 C, July = 19 C)']"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "56",
+      "units": "d",
+      "label": "time since settlement at puberty",
+      "bibkey": "Grave1942",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "from in situ Wood Holes July/August (19/20 C) it took 8 weeks after settlement to reach puberty"
+    }
+  ]
+}

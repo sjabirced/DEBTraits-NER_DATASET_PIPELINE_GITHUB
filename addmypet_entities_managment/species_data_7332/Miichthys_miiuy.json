@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Miichthys",
+    "specie": "Miichthys_miiuy",
+    "specie_en": "Mi-iuy croaker"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.4",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "LeeChun2017",
+    "temp": "C2K(21.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "73.8",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.37e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Value for Argyrosomus_regius"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00851*Li^3.06, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "451.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Lp^3.06, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(21.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(21.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

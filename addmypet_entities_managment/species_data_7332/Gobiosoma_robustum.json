@@ -1,0 +1,100 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "species": "Gobiosoma_robustum",
+    "species_en": "Code goby"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "2.9",
+    "units": "cm",
+    "label": "ultimate std length for females",
+    "bibkey": "SpriMcEr1961",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.4",
+    "units": "cm",
+    "label": "ultimate std length for males",
+    "bibkey": "SpriMcEr1961",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.46",
+    "units": "cm",
+    "label": "total std at puberty",
+    "bibkey": "SpriMcEr1961",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ni",
+    "entity.value": "4*400",
+    "units": "#",
+    "label": "total fecundity",
+    "bibkey": "SpriMcEr1961",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "400 eggs per ovary, 2 spawning per life span of 1 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.23e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SpriMcEr1961",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg length of 0.78 mm and width of 0.55 mm: pi/6*0.078*0.055^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.303",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'SpriMcEr1961','fishbase'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.01047*Lp^3.16, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.0346",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'SpriMcEr1961','fishbase'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SpriMcEr1961",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

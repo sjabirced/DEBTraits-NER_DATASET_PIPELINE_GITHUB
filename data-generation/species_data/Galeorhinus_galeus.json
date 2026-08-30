@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Galeorhinus",
+    "specie": "Galeorhinus_galeus",
+    "specie_en": "School shark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "32",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "30 to 36  cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "199",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "178",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "155",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "DureWorm2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "121",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "DureWorm2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "20/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(12.3)",
+      "units.temp": "K",
+      "comment": "6 till 52 pups per litter, one litter per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "140",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00398*Lb^3.02, see F3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "34.9e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00398*Lim^3.02, see F3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "24.9e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00398*Lim^3.02, see F3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "16.4e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00398*Lp^3.02, see F3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "7.76e3",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00398*Lpm^3.02, see F3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "12*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(12.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "55*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "{'DureWorm2015','fishbase'}",
+      "temp": "C2K(12.3)",
+      "units.temp": "K",
+      "comment": "46 to 59 yr"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "17 * 365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "DureWorm2015",
+      "temp": "C2K(12.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "12 * 365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "DureWorm2015",
+      "temp": "C2K(12.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

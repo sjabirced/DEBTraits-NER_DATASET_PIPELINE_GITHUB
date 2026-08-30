@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Clariidae",
+    "genus": "Heterobranchus",
+    "specie": "Heterobranchus_longifilis_x_Clarius_gariepinus",
+    "specie_en": "Vundu"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.013",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "LegeTeug1992",
+    "temp": "C2K(29.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "150",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "the record is 180 cm and 45.5 kg (ref: worldrecords)"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LegeTeug1992",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 1.4 mm: pi/6*0.14^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "55e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1200",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "LegeTeug1992",
+    "temp": null,
+    "units.temp": null,
+    "comment": "\"more than 1 kg\" at f_tW < 1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1.25",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "values from Clarius gariepinus"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "0.58",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(33)",
+    "units.temp": "K",
+    "comment": "values from Clarius gariepinus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(29.5)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

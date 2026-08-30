@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Littorinimorpha",
+    "family": "Calyptraeidae",
+    "genus": "Crepidula",
+    "specie": "Crepidula_fornicata",
+    "specie_en": "Slipper limpet"
+  },
+  {
+    "entity": "JXm",
+    "entity.value": "5e8",
+    "units": "cells Phaeodactylum tricornutum/ d.g wet weight",
+    "label": "max ingestion rate",
+    "bibkey": "Thai1984",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "4.6e-2",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "HenrColl2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.3",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "HenrColl2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "9.7e-2",
+    "units": "cm",
+    "label": "shell length at metam",
+    "bibkey": "HenrColl2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.4",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "FretGrah1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'for male function"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "11000/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "DeslHera1986",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "27",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "FretGrah1981",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "dLj",
+    "entity.value": "1.105e-2",
+    "units": "cm/d",
+    "label": "growth at Lj",
+    "bibkey": "PechHilb1996",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "31",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "FretGrah1981",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "60",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "FretGrah1981",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "read from tL curve for Lp"
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Carangiformes",
+    "family": "Carangidae",
+    "genus": "Elagatis",
+    "specie": "Elagatis_bipinnulata",
+    "specie_en": "Rainbow runner",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "180",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "64.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2627680/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "PinhHazi2011",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.3e-5",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "PinhHazi2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.4 mm: pi/6*0.04^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "819.3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'fishbase: based on 0.01023*Li^2.85, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "36.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01023*Lp^2.85, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

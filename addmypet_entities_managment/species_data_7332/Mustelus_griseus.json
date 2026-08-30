@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Mustelus",
+    "specie": "Mustelus_griseus",
+    "specie_en": "Spotless smooth-hound"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "28",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "101",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "87",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "72",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(18.5)",
+    "units.temp": "K",
+    "comment": "5 till 16 pups per litter, one litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "78.4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00224*Lb^3.14, see F3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00224*Li^3.14, see F3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.8e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00224*Lim^3.14, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.5e3",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00224*Lp^3.14, see F3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(18.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Hipposideridae",
+    "genus": "Hipposideros",
+    "specie": "Hipposideros_speoris",
+    "specie_en": "Schneider"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "'1 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.8",
+    "units": "g",
+    "label": "wet weight at birth for female",
+    "bibkey": "DossRagh2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10.9",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "DossRagh2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "137",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "135-140"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at first litter female",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "50",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "DossRagh2018",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

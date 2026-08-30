@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Macrouridae",
+    "genus": "Coelorinchus",
+    "specie": "Coelorinchus_fasciatus",
+    "specie_en": "Banded whiptail"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length as Nezumia_sclerorhynchus"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6.5e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(6.8)",
+    "units.temp": "K",
+    "comment": "based on same weight-specific rate, compared to Coryphaenoides rupestris: (50/110)^3*68780 per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.6 mm of Coryphaenoides rupestris: 4/3*pi*0.13^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "644",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00245*Li^3.19, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "35",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00245*Lp^3.19, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(6.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

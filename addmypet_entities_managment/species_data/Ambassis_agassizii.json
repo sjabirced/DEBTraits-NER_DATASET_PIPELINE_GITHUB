@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "OvalentariaIncSed",
+    "family": "Ambassidae",
+    "genus": "Ambassis",
+    "specie": "Ambassis_agassizii",
+    "specie_en": "Olive perchlet",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "9.9",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 7.5 cm, see F2"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 3.72 cm, see F2"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "740/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MiltArth1985",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.7 mm: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "13.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01349*Li^3.01, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.61",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01349*Lp^3.01, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

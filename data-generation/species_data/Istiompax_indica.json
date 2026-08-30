@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Istiophoriformes",
+    "family": "Istiophoridae",
+    "genus": "Istiompax",
+    "specie": "Istiompax_indica",
+    "specie_en": "Black marlin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "401",
+      "units": "cm",
+      "label": "ultimate LJFL",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase gives 465 FL, which was converted to by LJFL =  0.86 * FL"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "217",
+      "units": "cm",
+      "label": "LJFL at puberty",
+      "bibkey": "SunChan2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "SunChan2015 give 195 cm EFL, which was converted to by LJFL =  1.115 * EFL"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "260e6/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.1e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SunChan2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 0f 277 mum : pi/6*0.0277^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "750e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SunYeh2015",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": "5 yr for males"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Chimaeriformes",
+    "family": "Chimaeridae",
+    "genus": "Hydrolagus",
+    "specie": "Hydrolagus_ogilbyi",
+    "specie_en": "Ogilbys ghostshark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Hydrolagus_colliei"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "85",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "65.5",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Bell2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "55.6",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Bell2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "30/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Bell2012",
+    "temp": "C2K(14.1)",
+    "units.temp": "K",
+    "comment": "enlarged ovarian oocytes at TL 70 cm"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.96e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00309*Li^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "40*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Bell2012",
+    "temp": "C2K(14.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "28*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Bell2012",
+    "temp": "C2K(14.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Bell2012",
+    "temp": "C2K(14.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

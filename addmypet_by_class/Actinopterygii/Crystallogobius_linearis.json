@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Crystallogobius",
+    "specie": "Crystallogobius_linearis",
+    "specie_en": "Crystal goby"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.9",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "reported as SL, by likely TL, in view of Mesa2001"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "4.7",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "reported as SL, by likely TL, in view of Mesa2001"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.9",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Aphia_minuta 3.8*3.9/7.9 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "500/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(9.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.771e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length 1.08 mm, width 0.7 mm of Pomatoschistus minutus: pi/6*0.108*0.07^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.46",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "0.81",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.0513",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00724*Lp^3.05, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "12",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(9.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(9.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

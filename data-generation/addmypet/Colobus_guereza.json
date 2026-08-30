@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Cercopithecidae",
+    "genus": "Colobus",
+    "specie": "Colobus_guereza",
+    "specie_en": "Mantled guereza",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "2980",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "WhitSeym2003",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "366.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "11770",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW: males can weigh up to 1.19 times heavier than females: 5-14 kg"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "14000",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW: males can weigh up to 1.19 times heavier than females: 5-14 kg"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "1600",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "35*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "175",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1461",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "377",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

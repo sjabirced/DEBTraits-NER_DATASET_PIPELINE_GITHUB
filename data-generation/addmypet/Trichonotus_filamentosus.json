@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Trichonotidae",
+    "genus": "Trichonotus",
+    "specie": "Trichonotus_filamentosus",
+    "specie_en": "Sand diver",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.05",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "KuseNaka1991",
+      "temp": "C2K(26.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate std length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "std length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "at SL 10 cm convert female to male"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.5e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.5 mm: pi/6*0.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "18.1",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Li^3.12, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Lp^3.12, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(26.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(26.2)",
+      "units.temp": "K",
+      "comment": "based on tL data"
+    }
+  ]
+}

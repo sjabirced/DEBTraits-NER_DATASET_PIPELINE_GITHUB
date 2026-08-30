@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Emydidae",
+    "genus": "Malaclemys",
+    "specie": "Malaclemys_terrapin",
+    "specie_en": "Diamondback terrapin"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6*2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "4-8 eggs per clutch, typicall >1 clutches per yr, 2 assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "10.4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "RoosKell1996",
+    "temp": null,
+    "units.temp": null,
+    "comment": "7.8-11.9 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "720",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on the assumption that males are somewhat smaller than females"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "650",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "81",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "RoosKell1996",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "47",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "RoosKell1996",
+    "temp": "C2K(32)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "40*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "value is unsure"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "age at puberty for female",
+    "bibkey": "ADW",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

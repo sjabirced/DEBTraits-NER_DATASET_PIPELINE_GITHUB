@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Polynemiformes",
+    "family": "Polynemidae",
+    "genus": "Polydactylus",
+    "specie": "Polydactylus_quadrifilis",
+    "specie_en": "African giant threadfin"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.055",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "ButlChil2018",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "200",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "82.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ButlChil2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.775 mm as typical for Polydactylus: pi/6*0.0775^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "85e3",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on  0.00661*Li^3.09, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "based on Polydactylus_macrochir"
+  }
+]

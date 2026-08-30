@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Gasterosteidae",
+    "genus": "Gasterosteus",
+    "specie": "Gasterosteus_aculeatus",
+    "specie_en": "Three-spined stickleback"
+  },
+  {
+    "entity": "Lbt",
+    "entity.value": "0.70",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "WrigWoot2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.0",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "Paep1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "from Luebecker Bucht population"
+  },
+  {
+    "entity": "Lit",
+    "entity.value": "8.98",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Paep1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "Paep1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "160/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Paep1983",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "(data.Lbt/ 2.33)^3 * 0.126",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Woot1973",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed as (Lb/ 2.33)^3 * 0.126"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "(data.Lit/ 2.33)^3 * 0.126",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Paep1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed as (Li/ 2.33)^3 * 0.126"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.831",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Woot1973",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Paep1983",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "{'ADW','AnAge'}",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "4*30.5",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "Paep1983",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Holocentriformes",
+    "family": "Holocentridae",
+    "genus": "Myripristis",
+    "specie": "Myripristis_jacobus",
+    "specie_en": "Blackbar soldierfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.4e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(26.6)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Holocentrus_adscensionis: 249863*233/2408"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 0.92 mm: pi/6*0.092^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "233",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01445*Li^3.01, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "25.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01445*Lp^3.01, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(26.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(26.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

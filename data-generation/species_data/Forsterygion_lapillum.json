@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Blenniiformes",
+    "family": "Tripterygiidae",
+    "genus": "Forsterygion",
+    "specie": "Forsterygion_lapillum",
+    "specie_en": "Common triplefin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.28",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "Nage2017",
+      "temp": "C2K(19.8)",
+      "units.temp": "K",
+      "comment": "Max GSI for females, year 2017 at White Islands (F. lapillum)"
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.49",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "Fric1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'TL 4 - 8 cm"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "2.78",
+      "units": "cm",
+      "label": "total length at metamorphosis",
+      "bibkey": "McDeShim2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Fran2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7.36e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Mens2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.12 mm: pi/6*0.112^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.4586",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "TaylWill1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 4.174e-6 * TL^3.214 (TL = 80 mm)"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.1831",
+      "units": "g",
+      "label": "metamorphosis wet weight",
+      "bibkey": "TaylWill1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 4.174e-6 * TL^3.214 (TL = 27.82 mm)"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.2052",
+      "units": "g",
+      "label": "puberty wet weight",
+      "bibkey": "TaylWill1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 4.174e-6 * TL^3.214 (TL = 50 mm)"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "14",
+      "units": "d",
+      "label": "age at hatching",
+      "bibkey": "ShimSwea2009",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "730",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Fran2001",
+      "temp": "C2K(19.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "rB",
+      "entity.value": "1.20/365",
+      "units": "1/d",
+      "label": "von Bert growth rate",
+      "bibkey": "TaylWill1998",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tb",
+      "entity.value": "1",
+      "units": "d",
+      "label": "time since hatching at birth",
+      "bibkey": "ShimSwea2009",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "52",
+      "units": "d",
+      "label": "time since hatching at metamorphosis",
+      "bibkey": "ShimSwea2009",
+      "temp": "C2K(19.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "270",
+      "units": "d",
+      "label": "time since hatching at puberty",
+      "bibkey": "Fran2001",
+      "temp": "C2K(19.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

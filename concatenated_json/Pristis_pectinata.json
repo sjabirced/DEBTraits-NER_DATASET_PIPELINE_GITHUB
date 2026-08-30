@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rhinopristiformes",
+    "family": "Pristidae",
+    "genus": "Pristis",
+    "specie": "Pristis_pectinata",
+    "specie_en": "Smallthooth sawfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "SimpPoul2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "760",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "360",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SimpPoul2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "for females, 270 d for males"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "17/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "'Wiki 15-20 pubs per clutch"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "350000",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "NOAA",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Ichtyology",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "'temp of all data is guessed"
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "NOAA",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "AnAge for P perotteti"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "6.2*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "estimated",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "interpolated from tL-data"
+  }
+]

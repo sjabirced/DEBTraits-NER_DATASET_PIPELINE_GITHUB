@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Ommastrephidae",
+    "genus": "Todaropsis",
+    "specie": "Todaropsis_eblanae",
+    "specie_en": "Lesser flying squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 22.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 16.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 14.5,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "ArkhLapt2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 29000.0,
+      "units": "#",
+      "label": "fecundity",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "based on Ancistrocheirus_lesueurii"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.0003,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Ancistrocheirus_lesueurii"
+    },
+    {
+      "entity": "am",
+      "entity.value": 365.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "ArkhLapt2000",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

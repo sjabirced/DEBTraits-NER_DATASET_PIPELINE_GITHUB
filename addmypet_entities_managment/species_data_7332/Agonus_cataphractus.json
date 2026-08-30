@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Agonidae",
+    "genus": "Agonus",
+    "specie": "Agonus_cataphractus",
+    "specie_en": "Hooknose"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.10",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Gall1969",
+    "temp": "C2K(9.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "21",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "Gall1969",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "92",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01023*Li^2.99, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.17",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Gall1969",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01023*Lp^2.99, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "30",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(9.2)",
+    "units.temp": "K",
+    "comment": "Wiki: eggs take long to hatch"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(9.2)",
+    "units.temp": "K",
+    "comment": "based on tL data"
+  }
+]

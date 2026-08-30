@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Speleomantes",
+    "specie": "Speleomantes_imperialis",
+    "specie_en": "Imperial cave salamander"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.67",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "TessSotg2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": "SVL 6.9 cm, converted to TL using F1"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "14.8",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "TessSotg2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10.42",
+    "units": "cm",
+    "label": "total length at puberty ",
+    "bibkey": "TessSotg2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": "SVL 4.8 cm, converted to TL using F1"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "value for Speleomantes_ambrosii: 6 to 14 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.71e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 5 to 6 mm: pi/6*0.55^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.8",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "TessSotg2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "TessSotg2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.9",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "TessSotg2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "173",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

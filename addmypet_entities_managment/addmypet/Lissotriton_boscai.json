@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Lissotriton",
+    "specie": "Lissotriton_boscai",
+    "specie_en": "Bosca",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "4.7",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "TL = 9.4 cm, converted to SVL using F1"
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "3.7",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "TL = 7.5 cm, converted to SVL using F1"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.65",
+      "units": "cm",
+      "label": "SVL at metem",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "TL 4.5 cm before, 3-3.5 cm after metam., converted to SVL using F1"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.1",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "170/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "100-240 eggs per season"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimated from egg diameter of 2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.75",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "wildpro",
+      "temp": null,
+      "units.temp": null,
+      "comment": "for female"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.385",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimated from 2.75 * (5.4/10.4)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "25",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "guess",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

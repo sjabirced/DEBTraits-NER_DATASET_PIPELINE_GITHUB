@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Apodemus",
+    "specie": "Apodemus_argenteus",
+    "specie_en": "Small Japanese field mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4.2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Koya1995",
+      "temp": "C2K(37.9)",
+      "units.temp": "K",
+      "comment": "1 litter per yr, 4.2 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Ruji1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "13",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Ruji1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "27.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "61",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Koya1995",
+      "temp": "C2K(37.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "21",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Ruji1978",
+      "temp": "C2K(37.9)",
+      "units.temp": "K",
+      "comment": "28-30 d"
+    }
+  ]
+}

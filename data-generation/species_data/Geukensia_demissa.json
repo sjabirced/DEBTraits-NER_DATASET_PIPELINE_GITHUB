@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Mytiloida",
+    "family": "Mytilidae",
+    "genus": "Geukensia",
+    "specie": "Geukensia_demissa",
+    "specie_en": "Atlantic ribbed mussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "ultimate shell height",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.05",
+      "units": "cm",
+      "label": "shell height at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2",
+      "units": "cm",
+      "label": "shell height at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e5",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "VirgBarb2017",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "For shell length 7 cm"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5e-8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "VirgBarb2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on oocyte dimater of 46 mum: pi/6*0.0046^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "52.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Wiki','sealifebase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.0387*Li^2.810, see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "19*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Brou1984",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

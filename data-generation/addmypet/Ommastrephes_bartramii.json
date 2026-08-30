@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Ommastrephidae",
+    "genus": "Ommastrephes",
+    "specie": "Ommastrephes_bartramii",
+    "specie_en": "Neon flying squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 90.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": 45.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 40.0,
+      "units": "cm",
+      "label": "mantle length at puberty for female",
+      "bibkey": "YatsMido1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "base on tL_f data for tp"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": 31.5,
+      "units": "cm",
+      "label": "mantle length at puberty for male",
+      "bibkey": "YatsMido1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 4000000.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "VijaSakai2014",
+      "temp": "C2K(10.4)",
+      "units.temp": "K",
+      "comment": "3.7e6 to 4.9e6"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.00051,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "VijaSakai2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on on egg diameter of 0.99 mm: pi/6*0.099^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": 365.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "YatsMido1997",
+      "temp": "C2K(10.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

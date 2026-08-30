@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Triglidae",
+    "genus": "Chelidonichthys",
+    "specie": "Chelidonichthys_cuculus",
+    "specie_en": "Red gurnard"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.06",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "CollCard2003",
+    "temp": "C2K(10.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "26.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.0e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Yusc1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.05-1.25 mm of Prionotus evolans: pi/6*0.115^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.4e3",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00794*Li^3.05, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "176",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00794*Lp^3.05, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "21*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(10.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

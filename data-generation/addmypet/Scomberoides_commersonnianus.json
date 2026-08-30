@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Carangiformes",
+    "family": "Carangidae",
+    "genus": "Scomberoides",
+    "specie": "Scomberoides_commersonnianus",
+    "specie_en": "Talang queenfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.03",
+      "units": "g/g",
+      "label": "gonadosomatic index",
+      "bibkey": "GrifFry2005",
+      "temp": "C2K(28.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "63.5",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.68e-4",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "16e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'max published weight"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3.2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GrifFry2005",
+      "temp": "C2K(28.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

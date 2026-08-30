@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "specie": "Cervus_elaphus",
+    "specie_en": "Red deer",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "10100",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "150e3",
+      "units": "g",
+      "label": "ultimate wet weight females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "120 to 170 kg"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "230e3",
+      "units": "g",
+      "label": "ultimate wet weight males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "160 to 240 kg kg"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "56500",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "31.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "245",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Wiki",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": "240-262 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "852",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "156",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Wiki",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

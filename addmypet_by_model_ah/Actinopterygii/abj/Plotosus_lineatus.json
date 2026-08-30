@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Plotosidae",
+    "genus": "Plotosus",
+    "specie": "Plotosus_lineatus",
+    "specie_en": "Striped eel catfish "
+  },
+  {
+    "entity": "Li",
+    "entity.value": "35.2",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16.9",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Vija1997 gives 15.9 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5753/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": "'assumed TL = 21 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.25 mm for Bagrus docmak: pi/6*.125^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "412.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00617*Li^3.12, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "41.8",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00617*Lp^3.12, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": "Vija1997 gives 2.19 yr"
+  }
+]

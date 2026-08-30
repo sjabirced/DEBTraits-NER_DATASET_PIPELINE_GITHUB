@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Crocodylidae",
+    "genus": "Crocodylus",
+    "specie": "Crocodylus_rhombifer",
+    "specie_en": "Cuba crocodile",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "230",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "upto 5 m"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "350",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "190.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "TargSobe2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "197",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "TargSobe2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "35/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "30-40 eggs per clutch, 1 clutch per yr assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "112",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "80e3",
+      "units": "g",
+      "label": "ultimate wet weight of female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "215e3",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "64",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(31)",
+      "units.temp": "K",
+      "comment": "58-70 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "48*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "TargSobe2010",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "6-7 yr"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "ADW",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "12-15 yr"
+    }
+  ]
+}

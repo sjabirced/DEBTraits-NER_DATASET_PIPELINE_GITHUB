@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Alaudidae",
+    "genus": "Galerida",
+    "specie": "Galerida_cristata",
+    "specie_en": "Crested lark"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2 * 4.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ShkeSafr1992",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "3 to 6 eggs per clutch, 2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.0",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ShkeSafr1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Harr1975: egg length 2.27 cm, width 1.68 cm, weight pi/6*2.27*1.68^2=3.35 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "39",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 37 to 55 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11.6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "36",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "Wiki: 18 to 20 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "12",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "ShkeSafr1992",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "Wiki: 18 to 20 d"
+  }
+]

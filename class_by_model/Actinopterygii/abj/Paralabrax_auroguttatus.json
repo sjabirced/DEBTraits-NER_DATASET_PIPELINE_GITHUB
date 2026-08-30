@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Paralabrax",
+    "specie": "Paralabrax_auroguttatus",
+    "specie_en": "Goldspotted sand bass"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "71",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2560000/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(17.2)",
+    "units.temp": "K",
+    "comment": "based on Paralabrax_clathratus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.5e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01349*Li^3.07, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "742",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01349*Lp^3.07, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(17.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "34 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(17.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

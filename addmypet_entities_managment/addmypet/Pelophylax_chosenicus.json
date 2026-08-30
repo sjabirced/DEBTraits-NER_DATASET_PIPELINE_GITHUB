@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Pelophylax",
+    "specie": "Pelophylax_chosenicus",
+    "specie_en": "Seoul frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5.18",
+      "units": "cm",
+      "label": "ultimate SVL of females",
+      "bibkey": "CheoPark2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "3.42",
+      "units": "cm",
+      "label": "ultimate SVL of males",
+      "bibkey": "CheoPark2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.0",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "CheoPark2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.6",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lim*0.7"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "2.4",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lim*0.7"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.6e3/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on Pelophylax_esculentus: 7300*18.2/80"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "18.2",
+      "units": "g",
+      "label": "ultimate wet weight of females",
+      "bibkey": "CheoPark2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "3.9",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "CheoPark2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CheoPark2007",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "CheoPark2007",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Crocodylidae",
+    "genus": "Crocodylus",
+    "specie": "Crocodylus_mindorensis",
+    "specie_en": "Philippine crocodile",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "310",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "310",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "130",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "210",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "60/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "7-33 eggs per clutch, upto 3 clutches per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "50.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MarzRuss2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg volume"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "75.3e3",
+      "units": "g",
+      "label": "ultimate wet weight of female",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on  3 m weighs 195 kg: (3.5/3)^3*195"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "75.3e3",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "15e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "71.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(31)",
+      "units.temp": "K",
+      "comment": "65-78 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "75*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "70-80 yrs"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

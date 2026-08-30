@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Anabantiformes",
+    "family": "Channidae",
+    "genus": "Channa",
+    "specie": "Channa_marulius",
+    "specie_en": "Bullseye snakehead",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "183",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "85",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Kila1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.5 mm of Channa striatus: pi/6*0.15^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "DuaKuma2006",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "'based on Li and tL"
+    }
+  ]
+}

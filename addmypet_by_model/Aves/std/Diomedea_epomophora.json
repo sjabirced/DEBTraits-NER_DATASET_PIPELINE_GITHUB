@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Procellariiformes",
+    "family": "Diomedeidae",
+    "genus": "Diomedea",
+    "specie": "Diomedea_epomophora",
+    "specie_en": "Southern royal albatross"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": ".5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "500",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "RobeRich1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "17e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "RobeRich1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Asymptotic mass prior to fledging, mean adult weight (Wiki): 8.5 kg, males are 2 to 3 kg heavier than females"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "79",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "RobeRich1993",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "temps from Rahn1991 for Laysan and the Black-footed Albatrosses"
+  },
+  {
+    "entity": "am",
+    "entity.value": "58*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "ADW",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "612",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": "temps from Warh1971"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "204",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "RobeRich1993",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": "temps from Warh1971"
+  }
+]

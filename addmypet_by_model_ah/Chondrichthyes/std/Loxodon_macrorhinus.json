@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Loxodon",
+    "specie": "Loxodon_macrorhinus",
+    "specie_en": "Sliteye shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "54.5",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "54 to 55  cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "98",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "91",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "{'fishbase','GuttHuve2013'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 98*83.2/89.5 cm, as found by GuttHuve2013"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "68",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "GuttHuve2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "73.3",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "GuttHuve2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.9 /365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "GuttHuve2013",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "fishbase: 2 till 4 pups per litter, one litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.1e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00457*Lb^3.10, see F3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.8e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','GuttHuve2013'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00457*Li^3.10, see F3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "5.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','GuttHuve2013'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00457*Lim^3.10, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.2e3",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'fishbase','GuttHuve2013'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00457*Lp^3.10, see F3"
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "2.76e3",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "{'fishbase','GuttHuve2013'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00457*Lpm^3.10, see F3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11.5*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

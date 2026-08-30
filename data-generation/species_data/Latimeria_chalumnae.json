@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Sarcopterygii",
+    "order": "Coelacanthiformes",
+    "family": "Latimeriidae",
+    "genus": "Latimeria",
+    "specie": "Latimeria_chalumnae",
+    "specie_en": "Coelacanth",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "36",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Smithonian",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "199",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "FroeLour2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "168",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "FroeLour2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Smithonian",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "17.5/(14*30.5)",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "Wiki 5-25 per clutch, assumed interval: ab"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "80000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14 * 30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "'All temperatures are guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "48 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "16 * 365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "FroeLour2000",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "Wiki: 20 yr"
+    }
+  ]
+}

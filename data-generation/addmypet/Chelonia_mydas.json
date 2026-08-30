@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Cheloniidae",
+    "genus": "Chelonia",
+    "specie": "Chelonia_mydas",
+    "specie_en": "Green turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "E0",
+      "entity.value": "226*1000",
+      "units": "J",
+      "label": "initial energy content of the egg",
+      "bibkey": "{'VenkKann2005', 'Wine2016', 'RuslBoot2016'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "4.55",
+      "units": "cm",
+      "label": "SCL at hatch",
+      "bibkey": "StubMitc",
+      "temp": null,
+      "units.temp": null,
+      "comment": "assumed no growth between hatch and onset of feeding"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "115",
+      "units": "cm",
+      "label": "ultimate CCL",
+      "bibkey": "Prin2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "approximate length of the largest green turtles at Ningaloo"
+    },
+    {
+      "entity": "Li_ref",
+      "entity.value": "143",
+      "units": "cm",
+      "label": "ultimate CCL",
+      "bibkey": "MoreBapt1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "largest published record of curved carapace length"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "91",
+      "units": "cm",
+      "label": "CCL at puberty",
+      "bibkey": "CSIRO",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Length of smallest nesting female at Ningaloo encountered during CSIRO fieldtrips"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.3",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'BjorCarr1989', 'BrodGlen2003', 'EkanKapu2016', 'Guin2009', 'Limp1993', 'Limp2009','LimpMill2003', 'LimpNich1988', 'TroeChal2007'}",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "based on 105 eggs per clutch, 4 clutches per season and nesting every 4 years (averages of values found in references cited)"
+    },
+    {
+      "entity": "Wwh",
+      "entity.value": "27.02",
+      "units": "g",
+      "label": "wet weight at hatch",
+      "bibkey": "StubMitc",
+      "temp": null,
+      "units.temp": null,
+      "comment": "average wet weight of Ningaloo hatchlings (including yolk)"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "130*1000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "CSIRO",
+      "temp": null,
+      "units.temp": null,
+      "comment": "weight of largest turtle at Ningaloo encountered during CSIRO fieldtrips"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "97*1000",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "CSIRO",
+      "temp": null,
+      "units.temp": null,
+      "comment": "weight of smallest nesting turtle (or turtle observed with vitellogenic follicles) at Ningaloo encountered during CSIRO fieldtrips"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "54",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'BalaRoss1974','Chri1990','StubMitc','Hend1958','PereBoot2011','SalmHama2009'}",
+      "temp": "C2K(30.22)",
+      "units.temp": "K",
+      "comment": "mean time to hatch + days to emerge + days to start feeding"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "47.69",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "StubMitc",
+      "temp": "C2K(30.22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "80*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "{'BalaChal2004','CSIRO'}",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "29*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "{'BalaChal2004', 'BellPars2005', 'ChalLimp2004', 'FrazEhrh1985', 'FrazLadn1986', 'GoshAven2010', 'VanHHarg2014', 'ZuriHerr2012'}",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

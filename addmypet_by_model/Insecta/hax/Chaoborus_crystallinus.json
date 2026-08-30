@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Diptera",
+    "family": "Chaoboridae",
+    "genus": "Chaoborus",
+    "specie": "Chaoborus_crystallinus",
+    "specie_en": "Glassworm"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 283.0,
+    "units": "#",
+    "label": "total number of eggs",
+    "bibkey": "Ratt1977",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wd0",
+    "entity.value": 1.63e-06,
+    "units": "g",
+    "label": "initial dry weight",
+    "bibkey": "Buen1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wde",
+    "entity.value": 0.0007,
+    "units": "g",
+    "label": "dry weight of imago",
+    "bibkey": "Buen1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "dry weight belongs to same experiment as wet weight"
+  },
+  {
+    "entity": "Wwe",
+    "entity.value": 0.00233,
+    "units": "g",
+    "label": "wet weight of imago",
+    "bibkey": "Buen1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": 0.00561,
+    "units": "g",
+    "label": "wet weight of pupa",
+    "bibkey": "Buen1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": 1.044,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Parm1969",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "unclear if lab data or field data"
+  },
+  {
+    "entity": "am",
+    "entity.value": 10.0,
+    "units": "d",
+    "label": "life span as imago",
+    "bibkey": "BereBons2002",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "max 10 days, in lab at 25 degrees: 5.2 days"
+  },
+  {
+    "entity": "te",
+    "entity.value": 3.0,
+    "units": "d",
+    "label": "time since pupation at emergence",
+    "bibkey": "Buen1990",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": 52.0,
+    "units": "d",
+    "label": "time since birth at pupation",
+    "bibkey": "Wier1984",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "f for this data is much smaller than 1 in view of tL data versus tLi data"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Priacanthiformes",
+    "family": "Priacanthidae",
+    "genus": "Priacanthus",
+    "specie": "Priacanthus_macracanthus",
+    "specie_en": "Red bigeye"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.07",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "LiuHung2001",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18.9",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "LiuHung2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.4e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LiuHung2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.52 mm: 4/3*pi*0.026^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "413",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "JounChen1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 1.148e-5 * (10*Li)^3.05, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "101",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "JounChen1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 1.148e-5 * (10*Lp)^3.05, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

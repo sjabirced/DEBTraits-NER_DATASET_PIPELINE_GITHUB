@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Athene",
+    "specie": "Athene_noctua",
+    "specie_en": "Little owl",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "3 to 5 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "11",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: egg length 35.5 mm, width 29.5 mm: weight = pi/6*3.55*2.95^2=16.2 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "180",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 178 to 435 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "28",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "EoL",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "18 to 35 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11.1*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "23 to 37 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "30",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "PerrGrue2014",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "23 to 37 d"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Recurvirostridae",
+    "genus": "Himantopus",
+    "specie": "Himantopus_novaezelandiae",
+    "specie_en": "Black stilt",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ReedSanc2000",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "15.6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ReedSanc2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "220",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "25",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "'Data for Himantopus mexicanus. Temperature is guessed based on being the optimal temperature for artificial incubation for several species"
+    },
+    {
+      "entity": "am",
+      "entity.value": "19.1*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "Data for Himantopus mexicanus"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "Data for Himantopus mexicanus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "99",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "32 till 35 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "33",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ReedSanc2000",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "32 till 35 d"
+    }
+  ]
+}

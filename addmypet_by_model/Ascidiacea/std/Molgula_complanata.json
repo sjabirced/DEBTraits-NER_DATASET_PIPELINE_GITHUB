@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Ascidiacea",
+    "order": "Stolidobranchia",
+    "family": "Molgulidae",
+    "genus": "Molgula",
+    "specie": "Molgula_complanata",
+    "specie_en": "Dwarf sea grape"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.8",
+    "units": "cm",
+    "label": "diameter at puberty",
+    "bibkey": "FramMcCan1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2800/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.45e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "FramMcCan1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on smallest diameter of 0.5 mm: Wwi*(0.05/2)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.57",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "MarSpec",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on diameter 2 cm, height 1.5 cm, depth 1 cm (guess): pi/6*2*1.5*1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "93",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "FramMcCan1971",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

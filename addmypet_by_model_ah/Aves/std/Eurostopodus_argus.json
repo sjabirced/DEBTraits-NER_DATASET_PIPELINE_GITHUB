@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Caprimulgiformes",
+    "family": "Caprimulgidae",
+    "genus": "Eurostopodus",
+    "specie": "Eurostopodus_argus",
+    "specie_en": "Spotted nightjar"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "73.5",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "bow",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": "1 egg per clutch: 1 clutch per year"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Caprimulgus_europaeus: 6.5*91/67"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "91",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "105",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "31",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "bow",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "29-33 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12.7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1.8*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "90",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "30",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "bow",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Percina",
+    "specie": "Percina_nigrofasciata",
+    "specie_en": "Blackbanded darter"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.0",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "Math1973",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Math1973",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.4 mm: pi/6*0.14^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "9.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "relationship 0.00513*11^3.14 (see F1)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Math1973",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

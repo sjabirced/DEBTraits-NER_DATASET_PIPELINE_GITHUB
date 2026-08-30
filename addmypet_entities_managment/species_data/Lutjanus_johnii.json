@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Lutjanus",
+    "specie": "Lutjanus_johnii",
+    "specie_en": "John",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "97",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "51.9",
+      "units": "cm",
+      "label": "fork length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.92e6/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "PhilJaya2017",
+      "temp": "C2K(28.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "PhilJaya2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.85 mm: pi/6*0.085^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "11241",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01479*Li^2.96, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1766",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01479*Lp^2.96, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(28.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

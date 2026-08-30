@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Redunca",
+    "specie": "Redunca_fulvorufula",
+    "specie_en": "Mountain reedbuck"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": "1 calf per litter, 1.1 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3000",
+    "units": "g",
+    "label": "wet weight at birth for female",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "NortFair1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "32e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "NortFair1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "216",
+    "units": "d",
+    "label": "gestation time for female calves",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "388",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "335",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "121",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": "guess based on Antidorcas"
+  }
+]

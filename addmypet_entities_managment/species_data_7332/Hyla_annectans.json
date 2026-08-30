@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Hylidae",
+    "genus": "Hyla",
+    "specie": "Hyla_annectans",
+    "specie_en": "Chuanxi tree frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.1",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "LiaoLua2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.7",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "LiaoLua2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.15",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "LiaoLua2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.7",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "LiaoLua2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.15",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "LiaoLua2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1476/365",
+    "units": "#/d",
+    "label": "reprod rate at 4.5 cm SVL",
+    "bibkey": "guess",
+    "temp": "C2K(20.5)",
+    "units.temp": "K",
+    "comment": "based on Hyla eximia"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Hyla eximia"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.75",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on length-weight of Hyla eximia: (4.1/3.75)^3*4.4"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.22",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on length-weight of Hyla eximia: (3.7/3.75)^3*4.4"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LiaoLua2010",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Motacilla",
+    "specie": "Motacilla_clara",
+    "specie_en": "Mountain wagtail",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Pipe1989",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "usually 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Pipe1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "egg weight 2.4 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "25",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Pipe1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Pipe1989",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "8.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "value for M. flava"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Pipe1989",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "48",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "16",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Pipe1989",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

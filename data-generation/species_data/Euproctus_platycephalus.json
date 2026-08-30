@@ -1,0 +1,174 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Euproctus",
+    "specie": "Euproctus_platycephalus",
+    "specie_en": "Sardinian brook salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.479",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "converted from TL 8.8 to 14.5 mm, using F1"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4.74",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "beased on TL 100-130 mm, converted to SVL using F1"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.35",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.13",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "converted from TL 20 to 35 mm, using F1"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.6",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "125/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "57 to 221 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0141",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3 mm: pi/6*0.3^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.9",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "BoveSotg2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.1",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "BoveSotg2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.71",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/Li)^3*Wwi"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "37.6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "12.7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(24.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "415",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "376-453 d"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "210",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(20.5)",
+      "units.temp": "K",
+      "comment": "184-260 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "BoveSotg2003",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

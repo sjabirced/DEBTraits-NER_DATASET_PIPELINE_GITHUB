@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Triturus",
+    "specie": "Triturus_marmoratus",
+    "specie_en": "Marbled newt",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.55",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "CaetCast1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.85",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "CaetCast1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "290/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "200-380 egg per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimated from  egg diameter of 2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10.6",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Triturus cristatus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Triturus cristatus"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "17",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "salamanderland",
+      "temp": "C2K(13.5)",
+      "units.temp": "K",
+      "comment": "14 to 21 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "2.75*30.5",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(9)",
+      "units.temp": "K",
+      "comment": "2.5 to 3 months"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "CaetCast1993",
+      "temp": "C2K(9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "CaetCast1993",
+      "temp": "C2K(9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

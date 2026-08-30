@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Ursidae",
+    "genus": "Ursus",
+    "specie": "Ursus_arctos_middendorffi",
+    "specie_en": "Kodiak bear",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "450",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "sex not indicated"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "300e3",
+      "units": "g",
+      "label": "ultimate wet weight of female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "181 to 318 kg"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "500e3",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "477 to 534 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "40*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "103",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "213",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

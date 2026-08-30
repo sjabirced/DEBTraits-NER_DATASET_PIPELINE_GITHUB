@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Bagridae",
+    "genus": "Tachysurus",
+    "specie": "Tachysurus_fulvidraco",
+    "specie_en": "Yellow catfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "34.5",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.4",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "JabeHoss2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.7 mm: pi/6*0.17^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "317",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Li^2.94, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "12.2",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'JabeHoss2020','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Lp^2.94, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "16",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "NaziKhan2020",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

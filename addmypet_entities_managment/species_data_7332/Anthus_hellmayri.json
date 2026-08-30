@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Anthus",
+    "specie": "Anthus_hellmayri",
+    "specie_en": "Hellmayr"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "NoraFuen2022",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "4 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "2.3",
+    "units": "g",
+    "label": "initital wet weight",
+    "bibkey": "NoraFuen2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.0",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Colo2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "18.75",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "NoraFuen2022",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "34.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "13-15"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "11.5",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Colo2022",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "13-15"
+  }
+]

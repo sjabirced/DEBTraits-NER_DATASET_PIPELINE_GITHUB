@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Tinamiformes",
+    "family": "Tinamidae",
+    "genus": "Nothoprocta",
+    "specie": "Nothoprocta_perdicaria",
+    "specie_en": "Chilean tinamou",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "317.5",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GavrGolu2023",
+      "temp": "C2K(33.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "avibase",
+      "temp": "C2K(39.45)",
+      "units.temp": "K",
+      "comment": "8 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "37.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "bow",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "458",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "20",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "bow",
+      "temp": "C2K(39.45)",
+      "units.temp": "K",
+      "comment": "19-21 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "14.7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "avibase",
+      "temp": "C2K(39.45)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1.6*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "avibase",
+      "temp": "C2K(39.45)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "100",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.45)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "1.5*30.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "bow",
+      "temp": "C2K(39.45)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

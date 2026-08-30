@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Mugiliformes",
+    "family": "Mugilidae",
+    "genus": "Chelon",
+    "specie": "Chelon_ramada",
+    "specie_en": "Thinlip mullet"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "91",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25.9",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.2e6/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "fishbase",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e-4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.9 mm for Mugil cephalus: pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.22e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00977*Li^2.97, see F1"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "7.22e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Lim^2.97, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "77.9",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Lp^2.97, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "23*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

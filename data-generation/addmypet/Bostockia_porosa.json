@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Percichthyidae",
+    "genus": "Bostockia",
+    "specie": "Bostockia_porosa",
+    "specie_en": "Nightfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwp=0.00389*Lp^3.12, see F1"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "PenPott1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "18.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Li^3.12, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on WN data"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

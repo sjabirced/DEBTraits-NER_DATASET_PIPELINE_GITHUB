@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Ducula",
+    "specie": "Ducula_zoeae",
+    "specie_en": "Zoe"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "306.5",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(40.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40.5)",
+    "units.temp": "K",
+    "comment": "1 egg per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "22.6",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Ducula_spilorrhoa"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "568",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "bow: 575–592 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "27",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(38)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(40.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "2.3*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "avibase",
+    "temp": "C2K(40.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "79",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "26",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "guess",
+    "temp": "C2K(40.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

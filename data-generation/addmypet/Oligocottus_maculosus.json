@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Oligocottus",
+    "specie": "Oligocottus_maculosus",
+    "specie_en": "Tidepool sculpin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8.9",
+      "units": "cm",
+      "label": "ultimate total length for",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Clinocottus_analis"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e3/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(9.1)",
+      "units.temp": "K",
+      "comment": "based on Clinocottus_analis"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.63 mm for Cottus volki: pi/6*0.163^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.76",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00589*Li^3.15, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.67",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00589*Lp^3.15, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MichChad1976",
+      "temp": "C2K(9.1)",
+      "units.temp": "K",
+      "comment": "based on Clinocottus_analis"
+    }
+  ]
+}

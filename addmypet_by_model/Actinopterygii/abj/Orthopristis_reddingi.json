@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Haemulidae",
+    "genus": "Orthopristis",
+    "specie": "Orthopristis_reddingi",
+    "specie_en": "Bronze-striped grunt"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "29.8",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.2e5/365",
+    "units": "#/d",
+    "label": "max reoduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(22.3)",
+    "units.temp": "K",
+    "comment": "based on Haemulon_album: 2.2e6*600/5926"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.85 mm of Lutjanus stellatus: pi/6*0.085^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "600",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on LW data"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "100",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','CruzEspi1993'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LW data"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CruzEspi1993",
+    "temp": "C2K(22.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

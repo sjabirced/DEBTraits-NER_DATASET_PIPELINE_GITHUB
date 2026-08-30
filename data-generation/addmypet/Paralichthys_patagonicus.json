@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Paralichthyidae",
+    "genus": "Paralichthys",
+    "specie": "Paralichthys_patagonicus",
+    "specie_en": "Patagonian flounder",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.04",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "ArauHaiv2000",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "48",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "33.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.6e-04",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.02 mm of P. dentatus: pi/6*0.102^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "875",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00537*Li^3.16, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "287",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00537*Lp^3.16, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ArauHaiv2000",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

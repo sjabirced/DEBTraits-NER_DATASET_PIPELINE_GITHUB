@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Pteropodidae",
+    "genus": "Melonycteris",
+    "specie": "Melonycteris_melanops",
+    "specie_en": "Black-bellied fruit bat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "43.20",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "1 pup per litter, guess: 2 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Eonycteris_spelaea: 5.9*63/80"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "63",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10.1*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "based on Dobsonia moluccensis"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "138",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "273",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "based on Eonycteris_spelaea"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "91",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "based on Eonycteris_spelaea"
+    }
+  ]
+}

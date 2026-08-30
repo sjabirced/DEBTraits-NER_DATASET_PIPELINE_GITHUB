@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Thaliacea",
+    "order": "Salpida",
+    "family": "Salpidae",
+    "genus": "Thalia",
+    "specie": "Thalia_democratica",
+    "specie_en": "Salp",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb_asex",
+      "entity.value": "0.3",
+      "units": "cm",
+      "label": "length at birth, asex generation",
+      "bibkey": "Hero1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lb_sex",
+      "entity.value": "0.175",
+      "units": "cm",
+      "label": "length at birth, sex generation",
+      "bibkey": "Hero1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li_asex",
+      "entity.value": "1.24",
+      "units": "cm",
+      "label": "ultimate length, asex generation",
+      "bibkey": "Hero1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp_asex",
+      "entity.value": "0.54",
+      "units": "cm",
+      "label": "length at puberty, asex generation",
+      "bibkey": "Hero1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri_asex",
+      "entity.value": "70 * 24/ 5",
+      "units": "#/d",
+      "label": "maximum reprod rate, asex generation",
+      "bibkey": "BorgMoll1986",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb_asex",
+      "entity.value": "4 * 69e-6 * 1.62 * (10 * data.Lb_asex)^1.93",
+      "units": "g",
+      "label": "wet weight at birth, asex generation",
+      "bibkey": "Hero1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi_asex",
+      "entity.value": "4 * 69e-6 * 1.62 * (10 * data.Li_asex)^1.93",
+      "units": "g",
+      "label": "ultimate wet weight, asex generation",
+      "bibkey": "Hero1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp_asex",
+      "entity.value": "4 * 69e-6 * 1.62 * (10 * data.Lp_asex)^1.93",
+      "units": "g",
+      "label": "wet weight at puberty, asex generation",
+      "bibkey": "Hero1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "18/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'Hens2009','BorgMoll1986'}",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2.75",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "{'Hens2009','BorgMoll1986'}",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "1",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "BorgMoll1986",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Macroscelidea",
+    "family": "Macroscelididae",
+    "genus": "Elephantulus",
+    "specie": "Elephantulus_edwardii",
+    "specie_en": "Cape elephant shrew",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "54.28",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.5*2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": "1-2 pups per litter, 2 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "11.9",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "50",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "4.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": "based on Elephantulus_intufi"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "51",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": "based on Elephantulus_intufi"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "330",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": "based on Elephantulus_intufi"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "28",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": "based on Elephantulus_intufi"
+    }
+  ]
+}

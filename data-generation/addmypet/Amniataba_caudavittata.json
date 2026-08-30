@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Terapontidae",
+    "genus": "Amniataba",
+    "specie": "Amniataba_caudavittata",
+    "specie_en": "Yellowtail trumpeter",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "WiseNeir1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on end of 1st yr, early 2nd yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.2e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WiseNeir1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 560 mum: pi/6*0.056^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "399",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Li^3.02, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "25",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "WiseNeir1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Lp^3.02, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

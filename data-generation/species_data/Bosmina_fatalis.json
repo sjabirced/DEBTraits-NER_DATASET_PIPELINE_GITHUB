@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Bosminidae",
+    "genus": "Bosmina",
+    "specie": "Bosmina_fatalis",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.023",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "HanaYasu1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.055",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "HanaYasu1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.035",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "HanaYasu1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.5/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "'based on 1-2 eggs per brood"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "4.68e-6",
+      "units": "mug",
+      "label": "ultimate dry weight",
+      "bibkey": "CulvBouc1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 17.7369*0.55^2.2291 using F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "40",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

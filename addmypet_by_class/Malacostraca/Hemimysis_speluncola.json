@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Mysida",
+    "family": "Mysidae",
+    "genus": "Hemimysis",
+    "specie": "Hemimysis_speluncola",
+    "specie_en": "Opossum shrimp"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.2,
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "GaudGuer1979",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.64,
+    "units": "cm",
+    "label": "ultimate length",
+    "bibkey": "GaudGuer1979",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.44,
+    "units": "cm",
+    "label": "length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on same relative length compared to Praunus: 1.8/2.6*0.64"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 0.19,
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.9"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": 1.69e-05,
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lb/Li)^3*Wdi"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 0.000556,
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length-weight of Mysis mixta: (0.6/1.470)^3*6.8e-3"
+  },
+  {
+    "entity": "Wdp",
+    "entity.value": 0.000156,
+    "units": "g",
+    "label": "dry weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/Li)^3*Wdi"
+  },
+  {
+    "entity": "ab_14",
+    "entity.value": 28.5,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "GaudGuer1979",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ab_18",
+    "entity.value": 17.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "GaudGuer1979",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ab_22",
+    "entity.value": 15.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "GaudGuer1979",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": 34.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "GaudGuer1979",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "based on tL-curve at 18 C for Lp"
+  }
+]

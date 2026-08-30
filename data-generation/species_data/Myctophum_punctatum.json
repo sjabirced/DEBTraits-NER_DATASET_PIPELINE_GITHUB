@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Myctophum",
+    "specie": "Myctophum_punctatum",
+    "specie_en": "Spotted lanternfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "standard length fat puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "800/365",
+      "units": "#/d",
+      "label": "max reprod rate ",
+      "bibkey": "fishbase",
+      "temp": "C2K(7.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.3 mm of Lampanyctus_ritteri: pi/6*0.03^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "13.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*Lp^3.15, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.13",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "98*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AposSter2014",
+      "temp": "C2K(7.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

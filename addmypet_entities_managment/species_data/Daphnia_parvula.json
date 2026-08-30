@@ -1,0 +1,54 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Daphniidae",
+    "genus": "Daphnia",
+    "specie": "Daphnia_parvula",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.048,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "PacePort1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 0.13,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "PacePort1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.1,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "PacePort1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": 26.0,
+      "units": "mug",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based in Daphnia magna: 600*(130/370)^3"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Hylidae",
+    "genus": "Hyla",
+    "specie": "Hyla_arborea",
+    "specie_en": "European tree frog"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.1",
+    "units": "cm",
+    "label": "total length of tadpole at birth",
+    "bibkey": "Gros1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.0",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "4.3",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.6",
+    "units": "cm",
+    "label": "SVL of frog at metam",
+    "bibkey": "Gros1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ljb",
+    "entity.value": "4.6",
+    "units": "cm",
+    "label": "total length of tadpole at metam",
+    "bibkey": "Gros1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.3",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "Gros1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2000/365",
+    "units": "#/d",
+    "label": "reprod rate at 4.5 cm SVL",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.8",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Gros1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tW"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "3.1",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Gros1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tW and tL data for Lim: (4.3/5)^3 *4.8"
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "0.60",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "Gros1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Gros1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/Lj)^3 * Wwj"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Gros1994",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "51",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Gros1994",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4*30.5",
+    "units": "d",
+    "label": "time since metam at puberty",
+    "bibkey": "Gros1994",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

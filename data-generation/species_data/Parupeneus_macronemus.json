@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Mullidae",
+    "genus": "Parupeneus",
+    "specie": "Parupeneus_macronemus",
+    "specie_en": "Long-barbel goatfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12.3",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8811/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Parupeneus_barberinus: 26432*1e3/3e3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00912*Li^3.15, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "24.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00912*Lp^3.15, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

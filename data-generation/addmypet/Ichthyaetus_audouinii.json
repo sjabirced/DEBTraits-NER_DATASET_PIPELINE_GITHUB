@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Ichthyaetus",
+    "specie": "Ichthyaetus_audouinii",
+    "specie_en": "Audouin",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "40",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Witt1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": "egg weight: 84 to 92 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "770",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Witt1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": "asymptotic weight of nesting, adult 660 g (EoL)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "28.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Witt1977",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "'26 to 33 d. Temperature is guessed based on being the optimal temperature for artificial incubation for several species"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1095",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "based on other Larus species"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "87",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "29",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Witt1977",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

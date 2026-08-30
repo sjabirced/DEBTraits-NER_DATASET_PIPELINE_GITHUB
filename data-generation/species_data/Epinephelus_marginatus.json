@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Epinephelus",
+    "specie": "Epinephelus_marginatus",
+    "specie_en": "Dusky grouper",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.295",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "GlamSkar1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Goth1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "RenoGrau2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "R92",
+      "entity.value": "8e6/365",
+      "units": "#/d",
+      "label": "reprod rate at TL = 92 cm",
+      "bibkey": "RenoGrau2010",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.48e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Cunha2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Heemstra1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "500",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Cunha2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1 + 80/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "GlamSkar1998",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "50 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Goth1991",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1827",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "RenoGrau2010",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

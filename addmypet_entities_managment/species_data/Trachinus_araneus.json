@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Trachinidae",
+    "genus": "Trachinus",
+    "specie": "Trachinus_araneus",
+    "specie_en": "Spotted weever",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.08",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(18.6)",
+      "units.temp": "K",
+      "comment": "based on Trachinus draco"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10.2",
+      "units": "cm",
+      "label": "total length st puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Trachinus draco: 12*45/53"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.89e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.04 mm: pi/6*0.104^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "704",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01047*Li^2.92, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "9.22",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01047*Lp^2.92, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "12.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(18.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HeneRizk2022",
+      "temp": "C2K(18.6)",
+      "units.temp": "K",
+      "comment": "based on tL data"
+    }
+  ]
+}

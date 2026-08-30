@@ -1,0 +1,174 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hymenoptera",
+    "family": "Braconidae",
+    "genus": "Aphidius",
+    "specie": "Aphidius_rhopalosiphi",
+    "specie_en": "Aphid parasitic wasp",
+    "deb_model": "hax"
+  },
+  "data": [
+    {
+      "entity": "JCi",
+      "entity.value": "0.41",
+      "units": "muL CO2 /h",
+      "label": "mean basal metabolic rate",
+      "bibkey": "LannViss2012",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "N = 26"
+    },
+    {
+      "entity": "Le",
+      "entity.value": "0.211",
+      "units": "cm",
+      "label": "female length at emergence",
+      "bibkey": "CoheJons2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'N = 40"
+    },
+    {
+      "entity": "N24h",
+      "entity.value": "26.92",
+      "units": "#",
+      "label": "aphids parasitized in 24 h",
+      "bibkey": "Baye2024",
+      "temp": "C2K(20.4)",
+      "units.temp": "K",
+      "comment": "'N = 374"
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "392.21",
+      "units": "#",
+      "label": "total number of deposited eggs",
+      "bibkey": "ShirCart1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "256.59",
+      "units": "#",
+      "label": "total number of hatched eggs",
+      "bibkey": "ShirCart1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wde",
+      "entity.value": "180.5/ 1e6",
+      "units": "g",
+      "label": "female dry weight at emergence",
+      "bibkey": "LannViss2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'N = 14"
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": "0.16/ 1000",
+      "units": "g",
+      "label": "dry mass of mummy",
+      "bibkey": "LegrVern2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'cocoon weight included"
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": "0.118/ 1000",
+      "units": "g",
+      "label": "dry mass of mummy",
+      "bibkey": "LannViss2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'N = 17"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "2.03E-05/ 1000",
+      "units": "g",
+      "label": "wet weight of an egg",
+      "bibkey": "LannViss2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'N = 42"
+    },
+    {
+      "entity": "Wwe",
+      "entity.value": "0.22/ 1e3",
+      "units": "g",
+      "label": "female wet weight at emergence",
+      "bibkey": "LannWard2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'N = 160"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.42/ 1000",
+      "units": "g",
+      "label": "fresh mass of mummy",
+      "bibkey": "LegrVern2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'cocoon weight included"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MuraLann2004",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": "teratocytes released in host after 3-4 days"
+    },
+    {
+      "entity": "ae",
+      "entity.value": "43.9",
+      "units": "d",
+      "label": "age at emergence",
+      "bibkey": "LegrVern2004",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "aj",
+      "entity.value": "7.18",
+      "units": "d",
+      "label": "age at mummification",
+      "bibkey": "{'FuenPowe1996', 'FuenNiem1998'}",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "13.1",
+      "units": "d",
+      "label": "life span as imago",
+      "bibkey": "ShirCart1983",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "fed with honey solution"
+    },
+    {
+      "entity": "te",
+      "entity.value": "4.55",
+      "units": "d",
+      "label": "time from mummy to emergence",
+      "bibkey": "{'FuenPowe1996', 'FuenNiem1998'}",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

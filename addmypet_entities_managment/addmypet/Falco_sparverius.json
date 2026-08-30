@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Falco",
+    "specie": "Falco_sparverius",
+    "specie_en": "American kestrel",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1.5*4.6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": "'4.6 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "10.6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "NegrChas1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "141",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "NegrChas1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "135",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "NegrChas1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "avibase",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "17*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "93",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "31",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "avibase",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

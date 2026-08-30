@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Merlucciidae",
+    "genus": "Merluccius",
+    "specie": "Merluccius_productus",
+    "specie_en": "North Pacific hake",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "105",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "83",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "37",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "28",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5e5/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(8.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 900 mum: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi = 0.00457*Li^3.10, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "332",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwp = 0.00457*Lp^3.10, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(8.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

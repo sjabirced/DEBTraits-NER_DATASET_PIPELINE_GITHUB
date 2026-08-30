@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Aythya",
+    "specie": "Aythya_fuligula",
+    "specie_en": "Tufted duck"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "9/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "'between 6 and 14, mostly between 8 and 10"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "37.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Kear1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "701.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "26.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(36.65)",
+    "units.temp": "K",
+    "comment": "temps from Rahn1991, see Anas_platyrhynchos"
+  },
+  {
+    "entity": "am",
+    "entity.value": "45.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "157.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "52.5",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "ADW",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "between 49 and 56 d"
+  }
+]

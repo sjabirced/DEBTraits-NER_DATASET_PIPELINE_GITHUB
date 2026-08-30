@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Lepilemuridae",
+    "genus": "Lepilemur",
+    "specie": "Lepilemur_mustelinus",
+    "specie_en": "Weasel sportive lemur",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "27",
+      "units": "cm",
+      "label": "ultimate bodu length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "24-30 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "27",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "700",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "254",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Nycticebus_coucang:  Wb+tx*(520-48.2)/177, because Lind2002 gives similar foetal growth rate of 0.2 g/d for L.m. versus 0.25 g/d for N.c. (defined ad Wb/ab)"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "135",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "temp is guessed"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "592",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "'for female"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "85",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

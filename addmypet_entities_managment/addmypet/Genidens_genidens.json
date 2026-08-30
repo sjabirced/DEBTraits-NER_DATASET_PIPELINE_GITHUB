@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ariidae",
+    "genus": "Genidens",
+    "specie": "Genidens_genidens",
+    "specie_en": "Guri sea catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "42.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11.8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "17/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(23.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.15",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 13 mm: pi/6*1.3^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "707",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00724*Li^3.07, see F1, give 1.3 kg"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "14",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00724*Lp^3.07, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "36*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "VelaReis2007",
+      "temp": "C2K(23.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

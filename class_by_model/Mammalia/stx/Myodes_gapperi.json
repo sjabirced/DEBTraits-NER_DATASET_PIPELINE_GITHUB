@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Myodes",
+    "specie": "Myodes_gapperi",
+    "specie_en": "Southern red-backed vole"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "44.46",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5*5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "'3-7 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Myodes_glareolus: 4.3*20.6/36"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "20.6",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "6–42 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "18",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "17-19 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "9.5*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "19",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "17-21 d"
+  }
+]

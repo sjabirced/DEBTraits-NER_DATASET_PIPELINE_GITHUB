@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Phycidae",
+    "genus": "Phycis",
+    "specie": "Phycis_blennoides",
+    "specie_en": "Greater forkbeard"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "33",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2e6/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": "based on Pseudophycis bachus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "8.3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00479*Li^3.12, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

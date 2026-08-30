@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Caprimulgiformes",
+    "family": "Caprimulgidae",
+    "genus": "Caprimulgus",
+    "specie": "Caprimulgus_pectoralis",
+    "specie_en": "Fiery-necked nightjar",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Jack2002",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Jack2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "54.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Jack2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "18",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Jack2002",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": "value for Caprimulgus_europaeus"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "350",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "EoL",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "100",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "18",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Jack2002",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

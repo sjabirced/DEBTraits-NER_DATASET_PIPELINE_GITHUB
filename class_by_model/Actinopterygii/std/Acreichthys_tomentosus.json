@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Monacanthidae",
+    "species": "Acreichthys_tomentosus",
+    "species_en": "Bristle-tail file-fish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.15",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "KimBae2016",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": "based on Thamnaconus modestus"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "14",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate, derived from other species"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.7e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.57 mm of Stephanolepis_hispidus: pi/6*0.057^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "65",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02630*Li^2.96, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "8.3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02630*Lp^2.96, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

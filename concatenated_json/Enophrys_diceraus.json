@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Enophrys",
+    "specie": "Enophrys_diceraus",
+    "specie_en": "Antlered sculpin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "32",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "66*760/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(2.4)",
+    "units.temp": "K",
+    "comment": "based on rel fecundity 66 eggs/g of Myoxocephalus_joak: "
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.4 mm of Myoxocephalus_scorpius: pi/6*0.24^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "760",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on max. published weight"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "30",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00589*Lp^3.15, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "JohTaka2019",
+    "temp": "C2K(2.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

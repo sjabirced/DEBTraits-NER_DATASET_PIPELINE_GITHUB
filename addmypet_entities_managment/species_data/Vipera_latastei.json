@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Viperidae",
+    "genus": "Vipera",
+    "specie": "Vipera_latastei",
+    "specie_en": "Lataste",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "16",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "BritRebe2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "58",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "BritRebe2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: TL 72 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "35",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "BritRebe2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "13/365/3",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "2 till 13 eggs per clutch, 1 clutch each 3 yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "196",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Vipera berus: 180*(72/70)^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BritRebe2003",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

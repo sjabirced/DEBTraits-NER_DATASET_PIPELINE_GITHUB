@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Leucoraja",
+    "specie": "Leucoraja_ocellata",
+    "specie_en": "Winter skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "17",
+      "units": "cm",
+      "label": "disc width at birth",
+      "bibkey": "FrisMill2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "110",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "74.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "73-76 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "13/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(7.9)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.7"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.7*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(7.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "21*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(7.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

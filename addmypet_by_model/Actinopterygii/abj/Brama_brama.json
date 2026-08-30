@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Bramidae",
+    "genus": "Brama",
+    "specie": "Brama_brama",
+    "specie_en": "Atlantic pomfret"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "ultimate total length of female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e5/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "Based on kap = 0.97, as found for  Trichiurus nanhaiensis"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Rich2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on guessed egg diameter of 1.575 mm: pi/6*.1575^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

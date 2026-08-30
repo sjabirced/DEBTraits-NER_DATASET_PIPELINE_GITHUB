@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Oplegnathidae",
+    "genus": "Oplegnathus",
+    "specie": "Oplegnathus_woodwardi",
+    "specie_en": "Knifejaw"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.06",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "CoulWake2022",
+    "temp": "C2K(14.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "45",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "27.7",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "CoulWake2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data for t = 6 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.89e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01995*Li^3.01, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "438.3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','CoulWake2022'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01995*Lp^3.01, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11.8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(14.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "50*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CoulWake2022",
+    "temp": "C2K(14.8)",
+    "units.temp": "K",
+    "comment": "based on tL data"
+  }
+]

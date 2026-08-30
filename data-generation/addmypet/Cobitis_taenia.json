@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cobitidae",
+    "genus": "Cobitis",
+    "specie": "Cobitis_taenia",
+    "specie_en": "Spined loach",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Robo1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "13.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Robo1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "From tL-data at 2.5 yr"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Robo1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e3/365",
+      "units": "#/d",
+      "label": "Reprod rate max size",
+      "bibkey": "fishbase",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Robo1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 0.8 mm: 4/3*pi*0.04^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Robo1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on (Li/6.94)^3*6.94 from tL_1972 and tW_1972 at 3.5 yr"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "Robo1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on (Lp/6.94)^3*6.94 from tL_1972 and tW_1972 at 3.5 yr"
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "0.31",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "Robo1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on (Lpm/6.94)^3*6.94 from tL_1972 and tW_1972 at 3.5 yr"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Robo1981",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "age at puberty for females",
+      "bibkey": "Robo1981",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "age at puberty for males",
+      "bibkey": "Robo1981",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

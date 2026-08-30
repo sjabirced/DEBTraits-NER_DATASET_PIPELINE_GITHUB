@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Moxostoma",
+    "specie": "Moxostoma_poecilurum",
+    "specie_en": "Blacktail redhorse"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "51",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "34",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "GrabYoun2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 3-4 yr, and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12*1.26e3/365",
+    "units": "#/d",
+    "label": "max Reprod rate",
+    "bibkey": "GrabYoun2012",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "based on mean # eggs per weight"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "GrabYoun2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg weight"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.26e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01072*Li^2.97, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "GrabYoun2012",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

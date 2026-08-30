@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Cottus",
+    "specie": "Cottus_bairdii",
+    "specie_en": "Mottled sculpin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12.75",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "{'fishbase','Bail1952'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on largest female of TL 9.35 cm, and male 11 cm in Bail1952: 15*9.35/11"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.45",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Patt1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.63 mm for Cottus volki: pi/6*0.163^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "20.4",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "{'fishbase','ADW'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Lp^3.13, see F1"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "33.97",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Lim^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.76",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'fishbase','ADW'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Bail1952",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

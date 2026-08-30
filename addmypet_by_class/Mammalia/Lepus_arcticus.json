@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Lagomorpha",
+    "family": "Leporidae",
+    "genus": "Lepus",
+    "specie": "Lepus_arcticus",
+    "specie_en": "Arctic hare"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "1082",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(38.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.9)",
+    "units.temp": "K",
+    "comment": "2-8 pups per litter (mean 5.4), 1-2 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "105",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Lepus_californicus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5000",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: 3-5 kg"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "2000",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(38.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "53",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "300",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "60",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(38.9)",
+    "units.temp": "K",
+    "comment": "8-9 wks"
+  }
+]

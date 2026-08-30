@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Huso",
+    "specie": "Huso_huso",
+    "specie_en": "Beluga",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 2.5,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "MikhElen2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 800.0,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "KottFrey2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 200.0,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Birs1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 5479.4,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "SiddCoss2014",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.065,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MikhElen2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 3200000.0,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "KottFrey2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 50000.0,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "FalaAkha2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 14.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "SiddCoss2014",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "'curator remark: I could not find this data in SiddCoss2014"
+    },
+    {
+      "entity": "am",
+      "entity.value": 16790.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Coad2018",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "temp is wild guess"
+    },
+    {
+      "entity": "tp",
+      "entity.value": 5840.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "KottFrey2007",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "'for female: ap = 14-20 yr"
+    }
+  ]
+}

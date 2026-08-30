@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Phycidae",
+    "genus": "Urophycis",
+    "specie": "Urophycis_mystacea",
+    "specie_en": "Brazilian codling",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "66.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "43.9",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tL data at 4.5 yr"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e6/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(15.8)",
+      "units.temp": "K",
+      "comment": "based on Urophycis tenuis after weight correction: fecundity 15e6*1.38e3/21e3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "NAFO",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.76 mm of several Urophycis species: pi/6*0.076^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.38e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.00295*Li^3.11, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "378",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.00295*Lp^3.11, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BalbRoss2019",
+      "temp": "C2K(15.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

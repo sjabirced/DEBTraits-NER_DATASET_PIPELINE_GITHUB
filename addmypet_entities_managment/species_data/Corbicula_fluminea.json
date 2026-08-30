@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Venerida",
+    "family": "Cyrenidae",
+    "genus": "Corbicula",
+    "specie": "Corbicula_fluminea",
+    "specie_en": "Golden clam",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": ".02",
+      "units": "cm",
+      "label": "shell height at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4.8",
+      "units": "cm",
+      "label": "ultimate shell height",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on shell length 5 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "shell height at puberty",
+      "bibkey": "SousAntu2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on shell length 0.6- 1cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "68e3/365",
+      "units": "#/d",
+      "label": "maximum reproduction rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "WwL",
+      "entity.value": "12.17",
+      "units": "g",
+      "label": "body wet weight at SH 2.7 cm",
+      "bibkey": "Serd2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "LiRype2017",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

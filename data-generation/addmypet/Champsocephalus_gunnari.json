@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Channichthyidae",
+    "genus": "Champsocephalus",
+    "specie": "Champsocephalus_gunnari",
+    "specie_en": "Mackerel icefish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "66",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "26.2",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "11664/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "KockEver1997",
+      "temp": "C2K(1.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.031",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KockEver1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.5-4.1 mm: pi/6*0.39^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00117*Li^3.47, see F1, F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "97.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00117*Lp^3.47, see F1, F2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "95",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(1.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KockEver1997",
+      "temp": "C2K(1.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

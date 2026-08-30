@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Macrouridae",
+    "genus": "Coryphaenoides",
+    "specie": "Coryphaenoides_acrolepis",
+    "specie_en": "Pacific grenadier"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "104",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Andr1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3200/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": "guess based on kap=0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of C. rupestris of 2.6 mm: 4/3*pi*0.13^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3000",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "73*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

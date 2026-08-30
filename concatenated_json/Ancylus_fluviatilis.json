@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Planorbidae",
+    "genus": "Ancylus",
+    "specie": "Ancylus_fluviatilis",
+    "specie_en": "Freshwater limpet"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.12,
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "Hunt1953",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.72,
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Hunt1953",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": 0.13,
+    "units": "cm",
+    "label": "shell length at settlement",
+    "bibkey": "Hunt1953",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.3,
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 46.0,
+    "units": "#",
+    "label": "lifetime reprod output",
+    "bibkey": "Hunt1953",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "in 12 capsules"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 0.0034,
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Patella vulgata: 1.9 * (0.73/6)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Hunt1953",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

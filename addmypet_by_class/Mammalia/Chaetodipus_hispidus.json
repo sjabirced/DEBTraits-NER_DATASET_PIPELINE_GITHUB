@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Heteromyidae",
+    "genus": "Chaetodipus",
+    "specie": "Chaetodipus_hispidus",
+    "specie_en": "Hispid pocket mouse"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "49.4",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "gbif",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "gbif: 2-9 pups per litter, 2 or more litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Chaetodipus_californicus: 1.4*47/30"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "47",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "30-47 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Chaetodipus_californicus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "25",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Chaetodipus_californicus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "90",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Chaetodipus_californicus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "23",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Chaetodipus_californicus"
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Zenaida",
+    "specie": "Zenaida_macroura",
+    "specie_en": "Mourning dove",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "5*2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.63)",
+      "units.temp": "K",
+      "comment": "2 eggs/clutch, 5 clutches per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "110",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Mill2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 112 to 170 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(37.85)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "31.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.63)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at first brood",
+      "bibkey": "guess",
+      "temp": "C2K(40.63)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(40.63)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "14",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Wiki",
+      "temp": "C2K(40.63)",
+      "units.temp": "K",
+      "comment": "11 to 15 d"
+    }
+  ]
+}

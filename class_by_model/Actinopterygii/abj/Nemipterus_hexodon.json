@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Nemipteridae",
+    "genus": "Nemipterus",
+    "specie": "Nemipterus_hexodon",
+    "specie_en": "Ornate threadfin bream"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "23",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Nemipterus_japonicus"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.7e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Nemipterus_japonicus: 139200*160/596"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of  1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "160",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01445*Li^2.97, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": "based on Nemipterus_japonicus"
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gonorynchiformes",
+    "family": "Chanidae",
+    "genus": "Chanos",
+    "specie": "Chanos_chanos",
+    "specie_en": "Milkfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Baga1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.35",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "170",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW,FAO: SL = 180 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "65",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.5e6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Wiki'}",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "for Ww = 6000 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "FAO",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4500",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Baga1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "data.ah+5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "35.5/24",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "FAO",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "'all temps guessed from distribution, larger than 20 C ADW"
+    },
+    {
+      "entity": "aj",
+      "entity.value": "data.ab+14",
+      "units": "d",
+      "label": "age at metam",
+      "bibkey": "ADW",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "ADW: 14 - 30 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Baga1991",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "ADW: 3 - 10 yr (male and female)"
+    }
+  ]
+}

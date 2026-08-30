@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Pagrus",
+    "specie": "Pagrus_auriga",
+    "specie_en": "Redbanded seabream",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.02",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "PajuSoco2006",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "38.7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "PajuSoco2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "53.3 cm for males"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.85 mm of Diplodes sargus: pi/6*0.085^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.68e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.0086*Li^3.014, see F2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "based on Diplodus puntazzo"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "PajuMart2006",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

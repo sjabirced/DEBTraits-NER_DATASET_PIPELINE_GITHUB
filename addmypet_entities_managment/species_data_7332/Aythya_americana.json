@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Aythya",
+    "specie": "Aythya_americana",
+    "specie_en": "Redhead"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "13/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(41.2)",
+    "units.temp": "K",
+    "comment": "'1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "37.6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1245",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "EOL",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1320",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "EOL",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "26",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(36.65)",
+    "units.temp": "K",
+    "comment": "'temps from Rahn1991, see Anas_platyrhynchos"
+  },
+  {
+    "entity": "am",
+    "entity.value": "22.6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(41.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(41.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "195",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "65",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "ADW",
+    "temp": "C2K(41.2)",
+    "units.temp": "K",
+    "comment": "between 55 and 75 d"
+  }
+]

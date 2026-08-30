@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Eulipotyphla",
+    "family": "Erinaceidae",
+    "genus": "Atelerix",
+    "specie": "Atelerix_frontalis",
+    "specie_en": "Southern African hedgehog",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "86.25",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5.4*1.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": "5.4 pups per litter, 1.5 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "10.49",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "375",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "150 to 555 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11.4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": "anAge: at least 6.9 yr"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "37",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "64",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": "61–68 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "36",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

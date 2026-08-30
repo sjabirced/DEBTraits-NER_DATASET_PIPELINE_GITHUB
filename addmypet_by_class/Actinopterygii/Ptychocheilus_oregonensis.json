@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Ptychocheilus",
+    "specie": "Ptychocheilus_oregonensis",
+    "specie_en": "Northern pikeminnow"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "63",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "26.5/0.94",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Beam1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "25000/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "Garc2014",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0103",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Garc2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.7 mm: pi/6*0.27^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01020*Li^2.986, see F1. Fishbase gives 13 kg, but this is at odds with Li"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Beam1992",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Garc2014",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5 * 365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Beam1992",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

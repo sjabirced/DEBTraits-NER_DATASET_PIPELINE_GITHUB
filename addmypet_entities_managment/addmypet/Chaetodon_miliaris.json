@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Chaetodontiformes",
+    "family": "Chaetodontidae",
+    "genus": "Chaetodon",
+    "specie": "Chaetodon_miliaris",
+    "specie_en": "Millet butterflyfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.09",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "Rals1981",
+      "temp": "C2K(19.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Leis1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.75 mm: pi/6*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "68.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02818*Li^3.04, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "6.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02818*Lp^3.04, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Zeke2003",
+      "temp": "C2K(19.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Zeke2003",
+      "temp": "C2K(19.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

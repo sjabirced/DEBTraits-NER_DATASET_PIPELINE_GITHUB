@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Larimus",
+    "specie": "Larimus_fasciatus",
+    "specie_en": "Banded drum"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "13.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.37e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on  Argyrosomus_regius"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "172",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Li^3.08, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "25.8",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Lp^3.087, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(23.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "StanChit1984",
+    "temp": "C2K(23.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

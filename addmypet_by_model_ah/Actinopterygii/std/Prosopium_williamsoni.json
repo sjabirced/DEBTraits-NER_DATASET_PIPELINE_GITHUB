@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Prosopium",
+    "specie": "Prosopium_williamsoni",
+    "specie_en": "Mountain whitefish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "24143/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Shes2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.1 mm (1.9 to 2.4 mm) for Prosopium cylindraceum: pi/6*0.21^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.69e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00501*Li^3.18, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "249.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00501*Lp^3.18, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

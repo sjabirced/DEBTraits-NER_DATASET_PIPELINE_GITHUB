@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Milvus",
+    "specie": "Milvus_milvus",
+    "specie_en": "Red kite",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MougBret2006",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": "1 clutch per yr, 1-5 eggs/clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "52",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MougBret2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1150",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "MougBret2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "1000 to 1300 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1000",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "MougBret2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "800 to 1200 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "31.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "EoL",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "Varyies between 31 and 32 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "38*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1095",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "132",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "44",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "MougBret2006",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Anaecypris",
+    "specie": "Anaecypris_hispanica",
+    "specie_en": "Spanish minnowcarp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "RineCowx2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.6e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "RineCowx2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.08 mm: pi/6*0.108^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Li^3.10, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'RineCowx2000','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Lp^3.10,  see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "RineCowx2000",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

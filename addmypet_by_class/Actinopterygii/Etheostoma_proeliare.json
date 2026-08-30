@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Etheostoma",
+    "specie": "Etheostoma_proeliare",
+    "specie_en": "Cypress darter"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "BurrPage1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on first spawning at  1 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "138/365",
+    "units": "#/d",
+    "label": "max reproduction rate at SL 3.33 cm",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.69",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','fishesoftexas'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00513*(Li/0.84)^3.14 (see F1,F2)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BartPowe2010",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Soleidae",
+    "genus": "Austroglossus",
+    "specie": "Austroglossus_microlepis",
+    "specie_en": "West coast sole"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "75",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "41.25",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Austroglossus_pectoralis: 33*75/60 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.3e5/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(10.4)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Austroglossus_pectoralis: 3e4*5.6e3/1.33e3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.7  mm of Buglossidium luteum: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00977*Li^3.07, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "809.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Lp^3.07, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Mora1982",
+    "temp": "C2K(10.4)",
+    "units.temp": "K",
+    "comment": "based on tL data"
+  }
+]

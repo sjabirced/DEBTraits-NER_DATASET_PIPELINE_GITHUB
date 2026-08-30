@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Procellariiformes",
+    "family": "Procellariidae",
+    "genus": "Macronectes",
+    "specie": "Macronectes_giganteus",
+    "specie_en": "Southern giant petrel",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "211",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg size: length 10.3 cm, width 7 cm: .8 * pi/6*7^2*10.3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "CopeQuin2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Asymptotic mass prior to fledging, mean adult mass 3 to 8 kg (Wiki)"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "5.8e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "CopeQuin2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Asymptotic mass prior to fledging, mean adult mass 3 to 8 kg (Wiki)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "60",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "EoL",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "Wiki: 55 to 66 d, temp is guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "47*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "EoL",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "Wiki: 6 to 7 yr"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "294",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "98",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "CopeQuin2009",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

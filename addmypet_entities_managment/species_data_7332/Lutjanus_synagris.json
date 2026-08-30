@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Lutjanus",
+    "specie": "Lutjanus_synagris",
+    "specie_en": "Lane snapper"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tL data and Li"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "23.8",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "16 to 21.5 cm, wich does "
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e6/365",
+    "units": "#/d",
+    "label": "max reoduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on Lutjanus_guttatus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based egg diameter of 0.85 mm of L. stellatus: 4/3*pi*0.0425^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.9e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on length-weight of 0.01445*Li^2.98, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "183",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on length-weight of 0.01445*Lp^2.98, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2+23/24",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "hatch at 23 h, birth assumed 2 d post-hatch"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AschFrei2017",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "genus": "Trachylepis",
+    "specie": "Trachylepis_varia",
+    "specie_en": "Variable skink"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "0.0031",
+    "units": "ml O2/min",
+    "label": "max BMR",
+    "bibkey": "With1981",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "8 young per litter, 1 litter per season"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Chalcides_chalcides"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "36.41",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "90",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on Chalcides_chalcides"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since metam at puberty for female",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

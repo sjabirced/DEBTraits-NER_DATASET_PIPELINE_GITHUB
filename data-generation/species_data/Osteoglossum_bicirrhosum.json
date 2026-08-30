@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Osteoglossiformes",
+    "family": "Osteoglossidae",
+    "genus": "Osteoglossum",
+    "specie": "Osteoglossum_bicirrhosum",
+    "specie_en": "Silver arowana",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.8",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Yanw2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "1.6",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "Yanw2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Yanw2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "220/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Yanw2013",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "11500",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "26",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'Yanw2013'}",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "164/24",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "{'Yanw2013'}",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "there is not information on this"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "34*30.5",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "{'Yanw2013'}",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "'for female"
+    }
+  ]
+}

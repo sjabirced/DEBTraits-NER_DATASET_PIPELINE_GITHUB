@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Ommastrephidae",
+    "genus": "Illex",
+    "specie": "Illex_argentinus",
+    "specie_en": "Argentine shortfin squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 34.4,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "SchrPere2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": 34.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 26.0,
+      "units": "cm",
+      "label": "mantle length at puberty for female",
+      "bibkey": "HaimBrun1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "195 to 330 mm"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": 20.0,
+      "units": "cm",
+      "label": "mantle length at puberty for male",
+      "bibkey": "HaimBrun1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "142 to 250 mm"
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 750000.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "HaimBrun1998",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.001,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HaimBrun1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on cylindric larva of 2 mm length, 0.8 mm wide: pi*0.04^2*0.2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 1500.0,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same length-weight, compared to Dosidicus gigas: (34/120)^3*65 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": 365.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "HaimBrun1998",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

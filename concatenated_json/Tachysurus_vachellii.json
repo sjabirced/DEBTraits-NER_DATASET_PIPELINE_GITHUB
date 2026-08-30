@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Bagridae",
+    "genus": "Tachysurus",
+    "specie": "Tachysurus_vachellii",
+    "specie_en": "bagrid catfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "42.3",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "591*77/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "based on relative fecundity of 77 eggs/g: 591*77"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.98 mm: pi/6*0.198^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "591",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Lp^2.94, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "30.9",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ZhonJian1999",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

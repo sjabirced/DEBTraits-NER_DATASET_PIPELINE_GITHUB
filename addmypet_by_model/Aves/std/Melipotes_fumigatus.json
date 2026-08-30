@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Meliphagidae",
+    "genus": "Melipotes",
+    "specie": "Melipotes_fumigatus",
+    "specie_en": "Common smoky honeyeater"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "122",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "6.1",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "48",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "bow",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "42–54 g"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "53",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "bow",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "46–60 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "18",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": "based on Acanthagenys_rufogularis"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1.7*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "42",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "14",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": "based on Acanthagenys_rufogularis"
+  }
+]

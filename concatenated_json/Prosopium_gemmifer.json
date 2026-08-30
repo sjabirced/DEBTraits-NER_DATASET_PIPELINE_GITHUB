@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Prosopium",
+    "specie": "Prosopium_gemmifer",
+    "specie_en": "Bonneville cisco"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "FranCord1965",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 2 or 3 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1301/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "FranCord1965",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Shes2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.1 mm (1.9 to 2.4 mm) for Prosopium cylindraceum: pi/6*0.21^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "73",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','FranCord1965'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00457*Li^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "13",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','FranCord1965'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00457*Lp^3.13, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FranCord1965",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

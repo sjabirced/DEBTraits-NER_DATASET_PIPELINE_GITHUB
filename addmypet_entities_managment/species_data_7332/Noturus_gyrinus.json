@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Noturus",
+    "specie": "Noturus_gyrinus",
+    "specie_en": "Tadpole madtom"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5/0.79",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on SL 5 cm (not clear if SL or TL), see F2"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "61/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.36e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.96 mm: pi/6*0.296^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "25.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishesoftexas','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00933*Li^3.09, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.79",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishesoftexas','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00933*Lp^3.09, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

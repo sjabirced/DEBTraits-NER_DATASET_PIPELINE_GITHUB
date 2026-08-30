@@ -1,0 +1,83 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Macrouridae",
+    "species": "Hymenocephalus_italicus",
+    "species_en": "Glass-head grenadier",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "DOngBasa2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on ap = 3 yr, used in tL_f data and converted to TL by multiplication with 3.54"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "807/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(12.6)",
+      "units.temp": "K",
+      "comment": "based on same weight-specific rate, compared to Coryphaenoides rupestris: (25/110)^3*68780 per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.6 mm of Coryphaenoides rupestris: pi/6*0.26^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "47.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00229*Li^3.09, see F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.8",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','DOngBasa2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00229*Lp^3.09, see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(12.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

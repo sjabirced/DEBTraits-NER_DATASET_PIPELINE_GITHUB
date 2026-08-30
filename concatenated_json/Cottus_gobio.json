@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Cottus",
+    "specie": "Cottus_gobio",
+    "specie_en": "European bullhead"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.2",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on purberty in second yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "600/365",
+    "units": "#/d",
+    "label": "reproduction rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Pete2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.5 mm for Cottus beldingii: pi/6*0.25^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "90.5",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Li^3.16, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3650",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Notoscopelus",
+    "specie": "Notoscopelus_kroyeri",
+    "specie_en": "Lancet fish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "14.3",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9.2",
+      "units": "cm",
+      "label": "standard length fat puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "85e3/365",
+      "units": "#/d",
+      "label": "max reprod rate ",
+      "bibkey": "guess",
+      "temp": "C2K(6.8)",
+      "units.temp": "K",
+      "comment": "based on kap=0.95"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.3 mm of Lampanyctus_ritteri: pi/6*0.03^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "19.56",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00437*Lp^3.16, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4.53",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(6.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

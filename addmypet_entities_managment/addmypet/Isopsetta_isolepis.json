@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Isopsetta",
+    "specie": "Isopsetta_isolepis",
+    "specie_en": "Butter sole",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e6/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "Forr1969",
+      "temp": "C2K(4.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.4e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Forr1969",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 1.01 mm: pi/6*0.101^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.3e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00912*Li^3.10, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "114.5",
+      "units": "g",
+      "label": "wet weight puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00912*Lp^3.10, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "24.5/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(4.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(4.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

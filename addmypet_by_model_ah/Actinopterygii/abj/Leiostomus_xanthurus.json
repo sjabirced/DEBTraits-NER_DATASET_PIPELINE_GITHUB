@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "species": "Leiostomus_xanthurus",
+    "species_en": "Spot croaker"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "36",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "18.6-21.4 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.7e6/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "mexFish",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HildCabl1930",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "609",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "98.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Lp^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

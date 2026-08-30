@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Furnariidae",
+    "genus": "Xiphorhynchus",
+    "specie": "Xiphorhynchus_guttatus",
+    "specie_en": "Buff-throated woodcreeper",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "94.55",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GavrGolu2023",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "JOi1",
+      "entity.value": "80.5",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GavrGolu2023",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": "bow: 1-3 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "6.84",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "bow",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 27 mm, width 22 mm: pi/6*2.7*2.2^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "59.7",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "bow",
+      "temp": null,
+      "units.temp": null,
+      "comment": "bow: 49–74 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "16",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": "based on Xiphorhynchus_elegans"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "avibase",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1.5*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "avibase",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "55.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "18.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "guess",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": "based on Xiphorhynchus_elegans"
+    }
+  ]
+}

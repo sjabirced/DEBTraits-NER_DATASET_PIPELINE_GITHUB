@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Pristigasteridae",
+    "genus": "Raconda",
+    "specie": "Raconda_russeliana",
+    "specie_en": "Raconda"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "19",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "Varg1961",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "max total length 245 mm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "Varg1961",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Varg1961",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.866 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "34",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Varg1961",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00832*Li^3.05, see F1, gives 66.1 g"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "7.3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Varg1961",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Varg1961",
+    "temp": "C2K(28.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

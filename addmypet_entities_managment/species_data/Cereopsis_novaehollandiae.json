@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Cereopsis",
+    "specie": "Cereopsis_novaehollandiae",
+    "specie_en": "Cape Barren goose",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Vese1973",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": "3 till 7 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "34",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Vese1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6.5e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Wiki: 3 till 7 kg"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "36",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Vese1973",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "35 till 37 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "28.1 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Vese1973",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "210",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "70",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Vese1973",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

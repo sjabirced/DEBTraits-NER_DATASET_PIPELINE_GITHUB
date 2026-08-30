@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Thraupidae",
+    "genus": "Anisognathus",
+    "specie": "Anisognathus_igniventris",
+    "specie_en": "Scarlet-bellied mountain tanager"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "80",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "bow: 2 eggs per clutch, Wiki 1 clutch per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "2.8",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Tersina_viridis"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "33",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "34",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "21",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "bow",
+    "temp": "C2K(32)",
+    "units.temp": "K",
+    "comment": "18-24 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1.2*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "63",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "21",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "18-24 d"
+  }
+]

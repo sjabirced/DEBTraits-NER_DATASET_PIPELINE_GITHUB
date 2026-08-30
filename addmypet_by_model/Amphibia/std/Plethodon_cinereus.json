@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Plethodon",
+    "specie": "Plethodon_cinereus",
+    "specie_en": "Red-backed salamander"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.75",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "total length at puberty ",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "converted from SVL 4.12 cm: 22/13.5*4.12"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "6.6",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "converted from SVL 4.05 cm: 22/13.5*4.05"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "20/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "'5 to 120 eggs per clutch, 1 clutch each other yr assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.41e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.5 to 3.2 mm: pi/6*0.3^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Fara2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "6 till 8 weeks (Wiki), female remains coild around eggs during incubation"
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "field body temp 6.5-22 C (amphibiaweb)"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "730",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

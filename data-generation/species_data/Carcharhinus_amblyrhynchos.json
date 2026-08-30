@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Carcharhinus",
+    "specie": "Carcharhinus_amblyrhynchos",
+    "specie_en": "Grey reef shark",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "54",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Robb2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "255",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "136",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Robb2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "130-142 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "135",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Robb2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "132-138 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Robb2006",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "3-4 pups per litter, 1 litter each 2 yrs"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Robb2006",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "12-14 mnth"
+    },
+    {
+      "entity": "am",
+      "entity.value": "19*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Robb2006",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

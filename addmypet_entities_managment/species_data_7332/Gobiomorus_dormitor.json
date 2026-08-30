@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Eleotridae",
+    "genus": "Gobiomorus",
+    "specie": "Gobiomorus_dormitor",
+    "specie_en": "Bigmouth Sleeper"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.13",
+    "units": "g/g",
+    "label": "gonado somatic index for female",
+    "bibkey": "BachNeal2004",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "90",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.7e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BachNeal2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.55 mm : pi/6*0.055^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.5e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

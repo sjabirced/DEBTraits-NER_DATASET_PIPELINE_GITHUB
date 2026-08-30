@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Venerida",
+    "family": "Mactridae",
+    "genus": "Amarilladesma",
+    "specie": "Amarilladesma_mactroides",
+    "specie_en": "Yellow clam"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.5",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "HerrAlfa2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3e3",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.6"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 200 mum: pi/6*0.02^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11.6",
+    "units": "g",
+    "label": "ultimate wet tissue weight",
+    "bibkey": "{'FiorFron2019','HerrAlfa2011'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 5.75e-5*(Li*10)^2.75, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "365 * 6",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

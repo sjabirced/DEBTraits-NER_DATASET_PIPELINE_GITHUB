@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Mustelidae",
+    "genus": "Martes",
+    "specie": "Martes_pennanti",
+    "specie_en": "Fisher"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": "2.5 pups per litter, 1 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "35",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "14.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "45",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "66",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Larus",
+    "specie": "Larus_marinus",
+    "specie_en": "Great black-backed gull"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": "1-5 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "116.5",
+    "units": "g",
+    "label": "initital wet weight",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "80",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Harr1964",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1407",
+    "units": "g",
+    "label": "ultimate wet weightof females",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1806",
+    "units": "g",
+    "label": "ultimate wet weight of males",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "27",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "'temperature is guessed based on being the optimal temperature for artificial incubation for several species"
+  },
+  {
+    "entity": "am",
+    "entity.value": "32.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "156",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": "49-56 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "52",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "avibase",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": "49-56 d"
+  }
+]

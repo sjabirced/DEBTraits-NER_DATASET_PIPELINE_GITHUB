@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siganiformes",
+    "family": "Siganidae",
+    "genus": "Siganus",
+    "specie": "Siganus_rivulatus",
+    "specie_en": "Marbled spinefoot",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "JX_L",
+      "entity.value": "3.54/70",
+      "units": "g/fish/d",
+      "label": "food uptake",
+      "bibkey": "AbdeRaga2017",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "L0",
+      "entity.value": "0.063",
+      "units": "cm",
+      "label": "egg length",
+      "bibkey": "StepGeor2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'original unit μm"
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.18",
+      "units": "cm",
+      "label": "length at hatch",
+      "bibkey": "StepGeor2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "27",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "SoykGuls2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13.7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "709e3/365",
+      "units": "#/d",
+      "label": "max reprodion rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.7e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on assumed egg diameter of 0.55 mm: pi/6*0.055^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "350",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "StepGeor2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "31.3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "MarzJaya2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01318*Lp^2.97, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "98/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "PoppGord1973",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "30/24",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "PoppGord1973",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Bari2005",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

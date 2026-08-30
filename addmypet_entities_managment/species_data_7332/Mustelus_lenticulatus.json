@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Mustelus",
+    "specie": "Mustelus_lenticulatus",
+    "specie_en": "Spotted estuary smooth-hound"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "20-32 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "151",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "125",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "FranMaol2000",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "85",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "FranMaol2000",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "15/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(13.7)",
+    "units.temp": "K",
+    "comment": "4-20 pups per litter, 1 litter per  yr assumed"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "31.7e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','FranMaol2000'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00200*Li^3.13, see F3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "21.8e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "{'fishbase','FranMaol2000'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00200*Lim^3.13, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FranMaol2000",
+    "temp": "C2K(13.7)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

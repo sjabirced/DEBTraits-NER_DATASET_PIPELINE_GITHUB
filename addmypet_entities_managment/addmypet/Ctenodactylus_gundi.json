@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Ctenodactylidae",
+    "genus": "Ctenodactylus",
+    "specie": "Ctenodactylus_gundi",
+    "specie_en": "Common gundi",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Geor2009",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": "2 cups per litter, 1 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "29.9",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "288.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "74",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "11.5*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Geor2009",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "65",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

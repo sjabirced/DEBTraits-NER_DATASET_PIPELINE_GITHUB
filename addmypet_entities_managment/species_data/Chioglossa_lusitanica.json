@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Chioglossa",
+    "specie": "Chioglossa_lusitanica",
+    "specie_en": "Gold-striped salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.25",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 164 mm, using F1"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.2",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 156 mm, using F1"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "2.2",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.0",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "LimaArnt2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "17/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "14 to 17 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.144",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 5 to 8 mm: pi/6*0.65^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.41",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Mertensiella_caucasica: (5.5/6.75)^3*4.7"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.83",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Mertensiella_caucasica: (4/6.75)^3*4.7"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.29",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "42",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": "6 to 10 w"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

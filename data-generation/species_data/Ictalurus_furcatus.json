@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Ictalurus",
+    "specie": "Ictalurus_furcatus",
+    "specie_en": "Blue catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "165",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "59",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.76e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.75 mm for I punctatus: pi/6*0.375^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "68e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.72e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishesoftexas','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Lp^3.12, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "34*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "StewBenz2009",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

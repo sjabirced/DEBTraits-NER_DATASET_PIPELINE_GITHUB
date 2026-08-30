@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centropomiformes",
+    "family": "Latidae",
+    "genus": "Lates",
+    "specie": "Lates_longispinis",
+    "specie_en": "Rudolf lates"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "57",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'TL<80 cm are males"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.95e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Lates calcarifer: 47.7e6*1.2e3/60e3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.44e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.87 mm of Lates_calcarifer: pi/6*0.087^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.2e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Li^3.12, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "89.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Li^3.12, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2.2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "SchiBosm2007",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "12-15 h till hatch, then 36-40 h till start feeding"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20* 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

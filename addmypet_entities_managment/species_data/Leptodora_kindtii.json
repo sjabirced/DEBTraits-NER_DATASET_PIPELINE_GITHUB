@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Haplopoda",
+    "family": "Leptodoridae",
+    "genus": "Leptodora",
+    "specie": "Leptodora_kindtii",
+    "specie_en": "Giant waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.18",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "2.1",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.95",
+      "units": "cm",
+      "label": "ultimate total lengthm",
+      "bibkey": "Andr1948",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.653",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 6 mm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2*7",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MoshCumm1969",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'broods each 12 h (Wiki), but 1/week in Vijv1980"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.105e-5",
+      "units": "mug",
+      "label": "wet weight at birth",
+      "bibkey": "Andr1948",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.39 mm: pi/6*0.039^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Vijv1980",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Vijv1980",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Vijv1980",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "120",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Vijv1980",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Wiki: 3 till 6 days"
+    }
+  ]
+}

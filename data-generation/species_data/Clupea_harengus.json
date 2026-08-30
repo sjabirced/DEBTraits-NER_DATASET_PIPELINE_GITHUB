@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Clupeidae",
+    "genus": "Clupea",
+    "specie": "Clupea_harengus",
+    "specie_en": "Atlantic herring",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.1",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Geff2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "['it is end of yolk sac stage - feeding could commence a little before"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "{'fishbase','BigeBrad1963'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "29",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "EngeHein2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "mean"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'fishbase'}",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": "'temp is complete guess"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1050",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','Koli1990'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "heaviest herring in IMARES database: 725 g (market sample) or 550g (North Sea survey data)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "27",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Geff2002",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": "Geff2002 laboratory measurement"
+    },
+    {
+      "entity": "aj",
+      "entity.value": "data.ab + 5*30",
+      "units": "d",
+      "label": "age at metam",
+      "bibkey": "Blax1968",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "22*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "{'fishbase','Lea1930'}",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": "oldest in IMARES database: 20 years (Market sample) or 13 years (North Sea survey)"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "EngeHein2004",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": "according to in-house herring biologists this is late - expected to be more like 2 years..."
+    }
+  ]
+}

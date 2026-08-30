@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Centrarchidae",
+    "genus": "Lepomis",
+    "specie": "Lepomis_miniatus",
+    "specie_en": "Redspotted sunfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "16",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on maturity at end of 2nd yr"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.45 mm: pi/6*0.145^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "59.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01230*Li^3.06, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4.7",
+      "units": "g",
+      "label": "wet weight at piberty",
+      "bibkey": "{'fishbase','guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01230*Lp^3.06, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at death",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Characiformes",
+    "family": "Triportheidae",
+    "genus": "Triportheus",
+    "specie": "Triportheus_elongatus",
+    "specie_en": "Elongate hatchetfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "24.2",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Triportheus_angulatus"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e5/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "Azev2010",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": "based on relative fecundity of 0.5 for small Characiformes: absolute fecundity: 1e3*0.5*211"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.9e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.95 mm of Triportheus_angulatus: pi/6*0.195^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "164.44",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01318*Lp^2.96, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "46.55",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

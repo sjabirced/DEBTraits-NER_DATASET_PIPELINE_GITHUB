@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Carcharhinus",
+    "specie": "Carcharhinus_galapagensis",
+    "specie_en": "Galapagos shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "80",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "WethCrow1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "370",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "329",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on max TL caught of 267 cm, for max female TL 300 cm: 267/300*370"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "230",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "WethCrow1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "between TL 215 and 245 cm"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "220",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "WethCrow1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "between TL 205 and 239 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8.7/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(23.8)",
+    "units.temp": "K",
+    "comment": "4 till 16 pups per litter, 1 litter each 2 yrs"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "413e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00479*Li^3.09, see F1"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "287e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00479*Lim^3.09, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(23.8)",
+    "units.temp": "K",
+    "comment": "WethCrow1996 guessed 1 yr, but 2 yr is consistent with growth data"
+  },
+  {
+    "entity": "am",
+    "entity.value": "24*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(23.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2829",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(23.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "2555",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "AnAge",
+    "temp": "C2K(23.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

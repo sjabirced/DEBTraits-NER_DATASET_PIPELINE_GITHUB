@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Microhylidae",
+    "genus": "Scaphiophryne",
+    "specie": "Scaphiophryne_gottlebei",
+    "specie_en": "Malagasy rainbow frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "GuarTess2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "GuarTess2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.6",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.7",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "GuarTess2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "2.8",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "GuarTess2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "500/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "based on Pelophylax_esculentus: 4000*(4/8)^3 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Pelophylax_esculentus: (4/9.5)^3*87.5"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "2.75",
+      "units": "g",
+      "label": "ultimate wet weight of males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Pelophylax_esculentus: (3/9.5)^3*87.5"
+    },
+    {
+      "entity": "am",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GuarTess2010",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "200",
+      "units": "d",
+      "label": "time birth at metam",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "20 to 32 d"
+    }
+  ]
+}

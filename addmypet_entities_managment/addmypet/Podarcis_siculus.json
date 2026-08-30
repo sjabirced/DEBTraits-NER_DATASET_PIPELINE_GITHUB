@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Podarcis",
+    "specie": "Podarcis_siculus",
+    "specie_en": "Italian wall lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.5",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "ErogBulb2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.48",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "ErogBulb2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "7.1",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "ErogBulb2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.5*5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "4-7 eggs per clutch, 3-4 clutches per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7.05",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on Podarcis muralis: 5.41*(7.1/6.5)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "56",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ErogBulb2017",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "ErogBulb2017",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

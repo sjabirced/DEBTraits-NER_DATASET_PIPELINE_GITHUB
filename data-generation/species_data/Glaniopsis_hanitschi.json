@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Gastromyzontidae",
+    "genus": "Glaniopsis",
+    "specie": "Glaniopsis_hanitschi",
+    "specie_en": "Hillstream loach",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.9",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "333/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.0e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.25 mm: pi/6*0.125^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tLW data, 0.00603*Li^3.11, see F1, gives 3.7 g"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on tLW data"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "guess based on Barbus barbus with temp correction"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

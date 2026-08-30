@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Zoarcidae",
+    "genus": "Zoarces",
+    "specie": "Zoarces_americanus",
+    "specie_en": "Ocean pout"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "110",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "28.8",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1805/365",
+    "units": "#/d",
+    "label": "reprod rate at 62 cm",
+    "bibkey": "Clem1920",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0654",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Clem1920",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 5 mm: pi/6*0.5^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.3e3",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00186*Lp^3.20, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "87",
+    "units": "g",
+    "label": "wet weight at puberty for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2.75*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": "2-3 mnth"
+  },
+  {
+    "entity": "am",
+    "entity.value": "19*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Clem1920",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

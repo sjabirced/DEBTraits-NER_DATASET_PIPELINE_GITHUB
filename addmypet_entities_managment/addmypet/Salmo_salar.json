@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Salmo",
+    "specie": "Salmo_salar",
+    "specie_en": "Atlantic salmon",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.825",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "VanLeeuwen2016",
+      "temp": "C2K(2)",
+      "units.temp": "K",
+      "comment": "parents from River Blackwater (Scotland) - 1SW mother"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "95",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Fleming1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": "maximum of Scottish populations maxima - females"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "total length at metamorphosis",
+      "bibkey": "Hutchings1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "median of Scottish populations"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "14499/365.25",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Thorpe1984",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "'maximum at River Almond (Scotland)"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.16",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "VanLeeuwen2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "parents from River Blackwater (Scotland) - 2SW mother"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "25",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "Jutila2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Simojoki (Baltic Sea, Finland) - mean from 1972 to 1981 and 1992 to 2004"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "196",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Berg2001",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": "parents from river Stjordalselva (Norway)"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365.25",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Flower1935",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "'maximum lifespan - females caught in loch Maree on 10th May, 1924"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "2.265*365.25",
+      "units": "d",
+      "label": "time since birth at metamorphosis",
+      "bibkey": "Hutchings1998",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "'median of Scottish populations"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "(2.265+1.39)*365.25",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Hutchings1998",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "'median of Scottish populations"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Procellariiformes",
+    "family": "Procellariidae",
+    "genus": "Pelecanoides",
+    "specie": "Pelecanoides_urinatrix",
+    "specie_en": "Common diving petrel",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "17",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "PaynPrin1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg weight: 15.5 to 21.5 g, mean 18.84 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "160",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "PaynPrin1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Asymptotic mass prior to fledging, mean adult mass 128.6 g (PaynPrin1979)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "46",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "PaynPrin1979",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "Wiki: 44 to 52 d, temp is guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "EoL: in the wild 6.5 yr"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "EoL",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "2 or 3 yr"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "150",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "43 to 60 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "50",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "PaynPrin1979",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "43 to 60 d"
+    }
+  ]
+}

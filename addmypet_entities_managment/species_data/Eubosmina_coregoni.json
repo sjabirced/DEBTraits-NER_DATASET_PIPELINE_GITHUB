@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Bosminidae",
+    "genus": "Eubosmina",
+    "specie": "Eubosmina_coregoni",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.025",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimate based on egg size, where 4 * egg length is adult length"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.08",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.042",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "7/1.4",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "LageSven2002",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "13",
+      "units": "mug",
+      "label": "ultimate dry weight",
+      "bibkey": "CulvBouc1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed from Li using F3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "140",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

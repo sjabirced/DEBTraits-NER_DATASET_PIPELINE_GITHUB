@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Amphioctopus",
+    "specie": "Amphioctopus_burryi",
+    "specie_en": "Brown-striped octopus",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.15,
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "ForsHanl1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 6.6,
+      "units": "cm",
+      "label": "mantle length at death",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 7.5,
+      "units": "cm",
+      "label": "mantle length at death for males",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 4.0,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "ForsHanl1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 250.0,
+      "units": "#",
+      "label": "fecundity",
+      "bibkey": "ForsHanl1985",
+      "temp": "C2K(23.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 80.1,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "ForsHanl1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (L_i/L_im)3*Wwim"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 117.6,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "ForsHanl1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 26.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ForsHanl1985",
+      "temp": "C2K(23.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 305.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "ForsHanl1985",
+      "temp": "C2K(23.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

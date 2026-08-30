@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Eopsetta",
+    "specie": "Eopsetta_jordani",
+    "specie_en": "Petrale sole"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "53",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "44",
+    "units": "cm",
+    "label": "length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.2e6/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AldeForr1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter 1.24 mm: pi/6*0.124^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.5e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00661*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "1.46e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00661*Lim^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "822",
+    "units": "g",
+    "label": "wet weight puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00661*Lp^3.10, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "324.5/24",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AldeForr1971",
+    "temp": "C2K(4.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "35*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

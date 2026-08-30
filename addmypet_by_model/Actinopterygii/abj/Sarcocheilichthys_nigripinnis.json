@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Gobionidae",
+    "genus": "Sarcocheilichthys",
+    "specie": "Sarcocheilichthys_nigripinnis",
+    "specie_en": "Rainbow gudgeon"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.14",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "YanXu2012",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "YanXu2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.02",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "YanXu2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 3.4 mm: pi/6*0.34^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "50",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00851*Li^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "8.2",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00851*Lp^3.13, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "57",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "21*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "YanXu2012",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

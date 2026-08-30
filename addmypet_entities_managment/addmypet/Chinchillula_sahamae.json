@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Chinchillula",
+    "specie": "Chinchillula_sahamae",
+    "specie_en": "Altiplano chinchilla mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "6.0",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "AliaRios2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "extrapolated from tL data"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "26.2",
+      "units": "cm",
+      "label": "ultimate total",
+      "bibkey": "AliaRios2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6*5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "'5 pups per litter"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "149",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AliaRios2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "27",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "100",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AliaRios2009",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "22",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AliaRios2009",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

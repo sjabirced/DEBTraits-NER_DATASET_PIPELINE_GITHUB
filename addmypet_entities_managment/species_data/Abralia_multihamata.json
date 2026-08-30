@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Enoploteuthidae",
+    "genus": "Abralia",
+    "specie": "Abralia_multihamata",
+    "specie_en": "Squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": 0.24,
+      "units": "g/g",
+      "label": "gonado somatic index at death",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": 0.08,
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 6.4,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "ChiaWang2025",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 2.8,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "ChiaWang2025",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 3.68,
+      "units": "cm",
+      "label": "mantle length at puberty for female",
+      "bibkey": "ChiaWang2025",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 2.7,
+      "units": "cm",
+      "label": "mantle length at puberty for male",
+      "bibkey": "ChiaWang2025",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 10.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Chia2025",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "probably 5-15 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": 183.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "ChiaWang2025",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "depth 200-700 m, temp 6-18 C"
+    }
+  ]
+}

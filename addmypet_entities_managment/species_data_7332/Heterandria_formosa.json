@@ -1,0 +1,161 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Poeciliidae",
+    "genus": "Heterandria",
+    "specie": "Heterandria_formosa",
+    "specie_en": "Least killifish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.70",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Henr1988",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.6",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.2",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "111/8/30.5",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Brow2016",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'Henr1988','fishbase'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.0195*Lb^3.03, see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.945",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.0195*Li^3.03, see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.544",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.0541",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Henr1988",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.0195*Lp^3.03, see F1, Henr1988 gived 0.635 g"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.0339",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "Henr1988",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.0195*Lpm^3.03, see F1, Henr1988 gives 0.652 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "35",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Henr1988",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*30.5",
+    "units": "d",
+    "label": "maximum life span",
+    "bibkey": "Brow2016",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "75.2",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Henr1988",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "77.6",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Henr1988",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

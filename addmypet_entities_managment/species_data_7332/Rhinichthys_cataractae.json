@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Rhinichthys",
+    "specie": "Rhinichthys_cataractae",
+    "specie_en": "Longnose dace"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13.9",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "ReedMoul1973",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12.9",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "ReedMoul1973",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2534/365",
+    "units": "#/d",
+    "label": "Reprod rate max rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "21.1",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ReedMoul1973",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 10^(-5.291 + 3.087 * log10(10*Li)), see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ReedMoul1973",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.57",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'FrakSnod2002','ReedMoul1973'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 10^(-5.291 + 3.087 * log10(10*Lp)), see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ReedMoul1973",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

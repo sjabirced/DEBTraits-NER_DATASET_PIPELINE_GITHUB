@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Afrosoricida",
+    "family": "Chrysochloridae",
+    "genus": "Chrysochloris",
+    "specie": "Chrysochloris_asiatica",
+    "specie_en": "Cape golden mole"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "51.5",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "2 pups per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "47",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "37 to 47 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "value is very unsure"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "35",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "4-6 wks d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "200",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "2.5*30.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "2-3 mnth"
+  }
+]

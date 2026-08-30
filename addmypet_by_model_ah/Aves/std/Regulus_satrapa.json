@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Regulidae",
+    "genus": "Regulus",
+    "specie": "Regulus_satrapa",
+    "specie_en": "Golden-crowned Kinglet"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*9/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "'5-11 eggs/clutch"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "0.76",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "since Ww0 < Wwb, the egg lost water or the hatching grew after birth"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.88",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.1",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "6.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "4",
+    "units": "g",
+    "label": "wet weight at fledge",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "avibase",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "avibase",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "49.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "18.5",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "avibase",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

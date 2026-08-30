@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastes",
+    "specie": "Sebastes_mystinus",
+    "specie_en": "Blue rockfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "61",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "21",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "LaidPear1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 4.5 yrs and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "524000/365",
+    "units": "#/d",
+    "label": "reprod rate at FL 23.75 cm",
+    "bibkey": "fishbase",
+    "temp": "C2K(4.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Li^3.09, see F1, gives 265.5 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "44*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LaidPear1970",
+    "temp": "C2K(4.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

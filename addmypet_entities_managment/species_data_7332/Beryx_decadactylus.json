@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Beryciformes",
+    "family": "Berycidae",
+    "genus": "Beryx",
+    "specie": "Beryx_decadactylus",
+    "specie_en": "Alfonsino"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "27.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.96e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(11.2)",
+    "units.temp": "K",
+    "comment": "based on Beryx_splendens: 675e3*(100/70)^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LeisCars2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.1 mm of Beryx_splendens: pi/6*0.11^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "18.1e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01445*Li^3.05, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "69*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(11.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

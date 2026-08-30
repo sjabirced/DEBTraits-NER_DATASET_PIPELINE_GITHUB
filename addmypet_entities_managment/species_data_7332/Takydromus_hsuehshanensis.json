@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Takydromus",
+    "specie": "Takydromus_hsuehshanensis",
+    "specie_en": "Snow Mountain grasslizard"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.60",
+    "units": "cm",
+    "label": "SVL at hatching",
+    "bibkey": "Chen2007",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.2",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "Huan1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.4",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "Huan1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Huan1998",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "2 till 4 times per year, temp is guessed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.40",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Chen2007",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.10",
+    "units": "g",
+    "label": "ultimate wet weight of female",
+    "bibkey": "Huan2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.72",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "Huan2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "65.6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Chen2007",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "33.6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Chen2007",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "365*7.5",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "Guess based on Lacerta agilis"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365*2",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Huan2017",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lepisosteiformes",
+    "family": "Lepisosteidae",
+    "genus": "Lepisosteus",
+    "specie": "Lepisosteus_platyrhincus",
+    "specie_en": "Florida gar"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "132",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "45",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "{'ADW','MuriPark2009'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6000/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "assumed size TL 78 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "WallYeag1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.5 mm for Lepisosteus_platostomus: pi/6*0.25^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12.68e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00229*Li^3.18, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

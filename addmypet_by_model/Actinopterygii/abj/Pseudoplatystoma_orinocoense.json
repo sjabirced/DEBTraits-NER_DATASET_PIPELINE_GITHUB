@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Pimelodidae",
+    "genus": "Pseudoplatystoma",
+    "specie": "Pseudoplatystoma_orinocoense",
+    "specie_en": "Striped sorubim"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.20",
+    "units": "g/g",
+    "label": "gonado somatic index for female",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "52.4",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AndrMakr2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.74 mm of Hemisorubim_platyrhynchos: pi/6*0.174^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.23e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "124",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Lp^3.10, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "GonzMend2010",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

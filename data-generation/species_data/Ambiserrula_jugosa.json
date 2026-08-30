@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Platycephalidae",
+    "genus": "Ambiserrula",
+    "specie": "Ambiserrula_jugosa",
+    "specie_en": "Mud flathead",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "12.1",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3e4/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(24.7)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Ratabulus_diversidens: 1e6*(12/39)^3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.5e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BrowSiva2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.5 mm of Platycephalus_conatus: pi/6*0.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "19.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01000*Li^3.04, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(24.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BarnGray2011",
+      "temp": "C2K(24.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

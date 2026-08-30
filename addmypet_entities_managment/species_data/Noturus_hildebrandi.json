@@ -1,0 +1,54 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Noturus",
+    "specie": "Noturus_hildebrandi",
+    "specie_en": "Least madtom",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5.2",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "MaydWals1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "MaydWals1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on SL 4.74 cm, see F2"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.68e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MaydWals1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.1 to 2.3 mm: pi/6*0.23^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "1.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MaydWals1984",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

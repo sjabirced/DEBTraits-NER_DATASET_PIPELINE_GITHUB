@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ceratophryidae",
+    "genus": "Ceratophrys",
+    "specie": "Ceratophrys_cranwelli",
+    "specie_en": "Chacoan horned frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10.8",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lim/Li ratio of Ceratophrys_stolzmanni: 13*6.79/8.2"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8000/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "based on  clutch size Ceratophrys_stolzmanni: (13/8.3)^3*2100"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.9e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "OrtiAlme2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.11 mm  for Ceratophrys_stolzmanni: pi/6*0.211^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "500",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "387",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lim/Li)^3*Wwi"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "5.727",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "GrayCook2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

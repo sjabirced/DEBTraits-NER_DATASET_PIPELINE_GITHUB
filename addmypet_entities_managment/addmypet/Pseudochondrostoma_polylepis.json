@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Pseudochondrostoma",
+    "specie": "Pseudochondrostoma_polylepis",
+    "specie_en": "Iberian nase",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "0.926*40",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "total length converted to fork length, using F2"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.7",
+      "units": "cm",
+      "label": "fork length at puberty for females",
+      "bibkey": "HerrFern1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "7.6",
+      "units": "cm",
+      "label": "fork length  at puberty for males",
+      "bibkey": "HerrFern1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5.1e4/365",
+      "units": "#/d",
+      "label": "Reprod rate max rate",
+      "bibkey": "guess",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "based on Chondrostoma nasus with ultimate size-correction: (40/50)^3*Ri"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HerrFern1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "773",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00776*(Li/0.926)^3.12, see F1, F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "8.4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'HerrFern1994','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00776*(Lp/0.926)^3.12, see F1, F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "based on tL data"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Coregonus",
+    "specie": "Coregonus_artedi",
+    "specie_en": "Cisco",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "57",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "StocEben2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "28 to 34 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "24549/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.9e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "StocEben2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.95 mm: pi/6*0.195^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.95e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on  0.00575*Li^3.15, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "145.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'StocEben2009','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00575*Lp^3.15, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

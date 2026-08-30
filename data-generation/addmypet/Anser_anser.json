@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anser",
+    "specie": "Anser_anser",
+    "specie_en": "Greylag goose",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "87",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Hrou1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4600",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Hrou1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "5700",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Hrou1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "28",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(34)",
+      "units.temp": "K",
+      "comment": "value for B. canadensis: 24 till 28 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "31 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "180",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": "78 till 96 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

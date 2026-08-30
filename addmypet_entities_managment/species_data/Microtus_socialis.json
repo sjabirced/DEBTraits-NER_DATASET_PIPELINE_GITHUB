@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Microtus",
+    "specie": "Microtus_socialis",
+    "specie_en": "Social vole",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "85.7",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "weight larger than range for adults. Correct?"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5*6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "'2-7 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "gbif",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "38",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "gbif",
+      "temp": null,
+      "units.temp": null,
+      "comment": "20-38 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "21.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "gbif",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "21-23 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "150",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "13",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

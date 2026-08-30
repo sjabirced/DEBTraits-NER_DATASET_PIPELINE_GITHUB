@@ -1,0 +1,120 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Poeciliidae",
+    "species": "Xiphophorus_maculatus",
+    "species_en": "Southern platyfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.83",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "MoshEagd2015",
+    "temp": null,
+    "units.temp": null,
+    "comment": "value for Xiphophorus helleri"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Feli1951",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "80/30",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "80 pups per litter, litter interval is assumed to be 30 d"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.35e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'MoshEagd2015','fishbase'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.02360*Lb^3, see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.02360*Li^3, see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.51",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.77",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'Feli1951','fishbase'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.02360*Lp^3, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "24",
+    "units": "d",
+    "label": "age at birth (gestation time)",
+    "bibkey": "fishbase",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "maximum life span",
+    "bibkey": "aquawiki",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

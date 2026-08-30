@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Channichthyidae",
+    "genus": "Pseudochaenichthys",
+    "specie": "Pseudochaenichthys_georgianus",
+    "specie_en": "South Georgia icefish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "59",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "ClarReid2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "56",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "ClarReid2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "47.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "ClarReid2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "46.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "ClarReid2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "17958/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(-0.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.5e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 4.4 mm: 4/3*pi*0.22^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.8e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'max published weight 2.1 kg"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.3e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00646*Lp^3.17, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.2e3",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00646*Lpm^3.17, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "60",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Trac2015",
+      "temp": "C2K(-0.1)",
+      "units.temp": "K",
+      "comment": "1-2 months"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(-0.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

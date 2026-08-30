@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Stromateidae",
+    "genus": "Peprilus",
+    "specie": "Peprilus_burti",
+    "specie_en": "Gulf butterfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.1e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(18.1)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Pampus_argenteus: 221894*222.7/4.27e3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.75 mm: pi/6*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "222.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Li^3.01, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "31",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Lp^3.01, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(18.1)",
+      "units.temp": "K",
+      "comment": "rarely lives past 2 yrs"
+    }
+  ]
+}

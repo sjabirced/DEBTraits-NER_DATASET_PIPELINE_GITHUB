@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Plectropomus",
+    "specie": "Plectropomus_pessuliferus",
+    "specie_en": "Roving coralgrouper"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "120",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "63",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "Ferr1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1843450/365",
+    "units": "#/d",
+    "label": "reproduction rate at TL 64.6 cm",
+    "bibkey": "AlmaAli2023",
+    "temp": "C2K(17.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.8e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AlmaAli2023",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.48 mm: pi/6*0.048^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "24e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01148*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.4e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'Ferr1993','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01148*Lp^3.04, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "26 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

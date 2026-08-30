@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Epinephelus",
+    "specie": "Epinephelus_adscensionis",
+    "specie_en": "Rock hind",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.04",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "NolaDown2017",
+      "temp": "C2K(27.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "65",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30.4",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.5e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.95 mm: pi/6*0.095^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5011",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01202*Li^3.10, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "475",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01202*Lp^3.10, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "NolaDown2017",
+      "temp": "C2K(27.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

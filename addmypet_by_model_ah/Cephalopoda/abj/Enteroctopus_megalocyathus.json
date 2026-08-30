@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Enteroctopodidae",
+    "genus": "Enteroctopus",
+    "specie": "Enteroctopus_megalocyathus",
+    "specie_en": "Southern red octopus"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": "5e3",
+    "units": "#",
+    "label": "cum reprod at death",
+    "bibkey": "ADW",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.15",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "OrtiRe2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 10.7 mm and width 3.52 mm: pi/6*1.07*0.52^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4e3",
+    "units": "g",
+    "label": "wet weight at death",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "815",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "PereLope2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "187",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "3-5 yr but speculative based on Enteroctopus_dofleini"
+  }
+]

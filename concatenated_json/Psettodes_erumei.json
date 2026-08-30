@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Psettodidae",
+    "genus": "Psettodes",
+    "specie": "Psettodes_erumei",
+    "specie_en": "Indian halibut"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "64",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "38",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.3e6/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "RamaRama1969",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.69 mm: pi/6*0.069^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.2e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'max published weight 9 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "617",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00676*Lp^3.14, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CoulPaod2021",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

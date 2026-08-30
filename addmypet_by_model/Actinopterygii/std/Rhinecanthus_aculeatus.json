@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Balistidae",
+    "genus": "Rhinecanthus",
+    "specie": "Rhinecanthus_aculeatus",
+    "specie_en": "White-banded triggerfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "14",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6.5e4/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.9)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Odonus_niger: 3e5*(30/50)^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.95e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MacK2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.62 mm of Balistes_capriscus: pi/6*0.062^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "762.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.03236*Li^2.96, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.9)",
+    "units.temp": "K",
+    "comment": "VaitMala2015: 2.5 yrs"
+  }
+]

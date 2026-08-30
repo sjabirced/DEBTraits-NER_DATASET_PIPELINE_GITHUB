@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Calotriton",
+    "specie": "Calotriton_arnoldi",
+    "specie_en": "Montseny brook newt",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6.8",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "AmatOrom2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "TL 102.62 mm, amphibiaweb"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.2",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "AmatOrom2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "30/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "value for Calotriton asper"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.54e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 5 mm of Calotriton asper: pi/6*0.5^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Hynobius_nebulosus: (6.6/7.8)^3*5"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.48",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on from (Lp/L_m)^3*Wwi"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EoL",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "Anage gives 26 yr for Calotriton asper"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AmatOrom2015",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

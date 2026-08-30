@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Pterioida",
+    "family": "Pteriidae",
+    "genus": "Pteria",
+    "specie": "Pteria_penguin",
+    "specie_en": "Winged oyster"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.3",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Mili2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8.88",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Mili2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.7e-8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Mili2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 55 mum: pi/6*0.0055^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "317",
+    "units": "g",
+    "label": "flesh wet weight",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Mili2011",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "25",
+    "units": "d",
+    "label": "time since birth at settlement",
+    "bibkey": "Mili2011",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": "20-30 d"
+  }
+]

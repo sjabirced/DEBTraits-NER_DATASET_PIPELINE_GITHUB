@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Passerellidae",
+    "genus": "Chlorospingus",
+    "specie": "Chlorospingus_parvirostris",
+    "specie_en": "Yellow-whiskered chlorospingus",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "60",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GavrGolu2023",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "2 eggs per clutch for Chlorospingus_parvirostris: 1 clutch per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "3.03",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "bow",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 22.3 mm, width 16.1 mm: pi/6*2.23*1.61^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "24",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "based on Chlorospingus_parvirostris"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "avibase",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "45",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "avibase",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "15",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "based on Chlorospingus_parvirostris"
+    }
+  ]
+}

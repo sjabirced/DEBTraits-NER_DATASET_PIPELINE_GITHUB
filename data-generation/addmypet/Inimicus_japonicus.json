@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Synanceiidae",
+    "genus": "Inimicus",
+    "specie": "Inimicus_japonicus",
+    "specie_en": "Devil stinger",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.07",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "WataKait2003",
+      "temp": "C2K(20.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "29",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.4e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "NaraVela2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.44 mm: pi/6*0.044^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "425",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on tW_fm data"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(20.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "13 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WataKait2003",
+      "temp": "C2K(20.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

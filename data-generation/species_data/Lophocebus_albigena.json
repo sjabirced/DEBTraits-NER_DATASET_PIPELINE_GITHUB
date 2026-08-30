@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Cercopithecidae",
+    "genus": "Lophocebus",
+    "specie": "Lophocebus_albigena",
+    "specie_en": "Grey-cheeked mangabey",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "0.4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "425",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6975",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "GautGaut1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'in captivity"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9250",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "GautGaut1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'in captivity"
+    },
+    {
+      "entity": "am",
+      "entity.value": "36*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "181",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1460",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "233",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

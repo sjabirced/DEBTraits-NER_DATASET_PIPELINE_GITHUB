@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "species": "Perca_flavescens",
+    "species_en": "Yellow perch"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "19.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "61465/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6e-3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.25 mm of Perca fluviatilis: pi/6*0.225^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.8e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01230*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "98",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01230*Lp^3.04, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

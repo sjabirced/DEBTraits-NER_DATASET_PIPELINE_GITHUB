@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Luciobarbus",
+    "specie": "Luciobarbus_escherichii",
+    "specie_en": "Ankara barbel"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.09",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "YildErdo2001",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "23",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.5e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.888 mm: pi/6*0.189^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "133.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01096*Li^3.00, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "11",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'AparSost1998','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01096*Lp^3.00, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "YildErdo2001",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

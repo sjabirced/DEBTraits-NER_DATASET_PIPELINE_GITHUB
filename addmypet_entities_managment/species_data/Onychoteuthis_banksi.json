@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Onychoteuthidae",
+    "genus": "Onychoteuthis",
+    "specie": "Onychoteuthis_banksi",
+    "specie_en": "Common clubhook squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 15.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "ArkhRoa2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 11.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "ArkhRoa2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 9.0,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 7.0,
+      "units": "cm",
+      "label": "mantle length at puberty for males",
+      "bibkey": "ArkhRoa2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 160000.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "ArkhNigm1997",
+      "temp": "C2K(14.3)",
+      "units.temp": "K",
+      "comment": "potential fecundity: 51000 - 205000"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 6.5e-05,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ArkhNigm1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.2 - 0.5 mm: pi/6*0.05^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": 250.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "ArkhRoa2005",
+      "temp": "C2K(14.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

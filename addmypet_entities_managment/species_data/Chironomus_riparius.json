@@ -1,0 +1,214 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Diptera",
+    "family": "Chironomidae",
+    "genus": "Chironomus",
+    "specie": "Chironomus_riparius",
+    "specie_en": "Harlequin fly",
+    "deb_model": "hax"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.09",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "KlagGerg2024b",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.38",
+      "units": "cm",
+      "label": "female length of 4th instar larvae before pupation",
+      "bibkey": "PeryMons2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wd0",
+      "entity.value": "0.99 *1e-6",
+      "units": "g",
+      "label": "initial egg ash free dry weight",
+      "bibkey": "PentHolo1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "the authors work with ash-free dry weight"
+    },
+    {
+      "entity": "Wde",
+      "entity.value": "1.1*1e-3",
+      "units": "g",
+      "label": "fem. dry weight of imago",
+      "bibkey": "RodrGrav2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fig. 3d"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "10*1e-3",
+      "units": "g",
+      "label": "fem. max observed wet weight of 4th instar larvae",
+      "bibkey": "SildCran2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "max value of fem. control wet wt. from fig. 1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "PeryMons2002",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "i assume here that the 2-d old individuals used at the start of the experiment were newly hatched 1st instar larvae, SahrRafa2010 also report 2-d at 26 deg C"
+    },
+    {
+      "entity": "t1",
+      "entity.value": "2",
+      "units": "d",
+      "label": "duration of instar 1",
+      "bibkey": "CharFerr2014",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "t2",
+      "entity.value": "2",
+      "units": "d",
+      "label": "duration of instar 2",
+      "bibkey": "CharFerr2014",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "t3",
+      "entity.value": "3",
+      "units": "d",
+      "label": "duration of instar 3",
+      "bibkey": "CharFerr2014",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "te",
+      "entity.value": "19.29",
+      "units": "d",
+      "label": "time at emergence in extra 20 degC controls",
+      "bibkey": "Gaia2022",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "15",
+      "units": "d",
+      "label": "time since birth at pupation",
+      "bibkey": "PeryGarr2006",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "25",
+      "units": "d",
+      "label": "time since birth at pupation",
+      "bibkey": "PeryGarr2006",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "21",
+      "units": "d",
+      "label": "time at pupation since birth",
+      "bibkey": "CharFerr2014",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "0.1 mg/larvae/day"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "12.52",
+      "units": "d",
+      "label": "time at pupation since birth",
+      "bibkey": "CharFerr2014",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "0.2 mg/larvae/day"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "12",
+      "units": "d",
+      "label": "time at pupation since birth",
+      "bibkey": "CharFerr2014",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "0.3 mg/larvae/day"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "15.28",
+      "units": "d",
+      "label": "time since birth at pupation",
+      "bibkey": "KlagGerg2024b",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "0.6 mg/larvae/day"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "17.00",
+      "units": "d",
+      "label": "time since birth at pupation",
+      "bibkey": "KlagGerg2024b",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "0.3 mg/larvae/day"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "21.15",
+      "units": "d",
+      "label": "time since birth at pupation",
+      "bibkey": "KlagGerg2024b",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "0.15 mg/larvae/day"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "31.40",
+      "units": "d",
+      "label": "time since birth at pupation",
+      "bibkey": "KlagGerg2024b",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "0.1 mg/larvae/day"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "7",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "CharFerr2014",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "assume that instars 1-3 are juveniles"
+    }
+  ]
+}

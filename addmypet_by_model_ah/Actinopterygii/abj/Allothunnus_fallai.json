@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Scombridae",
+    "genus": "Allothunnus",
+    "specie": "Allothunnus_fallai",
+    "specie_en": "Slender tuna"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "105",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "45",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based Katsuwonus_pelamis"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e6/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(18.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.05 mm: pi/6*0.105^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "13.9e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Li^3.05, see F1, gives 13.7 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.05e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Lp^3.05, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(18.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "42*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BradArkh2020",
+    "temp": "C2K(18.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

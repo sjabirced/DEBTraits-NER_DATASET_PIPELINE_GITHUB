@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Achatinidae",
+    "genus": "Achatina",
+    "specie": "Achatina_achatina",
+    "specie_en": "African giant snail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "Hoda1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "Hoda1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "300/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "petsnails",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ww7",
+      "entity.value": "59.2",
+      "units": "g",
+      "label": "life wet weight at 7.8 cm",
+      "bibkey": "AlukAdis2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "petsnails",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "petsnails",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "11*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "petsnails",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

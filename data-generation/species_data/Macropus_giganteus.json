@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Macropodidae",
+    "genus": "Macropus",
+    "specie": "Macropus_giganteus",
+    "specie_en": "Eastern grey kangaroo",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JO",
+      "entity.value": "94.646",
+      "units": "ml O2/min",
+      "label": "O2 consumption",
+      "bibkey": "DawsMunn2000",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "for an animal of 26.4 kg"
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.88",
+      "units": "cm",
+      "label": "head length at birth",
+      "bibkey": "PoolCarp1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "18.5",
+      "units": "cm",
+      "label": "ultimate head length",
+      "bibkey": "PoolCarp1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "% actual max length is 20.22 cm, but results from very slow growth when total body length remains constant"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "16.4",
+      "units": "cm",
+      "label": "head length st puberty",
+      "bibkey": "PoolCarp1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lx",
+      "entity.value": "13.0",
+      "units": "cm",
+      "label": "head length at weaning",
+      "bibkey": "PoolCarp1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "PoolPilt1964",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": ".8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Pool1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "35000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "PoolCarp1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "17400",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Pool1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "6500",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "Pool1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "pL",
+      "entity.value": ".1*2.08e7*data.Wwi/1000",
+      "units": "J/d",
+      "label": "average yearly milk production",
+      "bibkey": "CorkDove1989",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "36.41",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Pool1975",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "639",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "PoolCatl1974",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "319",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "PoolCarp1982",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

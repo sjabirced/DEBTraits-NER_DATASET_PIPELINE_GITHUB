@@ -1,0 +1,90 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Anabantiformes",
+    "family": "Osphronemidae",
+    "species": "Osphronemus_goramy",
+    "species_en": "Giant gourami"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*15172/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "'assumed: 3 spawns per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.4e-3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "AzriSyan2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on egg diameter of 2.42 mm: pi/6*0.242^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.1e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01698*Li^3.01, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "474",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01698*Lp^3.01, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "2-3 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "temperature",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

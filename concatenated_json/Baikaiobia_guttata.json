@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Platyhelminthes",
+    "class": "Turbellaria",
+    "order": "Tricladida",
+    "family": "Dugesiidae",
+    "genus": "Baikaiobia",
+    "specie": "Baikaiobia_guttata",
+    "specie_en": "Freshwater flatworm"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.3",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ZaitMiza2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "1.68 till 6.72 mm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "2.0",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "ZaitMiza2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.0",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on relative length of Schmidtea_polychroa"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ZaitMiza2006",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "2 till 6 young per cocoon, 1 coccon per yr is assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lb/Li)^3 * Wwi"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.28",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on length-weight of Schmidtea_polychroa (2.0/2.2)^3 * 0.38"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.036",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/Li)^3 * Wwi"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "49",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ZaitMiza2006",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "37 till 61 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ZaitMiza2006",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "100",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "based on tL data for Lp"
+  }
+]

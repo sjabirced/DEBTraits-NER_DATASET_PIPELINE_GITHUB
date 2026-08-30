@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Bulinidae",
+    "genus": "Bulinus",
+    "specie": "Bulinus_tropicus",
+    "specie_en": "Freshwater snail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.11",
+      "units": "cm",
+      "label": "shell height at birth",
+      "bibkey": "ElEmMads1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Bulinus truncatus"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.9",
+      "units": "cm",
+      "label": "ultimate shell height",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.4",
+      "units": "cm",
+      "label": "shell height at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "20/7",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "ChauMorg1987",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

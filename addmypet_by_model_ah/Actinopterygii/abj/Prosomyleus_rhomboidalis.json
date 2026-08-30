@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Characiformes",
+    "family": "Serrasalmidae",
+    "genus": "Prosomyleus",
+    "specie": "Prosomyleus_rhomboidalis",
+    "specie_en": "Pacu"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.20",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40.7",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.6 mm: pi/6*.16^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.3e3",
+    "units": "g",
+    "label": "max wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.02089*Li^2.96, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LecoBouj1993",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

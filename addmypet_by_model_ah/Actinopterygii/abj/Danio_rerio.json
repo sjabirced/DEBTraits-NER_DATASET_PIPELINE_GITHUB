@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Danionidae",
+    "genus": "Danio",
+    "specie": "Danio_rerio",
+    "specie_en": "Zebra fish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.15",
+    "units": "g/g",
+    "label": "Gonado Somatic Index",
+    "bibkey": "{'ForbPres2010'}",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "values range from 0.1 - 0.15 and grow bigger with food regime"
+  },
+  {
+    "entity": "L0",
+    "entity.value": "0.07",
+    "units": "cm",
+    "label": "egg diameter",
+    "bibkey": "ForbPres2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "yolk diameter 0.055 - 0.075 cm ForbPres2010, but egg diameter = 0.08 - 0.09 and yolk diameter around 0.05 UuliWolt2010"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "4e-1",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Schi2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Swim bladder inflates, active feeding, pronephric tubules"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "{'SpenGerl2008','Schi2002'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "also Lawr pers. comm"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1",
+    "units": "cm",
+    "label": "total length at metam",
+    "bibkey": "Schi2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Adult fin and pigmentation pattern"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.6*1.25",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "EatoFarl1974a",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Female are between 2.4 - 2.6 cm SL in the study at first egg laying"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "240",
+    "units": "#/d",
+    "label": "max reproduction",
+    "bibkey": "{'EatoFarl1974b'}",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wd0",
+    "entity.value": "100e-6",
+    "units": "g",
+    "label": "egg dry weight",
+    "bibkey": "Augu2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Augu2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "BestAdat2010",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "aj",
+    "entity.value": "22",
+    "units": "d",
+    "label": "age at metam",
+    "bibkey": "BestAdat2010",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "length at 1 cm"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.5 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "GerhKauf2002",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "75",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "EatoFarl1974a",
+    "temp": "C2K(25.5)",
+    "units.temp": "K",
+    "comment": "(74 - 75 day of development)"
+  }
+]

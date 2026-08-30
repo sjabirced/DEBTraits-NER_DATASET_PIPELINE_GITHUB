@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Lutjanus",
+    "specie": "Lutjanus_peru",
+    "specie_en": "Pacific red snapper"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.058",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(26.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "95",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "38",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.5e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.78 mm: pi/6*0.078^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11061",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01479*Li^2.97, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "728",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01479*Lp^2.97, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "6.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(26.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Ramo2001",
+    "temp": "C2K(26.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

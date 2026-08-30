@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Notropis",
+    "specie": "Notropis_oxyrhynchus",
+    "specie_en": "Sharpnose shiner"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11.3",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 9.5 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.64",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Mark1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 1 yr and tL data, SL 3.9 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2470/365",
+    "units": "#/d",
+    "label": "max Reprod rate",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.0e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Cobu1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.1 mm: pi/6*0.11^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Li^3.08, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.80",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','Mark1999'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Lp^3.08, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

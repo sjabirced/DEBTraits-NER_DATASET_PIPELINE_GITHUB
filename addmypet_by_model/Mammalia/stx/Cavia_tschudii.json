@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Caviidae",
+    "genus": "Cavia",
+    "specie": "Cavia_tschudii",
+    "specie_en": "Montane guinea pig"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5 * 3/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'Wiki', 'Netvet'}",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": "wiki: 5 litters per yr, 1-6 pups per litter, max 17, average 3, netvet: females double weight by foetal mass"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "90",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Netvet",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1200",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Netvet",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "180",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "Netvet",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": "max = 8 yr"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "66",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": "59-72 d, average 63-68 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "68",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Netvet",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": "30-134 d (female, mean 67.8 d), 56-70 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "17",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "{'Wiki', 'Netvet'}",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": "'wiki: start to take solid food directly after birth, netvet: peak lactation during days 5-5"
+  }
+]

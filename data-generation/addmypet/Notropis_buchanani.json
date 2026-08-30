@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Notropis",
+    "specie": "Notropis_buchanani",
+    "specie_en": "Ghost shiner",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6.4",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on the remark in fishesoftexas that tp = 2yr and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "400/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on same relative rate, compared to Notropis_atrocaudalis: 1044*(6.4/8.8)^3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Cobu1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.9 mm  from typical Notropis species: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.71",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Lp^3.13, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.23",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

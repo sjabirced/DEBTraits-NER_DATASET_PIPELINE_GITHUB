@@ -1,0 +1,184 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Macropodidae",
+    "genus": "Macropus",
+    "specie": "Macropus_eugenii",
+    "specie_en": "Tammar wallaby",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "head length at birth",
+      "bibkey": "MurpSmit1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": "on the basis of tL data"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "9.1",
+      "units": "cm",
+      "label": "ultimate head length",
+      "bibkey": "MurpSmit1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": "on the basis of tL data"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.8",
+      "units": "cm",
+      "label": "head length st puberty",
+      "bibkey": "MurpSmit1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": "on the basis of tL data"
+    },
+    {
+      "entity": "Lx",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "head length at weaning",
+      "bibkey": "MurpSmit1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": "on the basis of tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "HindPool1990",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.370",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'TyndRenf1987','HindPool1990'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "on the basis of tL data"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MurpSmit1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": "5 kg is typical for 3 yr old. Pers comm Geoff Shaw"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2700",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "MurpSmit1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": "on the basis of tL data"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "1580",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "MurpSmit1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": "on the basis of tL data"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15.1*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "pA",
+      "entity.value": "1.133e6",
+      "units": "J/d",
+      "label": "assimilation",
+      "bibkey": "Frap2008",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "for a 4.3 kg animal (not reproducing)"
+    },
+    {
+      "entity": "pL",
+      "entity.value": ".1*2.08e7/365*data.Wwi/1000",
+      "units": "J/d",
+      "label": "average yearly milk production",
+      "bibkey": "CorkDove1989",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "pP",
+      "entity.value": "1.73e5 * 4.3^.75",
+      "units": "J/d",
+      "label": "faeces production",
+      "bibkey": "Frap2008",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "for a 4.3 kg animal (not reproducing)"
+    },
+    {
+      "entity": "pXi",
+      "entity.value": "1.915e6",
+      "units": "J/d",
+      "label": "food intake",
+      "bibkey": "Frap2008",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "for a 4.3 kg animal (not reproducing)"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "28",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "HindPool1990",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "11*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "HindPool1990",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "generation time: 1 yr for females, 1.5 yr for males"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "255",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "MurpSmit1970",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "permanent pouch exit is 245-270 days"
+    }
+  ]
+}

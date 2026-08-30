@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Macropodidae",
+    "genus": "Macropus",
+    "specie": "Macropus_rufogriseus",
+    "specie_en": "Red necked wallaby"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.28/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "MercCala1981",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": ".54",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'MercCala1981','LeeWard1989'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "several values are found: 0.69, 0.45, 0.48, 0.537, 0.558, 0.700 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "14000",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Cala1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "6500",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Mayn1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "4450",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "Russ1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "pouch exit: 2300 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Mayn1972",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "pL",
+    "entity.value": ".1*2.08e7/365*data.Wwi/1000",
+    "units": "J/d",
+    "label": "average yearly milk production",
+    "bibkey": "CorkDove1989",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "27",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Cala1995",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "'MercCala1981: 30 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "501",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Mayn1976",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "Mayn1976: 450 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "415",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "MercCala1981",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "'Cala1995: 420 d"
+  }
+]

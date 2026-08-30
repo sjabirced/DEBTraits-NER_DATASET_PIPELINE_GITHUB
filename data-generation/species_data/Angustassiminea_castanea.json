@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Littorinimorpha",
+    "family": "Assimineidae",
+    "genus": "Angustassiminea",
+    "specie": "Angustassiminea_castanea",
+    "specie_en": "Saltmarsh snail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "0.65",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "KuraKiku2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.35",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "KuraKiku2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 10 mnth"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "162/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KuraKiku2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 150 mum: pi/6*0.015^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "55*30.5",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KuraKiku1999",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

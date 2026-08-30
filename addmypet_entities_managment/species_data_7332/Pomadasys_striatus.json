@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Haemulidae",
+    "genus": "Pomadasys",
+    "specie": "Pomadasys_striatus",
+    "specie_en": "Striped grunter"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Pomadasys_kaakan: 35*22/80"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8.9e3/365",
+    "units": "#/d",
+    "label": "reproduction rate at TL 58 cm",
+    "bibkey": "guess",
+    "temp": "C2K(27.4)",
+    "units.temp": "K",
+    "comment": "'based on tLW dta"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.8 mm for Pomadasys_argenteus: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "201",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01995*Li^3.00, see F1, gives 212 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7.7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.4)",
+    "units.temp": "K",
+    "comment": "base on growth at 5 yr"
+  }
+]

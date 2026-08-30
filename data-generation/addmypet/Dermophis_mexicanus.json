@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Gymnophiona",
+    "family": "Dermophiidae",
+    "genus": "Dermophis",
+    "specie": "Dermophis_mexicanus",
+    "specie_en": "Mexican burrowing caecilian",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.7",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Wake1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "15 to 20 mm hatch from egg membrane"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "48.7",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wake1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "13.5",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "Wake1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "coincides with leaving the mother"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "32",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Wake1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "36/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wake1980",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "36 eggs per clutch, 1 clutch each other yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0064",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wake1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi*(L_b/L_m)^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "150",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wake1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "3.2",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "Wake1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi*(L_j/L_m)^3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "42.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Wake1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi*(L_p/L_m)^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

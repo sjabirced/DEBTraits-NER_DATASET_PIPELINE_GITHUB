@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "OvalentariaIncSed",
+    "family": "Pomacentridae",
+    "genus": "Chromis",
+    "specie": "Chromis_viridis",
+    "specie_en": "Blue green damselfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.8",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "87",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(20.3)",
+    "units.temp": "K",
+    "comment": "based on Chromis chromis: 200*10/22.92"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02089*Lp^2.90, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(20.3)",
+    "units.temp": "K",
+    "comment": "based on Chromis_ternatensis"
+  }
+]

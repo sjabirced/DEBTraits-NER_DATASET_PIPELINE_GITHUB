@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "genus": "Pyganodon",
+    "specie": "Pyganodon_grandis",
+    "specie_en": "Giant floater",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": ".0254",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Jirk1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value for Actinonaias_ligamentina"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "25.4",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 3 yr and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "724e3/365",
+      "units": "#/d",
+      "label": "reproduction rate at length 10.7 cm",
+      "bibkey": "Haag2013",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "317",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Anodonta anatina: 13.2*(25.4/8.8)^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HansMack1988",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

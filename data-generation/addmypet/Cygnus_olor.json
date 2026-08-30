@@ -1,0 +1,103 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "species": "Cygnus_olor",
+    "species_en": "Mute swan",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Wiki','Bech1980'}",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": "'4 till 10 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "157",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "LeeuBeek1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10.6e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "7.6 till 10.6 kg"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "14.3e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "9.2 till 14.3 kg"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "36",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'Wiki','Bech1980'}",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "14600",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "{'AnAge','Bech1980'}",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1095",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "{'AnAge','Bech1980'}",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "135*3",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "135",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "{'Wiki','Bech1980'}",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": "120 till 150 d"
+    }
+  ]
+}

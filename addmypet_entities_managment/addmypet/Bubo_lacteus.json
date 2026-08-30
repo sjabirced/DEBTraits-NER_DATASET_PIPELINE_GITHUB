@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Bubo",
+    "specie": "Bubo_lacteus",
+    "specie_en": "Verreaux",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "avibase",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "'2 eggs per clutch"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "80.3",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2625",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 2.475–3.150 kg"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "1704",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 1.615-2.000 kg "
+    },
+    {
+      "entity": "ab",
+      "entity.value": "36",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "WilsWils1981",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "based on Bubo bubo"
+    },
+    {
+      "entity": "am",
+      "entity.value": "68*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "based on Bubo bubo"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "based on Bubo bubo"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "165",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "55",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "WilsWils1981",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

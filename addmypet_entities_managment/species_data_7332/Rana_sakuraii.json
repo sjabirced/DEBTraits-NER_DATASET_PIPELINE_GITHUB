@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Rana",
+    "specie": "Rana_sakuraii",
+    "specie_en": "Stream brown frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "ultimate body length for females",
+    "bibkey": "KusaFuku1995",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.8",
+    "units": "cm",
+    "label": "ultimate body length for males",
+    "bibkey": "KusaFuku1995",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.8",
+    "units": "cm",
+    "label": "body length at metam",
+    "bibkey": "KusaFuku1995",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "300/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "based on Rana lessonae 500-3000 eggs, weight-corrected, usually in 1 clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0197",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter 3.1-3.6 mm: pi/6*0.335^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11.3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 31 g at 7 cm for Rana lessonae: (5/7)^3*31"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10.0",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 31 g at 7 cm for Rana lessonae: (4.8/7)^3*31"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "35",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "value for R. temporaria"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "1.5*30.5",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "value for R. temporaria"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since metam at puberty",
+    "bibkey": "KusaFuku1995",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

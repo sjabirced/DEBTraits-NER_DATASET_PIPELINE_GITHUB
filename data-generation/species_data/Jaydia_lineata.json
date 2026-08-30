@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Kurtiformes",
+    "family": "Apogonidae",
+    "genus": "Jaydia",
+    "specie": "Jaydia_lineata",
+    "specie_en": "Indian perch",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "14.8",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.8",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "23705/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(26.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.438e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter  650 mum of Apogon imberbis: pi/6*0.065^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "74.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01413*Li^3.18, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "6.3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01413*Lp^3.18, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(26.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

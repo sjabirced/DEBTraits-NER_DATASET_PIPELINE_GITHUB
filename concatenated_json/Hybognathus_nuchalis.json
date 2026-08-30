@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Hybognathus",
+    "specie": "Hybognathus_nuchalis",
+    "specie_en": "Mississippi silvery minnow"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.6",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "RamiPill2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 3.7 cm and F2"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "52",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishesoftexas','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Lp^3.08, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.78",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishesoftexas','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

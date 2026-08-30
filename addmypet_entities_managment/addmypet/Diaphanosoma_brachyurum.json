@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Ctenopoda",
+    "family": "Sididae",
+    "genus": "Diaphanosoma",
+    "specie": "Diaphanosoma_brachyurum",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.047",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "LemkBenk2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.180",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "LemkBenk2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.079",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "LemkBenk2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "LemkBenk2003",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "0.61e-6",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "LemkBenk2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "1.78e-6",
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "LemkBenk2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab_20",
+      "entity.value": "47.3/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "LemkBenk2003",
+      "temp": "C2K(22.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab_28",
+      "entity.value": "26/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "LemkBenk2003",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "LemkBenk2003",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

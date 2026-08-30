@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Micropternus",
+    "specie": "Micropternus_brachyurus",
+    "specie_en": "Rufous woodpecker",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "114.3",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GavrGolu2023",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "bow",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": "based on 2-3 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "4.2",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "bow",
+      "temp": null,
+      "units.temp": null,
+      "comment": "base on egg length 24.4–24.6 mm, width 17.9–18.2 mm: pi/6*2.45*1.81^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "88.4",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "bow: 55–84 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "avibase",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "avibase",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1.2*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "avibase",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "69",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "23",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "guess",
+      "temp": "C2K(41.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

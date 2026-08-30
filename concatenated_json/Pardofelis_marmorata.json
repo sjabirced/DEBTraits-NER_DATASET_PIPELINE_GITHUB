@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Pardofelis",
+    "specie": "Pardofelis_marmorata",
+    "specie_en": "Marbled cat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "2 pups per litter, 1 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "85",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: 2.4 and 5 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13.4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "74",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "66 till 82 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "59",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

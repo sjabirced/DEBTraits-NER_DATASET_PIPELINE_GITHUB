@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Scaridae",
+    "genus": "Sparisoma",
+    "specie": "Sparisoma_viride",
+    "specie_en": "Stoplight parrotfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.04",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(27.2)",
+      "units.temp": "K",
+      "comment": "based on Hipposcarus_longiceps"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "64",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "16.3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.5e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.66 mm of Calotomus_japonicus: pi/6*0.066^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.5e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01380*Li^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "68.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Lp^3.05, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "LessSilv2015",
+      "temp": "C2K(27.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

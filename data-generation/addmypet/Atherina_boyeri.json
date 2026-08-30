@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Atheriniformes",
+    "family": "Atherinidae",
+    "genus": "Atherina",
+    "specie": "Atherina_boyeri",
+    "specie_en": "Big-scale sand smelt",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "10188/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fisbase",
+      "temp": "C2K(18.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "DulcGrub2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.75 mm: pi/6*0.175^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "55.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "PajuLore2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00562*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.79",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "PajuLore2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00562*Li^3.07, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(18.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

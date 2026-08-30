@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Sclerophrys",
+    "specie": "Sclerophrys_pentoni",
+    "specie_en": "Penton"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.65",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "5.8-9.5 cm"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "7.0",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "amphibiaweb: 5.4-7.4 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "330/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "based on Bufo bufo: 1500*92/417"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0042",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "34.83",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Bufo bufo: (7.65/17.5)^3*417"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "26.7",
+    "units": "g",
+    "label": "ultimate wet weight of males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lim/Li)^3*Wwi: (7.0/7.65)^3*34.83"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "based on Anaxyrus americanus, temp corrected"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FranBarb1984",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since metam at puberty",
+    "bibkey": "FranBarb1984",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

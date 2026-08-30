@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Sepiida",
+    "family": "Sepiidae",
+    "genus": "Sepia",
+    "specie": "Sepia_pharaonis",
+    "specie_en": "Pharaoh cuttlefish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.8,
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "AnilAndr2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": 50.0,
+    "units": "cm",
+    "label": "mantle length at death",
+    "bibkey": "AnilAndr2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": 80.0,
+    "units": "cm",
+    "label": "mantle length at death for male",
+    "bibkey": "AnilAndr2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 12.0,
+    "units": "cm",
+    "label": "mantle length at puberty",
+    "bibkey": "SasiMoha2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 7.0,
+    "units": "cm",
+    "label": "mantle length at puberty for males",
+    "bibkey": "SasiMoha2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 307.0,
+    "units": "#",
+    "label": "cum reprod at 240 d",
+    "bibkey": "AnilAndr2005",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.16,
+    "units": "g",
+    "label": "weight at birth",
+    "bibkey": "AnilAndr2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 2000.0,
+    "units": "g",
+    "label": "weight at death",
+    "bibkey": "AnilAndr2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 5000.0,
+    "units": "g",
+    "label": "weight at death for male",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": "note that (Lim/Li)^3*Wwi = 8.2e3 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 15.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnilAndr2005",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": 766.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SasiMoha2013",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": 839.0,
+    "units": "d",
+    "label": "life span for males",
+    "bibkey": "SasiMoha2013",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

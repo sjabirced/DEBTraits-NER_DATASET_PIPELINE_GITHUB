@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Molidae",
+    "genus": "Mola",
+    "specie": "Mola_mola",
+    "specie_en": "Ocean sunfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.25",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "270",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'mouth-to-tail"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "155",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate, derived from other species"
+  },
+  {
+    "entity": "R137",
+    "entity.value": "3e10/365",
+    "units": "#/d",
+    "label": "reprod rate at length 137 cm",
+    "bibkey": "Schm1921",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ww454",
+    "entity.value": "3.99e5",
+    "units": "g",
+    "label": "wet weight at 454 d",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "starting from 26 kg at t = 0"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PopeHays2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.3 mm: 4/3*pi*0.065^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.3e6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fact_sheet",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Kamogawa, Japan 1996"
+  },
+  {
+    "entity": "am",
+    "entity.value": "40 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "'at least 20 yr"
+  }
+]

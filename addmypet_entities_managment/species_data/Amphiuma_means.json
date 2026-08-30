@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Amphiumidae",
+    "genus": "Amphiuma",
+    "specie": "Amphiuma_means",
+    "specie_en": "Two-toed amphiuma",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "116",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "52.8",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "converted from SVL 39.81 by factor 325/245"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "53.7",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "210/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.55",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 10.5 mm and width 10 mm: pi/6*1^2*1.05"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1042",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "148.6",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "168.7",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "27*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "14",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Macropodidae",
+    "genus": "Macropus",
+    "specie": "Macropus_rufus",
+    "specie_en": "Red kangaroo",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.89",
+      "units": "cm",
+      "label": "head length at birth",
+      "bibkey": "SharFrit1964",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "20.0",
+      "units": "cm",
+      "label": "ultimate head length",
+      "bibkey": "SharFrit1964",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "16.5",
+      "units": "cm",
+      "label": "head length st puberty",
+      "bibkey": "SharFrit1964",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lx",
+      "entity.value": "13.3",
+      "units": "cm",
+      "label": "head length at weaning",
+      "bibkey": "SharFrit1964",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3/2.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'MunnDaws2003','AnAge'}",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": "3 young per 2.5 years "
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.817",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'FritShar1964','SharFirt1964'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "35000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MunnDaws2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimated by Adam Munn  & compared with ultimate weights of grey kangaroosestimated from mass-length curve (Murphy and Smith 1970) using length data (above)"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "14000",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "PoolCarp1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "4500",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "MunnDaws2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ppe at 4-5kg, SharCala1964 cited in MunnDaws2003"
+    },
+    {
+      "entity": "am",
+      "entity.value": "27*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Robe1986",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "pL",
+      "entity.value": "0.1 * 2.08e7*data.Wwi/1000 * data.Ri",
+      "units": "J/d",
+      "label": "average yearly milk production",
+      "bibkey": "CorkDove1989",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "33",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "{'SharCala1964','AnAge'}",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": "temp from CorkDove1989"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "483",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "SharCala1964",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": "517 females, 806 males"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "235",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "SharCala1964",
+      "temp": "C2K(36.3)",
+      "units.temp": "K",
+      "comment": "230-250 d"
+    }
+  ]
+}

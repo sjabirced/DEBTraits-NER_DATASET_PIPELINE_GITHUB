@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Kogiidae",
+    "genus": "Kogia",
+    "specie": "Kogia_breviceps",
+    "specie_en": "Pygmy sperm whale",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Plon2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "300",
+      "units": "cm",
+      "label": "ultimate length of female",
+      "bibkey": "Plon2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "262",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Plon2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "241.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Plon2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "53e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Plon2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "19*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Plon2004",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "335",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "Body temp from Orca"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "Plon2004",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "2.5 till 5 yr"
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "Plon2004",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ADW",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

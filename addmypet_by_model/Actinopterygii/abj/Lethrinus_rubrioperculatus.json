@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Lethrinidae",
+    "genus": "Lethrinus",
+    "specie": "Lethrinus_rubrioperculatus",
+    "specie_en": "Spotcheek  emperor"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.06",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "{'Ebis2006','guess'}",
+    "temp": "C2K(26.9)",
+    "units.temp": "K",
+    "comment": "based on Lethrinus_ornatus"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "57",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "EbisOzaw2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "23",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "GomaSiju2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.7 mm of Lethrinus_lentjan: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2370",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01445*Li^2.97, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "160",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01445*Lp^2.97, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "EbisOzaw2009",
+    "temp": "C2K(26.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

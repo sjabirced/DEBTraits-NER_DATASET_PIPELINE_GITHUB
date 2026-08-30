@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Liparidae",
+    "genus": "Allocareproctus",
+    "specie": "Allocareproctus_jordani",
+    "specie_en": "Cherry snailfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "34",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "412/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "Glub2010",
+    "temp": "C2K(1.7)",
+    "units.temp": "K",
+    "comment": "based on Careproctus furcellus: 1129*730/2000"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0224",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Glub2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 3.5 mm of C. furcellus: pi/6*0.35^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "730",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'max. published weight"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "76",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi*(Lp/Li)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "60",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(1.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(1.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

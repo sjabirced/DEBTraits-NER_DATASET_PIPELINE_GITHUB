@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Aquila",
+    "specie": "Aquila_chrysaetos",
+    "specie_en": "Golden eagle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.365/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "CramSimm1980",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "105",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Sumn1929",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5194",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3572",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "44",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "CramSimm1980",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temp from StinByrd1976, AEF for Pandion haliaetus and Haliaeetus leucocephalus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "17520",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Sumn1929",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1460",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "CramSimm1980",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "202.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": "temps from RudePowe1978"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "67.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "CramSimm1980",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": "temps from RudePowe1978"
+    }
+  ]
+}

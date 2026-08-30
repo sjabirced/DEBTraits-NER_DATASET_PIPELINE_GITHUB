@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Henicorhynchus",
+    "specie": "Henicorhynchus_siamensis",
+    "specie_en": "Siamese mud carp"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.186",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "SuvaLek2010",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "26.4",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "SuvaLek2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SuvaLek2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.9 mm: pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "176",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00955*Li^3.00, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "76.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'SuvaLek2010','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Lp^3.00, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SuvaLek2010",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

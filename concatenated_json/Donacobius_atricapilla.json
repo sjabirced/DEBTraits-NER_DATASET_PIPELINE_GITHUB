@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Donacobiidae",
+    "genus": "Donacobius",
+    "specie": "Donacobius_atricapilla",
+    "specie_en": "Black-capped donacobius"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Ragu1996",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "2-3 eggs/clutch, assumed: assumed: 1 clutch per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "3.6",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tW data"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "36",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "39",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Ragu1996",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "16-18 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "based on Campylorhynchus brunneicapillus"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "51",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "16-18 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "17",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Ragu1996",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "16-18 d"
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Caviidae",
+    "genus": "Microcavia",
+    "specie": "Microcavia_australis",
+    "specie_en": "Southern mountain cavy",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "5*2.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": "'1-5 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "30",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "326",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "54",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Wiki",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "45",
+      "units": "d",
+      "label": "time since birth at puberty female",
+      "bibkey": "Wiki",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": "40-50 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "21",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Wiki",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

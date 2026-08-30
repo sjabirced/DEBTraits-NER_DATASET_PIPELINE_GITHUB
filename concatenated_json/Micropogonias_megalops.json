@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "species": "Micropogonias_megalops",
+    "species_en": "Bigeye croaker"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.07",
+    "units": "g/g",
+    "label": "gonado somatic index for female",
+    "bibkey": "guess",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "based on Micropogonias undulatus"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter og 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "573",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Li^3.12, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "47.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Lp^3.12, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

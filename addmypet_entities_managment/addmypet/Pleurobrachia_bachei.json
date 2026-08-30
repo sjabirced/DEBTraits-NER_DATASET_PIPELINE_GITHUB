@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Ctenophora",
+    "class": "Tentaculata",
+    "order": "Cydippida",
+    "family": "Pleurobrachiidae",
+    "genus": "Pleurobrachia",
+    "specie": "Pleurobrachia_bachei",
+    "specie_en": "sea gooseberry",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.01",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Hiro1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "ultimate equatorial diameter",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1",
+      "units": "cm",
+      "label": "equatorial diameter at puberty",
+      "bibkey": "Hiro1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": "observed range is 6-10 mm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1000",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Hiro1972",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "WC0",
+      "entity.value": "0.1",
+      "units": "mugC",
+      "label": "initial egg carbon mass",
+      "bibkey": "Hiro1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "90",
+      "units": "mg",
+      "label": "ultimate ash free dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "27/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Hiro1972",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "observed range of hatching times was 14-40 h from a single experiment"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*30.5",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "55",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Hiro1972",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "observed range is 55-70 d"
+    }
+  ]
+}

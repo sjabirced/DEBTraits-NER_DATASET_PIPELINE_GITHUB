@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Alytidae",
+    "genus": "Discoglossus",
+    "specie": "Discoglossus_pictus",
+    "specie_en": "Mediterranean painted frog"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "0.0188",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "NespSola2017",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5000/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "'1000 eggs in the night of copulation"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0018",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30.7",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "NespSola2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "6+9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "'hatch at 2-6 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "3*30.5",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "1-3 mnths"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since metam at puberty for female",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Scaphirhynchus",
+    "specie": "Scaphirhynchus_suttkusi",
+    "specie_en": "Alabama sturgeon"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "78",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "KuhaRide2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "42",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "KuhaRide2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "this is the smallest ripe female who was about 7 yr old, so expect larger predicted Lp for f=1."
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4000/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "KuhaRide2016",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": "temperature is guessed, size is unknown. authors say fecundity is potentially higher than 4000 eggs/female"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.41e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "GeorSlac2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guessed: based on egg diameter of 3 mm: pi/6*0.3^3 for S. albus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "temp is guessed, wiki says 5-8 days for hatching for S. albus, and we are not sure how long between hatch and first feeding"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": "temperature is guessed, 12-20 yrs"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "KuhaRide2016",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": "temp is guessed- 5-6 yr"
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Rhacophoridae",
+    "genus": "Kurixalus",
+    "specie": "Kurixalus_idiootocus",
+    "specie_en": "Temple tree frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.7",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "EoL",
+    "temp": null,
+    "units.temp": null,
+    "comment": "24 to 43 mm, males being somewhat smaller than females"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.4",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "EoL",
+    "temp": null,
+    "units.temp": null,
+    "comment": "24 to 43 mm, males being somewhat smaller than females"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*180/365",
+    "units": "#/d",
+    "label": "reprod rate at 4.5 cm SVL",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "180 eggs per clutch, but 3 clutches per season assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.023",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ChanTsen2014",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.95",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Li and L-Ww relationship of Hyla arborea: (3.7/5)^3*4.8"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'EoL','guess'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Li and L-Ww relationship of Hyla arborea: (3.4/5)^3*4.8"
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "0.34",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "ChanTsen2014",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "guess based on Hyla arborea"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "90",
+    "units": "d",
+    "label": "time since metam at puberty",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "guess based on Hyla arborea"
+  }
+]

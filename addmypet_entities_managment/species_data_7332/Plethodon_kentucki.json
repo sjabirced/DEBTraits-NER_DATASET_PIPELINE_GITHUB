@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Plethodon",
+    "specie": "Plethodon_kentucki",
+    "specie_en": "Cumberland Plateau salamander"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.3",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "Marv2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.8",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "Marv2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.7",
+    "units": "cm",
+    "label": "SVL at puberty ",
+    "bibkey": "Marv2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tL_f data for tp"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.2",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "Marv2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tL_m data for tpm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "9 to 12 eggs per clutch, 1 clutch each yr assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.41e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 2.5 to 3.2 mm for Plethodon cinereus: pi/6*0.3^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.94",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on size-corrected value for Plethodon cinereus: (6.3/4.69)^3*0.8"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "value for Plethodon cinereus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Marv2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Marv2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Marv2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

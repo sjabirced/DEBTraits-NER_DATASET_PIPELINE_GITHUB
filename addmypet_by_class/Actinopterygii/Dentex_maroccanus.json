@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Dentex",
+    "specie": "Dentex_maroccanus",
+    "specie_en": "Morocco dentex"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.05",
+    "units": "g/g",
+    "label": "gonado-somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(13.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "45",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.85 mm of Diplodes sargus: pi/6*0.085^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1443",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in 0.01413*Li^3.03, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "60.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in 0.01413*Li^3.03, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(13.5)",
+    "units.temp": "K",
+    "comment": "based on Diplodus puntazzo"
+  },
+  {
+    "entity": "am",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(13.5)",
+    "units.temp": "K",
+    "comment": "based on Dentex dentex"
+  }
+]

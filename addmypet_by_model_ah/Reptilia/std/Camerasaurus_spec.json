@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Saurischia",
+    "family": "Camerasauridae",
+    "genus": "Camerasaurus",
+    "specie": "Camerasaurus_spec",
+    "specie_en": "Camerasaurus"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "30/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "Very speculative"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "10e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "learning",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Very speculative"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16e6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "GrieKlei2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Concerns individual of growth data"
+  },
+  {
+    "entity": "am",
+    "entity.value": "100*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "learning",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "GrieKlei2013",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

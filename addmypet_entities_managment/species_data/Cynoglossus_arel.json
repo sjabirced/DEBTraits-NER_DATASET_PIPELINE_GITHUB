@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Cynoglossidae",
+    "genus": "Cynoglossus",
+    "specie": "Cynoglossus_arel",
+    "specie_en": "Largescale tongue sole",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "21.2",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Raja1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Raja1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.2e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Raja1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.56 mm: pi/6*0.056^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "329",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00398*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "47",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00398*Lp^3.07, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "2.9",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

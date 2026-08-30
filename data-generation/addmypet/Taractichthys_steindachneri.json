@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Bramidae",
+    "genus": "Taractichthys",
+    "specie": "Taractichthys_steindachneri",
+    "specie_en": "Sickle pomfret",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "92",
+      "units": "cm",
+      "label": "ultimate total length of female",
+      "bibkey": "KindWu2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "67.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "KindWu2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3e4*17/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "Robe2014",
+      "temp": "C2K(15.2)",
+      "units.temp": "K",
+      "comment": "based on rel fecundity of Eumegistus illustris: 3e4/kg"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Robe2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on guessed egg diameter of 0.8 mm of Eumegistus illustris: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "17e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "KindWu2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'fishbase: based on 0.01820*Li^2.96, see F1, gives 3.3 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(15.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

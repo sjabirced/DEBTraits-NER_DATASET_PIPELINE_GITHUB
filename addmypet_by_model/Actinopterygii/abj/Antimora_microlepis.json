@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Moridae",
+    "genus": "Antimora",
+    "specie": "Antimora_microlepis",
+    "specie_en": "Finescale mora"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "84",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "43.5",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "KoroBayt2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "assumed to coincide with minimum length found on Emperor Mountain Range"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.9e6/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(2.4)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.5"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5640",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "KoroBayt2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "45*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KoroBayt2020",
+    "temp": "C2K(2.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "amm",
+    "entity.value": "32*365",
+    "units": "d",
+    "label": "life span for males",
+    "bibkey": "KoroBayt2020",
+    "temp": "C2K(2.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

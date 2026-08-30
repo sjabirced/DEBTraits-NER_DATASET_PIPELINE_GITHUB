@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Pittidae",
+    "genus": "Hydrornis",
+    "specie": "Hydrornis_soror",
+    "specie_en": "Blue-rumped pitta"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "102.59",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "7.35",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "bow",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length 29 mm, width 22 mm: pi/6*2.9*2.2^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "114",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "bow: 102–120 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11.6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1.6*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "15",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

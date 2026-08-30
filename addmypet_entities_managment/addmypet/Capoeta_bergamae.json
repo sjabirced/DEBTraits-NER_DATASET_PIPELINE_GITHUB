@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Capoeta",
+    "specie": "Capoeta_bergamae",
+    "specie_en": "Bergama barb",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.12",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "OzcaBali2009",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "19.8",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "OzcaBali2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "OzcaBali2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.9 mm: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "82.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01230*Li^2.95, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "5.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'OzcaBali2009','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01230*Lp^2.95, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

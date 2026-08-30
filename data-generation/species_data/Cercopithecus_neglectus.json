@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Cercopithecidae",
+    "genus": "Cercopithecus",
+    "specie": "Cercopithecus_neglectus",
+    "specie_en": "De Brazza",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "260",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4100",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "GautGaut1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'in captivity"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9153",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "GautGaut1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'in captivity"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "177",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1611",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2555",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "395",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

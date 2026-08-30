@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Pelecaniformes",
+    "family": "Pelecanidae",
+    "genus": "Pelecanus",
+    "specie": "Pelecanus_onocrotalus",
+    "specie_en": "Great white pelican",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "157.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "SnowPerr1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "CramSimm2004",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "106.2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Sedg2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7590",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "11450",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "32.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'CramSimm1977','SnowPerr1998'}",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "'temp from OberVerk1998"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18615",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CramSimm2004",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1095",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "CramSimm2004",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "240",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": "temps from AbraEvan1999 for Pelecanus erythrorhynchos"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "80",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "CramSimm2004",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": "temps from AbraEvan1999 for Pelecanus erythrorhynchos"
+    }
+  ]
+}

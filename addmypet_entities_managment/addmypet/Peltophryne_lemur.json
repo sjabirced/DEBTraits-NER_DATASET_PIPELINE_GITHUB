@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Peltophryne",
+    "specie": "Peltophryne_lemur",
+    "specie_en": "Puerto Rican crested toad",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Mill1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "ultimate SVL of female",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "8.5",
+      "units": "cm",
+      "label": "ultimate SVL for male",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.0",
+      "units": "cm",
+      "label": "total length at metam frog",
+      "bibkey": "Mill1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ljb",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "total length at metam tadpode",
+      "bibkey": "Mill1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Mill1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1500/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": "'1 brood/year"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.05",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BrunBern2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "corrected data for Bufo bufo"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Mill1985",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10.7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "25",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Mill1985",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": "20 till 30 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "Mill1985",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

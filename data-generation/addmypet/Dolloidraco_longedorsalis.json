@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Artedidraconidae",
+    "genus": "Dolloidraco",
+    "specie": "Dolloidraco_longedorsalis",
+    "specie_en": "Barbeled plunderfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "13.7",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "MeneRigi2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "209/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MeneRigi2016",
+      "temp": "C2K(-1.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0072",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MeneRigi2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.4 mm: pi/6*0.24^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00562*Li^3.08, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "7.48",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','MeneRigi2016'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00562*Lp^3.08, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "150",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(-1.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MoraMora2000",
+      "temp": "C2K(-1.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

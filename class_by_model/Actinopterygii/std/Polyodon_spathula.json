@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Polyodontidae",
+    "genus": "Polyodon",
+    "specie": "Polyodon_spathula",
+    "specie_en": "American paddlefish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "117",
+    "units": "cm",
+    "label": "ultimate eye-fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on TL 221 cm and EFL = 0.53 * TL, see F1"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "608e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Rose1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.25 mm: pi/6*0.225^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "90.7e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "6.3e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Rose1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "55*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Rose1976",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

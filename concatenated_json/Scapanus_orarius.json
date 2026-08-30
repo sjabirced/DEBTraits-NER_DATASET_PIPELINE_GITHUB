@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Eulipotyphla",
+    "family": "Talpidae",
+    "genus": "Scapanus",
+    "specie": "Scapanus_orarius",
+    "specie_en": "Coast mole"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "64.1",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(35.8)",
+    "units.temp": "K",
+    "comment": "3-4 pups per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Scapanus_townsendii"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "85",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'ADW: 61-91 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "40",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "value is speculative"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "28",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "300",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "40",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

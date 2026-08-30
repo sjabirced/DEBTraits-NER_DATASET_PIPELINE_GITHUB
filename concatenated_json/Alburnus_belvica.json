@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Alburnus",
+    "specie": "Alburnus_belvica",
+    "specie_en": "Lake Prespa bleak"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.12",
+    "units": "g/g",
+    "label": "Gonado Somatic Index",
+    "bibkey": "SiniPetr1995",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13.6",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in Alburnus alburnus: 9.9*27.8/25"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SiniPetr1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.25 mm: pi/6*0.125^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "22.7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00661*Li^3.12, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.77",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00661*Lp^3.12,  see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "16",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SiniPetr1995",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

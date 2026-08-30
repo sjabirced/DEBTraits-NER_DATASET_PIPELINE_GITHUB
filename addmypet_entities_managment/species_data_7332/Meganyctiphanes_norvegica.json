@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Euphausiacea",
+    "family": "Euphausiidae",
+    "genus": "Meganyctiphanes",
+    "specie": "Meganyctiphanes_norvegica",
+    "specie_en": "Northern krill"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Tarl2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Rava2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wd0",
+    "entity.value": "7.6",
+    "units": "mug",
+    "label": "initial dry weight",
+    "bibkey": "JageRava2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": "7.0",
+    "units": "mug",
+    "label": "dry weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Weight is computed from length, using F3"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "171",
+    "units": "mg",
+    "label": "ultimate dry weight",
+    "bibkey": "LindRobi1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Weight is computed from length, using F3"
+  },
+  {
+    "entity": "Wdp",
+    "entity.value": "9.1",
+    "units": "mg",
+    "label": "dry weight at puberty",
+    "bibkey": "LindRobi1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Weight is computed from length, using F3"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "65",
+    "units": "mug",
+    "label": "initial wet weight",
+    "bibkey": "arcodiv",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from egg diameter L0 assuming specific density 1 g/cm^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "20",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Rava2011",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "arcodiv",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "200",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": "Read from tL-data for Lp"
+  }
+]

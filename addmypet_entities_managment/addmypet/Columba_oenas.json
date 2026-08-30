@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Columba",
+    "specie": "Columba_oenas",
+    "specie_en": "Stock dove",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2*2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Mock1988",
+      "temp": "C2K(40.63)",
+      "units.temp": "K",
+      "comment": "2 eggs/clutch, usually 2 clutches per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "12",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Mock1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "291",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "16",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Mock1988",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12.6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.63)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Mock1988",
+      "temp": "C2K(40.63)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "93",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.63)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "31",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Mock1988",
+      "temp": "C2K(40.63)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

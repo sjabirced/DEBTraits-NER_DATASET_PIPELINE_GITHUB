@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Eremias",
+    "specie": "Eremias_multiocellata",
+    "specie_en": "Multi-ocellated racerunner"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "LiQu2011",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "2 till 5"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.51",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LiQu2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "27.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "LiQu2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "15",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative weight, compared to Lacerta agilis: 27.5*6.5/11.9"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

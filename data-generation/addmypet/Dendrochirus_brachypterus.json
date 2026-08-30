@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Scorpaenidae",
+    "genus": "Dendrochirus",
+    "specie": "Dendrochirus_brachypterus",
+    "specie_en": "Dwarf lionfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "17",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "165000/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": "based in Pterois_volitans: 2e6*82.5/1e3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm of Pterois_volitans: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "82.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01230*Li^3.11, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "5.2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','guess'}'",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01230*Lp^3.11, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "2.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Parargyrops",
+    "specie": "Parargyrops_edita",
+    "specie_en": "Crimson seabream"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "26.2",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Evynnis tumifrons: 14.9*26.2/35"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "80531/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(18.2)",
+    "units.temp": "K",
+    "comment": "based on Evynnis tumifrons"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.85 mm of Diplodes sargus: pi/6*0.085^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "541",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02818*Li^3.02, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(18.2)",
+    "units.temp": "K",
+    "comment": "based on Diplodus puntazzo"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HouFeng2008",
+    "temp": "C2K(18.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

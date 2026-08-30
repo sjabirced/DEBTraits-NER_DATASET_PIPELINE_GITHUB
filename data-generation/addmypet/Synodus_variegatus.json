@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Aulopiformes",
+    "family": "Synodontidae",
+    "genus": "Synodus",
+    "specie": "Synodus_variegatus",
+    "specie_en": "Variegated lizardfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2*58599/365",
+      "units": "#/d",
+      "label": "reprod rate at TL 31 cm",
+      "bibkey": "guess",
+      "temp": "C2K(27.8)",
+      "units.temp": "K",
+      "comment": "based on Synodus saurus"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.9 mm of Saurida undosquamis: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "662",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Li^3.19, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "23.2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Lp^3.19, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27.8)",
+      "units.temp": "K",
+      "comment": "based on Synodus saurus"
+    }
+  ]
+}

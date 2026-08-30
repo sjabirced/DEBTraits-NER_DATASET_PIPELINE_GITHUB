@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Rhizoprionodon",
+    "specie": "Rhizoprionodon_oligolinx",
+    "specie_en": "Grey sharpnose shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "20-30 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "84.5",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "43.2",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": "3-5 pups per litter, 1 litter per yr assumed"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.85e3",
+    "units": "g",
+    "label": "ultimate wet weight (female)",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00331*Li^3.08, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "145",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Mullidae",
+    "genus": "Mullus",
+    "specie": "Mullus_surmuletus",
+    "specie_en": "Surmullet",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AminMadk2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.1e-4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AminMadk2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.5-0.7 mm: pi/6*0.06^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "855.6",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00891*Li^3.11, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "32.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','AminMadk2016'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00891*Lp^3.11, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(10.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

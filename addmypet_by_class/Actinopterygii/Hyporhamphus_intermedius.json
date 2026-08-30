@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Beloniformes",
+    "family": "Hemiramphidae",
+    "genus": "Hyporhamphus",
+    "specie": "Hyporhamphus_intermedius",
+    "specie_en": "Eastern river Asian pencil halfbeak"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20.3",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "150/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(20.7)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.95, reflecting reported low fecundity"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "13.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00186*Li^2.96, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00186*Lp^2.96, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "StewHugh2007",
+    "temp": "C2K(20.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

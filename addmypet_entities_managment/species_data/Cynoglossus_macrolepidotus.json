@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Cynoglossidae",
+    "genus": "Cynoglossus",
+    "specie": "Cynoglossus_macrolepidotus",
+    "specie_en": "Tongue sole",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "39.1",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19.1",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "RamaVija1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.5e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "RamaVija1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.44 mm: pi/6*0.044^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "340",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00380*Li^3.11, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "36.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00380*Lp^3.11, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

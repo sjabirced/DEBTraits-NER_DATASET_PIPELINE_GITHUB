@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Akodon",
+    "specie": "Akodon_dolores",
+    "specie_en": "Dolorous grass mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "3.9/30",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'MeraVerc1983','MeraLiza1980'}",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": "'3.9 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MeraVerc1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "54",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MeraVerc1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MeraVerc1983",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "23",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "MeraLiza1980",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "112",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "MeraLiza1980",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "26",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "MeraLiza1980",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

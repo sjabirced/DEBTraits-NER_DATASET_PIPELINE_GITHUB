@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "genus": "Centrochelys",
+    "specie": "Centrochelys_sulcata",
+    "specie_en": "African spurred tortoise"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "23/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "15 to 30 eggs per clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "50",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "RitzGrieb2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'50 to 110 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "105e3",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "70*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "RitzGrieb2010",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "given growth conditions at in tW data"
+  }
+]

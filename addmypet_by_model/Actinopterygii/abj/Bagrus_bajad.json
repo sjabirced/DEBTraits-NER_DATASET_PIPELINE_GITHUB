@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Bagridae",
+    "genus": "Bagrus",
+    "specie": "Bagrus_bajad",
+    "specie_en": "Bayad"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "112",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "37.4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "47920/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnjaDade2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.66 mm to 1.50 mm for Bagrus docmac: pi/6*0.125^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "13.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Li^3.00, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "499.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Li^3.00, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

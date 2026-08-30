@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Hippoglossus",
+    "specie": "Hippoglossus_stenolepis",
+    "specie_en": "Pacific halibut",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "267",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": "0.5e6 till 4e6 eggs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "McFaJens1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 3.4 mm: 4/3*pi*0.17^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "363e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "15",
+      "units": "d",
+      "label": "time since hatch at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "55*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "6*30.5",
+      "units": "d",
+      "label": "time since hatch at metam",
+      "bibkey": "Wiki",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "Wiki",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": "'12 yr for females"
+    }
+  ]
+}

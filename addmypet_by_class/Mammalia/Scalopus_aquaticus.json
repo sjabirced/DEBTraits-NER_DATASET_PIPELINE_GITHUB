@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Eulipotyphla",
+    "family": "Talpidae",
+    "genus": "Scalopus",
+    "specie": "Scalopus_aquaticus",
+    "specie_en": "Eastern mole"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "3 pups per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.355",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "50",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'ADW: 32.0 to 140.0 g"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "75",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'ADW: 32.0 to 140.0 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "34.8",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Parascalops_breweri"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "36",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "4-6 w d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "335",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "36",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

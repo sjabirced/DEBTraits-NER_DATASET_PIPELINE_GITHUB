@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Sylvicapra",
+    "specie": "Sylvicapra_grimmia",
+    "specie_en": "Common duiker"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": "1 calf per litter, 1.4 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1500",
+    "units": "g",
+    "label": "wet weight at birth for female",
+    "bibkey": "Furs2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "21e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Furs2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": "17 till 25 kg"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "17e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Furs2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": "15 till 19 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15.4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tg",
+    "entity.value": "200",
+    "units": "d",
+    "label": "gestation time for female calves",
+    "bibkey": "Furs2008",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": "195 till 205 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "9*30.5",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Furs2008",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": "8 till 10 mnth"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "14*30.5",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Furs2008",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "105",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Furs2008",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

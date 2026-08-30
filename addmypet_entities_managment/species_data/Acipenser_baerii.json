@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Acipenser",
+    "specie": "Acipenser_baerii",
+    "specie_en": "Siberian sturgeon",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "106.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "WillNonn2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "WillNonn2018 for Ob-Irtysh basin: 103-110 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.46e6/365/4",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "WillNonn2018",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "WillNonn2018: spawning year 4 yrs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.2e-3",
+      "units": "g",
+      "label": "wet weight birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.37 to 2.92 mm: pi/6*0.26^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "85.3e3",
+      "units": "g",
+      "label": "ultimate wet weigpi/6*0.26^3ht",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00269*Li^3.26, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "9e3",
+      "units": "g",
+      "label": "uwet weight at puberty",
+      "bibkey": "WillNonn2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "for Ob-Irtysh basin"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "36",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "hatch 16 d at 10-15 C, feeding 20 dph at 18 C"
+    },
+    {
+      "entity": "am",
+      "entity.value": "63*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WillNonn2018",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "10.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "WillNonn2018",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "9-12 yr for Ob-Irtysh basin"
+    }
+  ]
+}

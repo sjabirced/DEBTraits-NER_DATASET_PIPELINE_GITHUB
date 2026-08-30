@@ -1,0 +1,153 @@
+{
+  "taxonomy": {
+    "phylum": "Annelida",
+    "class": "Polychaeta",
+    "order": "Phyllodocida",
+    "family": "Nereidae",
+    "species": "Hediste_diversicolor",
+    "species_en": "Ragworm",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "L3i",
+      "entity.value": "0.47",
+      "units": "cm",
+      "label": "max L3 length at first reproduction",
+      "bibkey": "NestSimo2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "the biggest of the figure X"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "14.7",
+      "units": "cm",
+      "label": "max length at first reproduction",
+      "bibkey": "NestSimo2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "the biggest of the figure X"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.36",
+      "units": "cm",
+      "label": "length at metamorphosis",
+      "bibkey": "Dale1950",
+      "temp": null,
+      "units.temp": null,
+      "comment": "From the number of setigers n=19"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.27",
+      "units": "g",
+      "label": "dry weight at death",
+      "bibkey": "NestSimo2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "4.2e-6",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "DuroMoun2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 190-225 mum Scaps 200-270 mum: pi/6*0.02^3"
+    },
+    {
+      "entity": "Ww60",
+      "entity.value": "0.030",
+      "units": "g",
+      "label": "wet weight at age 60 d",
+      "bibkey": "NestSimo2012",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.57",
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "NestSimo2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.08",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "NestSimo2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "152/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MartBren1997",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "Salinity was 35 psu"
+    },
+    {
+      "entity": "aj",
+      "entity.value": "28+152/24",
+      "units": "d",
+      "label": "age at metamorphosis",
+      "bibkey": "MartBren1997",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "salinity 35"
+    },
+    {
+      "entity": "aj",
+      "entity.value": "10*7",
+      "units": "d",
+      "label": "age at metamorphosis",
+      "bibkey": "Dale1950",
+      "temp": "C2K(8.5)",
+      "units.temp": "K",
+      "comment": "Mean in situ temperature, salinity unknown"
+    },
+    {
+      "entity": "am",
+      "entity.value": "112",
+      "units": "d",
+      "label": "age at first repro=death",
+      "bibkey": "NestSimo2012",
+      "temp": "C2K(17.4)",
+      "units.temp": "K",
+      "comment": "salinity 19, 112 guessed, T 60d at 16 and 52d at 19 C"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "67",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "NestSimo2012",
+      "temp": "C2K(16.3)",
+      "units.temp": "K",
+      "comment": "salinity 19, 67 guessed, T 60d at 16 and 7 d at 19 C"
+    },
+    {
+      "entity": "pXm",
+      "entity.value": "132",
+      "units": "J/d",
+      "label": "Maximum ingestion rate",
+      "bibkey": "NielErik1995",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

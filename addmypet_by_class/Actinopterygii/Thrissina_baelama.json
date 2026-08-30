@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Engraulidae",
+    "genus": "Thrissina",
+    "specie": "Thrissina_baelama",
+    "specie_en": "Baelama anchovy"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SangLukm2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3356/365",
+    "units": "#/d",
+    "label": "max reprod rate at TL 12.7 cm",
+    "bibkey": "Mari1970",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.1e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Mari1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.84 mm: pi/6*0.084^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "40.7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00525*Li^3.23, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "13",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','SangLukm2022'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00525*Lp^3.23, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

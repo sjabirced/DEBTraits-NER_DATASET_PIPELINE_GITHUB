@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Zoarcidae",
+    "genus": "Lycodes",
+    "specie": "Lycodes_frigidus",
+    "specie_en": "Glacial eelpout"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "57",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "HildBerg2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "AunePrim2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "500/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "AunePrim2014",
+    "temp": "C2K(-0.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.18",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AunePrim2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 7 mm: pi/6*0.7^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1500",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "HildBerg2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LW data and Li"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "70",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "HildBerg2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LW data and Lp"
+  },
+  {
+    "entity": "am",
+    "entity.value": "35*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HildBerg2011",
+    "temp": "C2K(-0.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

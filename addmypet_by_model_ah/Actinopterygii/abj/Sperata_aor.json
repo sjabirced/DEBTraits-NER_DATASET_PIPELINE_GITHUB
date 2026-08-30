@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Bagridae",
+    "genus": "Sperata",
+    "specie": "Sperata_aor",
+    "specie_en": "Long-whiskered catfish "
+  },
+  {
+    "entity": "Li",
+    "entity.value": "180",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "46.8",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "JabeHoss2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.4 mm: pi/6*0.14^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "32e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Li^2.99, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "567",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'JabeHoss2020','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Lp^2.99, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "16",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "NaziKhan2020",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

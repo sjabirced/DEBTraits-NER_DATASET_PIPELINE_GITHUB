@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Dactyloidae",
+    "genus": "Anolis",
+    "specie": "Anolis_carolinensis",
+    "specie_en": "Green anole"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.4",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "Mich1972",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Mich1972",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.3",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Mich1972",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.75",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "Mich1972",
+    "temp": null,
+    "units.temp": null,
+    "comment": "4.5-5 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.0",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "Mich1972",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "EoL",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "2 eggs perlitter, 6 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.26",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.44",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Anolis_acutus and Li: (5.4/4.4)^3*2.4"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Anolis acutus: 0.21-0.30 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "42",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "7.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

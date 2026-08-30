@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Dorosomatidae",
+    "genus": "Harengula",
+    "specie": "Harengula_clupeola",
+    "specie_en": "False herring",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "22.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(26.7)",
+      "units.temp": "K",
+      "comment": "based on Harengula_humeralis"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0024",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.66 mm of Harengula jaguana: pi/6*0.166^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "123.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00871*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "13.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00871*Lp^3.07, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "12",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(26.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "VazdRoss2019",
+      "temp": "C2K(26.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

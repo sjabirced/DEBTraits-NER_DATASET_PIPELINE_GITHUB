@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Ariommatidae",
+    "genus": "Ariomma",
+    "specie": "Ariomma_indica",
+    "specie_en": "Indian driftfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "ultimate std length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15.1",
+      "units": "cm",
+      "label": "std length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "89322/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "KamaRast2018",
+      "temp": "C2K(27.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "246.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02042*Li^2.92, see F1, gives 683 g"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "56.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02042*Lp^2.92, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ReubVija1996",
+      "temp": "C2K(27.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

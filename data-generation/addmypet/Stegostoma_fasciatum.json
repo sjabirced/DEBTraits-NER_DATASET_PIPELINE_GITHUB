@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Orectolobiformes",
+    "family": "Stegostomatidae",
+    "genus": "Stegostoma",
+    "specie": "Stegostoma_fasciatum",
+    "specie_en": "Zebra shark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "28.7",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "WatsJans2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "15-32 g"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "300",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "354",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'max length reported"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "213",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "WatsJans2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "208",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "WatsJans2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "100/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "WatsJans2017",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "typical in aquaria 20-50 eggs per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "90",
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "WatsJans2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "50 - 130 g"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "2.2e5",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "{'WatsJans2017','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lp, Wwp and Li data: 47900*(354/213)^3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "47900",
+      "units": "g",
+      "label": "weight at puberty",
+      "bibkey": "WatsJans2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "33900",
+      "units": "g",
+      "label": "weight at puberty for males",
+      "bibkey": "WatsJans2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "33*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "WatsJans2017",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

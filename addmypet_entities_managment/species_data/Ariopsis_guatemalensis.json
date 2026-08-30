@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ariidae",
+    "genus": "Ariopsis",
+    "specie": "Ariopsis_guatemalensis",
+    "specie_en": "Blue sea catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "54",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Warb1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "65/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(28.3)",
+      "units.temp": "K",
+      "comment": "based on Ariopsis_felis"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.145",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "smithonian",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 16 mm for Ariopsis_felis: pi/6*1.6^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.5e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00661*Li^3.09, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "54.4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'Warb1978','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00661*Lp^3.09, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Warb1978",
+      "temp": "C2K(28.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

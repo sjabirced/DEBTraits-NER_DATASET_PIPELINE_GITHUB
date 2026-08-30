@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "genus": "Liopholis",
+    "specie": "Liopholis_inornata",
+    "specie_en": "Desert Skink",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "4.2",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Kear2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8.6",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Kear2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Kear2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "length of smallest female gravid on capture 6.4 cm, #12"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Pian1982",
+      "temp": "C2K(23.67075)",
+      "units.temp": "K",
+      "comment": "max reported by Pian1982, assuming two clutches per year at most, temperature from NMR simulation"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.85",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Kear2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.04493326*data.Li^2.865686",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Kear2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "using length-weight relationship from KearUnpub, calculated in growth_analysis_Liopholis_inornata.R"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.04493326*data.Lp^2.865686",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Kear2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "using length-weight relationship from Kear2017, calculated in growth_analysis_Liopholis_inornata.R"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4*30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Kear2017",
+      "temp": "C2K(26.571)",
+      "units.temp": "K",
+      "comment": "rough time between capture in field and birth in lab"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Chap2003",
+      "temp": "C2K(23.67075)",
+      "units.temp": "K",
+      "comment": "little data, Chap2003 says the members of the genus \"may live for up to 10 years\""
+    },
+    {
+      "entity": "tR",
+      "entity.value": "data.ab+326",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Kear2017",
+      "temp": "C2K(26.571)",
+      "units.temp": "K",
+      "comment": "mean time to 6 cm in lab"
+    }
+  ]
+}

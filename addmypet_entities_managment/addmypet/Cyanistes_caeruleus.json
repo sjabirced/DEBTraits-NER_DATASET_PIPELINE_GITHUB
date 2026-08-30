@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "genus": "Cyanistes",
+    "specie": "Cyanistes_caeruleus",
+    "specie_en": "Eurasian blue tit",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "16.8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "EoL",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "Wiki upto 12 eggs/clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.81",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Guess based on back-extrapolation of tW data"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "11.4",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "12.1",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "avibase",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temp from Rahn1991"
+    },
+    {
+      "entity": "am",
+      "entity.value": "14.6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "EoL",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "57",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "15 to 23 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "19",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "EoL",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "15 to 23 d"
+    }
+  ]
+}

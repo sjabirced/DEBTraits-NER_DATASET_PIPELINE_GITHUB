@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Polynemiformes",
+    "family": "Polynemidae",
+    "genus": "Leptomelanosoma",
+    "specie": "Leptomelanosoma_indicum",
+    "specie_en": "Indian threadfin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "142",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on maturity as male at 0.5 yr in Polydactylus sexfilis"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5e6/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "KamLeun2002",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "based on 7e4 eggs/kg for Polydactylus sexfilis and Wwi = 21.2 kg"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.5e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ctsa",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.775 mm: 4/3*pi*0.039^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "21213",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389 * Li^3.13, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sphyraeniformes",
+    "family": "Sphyraenidae",
+    "genus": "Sphyraena",
+    "specie": "Sphyraena_sphyraena",
+    "specie_en": "European barracuda",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "165",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "27.6",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "103453/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(18.3)",
+      "units.temp": "K",
+      "comment": "assumed length 40 cm"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 1.45 mm: pi/6*0.145^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "21.5e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on W = 0.00759*Li^2.91, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "118.4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.00759*Lp^2.91, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(18.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

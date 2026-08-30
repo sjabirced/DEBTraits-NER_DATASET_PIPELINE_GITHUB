@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes ",
+    "family": "Leiognathidae",
+    "genus": "Equulites",
+    "specie": "Equulites_lineolatus",
+    "specie_en": "Ornate ponyfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.6)",
+    "units.temp": "K",
+    "comment": "based on Leiognathus_bindus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm of Leiognathus_equula: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "35.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00661*Li^3.17, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.1",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00661*Lp^3.17, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4.7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

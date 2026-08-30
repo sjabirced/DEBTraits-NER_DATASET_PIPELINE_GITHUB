@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Dactyloidae",
+    "genus": "Anolis",
+    "specie": "Anolis_nebulosus",
+    "specie_en": "Clouded Anole",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.1",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "HernRami2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.28",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "HernRami2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "4.65",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "HernRami2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.7",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "HernRami2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "HernRami2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "1 egg per clutch, assumed: 12 clutches per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.77",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Larcerta agilis: 12*0.528^3 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "9*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "HernRami2019",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "7*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "HernRami2019",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

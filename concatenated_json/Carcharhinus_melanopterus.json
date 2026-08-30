@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Carcharhinus",
+    "specie": "Carcharhinus_melanopterus",
+    "specie_en": "Blacktip reef shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "49",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "48-50 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "200",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "91",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.4)",
+    "units.temp": "K",
+    "comment": "2-4 pups per litter, 1 litter each yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "46.6e3",
+    "units": "g",
+    "label": "ultimate wet weight (female)",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00447*Li^3.05, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ChinSimp2013",
+    "temp": "C2K(27.4)",
+    "units.temp": "K",
+    "comment": "based on the assumption that max back-calculated age is close to life span"
+  }
+]

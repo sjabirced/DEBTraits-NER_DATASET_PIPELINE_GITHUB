@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Engraulidae",
+    "genus": "Anchovia",
+    "specie": "Anchovia_surinamensis",
+    "specie_en": "Surinam anchovy"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "DiasAmar2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2000/365",
+    "units": "#/d",
+    "label": "reproduction rate at SL 5.8 cm",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": "based on Anchoviella_guianensis"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "42.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "DiasAmar2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00631*Lp^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.8",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "DiasAmar2022",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

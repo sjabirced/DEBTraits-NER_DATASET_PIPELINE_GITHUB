@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sillaginidae",
+    "genus": "Sillago",
+    "specie": "Sillago_ciliata",
+    "specie_en": "Sand sillago",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "51",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "22.5",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Clel1947 gives 26 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "380e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(25.4)",
+      "units.temp": "K",
+      "comment": "Fecundity 380000"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.5e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.66 mm of Sillago sihama: pi/6*0.066^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00617*Li^3.13, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Clel1947",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": "hatch at 1 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "22*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(25.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

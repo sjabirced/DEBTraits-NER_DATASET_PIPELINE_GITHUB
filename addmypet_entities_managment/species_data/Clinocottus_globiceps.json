@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Clinocottus",
+    "specie": "Clinocottus_globiceps",
+    "specie_en": "Mosshead sculpin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "19",
+      "units": "cm",
+      "label": "ultimate total length for",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Clinocottus_analis"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e3/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(10.1)",
+      "units.temp": "K",
+      "comment": "based on Clinocottus_analis"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.63 mm for Cottus volki: pi/6*0.163^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "134",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01023*Li^3.22, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(10.1)",
+      "units.temp": "K",
+      "comment": "based on Clinocottus_analis"
+    }
+  ]
+}

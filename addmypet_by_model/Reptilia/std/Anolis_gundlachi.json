@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Dactyloidae",
+    "genus": "Anolis",
+    "specie": "Anolis_gundlachi",
+    "specie_en": "Yellow-chinned Anole"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.5",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "Stew1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "hatchling A. gundlachi in belly of a coqui frog!"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "SVL length",
+    "bibkey": "Andr1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "Huey2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "18/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Eale2008",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "pers. obs. by Eales for A. cristatellus (every 2 weeks for 8 months of year)"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.9846E-05*(data.Lb*10)^2.8629",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'Stew1996','Oter2012'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Lb, using F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.9846E-05*(data.Li*10)^2.8629",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'Andr1976','Oter2012'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Li, using F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.9846E-05*(data.Lp*10)^2.8629",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'Huey2019','Oter2012'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Lp, using F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "43",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Sang2008",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Rive1998",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "data.ab+269",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "Andr1976",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

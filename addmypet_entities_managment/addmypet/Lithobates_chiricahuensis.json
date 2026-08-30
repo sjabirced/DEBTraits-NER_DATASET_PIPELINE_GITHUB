@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Lithobates",
+    "specie": "Lithobates_chiricahuensis",
+    "specie_en": "Chiricahua leopard frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "13.7",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "11.2",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Li and tL data: 13.5*9.926/11.972"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "3.9",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lithobates_clamitans: 13.7*3/10.5"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.6",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "PlatLath1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "4.6",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "PlatLath1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.4e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "based on Lithobates_clamitans: 257/128*7e3 eggs per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 1.5 mm: pi/6*0.15^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "257",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "140",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lim/Li)^3*Wwi: (11.2/13.7)^3*257"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "40",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "PlatLath1997",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Inachidae",
+    "genus": "Macrocheira",
+    "specie": "Macrocheira_kaempferi",
+    "specie_en": "Japanese spider crab",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "37",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "4 m between tips of chelipeds"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "carapace length at settle",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.5e6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 0.7 mm: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "19e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.081",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as (Lj/ Li)^3 * Wwi"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "192",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as (Lp/ Li)^3 * Wwi"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "100*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj11",
+      "entity.value": "78",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Okam1993",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": "33 d zoea, 45 d megalopa"
+    },
+    {
+      "entity": "tj18",
+      "entity.value": "41",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Okam1993",
+      "temp": "C2K(18.3)",
+      "units.temp": "K",
+      "comment": "16 d zoea, 25 d megalopa"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "5-8 yr"
+    }
+  ]
+}

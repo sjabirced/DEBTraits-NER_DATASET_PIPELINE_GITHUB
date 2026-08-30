@@ -1,0 +1,161 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Kinosternidae",
+    "genus": "Claudius",
+    "specie": "Claudius_angustatus",
+    "specie_en": "Narrow-bridged musk turtle"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.58",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "LeglVogt2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate carapace length for females",
+    "bibkey": "LeglVogt2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16.5",
+    "units": "cm",
+    "label": "ultimate carapace length for males",
+    "bibkey": "LeglVogt2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "carapace length at puberty for females",
+    "bibkey": "LeglVogt2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.8",
+    "units": "cm",
+    "label": "carapace length at puberty for males",
+    "bibkey": "LeglVogt2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "LeglVogt2013",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "2.4 eggs per clutch, 2.5 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LeglVogt2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "400",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "LeglVogt2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "434",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "LeglVogt2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "118.5",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "LeglVogt2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lp/Li)^3*Wwi"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "90.9",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "LeglVogt2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lpm/Lim)^3*Wwim"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "95",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "LeglVogt2013",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "95--229 d, depending on diapauze"
+  },
+  {
+    "entity": "am",
+    "entity.value": "16.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "LeglVogt2013",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "LeglVogt2013",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Osmeriformes",
+    "family": "Osmeridae",
+    "genus": "Mallotus",
+    "specie": "Mallotus_villosus",
+    "specie_en": "Capelin"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.24",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "gma",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Osmerus_mordax"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "23",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fao",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "13.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "16",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fao",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": "2-3 wk"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "3.5*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "JohaVilh1999",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "temp is guessed, ap for females"
+  }
+]

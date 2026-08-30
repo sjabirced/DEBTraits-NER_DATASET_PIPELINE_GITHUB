@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Gymnophiona",
+    "family": "Ichthyophiidae",
+    "genus": "Ichthyophis",
+    "specie": "Ichthyophis_kohtaoensis",
+    "specie_en": "Koa Tao Island caecilian",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "KupfKram2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate female total length",
+      "bibkey": "KupfKram2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "MantGros1997: 28 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "36.8",
+      "units": "cm",
+      "label": "ultimate male total length",
+      "bibkey": "KupfKram2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "KupfKram2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "KupfKram2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "47/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "KupfNabh2004",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "mean value 27 eggs per brood"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.9",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "estimate",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from W_m*(L_b/L_m)^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "356",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "estimate",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimated from volume in a photograph"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "19",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "estimate",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from W_m*(L_j/L_m)^3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "44",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "estimate",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from W_m*(L_p/L_m)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "75",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "KupfKram2004",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "11*30.5",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "KupfKram2004",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "KupfKram2004",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

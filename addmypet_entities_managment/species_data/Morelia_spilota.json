@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "genus": "Morelia",
+    "specie": "Morelia_spilota",
+    "specie_en": "Carpet python",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "58",
+      "units": "cm",
+      "label": "total length at hatching for females",
+      "bibkey": "Fear1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": "SVL 48 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "400",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "30/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "10-50 eggs per clutch, 1 clutch per yr assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "30.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Fear1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "15.9e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "63",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "19.6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

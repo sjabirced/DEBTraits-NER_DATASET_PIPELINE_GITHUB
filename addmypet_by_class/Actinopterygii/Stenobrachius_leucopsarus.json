@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Stenobrachius",
+    "specie": "Stenobrachius_leucopsarus",
+    "specie_en": "Northern lampfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "ChilTayl1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3e3/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(3.4)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ChilTayl1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.7 mm: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "22.2",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00891*Li^3.05, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.37",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','ChilTayl1980'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00891*Lp^3.05, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ChilTayl1980",
+    "temp": "C2K(3.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Mesopotamichthys",
+    "specie": "Mesopotamichthys_sharpeyi",
+    "specie_en": "Binni",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.1755",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "AbduAlZa2022",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "42.7",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.5e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AbduAlZa2022",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.888 mm: pi/6*0.189^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "813",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00933*Li^3.03, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "82",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00933*Lp^3.03, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

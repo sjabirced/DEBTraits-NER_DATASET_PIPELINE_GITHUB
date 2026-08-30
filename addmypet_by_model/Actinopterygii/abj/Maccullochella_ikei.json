@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Percichthyidae",
+    "species": "Maccullochella_ikei",
+    "species_en": "Clarence river cod"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "ButlRowl2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "39",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "ButlRowl2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12e3/365",
+    "units": "#/d",
+    "label": "reprod rate max size",
+    "bibkey": "guess",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Maccullochella_peelii: 9e4*15e3/113.5e3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 3.25 mm of Maccullochella_peelii: pi/6*0.325^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15e3",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "ButlRowl2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on LW data"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ButlRowl2008",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

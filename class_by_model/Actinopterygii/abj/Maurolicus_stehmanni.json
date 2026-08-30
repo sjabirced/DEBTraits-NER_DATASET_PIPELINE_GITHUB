@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Stomiiformes",
+    "family": "Sternoptychidae",
+    "genus": "Maurolicus",
+    "specie": "Maurolicus_stehmanni",
+    "specie_en": "Stehmann"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.2",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.8",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3500/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": "based on Maurolicus muelleri"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm of Maurolicus muelleri: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.8768",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LW data, 0.00479*Li^3.16, see F1, gives 0.877 g"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.33",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00479*Lp^3.16, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BellHara2004",
+    "temp": "C2K(19.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

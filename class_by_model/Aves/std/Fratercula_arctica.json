@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Alcidae",
+    "genus": "Fratercula",
+    "specie": "Fratercula_arctica",
+    "specie_en": "Atlantic puffin"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "1.4 * 436",
+    "units": "cm3/h",
+    "label": "O2 consumption at ultimate state",
+    "bibkey": "BryaFurn1995",
+    "temp": "C2K(40.7)",
+    "units.temp": "K",
+    "comment": "measured as BMR"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16.7",
+    "units": "cm",
+    "label": "wing length",
+    "bibkey": "LowtDiam2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wing length Mean [Range 16.2 - 17.3 cm varied based on colony]"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reproductive rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.7)",
+    "units.temp": "K",
+    "comment": "One clutch per year, one egg per clutch"
+  },
+  {
+    "entity": "V0",
+    "entity.value": "66.5",
+    "units": "ml",
+    "label": "Volume at start of development",
+    "bibkey": "Barr2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "From eggs in Norway"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "65.8",
+    "units": "g",
+    "label": "wet weight at start of development",
+    "bibkey": "LowtDiam2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Mean [Range 61.9 - 70.4 - Varied based on colony]"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "44",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LowtDiam2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Mean [range 39.7-50 g - Varied based on colony]"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "436",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "LowtDiam2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Mean breeding season weight [Range 350-555 g - Varied based on colony]"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "40",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "LowtDiam2002",
+    "temp": "C2K(32)",
+    "units.temp": "K",
+    "comment": "Mean [Range 36 - 45 d - Variation between years and colonies]"
+  },
+  {
+    "entity": "am",
+    "entity.value": "40.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.7)",
+    "units.temp": "K",
+    "comment": "Maximum life span"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1460",
+    "units": "d",
+    "label": "time since hatching at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "135",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.7)",
+    "units.temp": "K",
+    "comment": "Mean [Range 34 and 83 d - Variation between years and colonies]"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "LowtDiam2002",
+    "temp": "C2K(40.7)",
+    "units.temp": "K",
+    "comment": "Mean [Range 34 and 83 d - Variation between years and colonies]"
+  }
+]

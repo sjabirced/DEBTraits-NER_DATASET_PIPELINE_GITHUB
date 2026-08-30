@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Osmeriformes",
+    "family": "Retropinnidae",
+    "genus": "Prototroctes",
+    "specie": "Prototroctes_maraena",
+    "specie_en": "Australian grayling"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "17.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "BishBell1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "68.5e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "BishBell1978",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BishBell1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.7 mm: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "162",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00372*Li^3.14, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "29.8",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00372*Lp^3.14, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

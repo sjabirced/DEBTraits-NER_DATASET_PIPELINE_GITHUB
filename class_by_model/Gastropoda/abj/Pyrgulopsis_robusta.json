@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Littorinimorpha",
+    "family": "Hydrobiidae",
+    "genus": "Pyrgulopsis",
+    "specie": "Pyrgulopsis_robusta",
+    "specie_en": "Jackson lake springsnail"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.1,
+    "units": "cm",
+    "label": "shell height at birth",
+    "bibkey": "fs",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.75,
+    "units": "cm",
+    "label": "ultimate shell height",
+    "bibkey": "fs",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": 0.11,
+    "units": "cm",
+    "label": "shell height at settlement",
+    "bibkey": "fs",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.4,
+    "units": "cm",
+    "label": "shell height at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 150.0,
+    "units": "#",
+    "label": "lifetime reprod output",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "based on Valvata piscinalis"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 0.137,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Planorbis planorbis (including shell): 4.336e-1 * (0.75/1.1)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": 382.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fs",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

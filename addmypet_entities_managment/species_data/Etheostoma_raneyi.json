@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Etheostoma",
+    "specie": "Etheostoma_raneyi",
+    "specie_en": "Yazoo darter",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase TL 6.5 cm, see F1"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "JohnHaag1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "52/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "JohnHaag1996",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "JohnHaag1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.05 mm: pi/6*0.105^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*(5.5/0.85)^3.14, see F1, F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "JohnHaag1996",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "Wiki gives 5 yrs"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "0.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "JohnHaag1996",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "based on Lp and tL data"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "genus": "Emydocephalus",
+    "specie": "Emydocephalus_ijimae",
+    "specie_en": "Ijima",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "28",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "MasuHide2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "226 to 342 mm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "85.5",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "MasuHide2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "78.5",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "MasuHide2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "Masumats2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "Masumats2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "Masumats2003",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "600",
+      "units": "g",
+      "label": "ultimate weight for females",
+      "bibkey": "MasuHide2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "364",
+      "units": "g",
+      "label": "ultimate weight for males",
+      "bibkey": "MasuHide2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lim/Li)^3*Wwim"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MasuHide2003",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

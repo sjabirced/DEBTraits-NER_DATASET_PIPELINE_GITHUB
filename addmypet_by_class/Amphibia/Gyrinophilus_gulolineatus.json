@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Gyrinophilus",
+    "specie": "Gyrinophilus_gulolineatus",
+    "specie_en": "Berry cave salamander"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.05",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "NiemCart2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "SVL at puberty ",
+    "bibkey": "NiemCart2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "assumed: 12 eggs per clutch, 1 clutch each yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0172",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 3.2 mm of Gyrinophilus_palleucus: pi/6*0.32^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Desmognathus quadramaculatus: (8.05/9)^3*14.6"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on Plethodon cinereus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "18.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

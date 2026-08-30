@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Haemulidae",
+    "genus": "Plectorhinchus",
+    "specie": "Plectorhinchus_sordidus",
+    "specie_en": "Sordid rubberlip"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.058",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "GranAbde2011",
+    "temp": "C2K(27.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "26",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.85 mm: pi/6*0.085^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2876",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01445*Li^2.98, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "238",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01445*Lp^2.98, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

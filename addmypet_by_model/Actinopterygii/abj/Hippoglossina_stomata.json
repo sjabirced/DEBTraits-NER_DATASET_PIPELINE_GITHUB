@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Paralichthyidae",
+    "genus": "Hippoglossina",
+    "specie": "Hippoglossina_stomata",
+    "specie_en": "Bigmouth flounder"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16.2",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "MartOrte2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "22e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(17.1)",
+    "units.temp": "K",
+    "comment": "based on Citharichthys sordidus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.75 mm of Citharichthys_sordidus: pi/6*0.075^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "784",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Li^3.08, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "48.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','MartOrte2001'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Lp^3.08, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(17.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

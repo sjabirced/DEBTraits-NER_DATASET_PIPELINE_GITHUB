@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "OvalentariaIncSed",
+    "family": "Ambassidae",
+    "genus": "Parambassis",
+    "specie": "Parambassis_ranga",
+    "specie_en": "Indian glassy fish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.12",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "ArauHaiv2000",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.65",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.7 mm of Ambassis_agassizii: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01318*Li^2.96, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.24",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01318*Lp^2.96, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "IshiTach2012",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on tL data"
+  }
+]

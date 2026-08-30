@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Cnidaria",
+    "class": "Scyphozoa",
+    "order": "Semaeostomeae",
+    "family": "Pelagiidae",
+    "genus": "Pelagia",
+    "specie": "Pelagia_noctiluca",
+    "specie_en": "Mauve stinger"
+  },
+  {
+    "entity": "L0",
+    "entity.value": 0.03,
+    "units": "cm",
+    "label": "egg diameter",
+    "bibkey": "{'AviaRott1991','Berr1949'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.11,
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Avia1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "rhopalia to rhopalia"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 12.0,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "RosaPans2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 7.0,
+    "units": "cm",
+    "label": "total length st puberty",
+    "bibkey": "MaleMale1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "3-3.5 cm is min length where mature gonads were observed"
+  },
+  {
+    "entity": "RQ",
+    "entity.value": 0.8,
+    "units": "-",
+    "label": "respiratory quotient",
+    "bibkey": "Lars1987b",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 20000.0,
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "extrapolated from the size-reproduction rate data"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 288.0,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guestimated for length-wet mass relationship in RosaPans2012 assuming 14 cm ultimate length"
+  },
+  {
+    "entity": "am",
+    "entity.value": 1000.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "this life span is artificial"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 150.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "MaleMale1992",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "temps are guessed"
+  }
+]

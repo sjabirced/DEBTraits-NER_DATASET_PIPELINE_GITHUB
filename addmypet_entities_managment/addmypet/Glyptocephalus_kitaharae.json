@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Glyptocephalus",
+    "specie": "Glyptocephalus_kitaharae",
+    "specie_en": "Willowy flounder",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "40e4/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(17.9)",
+      "units.temp": "K",
+      "comment": "based on Pseudopleuronectes_herzensteini"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.6e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.5 mm: pi/6*0.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "302.6",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01047*Li^3.02, see F4"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "30.3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01047*Lp^3.02, see F4"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(17.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "DagaChan1992",
+      "temp": "C2K(17.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rhinopristiformes",
+    "family": "Rhinobatidae",
+    "genus": "Pseudobatos",
+    "specie": "Pseudobatos_horkelii",
+    "specie_en": "Brazilian guitarfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "CaltSide2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "15-18 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "138",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "90",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "57-77 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "9/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(15.6)",
+    "units.temp": "K",
+    "comment": "'4-12 pups per litter"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12.3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00316*Li^3.08, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(15.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CaltSide2019",
+    "temp": "C2K(15.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

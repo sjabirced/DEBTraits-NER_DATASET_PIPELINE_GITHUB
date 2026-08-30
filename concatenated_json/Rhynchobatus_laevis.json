@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rhinopristiformes",
+    "family": "Rhinidae",
+    "genus": "Rhynchobatus",
+    "specie": "Rhynchobatus_laevis",
+    "specie_en": "Smoothnose wedgefish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "48",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "WhitSimp2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "46 to 50 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "270",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "130",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "14/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "7 to 19 pups per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "685",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'fishbase','WhitSimp2014'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate based on 0.00646*Lb^2.99, see F2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.5e5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate based on 0.00389*Li^3.12, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "13.3e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','WhitSimp2014'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate based on 0.00389*Lp^3.12, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "WhitSimp2014",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

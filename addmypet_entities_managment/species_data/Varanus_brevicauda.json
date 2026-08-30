@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "genus": "Varanus",
+    "specie": "Varanus_brevicauda",
+    "specie_en": "Short-tailed pygmy monitor",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "0.0451",
+      "units": "ml O2/min",
+      "label": "max BMR",
+      "bibkey": "NespSola2017",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "1-2 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "17.44",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "3-5 mnth"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since metam at puberty for female",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

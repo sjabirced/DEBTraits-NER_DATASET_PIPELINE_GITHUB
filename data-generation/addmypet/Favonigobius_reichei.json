@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Favonigobius",
+    "specie": "Favonigobius_reichei",
+    "specie_en": "Indo-Pacific tropical sand goby",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": 0.184,
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "Schl1997",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 3.2,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Schl1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 1.5,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase gives 27 cm, but that is unlikely given Li"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.000212,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Eviota_queenslandica"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 0.5,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Schl1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 0.05,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi*(Lp/Li)^3: 0.5*(1.5/3.2)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": 3.5,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": "'this is ignorned"
+    },
+    {
+      "entity": "am",
+      "entity.value": 134.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Schl1997",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

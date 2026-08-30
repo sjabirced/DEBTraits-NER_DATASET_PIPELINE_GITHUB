@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Percopsiformes",
+    "family": "Percopsidae",
+    "genus": "Percopsis",
+    "specie": "Percopsis_transmontana",
+    "specie_en": "Sand roller",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "10.3",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "GrayDaub1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "GrayDaub1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "R9",
+      "entity.value": "3368/365",
+      "units": "#/d",
+      "label": "reprod rate at FL 9.1 cm",
+      "bibkey": "GrayDaub1979",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "temp is guessed"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5380/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "temp is guessed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GrayDaub1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on egg diameter of 1.7 mm: pi/6*0.17^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "17",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "GrayDaub1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on exp(-10.65 + 2.91*log(103)), see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GrayDaub1979",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "0.8*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "GrayDaub1979",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "based on Lp and tL data"
+    }
+  ]
+}

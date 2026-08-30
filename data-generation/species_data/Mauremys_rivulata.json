@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Geoemydidae",
+    "genus": "Mauremys",
+    "specie": "Mauremys_rivulata",
+    "specie_en": "Balkan pond turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.6",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Emys_orbicularis"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "17.8",
+      "units": "cm",
+      "label": "ultimate carapace length for female",
+      "bibkey": "CiceKuma2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "14.9",
+      "units": "cm",
+      "label": "ultimate carapace length for male",
+      "bibkey": "CiceKuma2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.57",
+      "units": "cm",
+      "label": "carapace length at puberty for female",
+      "bibkey": "CiceKuma2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "based on size-corrected value for Mauremys_sinensis"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "632",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-correct value for Mauremys_sinensis: 1750*(17.8/25)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "95",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(31)",
+      "units.temp": "K",
+      "comment": "based on Emys_orbicularis"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "value for M. japonica"
+    }
+  ]
+}

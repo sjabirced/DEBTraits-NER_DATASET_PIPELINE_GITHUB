@@ -1,0 +1,73 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Cyprinodontidae",
+    "species": "Aphanius_anatoliae",
+    "species_en": "Anatolian giant killifish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.1",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 2 mnth and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "300/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(17.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.4 mm: pi/6*0.14^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00977*Li^3.26, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GuclTurn2007",
+      "temp": "C2K(17.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

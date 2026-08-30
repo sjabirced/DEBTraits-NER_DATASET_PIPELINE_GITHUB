@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Rivulidae",
+    "genus": "Kryptolebias",
+    "specie": "Kryptolebias_marmoratus",
+    "specie_en": "Mangrove killifish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "(11.27 - 2.49)/ (30 - 7)/100",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "ParkAoki2010",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "computed as (11.27 - 2.49)/ (30 - 7)/100 for 1 day at 2.64 cm"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.51",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "SakaNoak2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "GargSaka2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SakaNoak2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ww2",
+    "entity.value": "0.15",
+    "units": "g",
+    "label": "wet weight at 2.64 cm",
+    "bibkey": "ParkAoki2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "20",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "SakaNoak2000",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "20-90 d, lower boundary of range was selected because of embryonic diapause in the species"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "35",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "SakaNoak2000",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

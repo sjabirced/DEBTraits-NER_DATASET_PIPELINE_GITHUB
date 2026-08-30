@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Rhacophoridae",
+    "genus": "Chiromantis",
+    "specie": "Chiromantis_rufescens",
+    "specie_en": "African foam-nest tree frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.236",
+      "units": "cm",
+      "label": "TL at birth",
+      "bibkey": "Coe1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.0",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "Coe1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": "data for Nigeria, 5.14 cm for Liberia"
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "4.8",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "Coe1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": "data for Nigeria, 4.4 cm for Liberia"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.8",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "148/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Coe1974",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "113-201 eggs per clutch, 1 clutch per season"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0109",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Coe1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 2.5-3.0 mm: pi/6*0.275^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9.3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwim*(Li/Lim)^3: 4.75*(6/4.8)^3"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "4.75",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Coe1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Coe1974",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "4-8 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "guess based on Hyla arborea"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

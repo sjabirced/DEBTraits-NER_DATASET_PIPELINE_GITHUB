@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Nemipteridae",
+    "genus": "Scolopsis",
+    "specie": "Scolopsis_taeniata",
+    "specie_en": "Black-streaked monocle bream "
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.07",
+    "units": "g/g",
+    "label": "gonadosomatic index",
+    "bibkey": "guess",
+    "temp": "C2K(26.4)",
+    "units.temp": "K",
+    "comment": "based on Scolopsis monogramma"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "38",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18.9",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of  0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "827.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01622*Li^2.98, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "103.2",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01622*Lp^2.98, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(26.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

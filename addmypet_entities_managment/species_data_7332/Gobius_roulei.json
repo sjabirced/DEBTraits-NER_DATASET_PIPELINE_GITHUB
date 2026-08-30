@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Gobius",
+    "specie": "Gobius_roulei",
+    "specie_en": "Roule"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.07",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Kova2001",
+    "temp": "C2K(13.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "Kova2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.5",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "Kova2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.41",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Kova2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Gobius niger: 6*8.5/18"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.6e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg length of 1.5 mm and width of 0.45 mm of G.niger: pi/6*0.15*0.045^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.0",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "{'fishbase','Kova2001'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00741*Li^3.08, see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.4",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "{'fishbase','Kova2001'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00741*Lim^3.08, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.32",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','Kova2001'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00741*Lp^3.08, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(13.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Kova2001",
+    "temp": "C2K(13.5)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

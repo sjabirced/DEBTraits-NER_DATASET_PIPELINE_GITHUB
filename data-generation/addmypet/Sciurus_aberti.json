@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Sciuridae",
+    "genus": "Sciurus",
+    "specie": "Sciurus_aberti",
+    "specie_en": "Abert",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1.5*3.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": "'3.5 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "12",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "702.5",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "355",
+      "units": "g",
+      "label": "wet weight at weaning for female",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "23.6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.7)",
+      "units.temp": "K",
+      "comment": "Data for Sciurus carolinensis"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "43",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "327",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "76",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acropomatiformes",
+    "family": "Glaucosomatidae",
+    "genus": "Glaucosoma",
+    "specie": "Glaucosoma_hebraicum",
+    "specie_en": "West Australian dhufish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "98.1",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30.1",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "HespPott2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Glaucosoma scapulare"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3e6/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(20.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 1.25 mm : pi/6*0.125^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "15.3e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "HespPott2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "442",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'HespPott2002','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/Li)^3*Wwi"
+    },
+    {
+      "entity": "am",
+      "entity.value": "40*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HespPott2002",
+      "temp": "C2K(20.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

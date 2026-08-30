@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Gonatidae",
+    "genus": "Gonatus",
+    "specie": "Gonatus_fabricii",
+    "specie_en": "Boreo-atlantic Armhook Squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "31",
+      "units": "cm",
+      "label": "mantle length at death",
+      "bibkey": "PiatZumh2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "mantle length at death for males",
+      "bibkey": "ArkhBjor2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "ArkhBjor2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Doryteuthis_pealeii: (17/27)*40"
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "9900*0.77",
+      "units": "#",
+      "label": "fecundity",
+      "bibkey": "GoliBlic2019",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": "8862 to 10000 oocytes, 23.5 percent is resorbed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.087",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GoliBlic2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 5.5 mm: pi/6*0.55^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "570",
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "{'PiatZumh2015','ArkhBjor2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.118*Li^2.47, see F1"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "335",
+      "units": "g",
+      "label": "wet weight at death for males",
+      "bibkey": "{'PiatZumh2015','ArkhBjor2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.118*Lim^2.47, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "720",
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "PiatZumh2015",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

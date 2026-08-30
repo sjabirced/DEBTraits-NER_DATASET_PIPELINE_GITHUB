@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Phycidae",
+    "genus": "Phycis",
+    "specie": "Phycis_phycis",
+    "specie_en": "Forkbeard",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "67.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "VieiNeve2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "37",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "VieiNeve2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tL data at 4.5 yr"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e6/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "based on Pseudophycis bachus"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.9e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "VieiNeve2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.0049*Li^3.2286, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "567",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "VieiNeve2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.0049*Lp^3.2286, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "VieiNeve2014",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "VieiNeve2014",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

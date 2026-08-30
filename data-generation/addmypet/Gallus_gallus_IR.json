@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Gallus",
+    "specie": "Gallus_gallus_IR",
+    "specie_en": "Indian River Broiler",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "(6 * 52)/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Rahn1991",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "WwR",
+      "entity.value": "2000",
+      "units": "g",
+      "label": "wet weight at 1st brood for female",
+      "bibkey": "SchuKerj2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "WwRm",
+      "entity.value": "2390",
+      "units": "g",
+      "label": "wet weight at 1st brood for male",
+      "bibkey": "SchuKerj2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "39.6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SchuKerj2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4200",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "SchuKerj2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "5100",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "SchuKerj2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "21",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "McGi2011",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SchuKerj2002",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "189",
+      "units": "d",
+      "label": "time since birth at 1st brood for females",
+      "bibkey": "SchuKerj2002",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tRm",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at 1st brood for males",
+      "bibkey": "SchuKerj2002",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "182",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": "based on tR minus clutch interval"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "6*7",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "besgroup",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": "'value taken from Gallus gallus"
+    }
+  ]
+}

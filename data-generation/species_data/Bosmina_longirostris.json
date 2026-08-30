@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Bosminidae",
+    "genus": "Bosmina",
+    "specie": "Bosmina_longirostris",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.02",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimate based on egg size, where 4 * egg length is adult length"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.07",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "nina",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.037",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "cst",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "'9-12 eggs per brood"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "8",
+      "units": "mug",
+      "label": "ultimate dry weight",
+      "bibkey": "CulvBouc1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed from Li using F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "140",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

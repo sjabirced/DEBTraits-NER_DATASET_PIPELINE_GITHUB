@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Alburnoides",
+    "specie": "Alburnoides_qanati",
+    "specie_en": "Kor River chub"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11.9",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "TahaEsma2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2368/365",
+    "units": "#/d",
+    "label": "Reprod rate max size",
+    "bibkey": "TahaEsma2018",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "TahaEsma2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 0.69 mm: pi/6*0.069^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "24.26",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "TahaEsma2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase: based on 0.00794*Li^3.14, see F1, gives 4.1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.25",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00794*Lp^3.14,  see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TahaEsma2015",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Eulipotyphla",
+    "family": "Soricidae",
+    "genus": "Sorex",
+    "specie": "Sorex_cinereus",
+    "specie_en": "Cinereus shrew"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6.22/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": "1 litter per yr, 6.22 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.28",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": "less than 1 to 2 yr"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "19",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "154",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "23",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

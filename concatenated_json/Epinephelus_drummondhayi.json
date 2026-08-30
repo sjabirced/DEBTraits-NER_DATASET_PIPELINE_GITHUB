@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Epinephelus",
+    "specie": "Epinephelus_drummondhayi",
+    "specie_en": "Speckled hind"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "110",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "55",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.4e5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(22.1)",
+    "units.temp": "K",
+    "comment": "based on Epinephelus_coioides: 463940*18e3/24.6e3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.5e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.95 mm: pi/6*0.095^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "18e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01122*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2191",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01122*Lp^3.04, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(22.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "45 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(22.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

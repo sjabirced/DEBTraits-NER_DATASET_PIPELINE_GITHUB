@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Crangonidae",
+    "genus": "Crangon",
+    "specie": "Crangon_crangon",
+    "specie_en": "Brown shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.2",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fao",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8.6",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "fao",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "6.2",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "fao",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "fao",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.0",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fao",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LN data"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.8e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fao",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.35 to 0.40 mm: 4/24*pi*0.0375^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fao",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "35",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "fao",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "21*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "fao",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

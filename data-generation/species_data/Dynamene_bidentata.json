@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Isopoda",
+    "family": "Sphaeromatidae",
+    "genus": "Dynamene",
+    "specie": "Dynamene_bidentata",
+    "specie_en": "Isopod",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.14",
+      "units": "cm",
+      "label": "total length at birth for female",
+      "bibkey": "Hold1968",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.14",
+      "units": "cm",
+      "label": "total length at birth for male",
+      "bibkey": "Hold1968",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.536",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Hold1968",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.607",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Hold1968",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.536",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "Hold1968",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.607",
+      "units": "cm",
+      "label": "total length at puberty for male",
+      "bibkey": "Hold1968",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "105/100",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Hold1968",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "105 eggs per brood: brood interval is guessed to 2 times ab"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-5",
+      "units": "g",
+      "label": "wet weight at birth for female",
+      "bibkey": "Hold1968",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 0.5 mm, width 0.4 mm: pi/6*0.05*0.04^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6.9e-3",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same length-weight, compared to Asellus: 0.536^3*0.045"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10.1e-3",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "48",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Hold1968",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "36",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Hold1968",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "750",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "117",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Hold1968",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

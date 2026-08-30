@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Acanthizidae",
+    "genus": "Pyrrholaemus",
+    "specie": "Pyrrholaemus_sagittatus",
+    "specie_en": "Speckled warbler",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2*3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "3 eggs per clutch, assumed: 2 clutches per year"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "2.3",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.0",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Gard2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12.9",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "13.7",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "18.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "17-20 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Gill1982",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "51",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "15-19 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "17",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "15-19 d"
+    }
+  ]
+}

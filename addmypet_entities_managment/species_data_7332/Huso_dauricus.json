@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Huso",
+    "specie": "Huso_dauricus",
+    "specie_en": "Kalugo"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "560",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "180",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "170 to 190 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.1e6/365/1.5",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "fecundity 4.1e6 to 4.8e6, but does not spawn every year"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.41e-2",
+    "units": "g",
+    "label": "wet weight at hatch",
+    "bibkey": "BirsWald2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter 0f 3 mm: pi/6*0.3^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "80*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

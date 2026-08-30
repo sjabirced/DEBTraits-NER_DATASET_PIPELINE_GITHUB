@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Noturus",
+    "specie": "Noturus_flavipinnis",
+    "specie_en": "Yellowfin madtom"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "DinkShut1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "180/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "DinkShut1996",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.15e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "DinkShut1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.8 mm: pi/6*0.28^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "25.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Li^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

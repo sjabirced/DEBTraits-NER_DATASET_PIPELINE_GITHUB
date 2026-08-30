@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Macroscelidea",
+    "family": "Macroscelididae",
+    "genus": "Elephantulus",
+    "specie": "Elephantulus_brachyrhynchus",
+    "specie_en": "Short-snouted elephant shrew"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "43.72",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(30.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5.5*1.8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(37.3)",
+    "units.temp": "K",
+    "comment": "1.8 young per litter, 5.5 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "10",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "44.3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "40-60 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "29",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.3)",
+    "units.temp": "K",
+    "comment": "one captive specimen lived 4.2 years "
+  },
+  {
+    "entity": "tg",
+    "entity.value": "61",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(35.3)",
+    "units.temp": "K",
+    "comment": "57-65 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "50",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(37.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "23",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

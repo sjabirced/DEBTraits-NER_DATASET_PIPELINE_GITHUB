@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Acanthuridae",
+    "genus": "Zebrasoma",
+    "specie": "Zebrasoma_scopas",
+    "specie_en": "Brown tang"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "eol",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "13.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "eol",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.1e6/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "eol",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Leis1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.75 mm for Chaetodon larvatus: 4/3*pi*0.038^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3329",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 6.302e-5 * (10*Li)^2.948, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "112",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "eol",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on g = 6.302e-5 * (10*Lp)^2.948, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "41*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "eol",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "all temperatures are guessed"
+  }
+]

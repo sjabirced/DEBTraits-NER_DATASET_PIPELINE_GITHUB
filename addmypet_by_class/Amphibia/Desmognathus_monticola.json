@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Desmognathus",
+    "specie": "Desmognathus_monticola",
+    "specie_en": "Seal salamander"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.8",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "Bruc2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "27/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "26 eggs per clutch (13 to 39), 1 clutch each other yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.46e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 4.4 mm (4.0 to 4.8 mm): pi/6*0.44^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Bruc2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "49",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "based on Plethodon cinereus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "17.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1.6*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Bruc2016",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Pipridae",
+    "species": "Chiroxiphia_boliviana",
+    "species_en": "Yungas manakin"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "HazlLond2012",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": "1 clutch per yr, 2 eggs per clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.45",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HazlLond2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "17.9",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "HazlLond2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "15",
+    "units": "g",
+    "label": "wet weight at fledging",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "HazlLond2012",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "based on other Chiroxiphia species"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "dWwb",
+    "entity.value": "0.48",
+    "units": "g/d",
+    "label": "change in wet weight at birth",
+    "bibkey": "HazlLond2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "15*3",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "HazlLond2012",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": "based on other Chiroxiphia species"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "15",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "HazlLond2012",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": "based on other Chiroxiphia species"
+  }
+]

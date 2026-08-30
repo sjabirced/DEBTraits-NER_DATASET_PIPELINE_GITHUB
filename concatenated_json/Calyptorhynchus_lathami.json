@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Psittaciformes",
+    "family": "Cacatuidae",
+    "genus": "Calyptorhynchus",
+    "specie": "Calyptorhynchus_lathami",
+    "specie_en": "Glossy black cockatoo"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "GarnPedl1999",
+    "temp": "C2K(41.3)",
+    "units.temp": "K",
+    "comment": "1 eggs per clutch, 1 clutch per yr assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "22",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "GarnPedl1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "egg weight 26.5 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "520",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "GarnPedl1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Asymptotic weight of nesting, adult weight slightly smaller: 450 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "30",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "GarnPedl1999",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "37.7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(41.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "270",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "90",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "GarnPedl1999",
+    "temp": "C2K(41.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

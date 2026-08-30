@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Beringraja",
+    "specie": "Beringraja_rhina",
+    "specie_en": "Longnose skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.12 * 180",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on same relative length, compared to Raja clavata: 0.12 * 180 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "180",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "70",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Zein1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Zein1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "82/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.7*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": "temps for all data are guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "26*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "Zein1991",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Zein1991",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

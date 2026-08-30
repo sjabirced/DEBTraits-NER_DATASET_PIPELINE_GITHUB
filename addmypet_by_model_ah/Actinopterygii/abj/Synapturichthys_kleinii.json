@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Soleidae",
+    "genus": "Synapturichthys",
+    "specie": "Synapturichthys_kleinii",
+    "specie_en": "Klein"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "42",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on tL data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "BouaBoud2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BouaBoud2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.2  mm: pi/6*0.12^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "622.4",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01047*Li^2.98, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "85",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','BouaBoud2018'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01047*Lp^2.98, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "19",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(15.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(15.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(15.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

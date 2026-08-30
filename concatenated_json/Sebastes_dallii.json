@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastes",
+    "specie": "Sebastes_dallii",
+    "specie_en": "Calico rockfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "LoveMorr1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm (but viviparous): pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "209",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Li^3.09, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "16.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','LoveMorr1990'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Lp^3.09, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12 *365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(10.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

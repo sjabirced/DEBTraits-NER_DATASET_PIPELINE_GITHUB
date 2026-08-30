@@ -1,0 +1,110 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Nothobranchiidae",
+    "species": "Epiplatys_bifasciatus",
+    "species_en": "Two-banded panchax"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.7",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "OlaoLama2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'questionable data in view of LN data"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "5.3",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "OlaoLama2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "OlaoLama2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "159/365",
+    "units": "#/d",
+    "label": "mas reproduction rate",
+    "bibkey": "OlaoLama2009",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "OlaoLama2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.3 mm: pi/6*0.13^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.77",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00676*Li^3.06, see F1"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "1.11",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on  0.00676*Lim^3.06, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.14",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on .00676*Lp^3.06, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": "based on own obserations for Epiplatys dageti"
+  }
+]

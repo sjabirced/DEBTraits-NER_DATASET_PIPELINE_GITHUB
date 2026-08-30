@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Annelida",
+    "class": "Clitellata",
+    "order": "Haplotaxida",
+    "family": "Lumbricidae",
+    "genus": "Eisenia",
+    "specie": "Eisenia_fetida",
+    "specie_en": "Redworm",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "CEH2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "CEH2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "CEH2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.7 * 2.3/7",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "CEH2016",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "2.3 cocoons/worm/week and average of 2.7 offspring per cocoon are produced. 2.7 individuals per concoon is in line with Reinecke and Kriel 19981, Dominguez(2004) reports higher numbers of individuals per cocoon (2.5-3.8)"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "10*1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CEH2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1000*1e-3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "CEH2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "275*1e-3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "CEH2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "25",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "CEH2016",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CEH2016",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "CEH2016",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

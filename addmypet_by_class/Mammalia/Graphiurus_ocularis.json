@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Gliridae",
+    "genus": "Graphiurus",
+    "specie": "Graphiurus_ocularis",
+    "specie_en": "Spectacled dormouse"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "66.4",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "gbif",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "'4-6 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Dryomys_nitedula: 1.73*67.8/56"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "78",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "72-85 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "16.5",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "gbif",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "28",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Dryomys_nitedula"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "150",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "30",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "gbif",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "4-5 wks"
+  }
+]

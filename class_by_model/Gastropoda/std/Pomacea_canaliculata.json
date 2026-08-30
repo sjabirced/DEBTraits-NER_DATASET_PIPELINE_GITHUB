@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Neogastropoda",
+    "family": "Ampullariidae",
+    "genus": "Pomacea",
+    "specie": "Pomacea_canaliculata",
+    "specie_en": "Apple snail"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "EsteCazz1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "EsteCazz1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "600/365",
+    "units": "#/d",
+    "label": "reproduction rate for 5 cm",
+    "bibkey": "PenaResp2015",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "600 eggs per clutch, 1 clutches per season assumed for snails of 5 cm"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "690",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "UvaeShch2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for viviparus viviparus: 17.4*(15/4.4)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "1000",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "EsteCazz1998",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

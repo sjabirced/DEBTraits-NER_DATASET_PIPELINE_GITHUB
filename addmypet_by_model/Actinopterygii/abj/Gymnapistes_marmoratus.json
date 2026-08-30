@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Scorpaenidae",
+    "genus": "Gymnapistes",
+    "specie": "Gymnapistes_marmoratus",
+    "specie_en": "Soldier"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "22.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Gran1972",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8.1",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Gran1972",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LN data"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess of ",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "144.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','Gran1972'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01122*Li^3.04, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "21",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(17.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "14 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(17.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

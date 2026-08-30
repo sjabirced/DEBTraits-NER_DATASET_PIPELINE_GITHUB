@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Isopoda",
+    "family": "Tylidae",
+    "genus": "Tylos",
+    "specie": "Tylos_capensis",
+    "specie_en": "Isopod"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.15",
+    "units": "cm",
+    "label": "total length at birth for female",
+    "bibkey": "McLaSieb1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.26",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "McLaSieb1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "1.43",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "McLaSieb1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.4",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "McLaSieb1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*11/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "McLaSieb1991",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "11 embryos per brood at TL 0.89 cm: 2 broods per yr"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "0.227",
+    "units": "g",
+    "label": "ultimate dry weight for female",
+    "bibkey": "McLaSieb1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 10^(2.55 * log10(10*Li) - 3.45), see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "McLaSieb1991",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

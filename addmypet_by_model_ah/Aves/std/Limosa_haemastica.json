@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Limosa",
+    "specie": "Limosa_haemastica",
+    "specie_en": "Hudsonian godwit"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": "1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "21",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "WillTiel2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "300",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "21",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "Data for L. lapponica"
+  },
+  {
+    "entity": "am",
+    "entity.value": "34*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": "Data for L. lapponica"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "730",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": "Data for L. lapponica"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "15",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "WillTiel2007",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

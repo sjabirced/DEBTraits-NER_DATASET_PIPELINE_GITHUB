@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Pristigasteridae",
+    "genus": "Ilisha",
+    "specie": "Ilisha_megaloptera",
+    "specie_en": "Bigeye ilisha"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.09",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "BlabStau1998",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "36.5",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "BlabStau1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.6e-3",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "BlabStau1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.46 mm: pi/6*0.146^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "587",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00832*(Li/0.84)^2.96, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "12.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'BlabStau1998','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00832*(Lp/0.84)^2.96, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "based on  Engraulis encrasicolus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BlabStau1998",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Cottus",
+    "specie": "Cottus_leiopomus",
+    "specie_en": "Wood River sculpin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "12.1",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "MeyeCass2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "12.1",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "MeyeCass2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "MeyeCass2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "total length at puberty for maes",
+      "bibkey": "MeyeCass2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.63 mm for Cottus volki: pi/6*0.163^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "24.9",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "MeyeCass2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00001*(10*Lp)^3.071, see F1"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "24.9",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "MeyeCass2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00001*(10*Lim)^3.071, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.2",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "MeyeCass2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "2.89",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "MeyeCass2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "8 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MeyeCass2008",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

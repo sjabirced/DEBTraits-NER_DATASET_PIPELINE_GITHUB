@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "genus": "Phycodurus",
+    "specie": "Phycodurus_eques",
+    "specie_en": "Leafy seadragon"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "250*2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(17.8)",
+    "units.temp": "K",
+    "comment": "250 eggs per brood, assumed 2 broods per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.8 mm of Phyllopteryx taeniolatus: pi/6*0.18^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "191.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00447*Li^3.00, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "35.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00447*Lp^3.00, see F2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "22",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(17.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PaulMats2022",
+    "temp": "C2K(17.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

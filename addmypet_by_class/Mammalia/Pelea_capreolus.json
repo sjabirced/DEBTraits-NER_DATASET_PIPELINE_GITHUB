@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Pelea",
+    "specie": "Pelea_capreolus",
+    "specie_en": "Grey rhebok"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "72.3",
+    "units": "cm",
+    "label": "ultimate shoulder height for females",
+    "bibkey": "Furs2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "77.6",
+    "units": "cm",
+    "label": "ultimate shoulder height for males",
+    "bibkey": "Furs2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e3",
+    "units": "g",
+    "label": "wet weight at birth for female",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Wwim: 30e3*(39/77.6)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "24.3e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Wwim: 30e3*(72.3/77.6)^3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "30e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "257",
+    "units": "d",
+    "label": "gestation time for female calves",
+    "bibkey": "Furs2011",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "245 - 261 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "473",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Furs2011",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "based on 2 yr - tg"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "4*30.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Furs2011",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

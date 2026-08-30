@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Iguanidae",
+    "genus": "Sauromalus",
+    "specie": "Sauromalus_ater",
+    "specie_en": "Common chuckwalla",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "7.0",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "John1965",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "18.6",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "John1965",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "19.9",
+      "units": "cm",
+      "label": "ultimate SVL males",
+      "bibkey": "John1965",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13.5",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "John1965",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12.5",
+      "units": "cm",
+      "label": "SVL at puberty males",
+      "bibkey": "John1965",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7.5",
+      "units": "g",
+      "label": "wet weight at hatching",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "6-9.6 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "35",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "9.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

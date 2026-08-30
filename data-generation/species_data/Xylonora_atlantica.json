@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Myida",
+    "family": "Xylophagaidae",
+    "genus": "Xylonora",
+    "specie": "Xylonora_atlantica",
+    "specie_en": "Atlantic woodeater",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.0135",
+      "units": "cm",
+      "label": "shell height of the umboveliger",
+      "bibkey": "Culliney1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.004",
+      "units": "cm",
+      "label": "length of trochophore",
+      "bibkey": "Culliney1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "1.5",
+      "units": "cm",
+      "label": "ultimate shell height",
+      "bibkey": "Turner1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.035",
+      "units": "cm",
+      "label": "shell height at the end of metamorphosis",
+      "bibkey": "Culliney1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.2",
+      "units": "cm",
+      "label": "shell height at puberty",
+      "bibkey": "Gaud2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "660*6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "GaudHaga2016",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.004",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "GaudHaga2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "25",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Culliney1976",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "'between 11 and 13 C"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "2",
+      "units": "d",
+      "label": "age at hatching",
+      "bibkey": "Culliney1976",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "'9-14 C"
+    },
+    {
+      "entity": "am",
+      "entity.value": "547",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Turner1973",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "31",
+      "units": "d",
+      "label": "time since birth at end of metamorphosis",
+      "bibkey": "Romey1994",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "108",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Romey1994",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "74 d after settlement"
+    }
+  ]
+}

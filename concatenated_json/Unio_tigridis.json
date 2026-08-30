@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "genus": "Unio",
+    "specie": "Unio_tigridis",
+    "specie_en": "Freshwater mussel"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": ".02",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "unio",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.9",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "OstrGoph1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": ".03",
+    "units": "cm",
+    "label": "shell length at settlement",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Unio pictorum"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12e3/365",
+    "units": "#/d",
+    "label": "reproduction rate at SL 4 cm",
+    "bibkey": "ReisArau2016",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "Based on Unio tumidiformis"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "OstrGoph1993",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

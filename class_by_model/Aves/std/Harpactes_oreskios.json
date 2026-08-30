@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Trogoniformes",
+    "family": "Trogonidae",
+    "genus": "Harpactes",
+    "specie": "Harpactes_oreskios",
+    "specie_en": "Orange-breasted trogon"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "89.47",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "2-3 eggs per clutch, 1 clutch per year"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.3",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Euptilotis_neoxenus: 14.5*57/130.2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "57",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 49-57 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17.7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "avibase",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "180",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "13",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Wiki",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

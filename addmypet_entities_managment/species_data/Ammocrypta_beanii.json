@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Ammocrypta",
+    "specie": "Ammocrypta_beanii",
+    "specie_en": "Naked sand darter",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "standard length at puberty for females",
+      "bibkey": "HemsRook1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HemsRook1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.9 mm: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.52",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Li^3.14, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HemsRook1984",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

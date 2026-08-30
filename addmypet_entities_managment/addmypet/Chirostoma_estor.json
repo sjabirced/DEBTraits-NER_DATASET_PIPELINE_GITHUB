@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Atheriniformes",
+    "family": "Atherinopsidae",
+    "genus": "Chirostoma",
+    "specie": "Chirostoma_estor",
+    "specie_en": "Pike silverside",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.139",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "based on Chirostoma_attenuatum"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "42",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "DelgMart2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based of egg diameter of 1.6 mm of  Leuresthes_tenuis : pi/6*0.16^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "570",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00550*Li^3.09, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "11.9",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'DelgMart2012','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00550*Lp^3.09, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "temerature is guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

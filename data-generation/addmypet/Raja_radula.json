@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Raja",
+    "specie": "Raja_radula",
+    "specie_en": "Rough skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on smallest captured with TL 13.5 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "75",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "KadrMaro2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "56.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "KadrMaro2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "47",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "KadrMaro2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "117/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "80-154 eggs per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.7e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "KadrMaro2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KadrMaro2013",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

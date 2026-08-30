@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Mycteroperca",
+    "specie": "Mycteroperca_rubra",
+    "specie_en": "Mottled grouper "
+  },
+  {
+    "entity": "Li",
+    "entity.value": "144",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "34",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "19.6e6/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "AronGore2008",
+    "temp": "C2K(19.4)",
+    "units.temp": "K",
+    "comment": "based on 57e4 oocytes per kg: 57e4*33.6 per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.9e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.712 mm of Serranus scriba: pi/6*0.0712^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "33.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01072*Li^3.01, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AronGore2008",
+    "temp": "C2K(19.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

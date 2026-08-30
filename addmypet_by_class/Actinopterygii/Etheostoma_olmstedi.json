@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Etheostoma",
+    "specie": "Etheostoma_olmstedi",
+    "specie_en": "Tessellated darter"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Tsai1972",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LN data"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Tsai1972",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.25 mm: pi/6*0.125^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "9.55",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00513*Li^3.14 (see F1)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

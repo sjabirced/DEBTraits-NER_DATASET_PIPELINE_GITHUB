@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Scaridae",
+    "genus": "Bolbometopon",
+    "specie": "Bolbometopon_muricatum",
+    "specie_en": "Green humphead parrotfish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "2*0.04",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "TaylHami2018",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": "assumed: 2 spawnings per year"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "130",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "TaylHami2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based egg diameter of 0.75 mm of Chaetodon: pi/6*0.075^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "35e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'based on 0.01380*Li^3.03, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3508",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'TaylHami2018','guess'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.01380*60^3.03, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "27*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TaylHami2018",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

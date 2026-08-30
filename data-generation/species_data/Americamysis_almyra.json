@@ -1,0 +1,83 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Mysida",
+    "family": "Mysidae",
+    "species": "Americamysis_almyra",
+    "species_en": "Opossum shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.16",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "DomiLee1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.94",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "NEME2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.59",
+      "units": "cm",
+      "label": "length at release of first brood",
+      "bibkey": "DomiLee1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "232/(1000*0.5)",
+      "units": "#/d",
+      "label": "maximum reproduction rate",
+      "bibkey": "DomiLee1999",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "hatchling production of a population of 1000 mysids, we here assume a female:male ratio of 0.5"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.5/1000",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "ReitNeff1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "0.25*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "NEME2005",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "13",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "DomiLee1999",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "13 days is release of first brood"
+    }
+  ]
+}

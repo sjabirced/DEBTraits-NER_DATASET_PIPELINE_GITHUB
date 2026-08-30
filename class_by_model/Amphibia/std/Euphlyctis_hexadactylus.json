@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Dicroglossidae",
+    "genus": "Euphlyctis",
+    "specie": "Euphlyctis_hexadactylus",
+    "specie_en": "Indian green frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "14.5",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "NayaMaha2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "14.0",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "NayaMaha2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "2000 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "296",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "NayaMaha2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "215",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "NayaMaha2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "1.4",
+    "units": "g",
+    "label": "wet weight at metam for female",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Euphlyctis_cyanophlyctis"
+  },
+  {
+    "entity": "Wwjm",
+    "entity.value": "1.2",
+    "units": "g",
+    "label": "wet weight at metam for male",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "NayaMaha2008",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since metam at puberty for female at f_l",
+    "bibkey": "NayaMaha2008",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since metam at puberty  for male at f_l",
+    "bibkey": "NayaMaha2008",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

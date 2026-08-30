@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Symbolophorus",
+    "specie": "Symbolophorus_californiensis",
+    "specie_en": "Bigfin lanternfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.2e3/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(4.3)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3 for Benthosema_suborbitale"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "8.67",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00537*Li^3.08, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00537*Lp^3.08, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TakaYats2006",
+    "temp": "C2K(4.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

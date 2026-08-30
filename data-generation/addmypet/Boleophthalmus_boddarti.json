@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Oxudercidae",
+    "genus": "Boleophthalmus",
+    "specie": "Boleophthalmus_boddarti",
+    "specie_en": "Boddart",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "22",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "33800/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 1.1 mm and width of 0.6 mm of Boleophthalmus_pectinirostris: pi/6*0.11*0.06^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "68",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00794*Li^2.93, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "10.2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00794*Lp^2.93, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": "based on Boleophthalmus_pectinirostris"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": "based on Boleophthalmus_pectinirostris"
+    }
+  ]
+}

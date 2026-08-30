@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Gekkonidae",
+    "genus": "Gekko",
+    "specie": "Gekko_hokouensis",
+    "specie_en": "Hokou gecko"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.22",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "OkadIzaw2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.19",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "OkadIzaw2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "5.05",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "OkadIzaw2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.3",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "OkadIzaw2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "OkadIzaw2002",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "2 eggs per clutch, 1, sometimes 2, clutches each 1  yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.5",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Heteronotia_binoei: (5.2/5)^3*3.1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "based on Heteronotia_binoei"
+  }
+]

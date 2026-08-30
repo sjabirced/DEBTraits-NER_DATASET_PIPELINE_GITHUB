@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Cephalaspidomorphi",
+    "order": "Petromyzontiformes",
+    "family": "Petromyzontidae",
+    "genus": "Entosphenus",
+    "specie": "Entosphenus_tridentatus",
+    "specie_en": "Pacific lamprey"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "76",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "14.4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "DockBeam1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "NR",
+    "entity.value": "238400",
+    "units": "#",
+    "label": "eggs at the end of life",
+    "bibkey": "fishbase",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.6e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "YamaFuku2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 1.249 mm and width of 1.145 mm: pi/6*0.1249*0.1145^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "526",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00120*Li^3, see F2)"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.58",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00120*Lp^3, see F2)"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "YamaFuku2003",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "fishbase",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": "purberty is assumed to coincide with ammocoete stage, but the length of this stgae is very variable"
+  }
+]

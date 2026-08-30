@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Pomatoschistus",
+    "specie": "Pomatoschistus_minutus",
+    "specie_en": "Sand goby"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.25,
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "BoucQuig1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 8.2,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "BoucQuig1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LW1 data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 4.0,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "BoucQuig1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 14.0,
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Frei2010",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "['for 90mm female and per spawning act (which can vary from 2-12)"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.0002771,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "FondBuur1974",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length 1.08 mm, width 0.7 mm: pi/6*0.108*0.07^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 5.72,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "BoucQuig1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LW1 data"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 0.4,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "BoucQuig1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "from L-W relationship at Lp"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 12.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Fond1973",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "10 C is mean annual temperature in Atlantic estuarine waters"
+  },
+  {
+    "entity": "am",
+    "entity.value": 730.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BoucQuig1990",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "2 yr BoucQuig1990"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "BoucQuig1990",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Sarmarutilus",
+    "specie": "Sarmarutilus_rubilio",
+    "specie_en": "Adriatic roach"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "26",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "CrivDupo1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "DaouKatt1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "DaouKatt1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 1.4 mm: pi/6*0.14^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "328",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'DaouKatt1985','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Based on 0.00912*Li^3.22, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "10.8",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'DaouKatt1985','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00912*Lp^3.22, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "19",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "based on Rutilus rutilus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CrivDupo1987",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

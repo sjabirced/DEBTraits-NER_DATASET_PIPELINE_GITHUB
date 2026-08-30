@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Gobionidae",
+    "genus": "Pseudorasbora",
+    "specie": "Pseudorasbora_parva",
+    "specie_en": "Stone moroko"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4*3060/365",
+    "units": "#/d",
+    "label": "Reprod rate max size",
+    "bibkey": "fishbase",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "fecundity is assumed to be batch fecundity, 3 till 4 spawnings per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "21",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00776*Li^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.24",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00776*Lp^3.13, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

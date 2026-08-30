@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Siluridae",
+    "genus": "Phalacronotus",
+    "specie": "Phalacronotus_micronemus",
+    "specie_en": "Lais",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "60",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "based on Silurus_glanis: 9370*702.5/1.14e5"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Silurus glanis"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "702.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00562*Li^3.00, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "45",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00562*Lp^3.00, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

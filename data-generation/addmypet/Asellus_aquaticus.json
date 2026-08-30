@@ -1,0 +1,174 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Isopoda",
+    "family": "Asellidae",
+    "genus": "Asellus",
+    "specie": "Asellus_aquaticus",
+    "specie_en": "Common waterlouse",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.08,
+      "units": "cm",
+      "label": "total length at birth for female",
+      "bibkey": "VeroPrev2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "All lengths exclude antenna"
+    },
+    {
+      "entity": "Lbm",
+      "entity.value": 0.08,
+      "units": "cm",
+      "label": "total length at birth for male",
+      "bibkey": "VeroPrev2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 1.0,
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "VeroPrev2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": 1.2,
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "VeroPrev2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.3,
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "Arak2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": 0.35,
+      "units": "cm",
+      "label": "total length at puberty for male",
+      "bibkey": "Arak2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 0.48,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MarcSutc1978",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'max # of eggs: 40"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.0005,
+      "units": "g",
+      "label": "wet weight at birth for female",
+      "bibkey": "MarcSutc1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value reduced by 0.5 for account for adhering water"
+    },
+    {
+      "entity": "Wwbm",
+      "entity.value": 0.0005,
+      "units": "g",
+      "label": "wet weight at birth for male",
+      "bibkey": "MarcSutc1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 0.045,
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "Arak2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": 0.048,
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "Arak2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 0.003,
+      "units": "g",
+      "label": "wet weight at puberty for female",
+      "bibkey": "MarcSutc1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Read from growth curve for t_p"
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": 0.003,
+      "units": "g",
+      "label": "wet weight at puberty for male",
+      "bibkey": "MarcSutc1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Read from growth curve for t_p"
+    },
+    {
+      "entity": "ab",
+      "entity.value": 15.64,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "RoshMaze1979",
+      "temp": "C2K(18.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 750.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 30.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "MarcSutc1978",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

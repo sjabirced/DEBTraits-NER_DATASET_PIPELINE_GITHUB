@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Pachymetopon",
+    "specie": "Pachymetopon_aeneum",
+    "specie_en": "Blue hottentot",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.028",
+      "units": "g/g",
+      "label": "gonado-somatic index",
+      "bibkey": "BuxtClar1986",
+      "temp": "C2K(19.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 750 mum of Acanthopagrus_berda: pi/6*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2516",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01288*Li^3.04, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "229",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01288*Lp^3.04, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BuxtClar1986",
+      "temp": "C2K(19.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

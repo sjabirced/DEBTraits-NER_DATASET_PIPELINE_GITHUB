@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Colubridae",
+    "genus": "Natrix",
+    "specie": "Natrix_maura",
+    "specie_en": "viperine water snake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "13.25",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "AubrBlan2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "68",
+      "units": "cm",
+      "label": "ultimate SVL for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "total length 85 cm, tail length 17 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "stevenbol",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 50 cm: 50*68/85 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "26",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "HailDavi1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "HailDavi1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "22/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AubrBlan2015",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.55",
+      "units": "g",
+      "label": "wet at birth",
+      "bibkey": "AubrBlan2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "384",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "44.2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AubrBlan2015",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "stevenbol",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "HailDavi1987",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "HailDavi1987",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

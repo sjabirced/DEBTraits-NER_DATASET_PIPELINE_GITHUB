@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rhinopristiformes",
+    "family": "Rhinobatidae",
+    "genus": "Zapteryx",
+    "specie": "Zapteryx_brevirostris",
+    "specie_en": "Shortnose guitarfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "14.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "13-16 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "59.3",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "53.4",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "42-48 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "44.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "43-45 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "'1-8 pups per litter"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.55e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00741*Li^3.00, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "11*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CarmFava2018",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Percichthyidae",
+    "species": "Macquaria_novemaculeata",
+    "species_en": "Australian bass",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "35.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "44e4/365",
+      "units": "#/d",
+      "label": "Reprod rate max size",
+      "bibkey": "Wiki",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "TrnsHay20025",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.9 mm: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.9e3",
+      "units": "g",
+      "label": "ultimate weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01096*Li^3.05, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "47*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

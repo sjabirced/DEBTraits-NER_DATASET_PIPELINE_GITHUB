@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Lemuridae",
+    "genus": "Eulemur",
+    "specie": "Eulemur_fulvus",
+    "specie_en": "Brown lemur",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "746",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "WhitSeym2003",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.2/225",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.6)",
+      "units.temp": "K",
+      "comment": "1.1 pups per litter, 2 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "73",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2600",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "2 to 4 kg"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "1050",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "35.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "118",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(36.6)",
+      "units.temp": "K",
+      "comment": "120-129 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "509",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "5*30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ADW",
+      "temp": "C2K(36.6)",
+      "units.temp": "K",
+      "comment": "4-6 mnth"
+    }
+  ]
+}

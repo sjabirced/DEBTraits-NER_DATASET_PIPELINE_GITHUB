@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Perissodactyla",
+    "family": "Equidae",
+    "genus": "Equus",
+    "specie": "Equus_ferus_caballus",
+    "specie_en": "Domestic horse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/548",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": "1 foal per litter, 1 litter per 548 d"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "38e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "450e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW gives 227 to 900 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "57*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "337",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "914",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "973",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ADW",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": "30 till 35 d"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Osteoglossiformes",
+    "family": "Gymnarchidae",
+    "genus": "Gymnarchus",
+    "specie": "Gymnarchus_niloticus",
+    "specie_en": "Aba aba",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "167",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1378/365",
+      "units": "#/d",
+      "label": "reprod rate at 94 cm",
+      "bibkey": "AgbuAbhu2021",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.5e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AgbuAbhu2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.5 till 7.9 mm: pi/6*0.472^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "18.5e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "max published weight, based on 0.00372*Li^3.10, see F1, gives 28.9 kg"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "344",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00372*Lp^3.10, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

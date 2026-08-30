@@ -1,0 +1,201 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Zoarcidae",
+    "genus": "Zoarces",
+    "specie": "Zoarces_viviparus",
+    "specie_en": "Viviparous eelpout"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "5.1",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Vete1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": "51--54mm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "Veer2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "42",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "Veer2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "21.5",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "Vete1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": "185--250 mm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "19",
+    "units": "cm",
+    "label": "total length at puberty for male",
+    "bibkey": "Vete1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "R20",
+    "entity.value": "24/365",
+    "units": "#/d",
+    "label": "reprod rate at 20 cm",
+    "bibkey": "Witt2009",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "R33",
+    "entity.value": "125/365",
+    "units": "#/d",
+    "label": "reprod rate at 33 cm",
+    "bibkey": "Vete1999",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "female was 153 g and 5 y-o in Kattegat Sweden"
+  },
+  {
+    "entity": "Ww33",
+    "entity.value": "153",
+    "units": "g",
+    "label": "wet weight at 33 cm",
+    "bibkey": "Vete1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.46",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Vete1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "510",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "315",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "Veer2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "computed as (42/33)^3 * 153"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "27.4",
+    "units": "g",
+    "label": "wet weight at puberty for female",
+    "bibkey": "Vete1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "13.7",
+    "units": "g",
+    "label": "wet weight at puberty for male",
+    "bibkey": "Vete1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "90",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Vete1999",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "3-4 months, Wiki: 120 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Brod2001",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": "Wadden Sea"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Brod2001",
+    "temp": "C2K(4.5)",
+    "units.temp": "K",
+    "comment": "White Sea"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "265",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "{'Brod2001','Vete1999'}",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "rB",
+    "entity.value": "0.001",
+    "units": "1/d",
+    "label": "von Bertalanffy growth rate",
+    "bibkey": "Brod2001",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": "Wadden Sea"
+  },
+  {
+    "entity": "rB",
+    "entity.value": "0.0006",
+    "units": "1/d",
+    "label": "von Bertalanffy growth rate",
+    "bibkey": "Brod2001",
+    "temp": "C2K(4.5)",
+    "units.temp": "K",
+    "comment": "White Sea"
+  }
+]

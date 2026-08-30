@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Rhizoprionodon",
+    "specie": "Rhizoprionodon_acutus",
+    "specie_en": "Milk shark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "34",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Whit2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "133",
+      "units": "cm",
+      "label": "ultimate total length (female)",
+      "bibkey": "Whit2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "111",
+      "units": "cm",
+      "label": "ultimate total length (male)",
+      "bibkey": "Whit2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "70",
+      "units": "cm",
+      "label": "total length at puberty (female)",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "68",
+      "units": "cm",
+      "label": "total length at puberty (male)",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4.2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Whit2003",
+      "temp": "C2K(31)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2750",
+      "units": "g",
+      "label": "ultimate wet weight (female)",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "310",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Whit2003",
+      "temp": "C2K(31)",
+      "units.temp": "K",
+      "comment": "temps of all data are guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Whit2003",
+      "temp": "C2K(31)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

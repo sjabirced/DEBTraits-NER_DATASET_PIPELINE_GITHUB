@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Spinicaudata",
+    "family": "Limnadiidae",
+    "genus": "Eulimnadia",
+    "specie": "Eulimnadia_texana",
+    "specie_en": "Texas clam shrimp",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 0.777,
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "WeekMarc1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.325,
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "WeekMarc1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 959.0,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "WeekMarc1997",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 3.6e-06,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Belk1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 200-210 mum of Eulimnadia antlei, but that probably includes the ridges: pi/6*190e-4^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 0.0458,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on foto length 0.777 cm, height 0.5 cm, thickness 0.15 cm: pi/4*0.777*0.5*0.15"
+    },
+    {
+      "entity": "ab",
+      "entity.value": 1.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "WeekMarc1997",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "'hatch after hydratation: 18-36 h"
+    },
+    {
+      "entity": "am",
+      "entity.value": 22.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WeekMarc1997",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 4.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "WeekMarc1997",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

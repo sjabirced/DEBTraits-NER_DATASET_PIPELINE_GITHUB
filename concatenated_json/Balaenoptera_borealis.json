@@ -1,0 +1,171 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Balaenopteridae",
+    "genus": "Balaenoptera",
+    "specie": "Balaenoptera_borealis",
+    "specie_en": "Sei whale"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "445",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1500",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "Lock1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "1470",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "Lock1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1430",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Lock1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "length read from tL_f data for tp"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "1390",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Lock1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "length read from tL_m data for tpm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "680e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "19e6",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Lock1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "17.5e6",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Lock1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "16e6",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "Lock1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "15.3e6",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "Lock1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "weight read from tW_m data for tp"
+  },
+  {
+    "entity": "am",
+    "entity.value": "74*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "345",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3652",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "3652",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "266",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

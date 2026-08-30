@@ -1,0 +1,100 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "species": "Rhinogobiops_nicholsii",
+    "species_en": "Blackeye goby"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wile1973",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.2",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Wile1973",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5*4788/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wile1973",
+    "temp": "C2K(9.8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wile1973",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 0.7 mm: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "36.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.01023*Lp^3.02, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.1",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(9.8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(9.8)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

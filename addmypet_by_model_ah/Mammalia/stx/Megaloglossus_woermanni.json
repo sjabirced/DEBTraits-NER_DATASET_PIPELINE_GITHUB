@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Pteropodidae",
+    "genus": "Megaloglossus",
+    "specie": "Megaloglossus_woermanni",
+    "specie_en": "Woermann"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "21.7",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "corrected PNAS table is used"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "'1 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Dobsonia_moluccensis: 55*16/480"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "8.4-20 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "9",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Macroglossus_minimus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "21.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "typical values for the group"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "120",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "based on Macroglossus_minimus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "305",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "based on Macroglossus_minimus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "65",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "based on Macroglossus_minimus"
+  }
+]

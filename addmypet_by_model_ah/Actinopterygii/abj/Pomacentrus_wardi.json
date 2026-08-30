@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "OvalentariaIncSed",
+    "family": "Pomacentridae",
+    "genus": "Pomacentrus",
+    "specie": "Pomacentrus_wardi",
+    "specie_en": "Ward"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "222*7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": "guess based on fecundity of Chromis chromis: 222*7"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.9e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length 2.5 mm and egg diameter (guessed) 1.5 mm: pi/6*0.25*0.15^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi = 0.02399*Li^2.98, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwp = 0.02399*Lp^2.98, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FowlDohe1992",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

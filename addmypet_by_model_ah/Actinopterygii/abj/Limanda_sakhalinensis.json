@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Limanda",
+    "specie": "Limanda_sakhalinensis",
+    "specie_en": "Sakhalin sole"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "36",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "273750/365",
+    "units": "#/d",
+    "label": "reprod rate at 51 cm",
+    "bibkey": "guess",
+    "temp": "C2K(0.9)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.5"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.5e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "nefsc",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter 0.88 mm of Limanda_ferruginea: 4/3*pi*0.044^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "292",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00603*Lp^3.01, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "21",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "21*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "YusuMete2020",
+    "temp": "C2K(0.9)",
+    "units.temp": "K",
+    "comment": "fishbase gives 8 yrs"
+  }
+]

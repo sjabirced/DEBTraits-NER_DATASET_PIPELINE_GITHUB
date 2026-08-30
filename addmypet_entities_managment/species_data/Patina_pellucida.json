@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Patellogastropoda",
+    "family": "Patellidae",
+    "genus": "Patina",
+    "specie": "Patina_pellucida",
+    "specie_en": "Blue-rayed limpet",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "2.0",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "marlin",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.1",
+      "units": "cm",
+      "label": "shell length at settlement",
+      "bibkey": "GrahFret1947",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "GrahFret1947",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4.84e4/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.85"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.028",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Patella vulgata: 1.9 * (1.5/6)^3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.244e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Kess1964",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.35 mm of Testudinalia testudinalis: pi/6*0.035^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "1.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GrahFret1947",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

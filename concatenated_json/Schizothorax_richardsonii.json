@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Schizothorax",
+    "specie": "Schizothorax_richardsonii",
+    "specie_en": "Common snowtrout"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "JoshDas2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "R13",
+    "entity.value": "463/365",
+    "units": "#/d",
+    "label": "maximum reprod rate at TL 13.5 cm ",
+    "bibkey": "JoshDas2016",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "based on 16552 eggs/kg for TL 135 mm, using length-weight conversion of F1"
+  },
+  {
+    "entity": "R20",
+    "entity.value": "2942/365",
+    "units": "#/d",
+    "label": "maximum reprod rate at TL 20.5 cm ",
+    "bibkey": "JoshDas2016",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "based on 30408 eggs/kg for TL 205 mm, using length-weight conversion of F1"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Shodhganga",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from egg diameter of 1.7 mm: pi/6*0.17^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2350",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01230*Li^2.97, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

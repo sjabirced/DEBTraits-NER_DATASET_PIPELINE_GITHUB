@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Plotosidae",
+    "genus": "Cnidoglanis",
+    "specie": "Cnidoglanis_macrocephalus",
+    "specie_en": "Estuary cobbler",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "91",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "41",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "7483/365",
+      "units": "#/d",
+      "label": "reprod rate at Lw = 200 cm",
+      "bibkey": "guess",
+      "temp": "C2K(18.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.18",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Davi1977a",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 7 mm: pi/6*0.7^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.72e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00457*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "408.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Davi1977a",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00457*Lp^3.07, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "44.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(18.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(18.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

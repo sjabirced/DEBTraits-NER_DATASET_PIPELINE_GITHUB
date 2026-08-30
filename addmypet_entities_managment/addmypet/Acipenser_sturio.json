@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Acipenser",
+    "specie": "Acipenser_sturio",
+    "specie_en": "European sea sturgeon",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "DettGins1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.93",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "DettGins1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "500",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "WillRoch2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "WillRoch2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Kinz1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1500",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.6e5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on Acipenser_ruthenus data with Li = 120 and Wwi = 6400: 6400 * (500/120)^3 = 4.6e5"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "16",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'Ehre1894', 'DettGins1993'}",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "3",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "{'Ehre1894', 'DettGins1993'}",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "aj",
+      "entity.value": "63",
+      "units": "d",
+      "label": "age at metam",
+      "bibkey": "{'Ehre1894', 'DettGins1993'}",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "120*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Bruc2008",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Kinz1987",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'for female"
+    }
+  ]
+}

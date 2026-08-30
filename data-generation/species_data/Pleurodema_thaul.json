@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Leptodactylidae",
+    "genus": "Pleurodema",
+    "specie": "Pleurodema_thaul",
+    "specie_en": "Chilean Four-eyed Frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6.3",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "IturOrti2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.9",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "IturOrti2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.7",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "IturOrti2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "30*5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "based on Eleutherodactylus_coqui: 16 to 40 eggs per clutch, 4 to 6 clutches per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.54e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 5 mm: pi/6*0.5^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "39.3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected Pelobates fuscus: (6.3/6)^3*34"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "IturOrti2010",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

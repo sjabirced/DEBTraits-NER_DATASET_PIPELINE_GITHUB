@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Podarcis",
+    "specie": "Podarcis_tauricus",
+    "specie_en": "Balkan wall lizard"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.7",
+    "units": "cm",
+    "label": "SVL at hatching",
+    "bibkey": "ErogBulb2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.05",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "ErogBulb2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "7.93",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "ErogBulb2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "2-10 eggs per clutch, 2 clutches per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.90",
+    "units": "g",
+    "label": "ultimate wet ",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on Podarcis muralis: 5.41*(7.05/6.5)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "56",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ErogBulb2017",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "ErogBulb2017",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

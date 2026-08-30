@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Geomyidae",
+    "genus": "Thomomys",
+    "specie": "Thomomys_townsendii",
+    "specie_en": "Townsend"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "189.2",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "gbif",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "gbif: 3-10 pups per litter, assumed: 2 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Thomomys_bottae: 3.3*310/160"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "310",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "gbif",
+    "temp": null,
+    "units.temp": null,
+    "comment": "120-310 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "420",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "gbif",
+    "temp": null,
+    "units.temp": null,
+    "comment": "200-420 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Thomomys_bottae"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "19",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Thomomys_bottae"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "319",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Thomomys_bottae"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "38",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Thomomys_bottae"
+  }
+]

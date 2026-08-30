@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Paralichthyidae",
+    "genus": "Syacium",
+    "specie": "Syacium_gunteri",
+    "specie_en": "Shoal flounder",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.17",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "SancFlore2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.98 as found for Paralichthys californicus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "74",
+      "units": "g",
+      "label": "ultimate wet weight at 152 cm",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00646*Li^3.12, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

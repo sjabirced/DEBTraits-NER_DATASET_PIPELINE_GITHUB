@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Characiformes",
+    "family": "Curimatidae",
+    "genus": "Curimata",
+    "specie": "Curimata_knerii",
+    "specie_en": "Boquiche",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "17.7",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.7e3/365",
+      "units": "#/d",
+      "label": "max reproduction rate ",
+      "bibkey": "guess",
+      "temp": "C2K(24.5)",
+      "units.temp": "K",
+      "comment": "based on Leporinus_friderici: fecundity 2e5*90/5/974"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.4 mm of Leporinus obtusidens: pi/6*0.24^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "90.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01413*Li^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "11.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01413*Lp^3.05, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(24.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(24.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

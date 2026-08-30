@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Amphioctopus",
+    "specie": "Amphioctopus_fangsiao",
+    "specie_en": "Webfoot octopus"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 165.0,
+    "units": "#",
+    "label": "cum reprod at death",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.12,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AndrGris2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 100.0,
+    "units": "g",
+    "label": "wet weight at 180 d",
+    "bibkey": "sealifebase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 30.0,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 180.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AndrGris2009",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

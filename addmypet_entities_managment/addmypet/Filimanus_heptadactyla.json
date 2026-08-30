@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Polynemiformes",
+    "family": "Polynemidae",
+    "genus": "Filimanus",
+    "specie": "Filimanus_heptadactyla",
+    "specie_en": "Seven fingered threadfin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "38",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on Li/2"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.35e6/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.7"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.4e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.775 mm: pi/6*0.0775^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "515",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00676*Lp^3.09, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "60.4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

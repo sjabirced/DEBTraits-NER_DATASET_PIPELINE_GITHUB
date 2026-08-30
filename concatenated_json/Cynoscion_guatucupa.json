@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Cynoscion",
+    "specie": "Cynoscion_guatucupa",
+    "specie_en": "Stripped weakfish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.03",
+    "units": "g/g",
+    "label": "gonado-somatic index",
+    "bibkey": "Cazo2000",
+    "temp": "C2K(17.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "57.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "34.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.72 mm: pi/6*0.072^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1881",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00776*Li^3.06, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "398",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00776*Lp^3.06, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "23*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Cazo2000",
+    "temp": "C2K(17.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

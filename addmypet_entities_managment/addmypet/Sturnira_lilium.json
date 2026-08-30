@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Phyllostomidae",
+    "genus": "Sturnira",
+    "specie": "Sturnira_lilium",
+    "specie_en": "Little yellow-shouldered bat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "53.2",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "WhitSeym2003",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": "corrected PNAS table is used"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": "'1 pup per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "22",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "WhitSeym2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW: 13-18 g"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "8",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "105",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "289",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

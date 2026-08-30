@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Chamaeleonidae",
+    "genus": "Chamaeleo",
+    "specie": "Chamaeleo_calyptratus",
+    "specie_en": "Veiled chameleon"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*60/365",
+    "units": "#/d",
+    "label": "max reprduction rate",
+    "bibkey": "ADW",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "'35-85 eggs per clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1",
+    "units": "g",
+    "label": "wet at birth",
+    "bibkey": "Lee2023",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "180",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "220",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Lee2023",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tW data"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "220",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "8*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Lee2023",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

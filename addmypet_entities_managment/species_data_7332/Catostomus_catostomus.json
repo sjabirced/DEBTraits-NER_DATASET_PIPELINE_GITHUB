@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Catostomus",
+    "specie": "Catostomus_catostomus",
+    "specie_en": "Longnose sucker"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "64",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "38.1",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Bail1969",
+    "temp": null,
+    "units.temp": null,
+    "comment": "15 inch"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "36.8",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Bail1969",
+    "temp": null,
+    "units.temp": null,
+    "comment": "14.5 inch"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "14e3/365",
+    "units": "#/d",
+    "label": "Reprod rate at TL = 35.6 cm",
+    "bibkey": "Bail1969",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "35e3/365",
+    "units": "#/d",
+    "label": "Reprod rate at TL = 45.3 cm",
+    "bibkey": "Bail1969",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "60e3/365",
+    "units": "#/d",
+    "label": "Reprod rate at TL = 56.8 cm",
+    "bibkey": "Bail1969",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Bail1969",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Computed from egg diameter of 2.2 mm: pi/6*0.22^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

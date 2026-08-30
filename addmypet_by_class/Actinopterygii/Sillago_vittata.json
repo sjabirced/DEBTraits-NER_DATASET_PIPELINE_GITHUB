@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sillaginidae",
+    "genus": "Sillago",
+    "specie": "Sillago_vittata",
+    "specie_en": "Western school whiting"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "150e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(22.8)",
+    "units.temp": "K",
+    "comment": "Fecundity 150000"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.5e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HyndPott1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Oocyte diameter 0.93 mm, assumed hedrated egg diameter of 0.66 mm of Sillago sihama: pi/6*0.066^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "291.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Li^3.07, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(22.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HyndPott1996",
+    "temp": "C2K(22.8)",
+    "units.temp": "K",
+    "comment": "at least 5 yrs"
+  }
+]

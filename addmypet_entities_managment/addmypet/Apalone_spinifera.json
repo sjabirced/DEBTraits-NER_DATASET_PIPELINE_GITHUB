@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Trionychidae",
+    "genus": "Apalone",
+    "specie": "Apalone_spinifera",
+    "specie_en": "Spiny softshell turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.8",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "PlumMill2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "48",
+      "units": "cm",
+      "label": "ultimate carapace length for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "24",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18.5",
+      "units": "cm",
+      "label": "carapace length at puberty for female",
+      "bibkey": "PlumMill2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "carapace length at puberty for male",
+      "bibkey": "PlumMill2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "38/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "arkive",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "aboutanimals",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "83",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "virhs",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "all temps are guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "50*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "12.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "PlumMill2015",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "4.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "PlumMill2015",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "between 15 and 20 yr"
+    }
+  ]
+}

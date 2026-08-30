@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Engraulidae",
+    "genus": "Anchoviella",
+    "specie": "Anchoviella_guianensis",
+    "specie_en": "Guyana anchovy"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11.3",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Bryon moorei: 38*25.5/53"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2000/365",
+    "units": "#/d",
+    "label": "reproduction rate at SL 5.8 cm",
+    "bibkey": "fishbase",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": "SL 5.8 cm corresponds with TL 6.7 cm, see F2"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "13.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00550*Li^3.21, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.96",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

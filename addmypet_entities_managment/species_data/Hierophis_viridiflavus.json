@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Colubridae",
+    "genus": "Hierophis",
+    "specie": "Hierophis_viridiflavus",
+    "specie_en": "Green whip snake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "FornBonn2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "108",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "FornBonn2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "FornBonn2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Li"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "15/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "4 to 15 eggs per litter"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1678",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Thamnophis gigas, which has similar size and shape"
+    },
+    {
+      "entity": "am",
+      "entity.value": "33*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FornBonn2016",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "FornBonn2016",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

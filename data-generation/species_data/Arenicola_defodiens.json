@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Annelida",
+    "class": "Polychaeta",
+    "order": "Capitellida",
+    "family": "Arenicolidae",
+    "genus": "Arenicola",
+    "specie": "Arenicola_defodiens",
+    "specie_en": "Black lug",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "L0",
+      "entity.value": 0.015,
+      "units": "cm",
+      "label": "Egg diameter",
+      "bibkey": "{'DeCu2025','WatsCadm1998'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": 0.014,
+      "units": "cm",
+      "label": "total length at hach",
+      "bibkey": "DeCu2025",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 25.2,
+      "units": "cm",
+      "label": "maximum trunc length",
+      "bibkey": "DeCu2025",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guessed, must be longer"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 1.5,
+      "units": "cm",
+      "label": "trunc Length at puberty",
+      "bibkey": "FarkBerg1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": 1.8e-06,
+      "units": "g",
+      "label": "wet weight at fertilization",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 60.1,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "DeCuLefe2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": 3.0,
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "DeCuLefe2023",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "hatch of trochophora larva"
+    },
+    {
+      "entity": "aj",
+      "entity.value": 90.0,
+      "units": "d",
+      "label": "age at metamorphosis",
+      "bibkey": "FarkBerg1979",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "'temperature varying between 16 to 8C"
+    },
+    {
+      "entity": "am",
+      "entity.value": 2190.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": "based on Arenicola_marina"
+    }
+  ]
+}

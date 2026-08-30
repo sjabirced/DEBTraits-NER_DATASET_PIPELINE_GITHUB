@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Gymnophiona",
+    "family": "Dermophiidae",
+    "genus": "Geotrypetes",
+    "specie": "Geotrypetes_seraphini",
+    "specie_en": "Gaboon caecilian"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "0.0012",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "NespSola2017",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "14/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on Typhlonectes_compressicauda"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0082",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.5 mm of Typhlonectes_compressicauda: pi/6*0.25^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "49",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length 400 mm and a diameter 10-15 mm: 40*pi*1.25^2/4"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on Typhlonectes_compressicauda"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "488",
+    "units": "d",
+    "label": "time since metam at puberty for female",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on Typhlonectes_compressicauda"
+  }
+]

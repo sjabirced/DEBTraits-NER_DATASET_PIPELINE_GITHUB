@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Rana",
+    "specie": "Rana_latastei",
+    "specie_en": "Italian agile frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.5",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "1.3-1.5 cm"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "7.3",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on the remark that males are slightly smaller than males"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.3",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": " SVL at puberty",
+    "bibkey": "GuarLuna2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1278/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "676-2720 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0042",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on egg diameter of 2 mm: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "39.5",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SVL 6.5 cm weighs 25.7 g: (7.5/6.5)^3*25.7"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "36.4",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "12",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "10-15 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "2.5*30.5",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Wiki",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Wiki",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Wiki",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

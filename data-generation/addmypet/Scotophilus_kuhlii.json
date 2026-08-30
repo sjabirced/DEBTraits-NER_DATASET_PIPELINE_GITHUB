@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Vespertilionidae",
+    "genus": "Scotophilus",
+    "specie": "Scotophilus_kuhlii",
+    "specie_en": "Lesser Asiatic yellow house bat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.84",
+      "units": "cm",
+      "label": "forearm length at birth",
+      "bibkey": "ChenHuan2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "an aveage of 18 pups, 18.40mm + 1.21mm SD"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.15",
+      "units": "cm",
+      "label": "ultimate forearm length",
+      "bibkey": "ChenHuan2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Back-calculated from size at onset of first flight reported as percentage of ultimate size"
+    },
+    {
+      "entity": "Lx",
+      "entity.value": "4.8",
+      "units": "cm",
+      "label": "forearm length at weaning",
+      "bibkey": "Hock1951",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Weaning at 6-8 weeks of age, forearm length at age of 5-6 weeks was 4.7 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ChenHuan2016",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.46",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ChenHuan2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'an aveage of 18 pups, 3.46g + 0.37g SD"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "23.24",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ChenHuan2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Back-calculated from size at onset of first flight reported as percentage of ultimate size"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "17",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "Hock1951",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Weaning at 6-8 weeks of age, wet weight at age of 5-6 weeks was 16.4 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span, guessed",
+      "bibkey": "AnAge",
+      "temp": "Tb",
+      "units.temp": "K",
+      "comment": "Value guestimated based on longevity of other Vespertilionidae in the An Age database"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "110",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "{'BateKing2008','Hock1951'}",
+      "temp": "Tb",
+      "units.temp": "K",
+      "comment": "105-115d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "256",
+      "units": "d",
+      "label": "age at puberty, guessed",
+      "bibkey": "guess",
+      "temp": "Tb",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "49",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "{'ChenHuan2016','Hock1951'}",
+      "temp": "Tb",
+      "units.temp": "K",
+      "comment": "Authors assume weaning between 6 and 8 weeks, temp guestimated see D1"
+    }
+  ]
+}

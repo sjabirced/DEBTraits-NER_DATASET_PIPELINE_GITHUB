@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Menticirrhus",
+    "specie": "Menticirrhus_undulatus",
+    "specie_en": "California kingcroaker "
+  },
+  {
+    "entity": "Li",
+    "entity.value": "71",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "17.9",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.78e6/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(23.6)",
+    "units.temp": "K",
+    "comment": "based on Cynoscion_regalis: 1.7e6*4.3e3/9.4e3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.72 mm for Cynoscion_nebulosus: pi/6*0.072^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Li^3.08, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(23.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(23.6)",
+    "units.temp": "K",
+    "comment": "based on Cynoscion_nebulosus"
+  }
+]

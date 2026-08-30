@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Dactyloidae",
+    "genus": "Anolis",
+    "specie": "Anolis_opalinus",
+    "specie_en": "Jamaican opal-bellied anole"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "JensAndr1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.4",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "JensAndr1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "5.2",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "JensAndr1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.7",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "JensAndr1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "18/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on Anolis_gundlachi"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.36",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.98",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Anolis_gundlachi and Li: (4.4/5)^3*2.9"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "3.26",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Anolis_gundlachi and Li: (2.5/5)^3*2.9"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "50",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

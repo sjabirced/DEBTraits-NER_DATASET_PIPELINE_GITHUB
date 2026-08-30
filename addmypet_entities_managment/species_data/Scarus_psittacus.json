@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Scaridae",
+    "genus": "Scarus",
+    "specie": "Scarus_psittacus",
+    "specie_en": "Common parrotfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "3*0.04",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(28.1)",
+      "units.temp": "K",
+      "comment": "based on Hipposcarus_longiceps, assumed: 3 spawnings per year"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "43",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.75 mm of Chaetodon: 4/3*pi*0.038^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01549*Li^3.04, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "34.3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01549*Lp^3.04, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(28.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

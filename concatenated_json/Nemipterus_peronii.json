@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Nemipteridae",
+    "genus": "Nemipterus",
+    "specie": "Nemipterus_peronii",
+    "specie_en": "Notchedfin threadfin bream"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "29",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "WuWeng2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "192437/365",
+    "units": "#/d",
+    "label": "reprod rate at FL 23.75 cm",
+    "bibkey": "WuWeng2008",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.6e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "WuWeng2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of  0.5 mm: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "400",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LW data, based on 0.01288*Li^2.95, see F1, gives 265.5 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SainWhit1984",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

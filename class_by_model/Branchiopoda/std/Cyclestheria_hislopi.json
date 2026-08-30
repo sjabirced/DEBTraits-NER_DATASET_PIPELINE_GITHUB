@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Cyclestherida",
+    "family": "Cyclestheriidae",
+    "genus": "Cyclestheria",
+    "specie": "Cyclestheria_hislopi",
+    "specie_en": "Brazilian clam shrimp"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.1",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "YashBald2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.3",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "YashBald2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.207",
+    "units": "cm",
+    "label": "carapace length at puberty",
+    "bibkey": "YashBald2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "0.27 cm at first brood"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.9/28",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "PerePiri2014",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "mostly 3 broods per female: 3.6 eggs at 22 d, 3.9 eggs at 30 d, 3.9 eggs at 58 d"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.0092",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on foto length 0.3 cm, height 0.26 cm, thickness 0.15 cm: pi/4*0.3*0.26*0.15"
+  },
+  {
+    "entity": "am",
+    "entity.value": "66",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "YashBald2011",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "52-77 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "15",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "YashBald2011",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "21-26 (mean 22) d for first brood"
+  }
+]

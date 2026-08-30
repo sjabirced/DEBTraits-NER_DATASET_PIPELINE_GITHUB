@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Alligatoridae",
+    "genus": "Caiman",
+    "specie": "Caiman_latirostris",
+    "specie_en": "Broad-snouted caiman"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "350",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "69*200/80",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ViotNava2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "converted from SVL using TL = SVL*200/80"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "45/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "20-50 eggs per clutch, 1 clutch per yr assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "30",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "62e3",
+    "units": "g",
+    "label": "ultimate wet weight of female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "70",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(31)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "58*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7.9*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ViotNava2020",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

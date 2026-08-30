@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Mustelus",
+    "specie": "Mustelus_canis",
+    "specie_en": "Dusky smooth-hound"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "TL 34-39 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "150",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "TL 70 - 130 cm"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "82",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "TL 68 - 93 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "20/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(22.4)",
+    "units.temp": "K",
+    "comment": "20 pups per litter, 1 litter per 2 yr assumed"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "13.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00245*Li^3.10, see F3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10.5*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(22.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ConrGels2002",
+    "temp": "C2K(22.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

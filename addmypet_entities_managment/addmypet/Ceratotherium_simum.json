@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Perissodactyla",
+    "family": "Rhinocerotidae",
+    "genus": "Ceratotherium",
+    "specie": "Ceratotherium_simum",
+    "specie_en": "White rhinoceros",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "350",
+      "units": "cm",
+      "label": "ultimate body length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "3.4 to 3.65 m"
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "385",
+      "units": "cm",
+      "label": "ultimate body length for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "3.7 to 4 m"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/1009",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "52.5e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2175e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "715110",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as Wb + tx*(885812 - 58000)/456 based on Rhinoceros_unicornis"
+    },
+    {
+      "entity": "am",
+      "entity.value": "45*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "515",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1643",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

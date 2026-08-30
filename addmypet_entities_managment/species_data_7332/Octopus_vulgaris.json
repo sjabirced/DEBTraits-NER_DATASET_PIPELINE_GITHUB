@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Octopus",
+    "specie": "Octopus_vulgaris",
+    "specie_en": "Common octopus"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.15,
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "IgleSanc2007",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 112000.0,
+    "units": "#",
+    "label": "cum reprod at death",
+    "bibkey": "IgleOter2004",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "at Monterey Bay"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": 0.00034,
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "{'IgleOter2004','VillRiba2004'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wds",
+    "entity.value": 0.0095,
+    "units": "g",
+    "label": "dry weight at settlement",
+    "bibkey": "IgleOter2004",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 1800.0,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "IgleOter2004",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 1000.0,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "SilvSobr2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": 47.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "IgleOter2004",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": 37.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "CaveDoma1999",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": 240.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "IgleOter2004",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": 150.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "SilvSobr2002",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ts",
+    "entity.value": 40.0,
+    "units": "d",
+    "label": "time since birth at settlement",
+    "bibkey": "IgleOter2004",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": "for O. vulgaris"
+  }
+]

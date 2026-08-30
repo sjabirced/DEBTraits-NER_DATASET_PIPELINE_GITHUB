@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Citharidae",
+    "genus": "Citharus",
+    "specie": "Citharus_linguatula",
+    "specie_en": "Spotted flounder",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.3,
+      "units": "cm",
+      "label": " total length at birth",
+      "bibkey": "Mari1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 30.0,
+      "units": "cm",
+      "label": "ultimate total lenght",
+      "bibkey": "fishebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 14.0,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "CengIsme2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 887.59,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "CengIsme2014",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.0001,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BoufBell2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 211.39,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "BoufBell2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 8.06,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "BoufBell2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 2555.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "VassilPapa1994",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 730.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "CengIsmeOzek2014",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

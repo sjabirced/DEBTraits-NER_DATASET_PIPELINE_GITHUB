@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "genus": "Pronodularia",
+    "specie": "Pronodularia_japanensis",
+    "specie_en": "Freshwater mussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": ".02",
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "unio",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "NegiKaya2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": ".03",
+      "units": "cm",
+      "label": "shell length at settlement",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.0",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "NegiKaya2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.6e5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "Guessed based on value for kap"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14.4",
+      "units": "g",
+      "label": "total wet weight at shell length 5.1 cm",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Pleurobema_strodeanum"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "unio",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "NegiKaya2009",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

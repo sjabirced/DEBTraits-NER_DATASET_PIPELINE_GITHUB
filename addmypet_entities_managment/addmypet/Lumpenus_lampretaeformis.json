@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Lumpenidae",
+    "genus": "Lumpenus",
+    "specie": "Lumpenus_lampretaeformis",
+    "specie_en": "Snakeblenny",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1000/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(3.1)",
+      "units.temp": "K",
+      "comment": "AunePrim2014 give a fecundity of 334 eggs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0016",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GordDunc1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.44 mm: pi/6*0.144^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "155",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'AunePrim2014','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00129*Li^2.99, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.8",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'AunePrim2014','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00129*Lp^2.99, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "38",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(3.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

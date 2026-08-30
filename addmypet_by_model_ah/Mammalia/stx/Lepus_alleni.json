@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Lagomorpha",
+    "family": "Leporidae",
+    "genus": "Lepus",
+    "specie": "Lepus_alleni",
+    "specie_en": "Antelope jackrabbit"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "1650",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "1-5 pups per litter, 4 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "84.34",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Lepus_californicus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4100",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: 2.7 to 4.73 kg"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "1300",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Lepus_californicus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "based on Lepus_californicus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "42",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "69",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "based on Lepus_californicus"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Centrarchidae",
+    "genus": "Ambloplites",
+    "specie": "Ambloplites_rupestris",
+    "specie_en": "Rock bass"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "{'RyanHarv1971','fishesoftexas'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 3 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "11e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.5e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.05 mm : pi/6*0.205^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "591",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01479*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "15.4",
+    "units": "g",
+    "label": "wet weight at piberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01479*Lp^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "18*365",
+    "units": "d",
+    "label": "time since birth at death",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

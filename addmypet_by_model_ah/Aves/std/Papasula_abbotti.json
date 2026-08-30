@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Suliformes",
+    "family": "Sulidae",
+    "genus": "Papasula",
+    "specie": "Papasula_abbotti",
+    "specie_en": "Abbott"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(40.6)",
+    "units.temp": "K",
+    "comment": "Wiki: 1 clutch per 2 or 3 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "60",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Nels1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1550",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Nels1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "56",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "40*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(40.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "Wiki",
+    "temp": "C2K(40.6)",
+    "units.temp": "K",
+    "comment": "Data for S. sula, 2-3 yr"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "510",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.6)",
+    "units.temp": "K",
+    "comment": "Data for S. sula, 91 till > 139 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "170",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Wiki",
+    "temp": "C2K(40.6)",
+    "units.temp": "K",
+    "comment": "Data for S. sula, 91 till > 139 d"
+  }
+]

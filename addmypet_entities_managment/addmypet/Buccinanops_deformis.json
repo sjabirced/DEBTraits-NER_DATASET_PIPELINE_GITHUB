@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Neogastropoda",
+    "family": "Nassariidae",
+    "genus": "Buccinanops",
+    "specie": "Buccinanops_deformis",
+    "specie_en": "Collared buccinum",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "Narv2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.54",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "Narv2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "4.86",
+      "units": "cm",
+      "label": "ultimate shell length for males",
+      "bibkey": "Narv2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "Narv2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "400/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "5 to 66 eggs capsules, on average 100 eggs per capsule assumed"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "31.65",
+      "units": "g",
+      "label": "ultimate flesh weight",
+      "bibkey": "Narv2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 0.0003*(10*Li)^2.87, see F1, and assumed fraction 0.35 taken by shell"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "5.27",
+      "units": "g",
+      "label": "ultimate flesh weight",
+      "bibkey": "Narv2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 0.0003*(10*Lp)^2.87, see F1, and assumed fraction 0.35 taken by shell"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

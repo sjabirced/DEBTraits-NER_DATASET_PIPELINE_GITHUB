@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Pristigasteridae",
+    "genus": "Ilisha",
+    "specie": "Ilisha_melastoma",
+    "specie_en": "Indian ilisha"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.04",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "BlabStau1998",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "14",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "BlabStau1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase gives 22 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "BlabStau1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.6e-3",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "BlabStau1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.46 mm: pi/6*0.146^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "48.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'BlabStau1998','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*(Li/0.82)^3.05"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "4.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'BlabStau1998','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*(Lp/0.82)^3.05, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": "based on  Engraulis encrasicolus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BlabStau1998",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

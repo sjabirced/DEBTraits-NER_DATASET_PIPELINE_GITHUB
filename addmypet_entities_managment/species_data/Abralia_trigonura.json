@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Enoploteuthidae",
+    "genus": "Abralia",
+    "specie": "Abralia_trigonura",
+    "specie_en": "Squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.08,
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "YounMang1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 4.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "YounMang1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 3.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "YounMang1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length ratio with females at 365 d: 94*39/54"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 1.4,
+      "units": "cm",
+      "label": "mantle length at puberty for female",
+      "bibkey": "YounMang1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 1.8,
+      "units": "cm",
+      "label": "mantle length at puberty for male",
+      "bibkey": "YounMang1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 11000.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "YounMang1994",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "based on kap=0.7"
+    },
+    {
+      "entity": "am",
+      "entity.value": 200.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "YounMang1994",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

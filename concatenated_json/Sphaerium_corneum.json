@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Sphaeriida",
+    "family": "Sphaeriidae",
+    "genus": "Sphaerium",
+    "specie": "Sphaerium_corneum",
+    "specie_en": "European fingernail clam"
+  },
+  {
+    "entity": "L0",
+    "entity.value": "0.00608",
+    "units": "cm",
+    "label": "initial egg length",
+    "bibkey": "Step1865",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.4",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "usgs",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "original unit mm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.5",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "HoloPent1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "original unit mm"
+  },
+  {
+    "entity": "Lx",
+    "entity.value": "0.2",
+    "units": "cm",
+    "label": "shell length at emergence",
+    "bibkey": "Hear1977",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "About half of the extra-marsupial larvae were longer than 2 mm, some as short as 1.13 mm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "13.4/28",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Voel2015",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "lab data, control group"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1095",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "usgs",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "temperature guessed, life span: 3 years"
+  },
+  {
+    "entity": "ax",
+    "entity.value": "60",
+    "units": "d",
+    "label": "age at emergence",
+    "bibkey": "Thie1928",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "'temperature guessed"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "90",
+    "units": "d",
+    "label": "time since emergence at puperty",
+    "bibkey": "usgs",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "temperature guessed, age at puperty: 3 months"
+  }
+]

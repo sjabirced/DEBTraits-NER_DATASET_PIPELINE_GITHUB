@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hemiptera",
+    "family": "Anthocoridae",
+    "genus": "Orius",
+    "specie": "Orius_albidipennis",
+    "specie_en": "Minute pirate bug"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": "115",
+    "units": "#",
+    "label": "total fecundity",
+    "bibkey": "SancLaca2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.7e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Orius_laevigatus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.2*0.042",
+    "units": "g",
+    "label": "asymptotic wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "hypothetical: 1.2*Ww_j"
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "0.042",
+    "units": "g",
+    "label": "wet weight female imago",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Orius_laevigatus"
+  },
+  {
+    "entity": "Wwjm",
+    "entity.value": "0.034",
+    "units": "g",
+    "label": "wet weight  male imago",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Orius_laevigatus"
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "genus": "Calotes",
+    "specie": "Calotes_versicolor",
+    "specie_en": "Oriental garden lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.52",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "PandShan2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "13.6",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "PandShan2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.3",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "PandShan2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9.4",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "PandShan2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2*14/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "PandShan2010",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": "11 to 15 eggs per clutch, 1 to 3 clutches per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "71.62",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "80",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "PandShan2010",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "210",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "PandShan2010",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "species": "Euphonia_hirundinacea",
+    "species_en": "Yellow-throated euphonia"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.25*4.6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Sarg1993",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "'avibase 4.6 eggs per clutch"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "1.48",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.1",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Sarg1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Sarg1993",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "19",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Sarg1993",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

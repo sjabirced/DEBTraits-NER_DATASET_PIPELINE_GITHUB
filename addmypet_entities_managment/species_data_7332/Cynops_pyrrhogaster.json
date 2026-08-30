@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Cynops",
+    "specie": "Cynops_pyrrhogaster",
+    "specie_en": "Japanese fire-bellied newt"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "ultimate SVL  for females",
+    "bibkey": "UedaMaru2000",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Wiki: TL = 15 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "UedaMaru2000",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "3",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.12",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.76",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "200/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "Anage",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "200 eggs per clutch, one clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0042",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on length-weight of Onychodactylus japonicus: (12.5/17)^3*9.65"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "20",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "0.9*365",
+    "units": "d",
+    "label": "time since brith at metam",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "time since brith at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

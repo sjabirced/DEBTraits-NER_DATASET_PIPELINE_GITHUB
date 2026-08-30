@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "genus": "Moloch",
+    "specie": "Moloch_horridus",
+    "specie_en": "Thorny devil",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.6",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "Spor1955",
+      "temp": null,
+      "units.temp": null,
+      "comment": "6 cm total length, coverted to SVL"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "Spor1965",
+      "temp": null,
+      "units.temp": null,
+      "comment": "18.8 cm total length, coverted to SVL"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6.5/365",
+      "units": "#/d",
+      "label": "ultimate reproduction rate",
+      "bibkey": "Spor1955",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "6-7 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "15*7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Spor1955",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "13-18 w"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Spor1965",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Spor1965",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

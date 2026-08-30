@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Nanger",
+    "specie": "Nanger_soemmerringii",
+    "specie_en": "Soemmerring",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "9213",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "WhitSeym2003",
+      "temp": "C2K(38.9)",
+      "units.temp": "K",
+      "comment": "based on Ww = 35100 g"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.1e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Gazella dorcas: 1615*40e3/12.6e3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "40e3",
+      "units": "g",
+      "label": "ultimate wet weight females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "35–45 kg"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "15000",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "270",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.9)",
+      "units.temp": "K",
+      "comment": "ADW: 150-160 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "640",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.9)",
+      "units.temp": "K",
+      "comment": "5-8 mnth"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "100",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(38.9)",
+      "units.temp": "K",
+      "comment": "based on Gazella dorcas"
+    }
+  ]
+}

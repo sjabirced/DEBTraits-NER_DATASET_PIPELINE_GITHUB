@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Macropodidae",
+    "genus": "Macropus",
+    "specie": "Macropus_fuliginosus",
+    "specie_en": "Western grey kangaroo"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.002739726",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "PoolPilt1964",
+    "temp": "C2K(36.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.83433",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Pool1975",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "35400",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "PoolCarp1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "16500",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "ArnoGras1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "6500",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "Pool1975",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "23.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Robe1986",
+    "temp": "C2K(36.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "pL",
+    "entity.value": ".1*2.08e7*data.Wwi/1000*data.Ri",
+    "units": "J/d",
+    "label": "average yearly milk production",
+    "bibkey": "CorkDove1989",
+    "temp": "C2K(36.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "35.6",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "PoolPilt1964",
+    "temp": "C2K(36.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "670",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "PoolCatl1974",
+    "temp": "C2K(36.3)",
+    "units.temp": "K",
+    "comment": "earliest all teats are everted in fuliginousus (429-949)"
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "880",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "320",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "PoolCarp1982",
+    "temp": "C2K(36.3)",
+    "units.temp": "K",
+    "comment": "permanent pouch exit for eastern grey kangaroos at 319 days +/- 18 days"
+  }
+]

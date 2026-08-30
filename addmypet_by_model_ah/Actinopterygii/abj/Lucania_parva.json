@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Fundulidae",
+    "genus": "Lucania",
+    "specie": "Lucania_parva",
+    "specie_en": "Rainwater killifish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.49",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "CrawBalo1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.2",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "104/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.17e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "CrawBalo1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.16 mm: pi/6*0.116^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.77",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01202*Li^3.15, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.22",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01202*Lp^3.15, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7.17",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "CrawBalo1994",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "1 d is added to first visability of embryo to ensure that L(0)=0"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at death",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

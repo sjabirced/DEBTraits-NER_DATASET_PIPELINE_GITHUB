@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siganiformes",
+    "family": "Siganidae",
+    "genus": "Siganus",
+    "specie": "Siganus_fuscescens",
+    "specie_en": "Mottled spinefoot",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "618603/365",
+      "units": "#/d",
+      "label": "max reprodion rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(28.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.7e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on assumed egg diameter of 0.55 mm: pi/6*0.055^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "924",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.02089*Li^2.90, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02089*Lp^2.90, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "Entognatha_abj_cycle_de_vie": {
+    "titre": "Life cycle of class Entognatha — ABJ (std with type M metabolic acceleration)",
+    "ordre": "Collembola / Diplura / Protura",
+    "classe": "Entognatha",
+    "stades": [
+      {
+        "id": 1,
+        "label": "t0",
+        "nom": "Fertilisation",
+        "type": "transition",
+        "termes": [
+          "egg fertilisation",
+          "zygote formation",
+          "gamete fusion",
+          "syngamy",
+          "ovum activation",
+          "reproductive pairing",
+          "zygote stage onset",
+          "gametic union",
+          "fecundation",
+          "internal fertilisation",
+          "spermatophore transfer",
+          "spermatheca filling",
+          "copulation"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Egg / Incubation",
+        "nom": "Embryo under incubation",
+        "type": "stade",
+        "termes": [
+          "fertilised ovum",
+          "incubating egg",
+          "embryonated egg",
+          "yolk-dependent embryo",
+          "cleavage-stage embryo",
+          "blastula-stage embryo",
+          "gastrulating embryo",
+          "organogenesis stage",
+          "chorionate egg",
+          "desiccation-resistant egg",
+          "diapause egg"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "B",
+        "nom": "Onset of exogenous feeding",
+        "type": "transition",
+        "termes": [
+          "first exogenous feeding",
+          "first feeding",
+          "yolk-sac resorption",
+          "mouth opening",
+          "first prey capture",
+          "exotrophic transition",
+          "trophic switch",
+          "active feeding onset",
+          "larval feeding commencement",
+          "yolk absorption completion",
+          "first instar feeding",
+          "larval host finding",
+          "plant feeding initiation",
+          "prey ingestion onset"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Larval stage",
+        "nom": "Feeding larval instar",
+        "type": "stade",
+        "termes": [
+          "free-swimming larva",
+          "planktonic larva",
+          "exogenously feeding larva",
+          "actively growing larva",
+          "pre-metamorphic larva",
+          "larval instar",
+          "caterpillar",
+          "grub",
+          "maggot",
+          "feeding larva",
+          "leaf-mining larva",
+          "soil larva",
+          "wood-boring larva"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "J",
+        "nom": "Larval metamorphosis",
+        "type": "transition",
+        "termes": [
+          "larval metamorphosis",
+          "post-larval transformation",
+          "larval-juvenile transition",
+          "morphological transformation",
+          "allometric shift",
+          "body plan reorganisation",
+          "juvenile recruitment",
+          "metamorphic climax",
+          "final larval instar",
+          "imaginal disc activation",
+          "larval-adult tissue remodelling"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Post-metamorphosis juv.",
+        "nom": "Post-metamorphic juvenile",
+        "type": "stade",
+        "termes": [
+          "post-metamorphic juvenile",
+          "juvenile",
+          "sub-adult",
+          "immature post-metamorphic",
+          "recruits",
+          "recently metamorphosed juvenile",
+          "growing juvenile"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "P",
+        "nom": "Sexual maturation",
+        "type": "transition",
+        "termes": [
+          "sexual maturation",
+          "reproductive maturity",
+          "first reproduction event",
+          "gonad maturation",
+          "puberty",
+          "gametogenesis onset",
+          "reproductive activation",
+          "age at first reproduction",
+          "adult reproductive activation",
+          "oocyte maturation",
+          "first egg laying",
+          "reproductive imaginal stage"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Breeding adult",
+        "nom": "Reproductive adult insect",
+        "type": "stade",
+        "termes": [
+          "sexually mature adult",
+          "reproductively active adult",
+          "breeding individual",
+          "gravid individual",
+          "post-pubertal adult",
+          "reproductively viable organism",
+          "egg-laying female",
+          "ovipositing female",
+          "territorial male insect",
+          "mating adult"
+        ]
+      },
+      {
+        "id": 9,
+        "label": "M",
+        "nom": "Natural death",
+        "type": "transition",
+        "termes": [
+          "natural mortality",
+          "senescence",
+          "age-related death",
+          "post-reproductive mortality",
+          "biological death",
+          "somatic death",
+          "lifespan completion",
+          "ecological mortality",
+          "organismal death",
+          "reproductive senescence",
+          "physiological death",
+          "imago death",
+          "post-mating death",
+          "senescent imago"
+        ]
+      }
+    ]
+  }
+}

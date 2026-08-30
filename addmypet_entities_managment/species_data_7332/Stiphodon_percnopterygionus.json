@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Stiphodon",
+    "specie": "Stiphodon_percnopterygionus",
+    "specie_en": "Sicydiine goby"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.125",
+    "units": "cm",
+    "label": "std length at birth",
+    "bibkey": "YamaTach2006",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.2",
+    "units": "cm",
+    "label": "ultimate std length for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.7",
+    "units": "cm",
+    "label": "ultimate std length for males",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "YamaTach2006",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.9e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "YamaTach2006",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg length 0.54–0.58 mm and width 0.49–0.50 mm : pi/6*0.055*0.049^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.88",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.092",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.01122*Li^3.04, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "YamaTach2006",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Bubo",
+    "specie": "Bubo_scandiacus",
+    "specie_en": "Snowy owl"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "45",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2200",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "PotaSale2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "1625",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "PotaSale2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "32",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "Tmep is guessed"
+  },
+  {
+    "entity": "am",
+    "entity.value": "28*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "730",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "138",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": "43 till 50 d. Body temp from ChapDies1984 for B. virginiatus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "46",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "raptor",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": "43 till 50 d. Body temp from ChapDies1984 for B. virginiatus"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "specie": "Odocoileus_hemionus",
+    "specie_en": "Mule deer"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2950",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "90000",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "150000",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "23100",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tg",
+    "entity.value": "207",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "temp from RogeMoen1987"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "478",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "132",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

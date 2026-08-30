@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Zeiformes",
+    "family": "Oreosomatidae",
+    "genus": "Allocyttus",
+    "specie": "Allocyttus_niger",
+    "specie_en": "Black oreo",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "47",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "36",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "62000/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(5.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1/350",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ConrPank1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 350 eggs/g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.65e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01413*Li^3.03, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "36",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "guess",
+      "temp": "C2K(5.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "100*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HornMcMi2019",
+      "temp": "C2K(5.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

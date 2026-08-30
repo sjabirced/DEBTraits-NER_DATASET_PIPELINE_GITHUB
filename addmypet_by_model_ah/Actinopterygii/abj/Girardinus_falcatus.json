@@ -1,0 +1,151 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Poeciliidae",
+    "genus": "Girardinus",
+    "specie": "Girardinus_falcatus",
+    "specie_en": "Goldbelly topminnow"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.959",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "PoncRodr2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lbm",
+    "entity.value": "0.959",
+    "units": "cm",
+    "label": "total length at birth for male",
+    "bibkey": "PoncRodr2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.100",
+    "units": "cm",
+    "label": "ultimate total length for felmale",
+    "bibkey": "PoncRodr2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "4.100",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "PoncRodr2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.340",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "PoncRodr2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "2.447",
+    "units": "cm",
+    "label": "total length at puberty for male",
+    "bibkey": "PoncRodr2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "20*6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": "based on 20 young per litter, 6 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.4e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Lb^3.12, see F2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.78",
+    "units": "g",
+    "label": "ultimate wet weight of female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Li^3.12, see F2"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "0.78",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Lim^3.12, see F2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "25",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "12*7",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "PoncRodr2013",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "5*7",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "PoncRodr2013",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

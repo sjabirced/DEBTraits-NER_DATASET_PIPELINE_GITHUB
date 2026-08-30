@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Nothobranchiidae",
+    "genus": "Nothobranchius",
+    "specie": "Nothobranchius_kadleci",
+    "specie_en": "Mozambique killifish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.51,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "BlazPola2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 5.0,
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "BlazPola2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 6.0,
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "BlazPola2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 2.22,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "BlazPola2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.000905,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BeroGarc2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.2 mm of Nothobranchius_furzeri: pi/6*0.12^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 0.59,
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389 * (TL in cm)^3.12"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 1.15,
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389 * (TL in cm)^3.12"
+    },
+    {
+      "entity": "ab",
+      "entity.value": 15.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BlazPola2013",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 112.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BlazPola2013",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 11.5,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "BlazPola2013",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

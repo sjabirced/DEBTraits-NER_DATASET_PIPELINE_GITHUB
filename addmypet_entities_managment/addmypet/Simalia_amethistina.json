@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "genus": "Simalia",
+    "specie": "Simalia_amethistina",
+    "specie_en": "Amethystine python",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "72",
+      "units": "cm",
+      "label": "total length at hatching for females",
+      "bibkey": "Barn1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": "SVL 48 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "600",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "30/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "10-50 eggs per clutch, 1 clutch per yr assumed"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "100.38",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "Barn1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "48.7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Barn1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "30e3",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "63",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "13.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

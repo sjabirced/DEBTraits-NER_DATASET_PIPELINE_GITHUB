@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Pterioida",
+    "family": "Pteriidae",
+    "genus": "Pinctada",
+    "specie": "Pinctada_imbricata",
+    "specie_en": "Akoya pearl oyster"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.51",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "MarcPrie2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.97",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length, compared to Pinctada_margaritifera: 8.51*4/35"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e7",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "Guessed based on kap = 0.74 as found for Pinctada_margaritifera"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "14.3e-9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Pinctada_margaritifera"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "84",
+    "units": "g",
+    "label": "flesh wet weight",
+    "bibkey": "MarcPrie2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00007*(Li*10)^3.15"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MarcPrie2005",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Labridae",
+    "genus": "Achoerodus",
+    "specie": "Achoerodus_gouldii",
+    "specie_en": "Western blue groper",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "90",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "CoulHesp2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "116",
+      "units": "cm",
+      "label": "ultimate standard length for males",
+      "bibkey": "CoulHesp2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase gives TL 175 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "65.3",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "CoulHesp2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "402912/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(18.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2e4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00933*Li^3.06, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "9.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(18.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "70*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CoulHesp2009",
+      "temp": "C2K(18.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "CoulHesp2009",
+      "temp": "C2K(18.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Rhacophoridae",
+    "genus": "Zhangixalus",
+    "specie": "Zhangixalus_omeimontis",
+    "specie_en": "Omei whipping frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.5",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "LiaoLu2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "LiaoLu2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.8",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "LiaoLu2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "LiaoLu2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "650/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "LiaoLiao2010",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "457 to 837  eggs per clutch, 1 clutch per season"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0172",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LiaoLiao2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter 2.9-3.4 mm: pi/6*0.32^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "23.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Li and L-Ww relationship of Hyla arborea: (8.5/5)^3*4.8"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13.9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "LiaoLiao2010",
+    "temp": "C2K(10.2)",
+    "units.temp": "K",
+    "comment": "12-17 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(10.5)",
+    "units.temp": "K",
+    "comment": "guess based on Hyla arborea"
+  }
+]

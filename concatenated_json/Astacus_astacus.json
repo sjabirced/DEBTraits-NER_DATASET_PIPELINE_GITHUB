@@ -1,0 +1,181 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Astacidae",
+    "genus": "Astacus",
+    "specie": "Astacus_astacus",
+    "specie_en": "European crayfish"
+  },
+  {
+    "entity": "L2",
+    "entity.value": "4.7",
+    "units": "cm",
+    "label": "total length at 2yr for females",
+    "bibkey": "Abra1971",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "L2m",
+    "entity.value": "4.9",
+    "units": "cm",
+    "label": "total length at 2yr for males",
+    "bibkey": "Abra1971",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.2",
+    "units": "cm",
+    "label": "total length at birth (stage 2)",
+    "bibkey": "HoldMalc2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Second stage crayfish, similar to the adult crayfish except for the lack of the tail fan. Then they molt again after 3 weeks when they are 13-15 mm length, look like adults"
+  },
+  {
+    "entity": "Lh",
+    "entity.value": "0.9",
+    "units": "cm",
+    "label": "total length at hatching",
+    "bibkey": "HoldMalc2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "8.5 to 9 mm total length"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "HoldMalc2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Even though 15 cm listed as maximum size, it says that under favorable conditions, 90mm can be reached in 4 summers = probably 15cm is very rare"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "HoldMalc2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Abra1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "smallest value in LN data, HoldMalc2002 gives a range 6.2 cm to 8.5 cm total length"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "200/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "HoldMalc2002",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "Number of attached eggs ranges from 80 -200, repro once per year, egg diameter 2.8 to 3.1 mm. At 90 mm total length, number of attached eggs can vary from 87 to 154 eggs"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4e-2",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "Abra1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 3 mm: pi/6*0.3^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "68.2",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "MaguHudi2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from 60 * (Li/11.5)^3, (see F2), also fits data in MaguHudi2004"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "161.5",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "MaguHudi2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from 60 * (Lim/11.5)^3 , (see F2), also fits data in MaguHudi2004"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "18",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Abra1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from 60 * (Lp/11.5)^3, (see F2), also fits data in MaguHudi2004"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "data.ah + 7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "HessTaug1987",
+    "temp": "C2K(10.45)",
+    "units.temp": "K",
+    "comment": "First moult takes place one week after hatching"
+  },
+  {
+    "entity": "ah",
+    "entity.value": "154",
+    "units": "d",
+    "label": "age at hatching",
+    "bibkey": "PoliSimo2004",
+    "temp": "C2K(10.45)",
+    "units.temp": "K",
+    "comment": "['Controlled temp: 154 days to hatch. Temp was 5.5 C during first 45 days, and 12.5C for remaining 109 days (gives a total of 154 days at the [weighted] average temp of 10.45C)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "{'HoldMalc2002', 'SoutHold2006'}",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "Apparently 20 yrs in SoutHold2006, but Holdich 2002 has only >10 indicated"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Abra1971",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Abra1971",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

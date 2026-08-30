@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gerreiformes",
+    "family": "Gerreidae",
+    "genus": "Gerres",
+    "specie": "Gerres_longirostris",
+    "specie_en": "Strongspine silver-biddy"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.05",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "GranAbde2006",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "44.5",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20.6",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 13.9 cm and F2"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.56e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "EspiGall2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based guessed egg diameter of 0.31 mm of Gerres cinereus: pi/6*0.031^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1142",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01072*Li^3.05, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "109",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01072*Lp^3.05, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "GranAbde2006",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

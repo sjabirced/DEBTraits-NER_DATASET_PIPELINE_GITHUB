@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Knipowitschia",
+    "specie": "Knipowitschia_panizzae",
+    "specie_en": "Adriatic dwarf goby",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "4.11",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "KevrKokki1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "2.91",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "KevrKokki1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.45",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "KevrKokki1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.05e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 0.7-1.0 mm, width 0.65-0.8 mm for Potamoschistur microps: pi/6*0.08*0.07^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.624",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "KevrKokki1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00977*Li^3.05, see F1, gives 0.73 g"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "0.169",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "KevrKokki1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.03",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00977*Lp^3.05, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "1.6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

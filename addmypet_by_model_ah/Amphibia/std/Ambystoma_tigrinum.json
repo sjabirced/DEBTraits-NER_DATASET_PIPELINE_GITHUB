@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Ambystomatidae",
+    "genus": "Ambystoma",
+    "specie": "Ambystoma_tigrinum",
+    "specie_en": "Tiger salamander"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "0.0257",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "NespSola2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "500/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "100-1000 eggs per season"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0042",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2 mm of Ambystoma_gracile: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "126",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "seaworld",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "28",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "3*30.5",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Wiki",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "2-4 mnth"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1460",
+    "units": "d",
+    "label": "time since metam at puberty for female",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

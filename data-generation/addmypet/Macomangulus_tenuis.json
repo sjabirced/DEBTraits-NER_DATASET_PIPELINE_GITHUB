@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Cardiida",
+    "family": "Tellinidae",
+    "genus": "Macomangulus",
+    "specie": "Macomangulus_tenuis",
+    "specie_en": "Thin tellin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "3.0",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.2",
+      "units": "cm",
+      "label": "shell length at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.0",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "797424/365",
+      "units": "#/d",
+      "label": "maximum reprod rate at SL 3 cm",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "based on kap=0.95"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.13",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Macoma baltica"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.44e-07",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based from guessed egg diameter of 65 mum: pi/6*0.0065^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "52/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "DekkBeuk1999",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

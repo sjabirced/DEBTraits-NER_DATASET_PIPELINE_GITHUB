@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Cynoglossidae",
+    "genus": "Cynoglossus",
+    "specie": "Cynoglossus_puncticeps",
+    "specie_en": "Speckled tongue sole"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "19",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e5/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "based on Cynoglossus_arel"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.2e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Raja1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.56 mm: pi/6*0.056^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "319",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00468*Li^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "47",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00468*Li^3.13, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2.9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

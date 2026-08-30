@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Thymallus",
+    "specie": "Thymallus_brevirostris",
+    "specie_en": "Mongolian grayling"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "65",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "SlynMend2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase gives 39 cm, but that value probably relates to non-piscivore forms"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "33",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SlynMend2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6000/365",
+    "units": "#/d",
+    "label": "max reoduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": "based on Thymallus_tugarinae"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.1 mm (1.9 to 2.4 mm) for Prosopium cylindraceum: pi/6*0.21^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3130",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "SlynMend2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00851*Li^3.07, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "430",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "SlynMend2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tLW data and Lp"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SlynMend2010",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

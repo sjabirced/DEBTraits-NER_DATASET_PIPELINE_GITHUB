@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Hiodontiformes",
+    "family": "Hiodontidae",
+    "genus": "Hiodon",
+    "specie": "Hiodon_tergisus",
+    "specie_en": "Mooneye",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "L365",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "total length at 1 yr",
+      "bibkey": "Wiki",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.85",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "29.8",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase: 47 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "226",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase: 907 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "tolweb",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "'temps for all data sre guessed"
+    }
+  ]
+}

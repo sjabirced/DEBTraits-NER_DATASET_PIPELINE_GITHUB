@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Lepidoptera",
+    "family": "Pyralidae",
+    "genus": "Plodia",
+    "specie": "Plodia_interpunctella",
+    "specie_en": "Indian meal moth",
+    "deb_model": "hex"
+  },
+  "data": [
+    {
+      "entity": "Ni",
+      "entity.value": 190.0,
+      "units": "#",
+      "label": "cum # of eggs",
+      "bibkey": "AlloGosw1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 2.8e-05,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SilhMill1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwe",
+      "entity.value": 0.01139,
+      "units": "g",
+      "label": "wet weight at emergence",
+      "bibkey": "SilhMill1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": 0.01367,
+      "units": "g",
+      "label": "wet weight at pupation",
+      "bibkey": "SilhMill1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 2.8,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "SilhMill1972",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 8.0,
+      "units": "d",
+      "label": "life span as imago",
+      "bibkey": "SilhMill1972",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "del_S",
+      "entity.value": 0.091,
+      "units": "g/g",
+      "label": "g (pupa_case+silk)/g pupa",
+      "bibkey": "ImurSinh1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as =  (14.71e-2+10.40e-2)/275.76e-2= 0.091, assuming that pupa_case is the cocoon (empty pupal exoesqueleton)"
+    },
+    {
+      "entity": "te",
+      "entity.value": 7.0,
+      "units": "d",
+      "label": "time since birth at emergence",
+      "bibkey": "SilhMill1972",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": 12.2,
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "SilhMill1972",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

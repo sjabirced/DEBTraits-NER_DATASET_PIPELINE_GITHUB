@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Deltistes",
+    "specie": "Deltistes_luxatus",
+    "specie_en": "Lost River sucker"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "86",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "TerwReec2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 8 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "236e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.8 mm of Erimyzon oblongus: pi/6*0.18^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Lp^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "309",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'TerwReec2010','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "57*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TerwReec2010",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

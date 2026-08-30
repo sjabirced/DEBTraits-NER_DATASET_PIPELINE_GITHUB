@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Soleidae",
+    "genus": "Buglossidium",
+    "specie": "Buglossidium_luteum",
+    "specie_en": "Solenette",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "11.7",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Deni1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "9.8",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "Deni1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Deni1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3e4/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(10.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CastEdwa2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.7  mm: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Deni1990','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00871*Li^3.02, see F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'Deni1990','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00871*Lp^3.02, see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(10.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

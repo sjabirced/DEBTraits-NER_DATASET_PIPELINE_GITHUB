@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Heteromyidae",
+    "genus": "Chaetodipus",
+    "specie": "Chaetodipus_intermedius",
+    "specie_en": "Rock pocket mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "15.6",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2*4.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "gbif",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "3-6 pups per litter, 2 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Chaetodipus_californicus: 1.4*47/30"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "20",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "gbif",
+      "temp": null,
+      "units.temp": null,
+      "comment": "11-20 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Chaetodipus_californicus"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "30",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "gbif",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Chaetodipus_californicus"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "23",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Chaetodipus_californicus"
+    }
+  ]
+}

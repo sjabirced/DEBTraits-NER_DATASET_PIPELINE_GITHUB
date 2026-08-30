@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Cnemophilidae",
+    "genus": "Cnemophilus",
+    "specie": "Cnemophilus_macgregorii",
+    "specie_en": "Crested satinbird"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "134",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "bow",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "13.55",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "bow",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length 38.9 mm, width 25.8 mm: pi/6*3.89*2.58^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "97.5",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "105",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "26",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "bow",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "value very uncertain"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13.4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": "based on Cnemophilus_loriae"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1.8*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": "based on Cnemophilus_loriae"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "75",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "25",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": "based on ab"
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Colubridae",
+    "genus": "Spalerosophis",
+    "specie": "Spalerosophis_diadema",
+    "specie_en": "Diadem snake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "37.5",
+      "units": "cm",
+      "label": "total length at hatching for females",
+      "bibkey": "Dmie1967",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "180",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "18/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Dmie1967",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "'3-16 eggs per clutch, 2 clutches per yr assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "13.2",
+      "units": "g",
+      "label": "wet at birth",
+      "bibkey": "Dmie1967",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1162",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Li, tL and tW data: (180/146)^3*620"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "81",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Dmie1967",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "76-84 d at 24-30 C"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "60",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Dmie1967",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "59-61 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "17*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "547",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

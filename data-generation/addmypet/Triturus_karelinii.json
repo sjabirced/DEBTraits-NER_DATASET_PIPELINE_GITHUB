@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Triturus",
+    "specie": "Triturus_karelinii",
+    "specie_en": "Southern crested newt",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "9.9",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "OlguUzum2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "9.99",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "OlguUzum2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.4",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "OlguUzum2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "600/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "based on Truturus cristatus: 70-600 egg per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.5e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Triturus cristatus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10.6",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Triturus cristatus"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "10.9",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lim/Li)^3*Wwi"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.72",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on from (Lp/L_m)^3*Wwi"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "25",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "12 to 20 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EoL",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "OlguUzum2005",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

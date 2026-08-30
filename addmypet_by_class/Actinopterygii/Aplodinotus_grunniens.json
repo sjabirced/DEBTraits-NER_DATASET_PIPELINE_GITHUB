@@ -1,0 +1,90 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "species": "Aplodinotus_grunniens",
+    "species_en": "Freshwater drum"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "95",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "22.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6e5/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "fishbase gives 6e6/yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.7e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter og 1.48 mm: pi/6*0.148^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "21.8e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01023*Li^3.20, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "205",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','fishesoftexas'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01023*Lp^3.20, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "32*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on Lp and tL data"
+  }
+]

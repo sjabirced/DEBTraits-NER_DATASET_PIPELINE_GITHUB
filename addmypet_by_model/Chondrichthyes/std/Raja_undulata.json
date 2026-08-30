@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Raja",
+    "specie": "Raja_undulata",
+    "specie_en": "Undulate ray"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "CoelErzi2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "86.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SerrErzi2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "69.8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "SerrErzi2015",
+    "temp": "C2K(13.2)",
+    "units.temp": "K",
+    "comment": "62-124 eggs per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.59e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00302*Li^3.2, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(13.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CoelErzi2002",
+    "temp": "C2K(13.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anostraca",
+    "family": "Branchipodidae",
+    "genus": "Branchipus",
+    "specie": "Branchipus_schaefferi",
+    "specie_en": "Fairy shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.115",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "BelaPeir2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "2.0",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "BelaPeir2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.2",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "BelaPeir2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1734/17.64",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "BelaPeir2003",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "1734 eggs in 17.64 d"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.0136",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based in Arteria salina: 0.0017*(2/1)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.42",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BelaPeir2003",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "70",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BelaPeir2003",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "10",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "BelaPeir2003",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

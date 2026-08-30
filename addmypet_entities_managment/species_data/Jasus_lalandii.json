@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Palinuridae",
+    "genus": "Jasus",
+    "specie": "Jasus_lalandii",
+    "specie_en": "Cape rock lobster",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate at CL = 9.9 cm",
+      "bibkey": "BeyeGoos1987",
+      "temp": "C2K(16.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BeyeGoos1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.67 to 0.83 mm: pi/6*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.85e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.3470*Li^3.118, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "92.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'BeyeGoos1987','sealifebase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(16.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

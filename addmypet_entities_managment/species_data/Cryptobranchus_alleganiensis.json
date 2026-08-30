@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Cryptobranchidae",
+    "genus": "Cryptobranchus",
+    "specie": "Cryptobranchus_alleganiensis",
+    "specie_en": "Hellbender",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "25-33 mm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "74",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "11.5",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "38",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "PeteWilk1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Niangua hellbenders"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "PeteWilk1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Niangua hellbenders"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "175/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "150-200 eggs per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2500",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "55",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "45-75 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "5-8 yr"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Acanthuridae",
+    "genus": "Ctenochaetus",
+    "specie": "Ctenochaetus_binotatus",
+    "specie_en": "Twospot surgeonfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on same relative length, compared to Zebrasoma_scopas: 13.2/40*22"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5e5/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.7)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.75 mm of Chaetodon: 4/3*pi*0.038^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "286",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.03236*Li^2.94, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "11",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on g = 0.03236*Lp^2.94, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

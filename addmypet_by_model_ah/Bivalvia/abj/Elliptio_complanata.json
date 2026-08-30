@@ -1,0 +1,90 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "species": "Elliptio_complanata",
+    "species_en": "Eastern elliptio"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": ".02",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "unio",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.8",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "KeslNewt2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": ".03",
+    "units": "cm",
+    "label": "shell length at settlement",
+    "bibkey": "unio",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "16668/365",
+    "units": "#/d",
+    "label": "reproduction rate for SL 5.8",
+    "bibkey": "Haag2013",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "45.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Unio_tumidus : 14*(8.8/7.3)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "unio",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

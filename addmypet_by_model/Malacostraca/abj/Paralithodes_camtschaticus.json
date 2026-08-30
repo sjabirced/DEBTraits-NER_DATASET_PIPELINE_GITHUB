@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Lithodidae",
+    "genus": "Paralithodes",
+    "specie": "Paralithodes_camtschaticus",
+    "specie_en": "Red king crab"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "nobanis",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "1.8 m legg span, see EoL"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.7",
+    "units": "cm",
+    "label": "carapace length at puberty for females",
+    "bibkey": "LoheArms2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "10.5",
+    "units": "cm",
+    "label": "carapace length at puberty for males",
+    "bibkey": "LoheArms2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wdj",
+    "entity.value": "1.0e-3",
+    "units": "g",
+    "label": "dry weight at metam",
+    "bibkey": "nobanis",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.24e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "seagrant",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "8e3",
+    "units": "g",
+    "label": "ultimate wet weight females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "max weight can be larger"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "10e3",
+    "units": "g",
+    "label": "ultimate wet weight males",
+    "bibkey": "nobanis",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "max weight can be larger"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "840",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "ZhouShir1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed as (Lp/ Li)^3 * Wwi"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "360",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "62",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "nobanis",
+    "temp": "C2K(7.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "time since metam at puberty",
+    "bibkey": "LoheArms2001",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "5-8 yr"
+  }
+]

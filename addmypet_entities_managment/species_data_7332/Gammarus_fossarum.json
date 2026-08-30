@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Amphipoda",
+    "family": "Gammaridae",
+    "genus": "Gammarus",
+    "specie": "Gammarus_fossarum",
+    "specie_en": "Freshwater shrimp"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.12",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Poeckl1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.47",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Poeckl1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "value for females calculated from wet weight and empirical regression"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.81",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Poeckl1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "value for females calculated from wet weight and empirical regression"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "59/62",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Poeckl1993",
+    "temp": "C2K(7.9)",
+    "units.temp": "K",
+    "comment": "mean egg number per clutch for 58 mg wet weight animals / brood development time at 7.9 C "
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.078",
+    "units": "mg",
+    "label": "wet weight at birth",
+    "bibkey": "Poeckl1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "40.9",
+    "units": "mg",
+    "label": "ultimate wet weight",
+    "bibkey": "Poeckl1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "9",
+    "units": "mg",
+    "label": "wet weight at puberty",
+    "bibkey": "Poeckl1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "40.3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Poeckl1990",
+    "temp": "C2K(10.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "630",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Poeckl2003",
+    "temp": "C2K(10.2)",
+    "units.temp": "K",
+    "comment": "computed maximum life span for river Fischa"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "96",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Poeckl2003",
+    "temp": "C2K(20.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

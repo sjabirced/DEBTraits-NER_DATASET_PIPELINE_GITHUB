@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Gerrhosauridae",
+    "genus": "Gerrhosaurus",
+    "specie": "Gerrhosaurus_skoogi",
+    "specie_en": "Desert plated lizard"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "4.9",
+    "units": "cm",
+    "label": "snout to vent length at birth",
+    "bibkey": "ChinHanr1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate snout to vent length",
+    "bibkey": "ChinHanr1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "104.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ChinHanr1995",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ChinHanr1995",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

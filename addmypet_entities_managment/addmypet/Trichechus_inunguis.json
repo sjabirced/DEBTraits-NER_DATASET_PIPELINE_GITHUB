@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Sirenia",
+    "family": "Trichechidae",
+    "genus": "Trichechus",
+    "specie": "Trichechus_inunguis",
+    "specie_en": "Amazon manatee",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "90",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "seaworld",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "290",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "VergPare2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "282",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "VergPare2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "seaworld",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "12.5e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "spec_id",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "450e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "VergPare2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "60*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "VergPare2010",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": "for florida manatee"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "13*30.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Wiki",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": "'temp from sirenian"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": "for florida manatee, mostly 7-9 yr"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "seaworld",
+      "temp": "C2K(36.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

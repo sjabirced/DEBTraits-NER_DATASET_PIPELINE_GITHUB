@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Trichomycteridae",
+    "genus": "Eremophilus",
+    "specie": "Eremophilus_mutisii",
+    "specie_en": "Captain",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "PiniAbri2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "20347/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "based on Synodontis_clarias"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AcosBerr2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.052 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "172.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "base on 0.00661*Li^2.99, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "8.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00661*Lp^2.99, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6.7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AcosBerr2017",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "'hatch at 4.2 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

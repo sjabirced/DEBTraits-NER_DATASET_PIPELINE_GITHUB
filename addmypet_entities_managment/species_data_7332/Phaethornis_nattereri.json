@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Apodiformes",
+    "family": "Trochilidae",
+    "genus": "Phaethornis",
+    "specie": "Phaethornis_nattereri",
+    "specie_en": "Cinnamon-throated hermit"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "PereBace2020",
+    "temp": "C2K(41.50)",
+    "units.temp": "K",
+    "comment": "2 eggs per clutch, assumed: 1 clutche per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "0.4",
+    "units": "g",
+    "label": " intitial wet weight",
+    "bibkey": "PereBace2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.1",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "16",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "PereBace2020",
+    "temp": "C2K(32.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(41.5)",
+    "units.temp": "K",
+    "comment": "based on for Archilochus_alexandri"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "51",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "17",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "PereBace2020",
+    "temp": "C2K(41.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

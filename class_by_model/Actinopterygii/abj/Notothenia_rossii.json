@@ -1,0 +1,90 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Nototheniidae",
+    "species": "Notothenia_rossii",
+    "species_en": "Marbled rockcod"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.51",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Burc1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "92",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "58.5",
+    "units": "cm",
+    "label": "total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 6-8 yr"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "37e3/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(2.1)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.6"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.5e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Burc1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based 0.00692*Lb^3.13, see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "9.7e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Burc1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00692*Li^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.35e3",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "Burc1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00692*Lp^3.13, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Burc1983",
+    "temp": "C2K(2.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

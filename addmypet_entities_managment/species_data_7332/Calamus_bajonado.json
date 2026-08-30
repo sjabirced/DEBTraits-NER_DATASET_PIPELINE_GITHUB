@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Calamus",
+    "specie": "Calamus_bajonado",
+    "specie_en": "Jolthead porgy"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.012",
+    "units": "g/g",
+    "label": "gonado-somatic index",
+    "bibkey": "BurtPott2017",
+    "temp": "C2K(24.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "76",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "36",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 750 mum of Acanthopagrus_berda: pi/6*0.075^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "8165",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02630*Li^2.92, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "921",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02630*Lp^2.92, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BurtPott2017",
+    "temp": "C2K(24.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

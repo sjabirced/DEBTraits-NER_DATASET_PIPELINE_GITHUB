@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Gempylidae",
+    "genus": "Promethichthys",
+    "specie": "Promethichthys_prometheus",
+    "specie_en": "Roudi escolar"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "ultimate total length of female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "51",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "LorePaju1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.8e5/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(11.1)",
+    "units.temp": "K",
+    "comment": "based on kap=0.7 as found for Pomatomus saltatrix"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm of Pomatomus saltatrix: pi/6*.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.94e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','LorePaju1995'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.004509*Li^2.9705, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "533",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "LorePaju1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.004509*Lp^2.9705, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "RobiReis2009",
+    "temp": "C2K(11.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

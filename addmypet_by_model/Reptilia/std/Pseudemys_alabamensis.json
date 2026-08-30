@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Emydidae",
+    "genus": "Pseudemys",
+    "specie": "Pseudemys_alabamensis",
+    "specie_en": "Alabama red-bellied cooter"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "3.3",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "Grah1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "25-31 mm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "32.25",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "Grah1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "9/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "4-9 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "55",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(31)",
+    "units.temp": "K",
+    "comment": "based on P. concinna"
+  },
+  {
+    "entity": "am",
+    "entity.value": "77*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "based on P. concinna"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "based on P. concinna"
+  }
+]

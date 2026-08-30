@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Hynobiidae",
+    "genus": "Ranodon",
+    "specie": "Ranodon_sibiricus",
+    "specie_en": "Semirechensk Salamander"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12.8",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "Spar2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "TL 12-28 cm, converted to SVL using F2"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "4.5",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "NishDujs2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "NishDujs2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "91/365",
+    "units": "#/d",
+    "label": "max reprduction rate",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "38-53 eggs per sac, 2 sacs"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.35e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Spar2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 3-5 mm: pi/6*0.4^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "56.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Salamandra salamandra of TL 250 mm, weighing 40 g (Wiki): (28/25)^3*40"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "90",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "NishDujs2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "NishDujs2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

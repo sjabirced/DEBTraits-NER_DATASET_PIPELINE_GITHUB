@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Merlucciidae",
+    "genus": "Merluccius",
+    "specie": "Merluccius_senegalensis",
+    "specie_en": "Senegalese hake",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "25",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "81",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "37",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "ReyFern2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "33 to 39 cm"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 900 mum: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi = 0.00537*Li^3.08, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "363",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'ReyFern2016','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwp = 0.00537*Lp^3.08, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

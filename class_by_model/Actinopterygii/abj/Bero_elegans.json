@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Bero",
+    "specie": "Bero_elegans",
+    "specie_en": "Elegant sculpin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "ultimate total length for",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "ShelPanc2023",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4500/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.63 mm for Cottus volki: pi/6*0.163^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "74",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00676*Li^3.17, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3.9 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ShelPanc2023",
+    "temp": "C2K(11.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

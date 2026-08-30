@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Centrarchidae",
+    "genus": "Enneacanthus",
+    "specie": "Enneacanthus_chaetodon",
+    "specie_en": "Blackbanded sunfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based om same relative length, compared to Lepomis auritus: 7.5*10/24"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "666/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": "based on same relative fecundity, compared to Lepomis auritus: 9206*(10/24)^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3, Schw1961 gives 0.3 mm, but these were probably not yet ripe"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "14.1",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01230*Li^3.06, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.4",
+    "units": "g",
+    "label": "wet weight at piberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01230*Lp^3.06, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at death",
+    "bibkey": "Schw1961",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

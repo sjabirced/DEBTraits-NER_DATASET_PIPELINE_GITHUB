@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Ichthyostraca",
+    "order": "Arguloida",
+    "family": "Argulidae",
+    "genus": "Argulus",
+    "specie": "Argulus_coregoni",
+    "specie_en": "Salmon louse"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.07,
+    "units": "cm",
+    "label": "body length at birth",
+    "bibkey": "TaylSomm2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 1.3,
+    "units": "cm",
+    "label": "ultimate body length",
+    "bibkey": "PastMikh2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on extrapolation of tL_f-data"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": 0.2,
+    "units": "cm",
+    "label": "body length at metam",
+    "bibkey": "PastMikh2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.92,
+    "units": "cm",
+    "label": "body length at puberty",
+    "bibkey": "PastMikh2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 4000.0,
+    "units": "#",
+    "label": "cumulated number of eggs",
+    "bibkey": "TaylSomm2005",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "400 eggs/batch, upto 10 batches for A. japonicus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 6.3e-06,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "TaylSomm2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg length of 300 mum and width of 200 mum: pi/6*0.03*0.02^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 0.102,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Guess based in ovoid shape of length 1.3 cm, width 1.0 cm, height 0.1 cm: pi/4*1.3*1.0*0.1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 17.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "TaylSomm2005",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 60.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TaylSomm2005",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "Based on observation of absence of adults in winter"
+  },
+  {
+    "entity": "tj",
+    "entity.value": 12.0,
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "PastMikh2004",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": 38.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "PastMikh2004",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

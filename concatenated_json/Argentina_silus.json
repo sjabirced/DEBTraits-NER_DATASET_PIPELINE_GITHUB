@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Argentiniformes",
+    "family": "Argentinidae",
+    "genus": "Argentina",
+    "specie": "Argentina_silus",
+    "specie_en": "Greater argentine"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.7",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "MunkNiel2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "pre-flexion stage"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "26",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "11550/365",
+    "units": "#/d",
+    "label": "reprod rate at 45 cm",
+    "bibkey": "ICES",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.019",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MunkNiel2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 3.3 mm: 4/3*pi*0.06^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3170",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0039 * Li^3.203, see F4"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "133",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0039 * Lp^3.203, see F4"
+  },
+  {
+    "entity": "am",
+    "entity.value": "35*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

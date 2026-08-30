@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Ancistrocheiridae",
+    "genus": "Ancistrocheirus",
+    "specie": "Ancistrocheirus_lesueurii",
+    "specie_en": "Sharpear enope squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 35.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "Arkh1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 15.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "Arkh1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 18.0,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "Arkh1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 9.4,
+      "units": "cm",
+      "label": "mantle length at puberty for male",
+      "bibkey": "Arkh1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 29000.0,
+      "units": "#",
+      "label": "fecundity",
+      "bibkey": "Lapt1999",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.0003,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Lapt1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 650.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "Arkh1997",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "based on ML 3.8 cm in 160d, and max ML 7 cm"
+    }
+  ]
+}

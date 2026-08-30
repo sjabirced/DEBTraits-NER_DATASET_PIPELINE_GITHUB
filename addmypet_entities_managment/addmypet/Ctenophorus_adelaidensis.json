@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "genus": "Ctenophorus",
+    "specie": "Ctenophorus_adelaidensis",
+    "specie_en": "Western heath dragon",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.35",
+      "units": "cm",
+      "label": "snout to vent length at birth",
+      "bibkey": "Burn2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.2",
+      "units": "cm",
+      "label": "ultimate snout to vent length",
+      "bibkey": "Bamf1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.0",
+      "units": "cm",
+      "label": "snout to vent length at puberty",
+      "bibkey": "Bamf1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Bamf1992','Burn2018'}",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "Based on Bamford 1992 and gravid females kept in the lab producing only one clutch with max size of 3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.58",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Burn2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Bamf1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Bamf1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "36",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Burn2018",
+      "temp": "C2K(31.4)",
+      "units.temp": "K",
+      "comment": "mean value taken from several measurements"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Bamf1992",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "Generally 2 years, but one female in M.Bamford data seems to be at least 5 years old."
+    },
+    {
+      "entity": "ap",
+      "entity.value": "90 + data.ab",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Bamf1992",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "Estimate assuming maturity reached end of winter (Bamford 1992)and assuming little growth during winter. Plus growth measured in the lab so far suggests they likely reach maturity within a few months"
+    }
+  ]
+}

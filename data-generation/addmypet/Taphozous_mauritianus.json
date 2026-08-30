@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Emballonuridae",
+    "genus": "Taphozous",
+    "specie": "Taphozous_mauritianus",
+    "specie_en": "Mauritian tomb bat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "31.14",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Taphozous_longimanus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "30",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "27.5-31.6 g"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "32",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "20-36 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "based on Taphozous_longimanus"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "60",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "ADW",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "based on Taphozous_longimanus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "278",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "37",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

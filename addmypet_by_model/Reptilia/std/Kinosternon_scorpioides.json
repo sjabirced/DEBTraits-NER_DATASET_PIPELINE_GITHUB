@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Kinosternidae",
+    "genus": "Kinosternon",
+    "specie": "Kinosternon_scorpioides",
+    "specie_en": "Scorpion mud turtle"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.6",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "BragFern2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "ultimate carapace length for females",
+    "bibkey": "Iver2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "10.8",
+    "units": "cm",
+    "label": "ultimate carapace length for males",
+    "bibkey": "Iver2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10.25",
+    "units": "cm",
+    "label": "carapace length at puberty for females",
+    "bibkey": "Iver2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "10.25",
+    "units": "cm",
+    "label": "carapace length at puberty for males",
+    "bibkey": "Iver2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.2*5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Iver2010",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "1-4 eggs per clutch, 5 clutches per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "5.5",
+    "units": "g",
+    "label": "intial wet weight",
+    "bibkey": "Iver2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "225",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Iver2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.000102*(10*Li)^3.108, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "129.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "BragFern2021",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "44.7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

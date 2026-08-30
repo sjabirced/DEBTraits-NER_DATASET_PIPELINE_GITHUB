@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Stomiiformes",
+    "family": "Gonostomatidae",
+    "genus": "Cyclothone",
+    "specie": "Cyclothone_atraria",
+    "specie_en": "Deep-water bristlemouth"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.2",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.6",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "MiyaNemo1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MiyaNemo1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.3 mm: pi/6*0.03^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.91",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Li^2.99, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.18",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Lp^2.99, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MiyaNemo1987",
+    "temp": "C2K(9.3)",
+    "units.temp": "K",
+    "comment": "based on tp of 5-6 yr, and several spawnings per life cycle"
+  }
+]

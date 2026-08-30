@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Mustelus",
+    "specie": "Mustelus_henlei",
+    "specie_en": "Brown smooth-hound"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "YudiCail1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase: 20-32 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "YudiCail1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "79.5",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "YudiCail1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "56",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "YudiCail1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "51-63 cm"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "59",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "YudiCail1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "52-66 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(15.4)",
+    "units.temp": "K",
+    "comment": "3-5 pups per litter, 1 litter per  yr assumed"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.37e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','YudiCail1990'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00240*Li^3.13, see F3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "2.13e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "{'fishbase','YudiCail1990'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00240*Lim^3.13, see F3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(15.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "YudiCail1990",
+    "temp": "C2K(15.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

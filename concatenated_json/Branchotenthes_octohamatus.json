@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Platyhelminthes",
+    "class": "Monogenea",
+    "order": "Diclybothriidea",
+    "family": "Hexabothriidae",
+    "genus": "Branchotenthes",
+    "specie": "Branchotenthes_octohamatus",
+    "specie_en": "Ray flatworm"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.014",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "GlenChis2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.6627",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "GlenChis2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.537",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "GlenChis2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "122 egggs are laid in a chain, but no info was found on chain production over time"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-13",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "GlenChis2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 139 mum, width 68 mum: pi/6*0.00139*0.00068^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.6e-3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "GlenChis2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on cilinder with mean diameter of 700 mum (max is 1384 mum) and length Li: 0.663*0.07^2*pi/4"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.3e-3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "GlenChis2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on cilinder with diameter 555 mum and length Lp: 0.537*0.0555^2*pi/4"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "GlenChis2007",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "8 to 10 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "0.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "on information found, very unriable guess"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "91",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "GlenChis2007",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

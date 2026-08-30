@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Mytilida",
+    "family": "Mytilidae",
+    "genus": "Musculus",
+    "specie": "Musculus_discors",
+    "specie_en": "Green crenella"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.1",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "2.2",
+    "units": "cm",
+    "label": "ultimate shell height",
+    "bibkey": "marlin",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "96/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.99, close to that for Mytilus edulis"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.39",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on .03693*Li^3 for Mytilus edulis"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

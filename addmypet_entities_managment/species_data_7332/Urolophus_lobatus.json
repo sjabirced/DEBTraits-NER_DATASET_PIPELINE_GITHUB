@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Urolophidae",
+    "genus": "Urolophus",
+    "specie": "Urolophus_lobatus",
+    "specie_en": "Lobed stingaree"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "9",
+    "units": "cm",
+    "label": "disc width at birth",
+    "bibkey": "WhitPlat2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "27.7",
+    "units": "cm",
+    "label": "ultimate disc width for females",
+    "bibkey": "WhitPlat2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "23.7",
+    "units": "cm",
+    "label": "ultimate disc width for males",
+    "bibkey": "WhitPlat2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "disc width at puberty for females",
+    "bibkey": "WhitPlat2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "disc width at puberty for males",
+    "bibkey": "WhitPlat2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "WhitPlat2001",
+    "temp": "C2K(16.3)",
+    "units.temp": "K",
+    "comment": "2 to 6 pups per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "349",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "{'WhitPlat2001','WhitPott2005'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 10^-5.20 *(10*Li)^3.17, see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "267",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "{'WhitPlat2001','WhitPott2005'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 10^-5.03 *(10*Lim)^3.14, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "WhitPlat2001",
+    "temp": "C2K(16.3)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "WhitPlat2001",
+    "temp": "C2K(16.3)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

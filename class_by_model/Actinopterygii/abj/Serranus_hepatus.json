@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Serranus",
+    "specie": "Serranus_hepatus",
+    "specie_en": "Brown comber"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.05",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "SoykTurk2013",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.9e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.712 mm of Serranus scriba: pi/6*0.0712^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "209",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01175*Lp^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SoykTurk2013",
+    "temp": "C2K(18.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

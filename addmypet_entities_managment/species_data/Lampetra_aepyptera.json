@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Cephalaspidomorphi",
+    "order": "Petromyzontiformes",
+    "family": "Petromyzontidae",
+    "genus": "Lampetra",
+    "specie": "Lampetra_aepyptera",
+    "specie_en": "Least brook lamprey",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "DockBeam1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "NR",
+      "entity.value": "5900",
+      "units": "#",
+      "label": "eggs at the end of life",
+      "bibkey": "DockBeam1991",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.66-1.36 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00120*Li^3, see F2)"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.26",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00120*Lp^3, see F2)"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "temp is guessed"
+    }
+  ]
+}

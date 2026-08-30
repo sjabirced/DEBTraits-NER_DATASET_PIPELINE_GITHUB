@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Duttaphrynus",
+    "specie": "Duttaphrynus_melanostictus",
+    "specie_en": "Asian common toad"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.5",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "8.3",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "6.5 to 8.5 cm"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "SVL for females at metam",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "4e4  eggs per clutch, 2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Kuzm2017",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "1-2 wk"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "time since metam at puberty for female",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

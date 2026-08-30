@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Alcidae",
+    "genus": "Pinguinus",
+    "specie": "Pinguinus_impennis",
+    "specie_en": "Great auk",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "NettBirk1985",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "327",
+      "units": "g",
+      "label": "initial egg wet weight",
+      "bibkey": "NettBirk1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "236",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "NettBirk1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "NettBirk1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "43",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "NettBirk1985",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "Estimates vary between 30 and 65 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "60*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1862",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "250",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "NettBirk1985",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

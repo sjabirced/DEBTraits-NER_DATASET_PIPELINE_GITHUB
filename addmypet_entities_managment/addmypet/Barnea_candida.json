@@ -1,0 +1,83 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Myida",
+    "family": "Pholadidae",
+    "species": "Barnea_candida",
+    "species_en": "White piddock",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.12",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "3.82",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "PinnRich2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.37",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "{'BaguRich2013','PinnRich2005'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 10^(-5.02 + 2.9*log10(10*Lp)), see F1"
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "0.0353",
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "{'guess','BaguRich2013'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.7e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 123 mum: pi/6*0.0123^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "PinnRich2005",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

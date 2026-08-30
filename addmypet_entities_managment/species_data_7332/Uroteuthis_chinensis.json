@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Uroteuthis",
+    "specie": "Uroteuthis_chinensis",
+    "specie_en": "Mitre squid"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.28",
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on U. edulis"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "31",
+    "units": "cm",
+    "label": "mantle length at death for female",
+    "bibkey": "JinLi2019",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "49",
+    "units": "cm",
+    "label": "mantle length at death for male",
+    "bibkey": "JinLi2019",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "mantle length at puberty",
+    "bibkey": "sealifebase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ni",
+    "entity.value": "43*700",
+    "units": "#",
+    "label": "cum reprod at death",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on a relative fecumdity of 43/g for U. edulis"
+  },
+  {
+    "entity": "am",
+    "entity.value": "180",
+    "units": "d",
+    "label": "life span for female",
+    "bibkey": "JinLi2019",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

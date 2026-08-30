@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Emydidae",
+    "genus": "Pseudemys",
+    "specie": "Pseudemys_texana",
+    "specie_en": "Texas river cooter",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.5/0.92",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "Lind2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "30.5",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "Lind2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8.4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Lind2007",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "4-19 eggs per clutch, 1 clutch per yr assumed"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4800",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Pseudemys_alabamensis"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "55",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "77*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "based on P. concinna"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.6*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Lind2007",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "6-10 yr"
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "2.6*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Lind2007",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

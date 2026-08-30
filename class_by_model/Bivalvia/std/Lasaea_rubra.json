@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Galeommatida",
+    "family": "Lasaeidae",
+    "genus": "Lasaea",
+    "specie": "Lasaea_rubra",
+    "specie_en": "Bivalve"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.06",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "GratFoig1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.32",
+    "units": "cm",
+    "label": "ultimate shell height",
+    "bibkey": "GratFoig1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.11",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "GratFoig1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "23e-3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Sphaerium corneum: 2.32*(0.32/1.486)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "60",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "GratFoig1986",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "GratFoig1986",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

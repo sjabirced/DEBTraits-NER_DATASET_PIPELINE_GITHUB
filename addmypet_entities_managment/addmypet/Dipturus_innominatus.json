@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Dipturus",
+    "specie": "Dipturus_innominatus",
+    "specie_en": "New Zealand smooth skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "pelvic length at birth",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "150.5",
+      "units": "cm",
+      "label": "ultimate pelvic length for females",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "112",
+      "units": "cm",
+      "label": "pelvic length at puberty for females",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "93",
+      "units": "cm",
+      "label": "pelvic length at puberty  for males",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "20/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(8.2)",
+      "units.temp": "K",
+      "comment": "based on kappa"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "71.14e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.024378*Li^2.969, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "29.59e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.024378*Lp^2.969, see F1"
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "17e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.024378*Lpm^2.969, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.4*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(8.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "24*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FranCaoi2001",
+      "temp": "C2K(8.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

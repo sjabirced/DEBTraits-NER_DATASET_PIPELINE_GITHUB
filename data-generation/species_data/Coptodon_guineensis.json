@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cichliformes",
+    "family": "Cichlidae",
+    "genus": "Coptodon",
+    "specie": "Coptodon_guineensis",
+    "specie_en": "Guinean tilapia",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "29.7",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "AyoaBaba2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "17.3",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "AyoaBaba2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "16.9",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "AyoaBaba2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "9852/365",
+      "units": "#/d",
+      "label": "reprod rate at TL 29.7 cm, 575.3g",
+      "bibkey": "AyoaBaba2017",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3e-3",
+      "units": "g",
+      "label": "initial egg weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 1.3-1.8 mm for Coptodon_rendalli: pi/6*0.163^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "628.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AyoaBaba2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6",
+      "units": "d",
+      "label": "'age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "based on Coptodon_rendalli"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "based on Coptodon_rendalli"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Gallinago",
+    "specie": "Gallinago_gallinago",
+    "specie_en": "Common snipe"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "GilsWier2020",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": "2-5 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "11.1",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Gree1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "111",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Wiki: 80–140 g"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "94",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Wiki: 80–140 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "19",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "GilsWier2020",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "17-21 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "58.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "19.5",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "GilsWier2020",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": "19-20 d"
+  }
+]

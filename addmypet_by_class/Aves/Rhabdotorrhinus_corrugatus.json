@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Bucerotiformes",
+    "family": "Bucerotidae",
+    "genus": "Rhabdotorrhinus",
+    "specie": "Rhabdotorrhinus_corrugatus",
+    "specie_en": "Wrinkled hornbill"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "2 eggs per clutch, 1 cutch each 2 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "30",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Kemp1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg weight pi/6*5.3*4*4 = 44.4 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1590",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "29",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Kemp1995",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "50*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "210",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "65-73 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "70",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Kemp1995",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "65-73 d"
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Soleidae",
+    "genus": "Heteromycteris",
+    "specie": "Heteromycteris_japonicus",
+    "specie_en": "Bamboo sole",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.1",
+      "units": "g/g",
+      "label": "gonadosomatic index",
+      "bibkey": "YamaKata2013",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "15.8",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "YamaKata2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "YamaKata2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg dimater of 0.65 mm of Dicologlossa cuneata: pi/6*0.065^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "46.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'YamaKata2013','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00977*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.8",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'YamaKata2013','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00977*Lp^3.07, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "YamaKata2013",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": "temp bibkey.temp.am=Vina2007 page 21 = average yearly temperature of tagus estuary"
+    }
+  ]
+}

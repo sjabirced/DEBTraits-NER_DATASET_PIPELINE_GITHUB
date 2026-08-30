@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Platygobio",
+    "specie": "Platygobio_gracilis",
+    "specie_en": "Flathead chub"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "32",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "MartSchm1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 2.6 cm and F2"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Goul1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.3 mm: pi/6*0.13^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "306",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Li^3.08, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "7.3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'MartSchm1978','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Lp^3.08, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MartSchm1978",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

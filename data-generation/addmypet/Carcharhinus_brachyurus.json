@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Carcharhinus",
+    "specie": "Carcharhinus_brachyurus",
+    "specie_en": "Copper shark",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "65",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "59-70 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "325",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "300",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "175",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "160-190 cm"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "170",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "160-180 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "13/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(17.4)",
+      "units.temp": "K",
+      "comment": "7 till 20 pups per litter, 1 litter per 2 yrs"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "208.7e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00468*Li^3.09, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(17.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(17.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

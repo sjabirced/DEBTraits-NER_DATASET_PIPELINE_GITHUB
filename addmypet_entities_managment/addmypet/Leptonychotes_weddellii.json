@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Phocidae",
+    "genus": "Leptonychotes",
+    "specie": "Leptonychotes_weddellii",
+    "specie_en": "Weddell seal",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "BrydSmit1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "for male, 118 cm for female"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "277",
+      "units": "cm",
+      "label": "total length fem.",
+      "bibkey": "BrydSmit1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "110-140 cm"
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "263",
+      "units": "cm",
+      "label": "total length male",
+      "bibkey": "BrydSmit1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "110-140 cm, males being slightly larger than females"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/548",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "1 pup per litter, 1 litter per 548 d"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "29e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BrydSmit1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "348e3",
+      "units": "g",
+      "label": "ultimate wet weight fem.",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 600 kg"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "322e3",
+      "units": "g",
+      "label": "ultimate wet weight male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 500 kg"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "115.9e3",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "304",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1365",
+      "units": "d",
+      "label": "time since birth at puberty (female)",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "1642",
+      "units": "d",
+      "label": "time since birth at puberty (male)",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "40",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

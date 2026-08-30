@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Raja",
+    "specie": "Raja_asterias",
+    "specie_en": "Mediterranean starry ray ",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "10.6",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "SereBaro2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "75",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "54",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "SereBaro2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "SereBaro2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "20/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(14.3)",
+      "units.temp": "K",
+      "comment": "based on other Raja species"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.1e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00251*Li^3.25, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "150",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(14.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SereBaro2005",
+      "temp": "C2K(14.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

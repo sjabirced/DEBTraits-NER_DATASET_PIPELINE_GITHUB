@@ -1,0 +1,110 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "species": "Catostomus_santaanae",
+    "species_en": "Santa Ana sucker"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.48",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "GreeRoss1970",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lh",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "total length at hatch",
+    "bibkey": "GreeRoss1970",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "GreeRoss1970",
+    "temp": null,
+    "units.temp": null,
+    "comment": "No females under a length of 49 mm or 2.05 g contained eggs"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "16151/365",
+    "units": "#/d",
+    "label": "Reprod rate at TL = 15 cm",
+    "bibkey": "GreeRoss1970",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "Fecundity estimates were made from samples of ovaries from six fish ranging in size from 77.8 to 158.2 mm."
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Bail1969",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Based egg diameter of 2.2 mm of C.catostomus: pi/6*0.22^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "177.7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'Wiki', 'fishbase'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Based on 0.01*Li^3.04, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "GreeRoss1970",
+    "temp": null,
+    "units.temp": null,
+    "comment": "No females under a length of 49 mm or 2.05 g contained eggs"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "biodiv",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "'guessed temp"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "0.8 * 365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "WarrBroo2014",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "Based on remark that maturity is reached in second summer"
+  }
+]

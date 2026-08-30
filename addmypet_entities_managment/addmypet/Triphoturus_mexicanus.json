@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Triphoturus",
+    "specie": "Triphoturus_mexicanus",
+    "specie_en": "Mexican lampfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "ChilTayl1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e3/365",
+      "units": "#/d",
+      "label": "max reprod rate ",
+      "bibkey": "guess",
+      "temp": "C2K(11.5)",
+      "units.temp": "K",
+      "comment": "based on kap=0.95"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ChilTayl1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.7 mm: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.83",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "{'fishbase','ChilTayl1980'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 2.21e-6*(10*Li)^3.31, see F3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','ChilTayl1980'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 2.21e-6*(10*Lp)^3.31, see F3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ChilTayl1980",
+      "temp": "C2K(11.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

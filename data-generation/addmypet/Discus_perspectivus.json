@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Discidae",
+    "genus": "Discus",
+    "specie": "Discus_perspectivus",
+    "specie_en": "Keeled disk snail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.1",
+      "units": "cm",
+      "label": "shell breath at birth",
+      "bibkey": "Kuzn2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.65",
+      "units": "cm",
+      "label": "ultimate shell breath",
+      "bibkey": "animalbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.55",
+      "units": "cm",
+      "label": "shell breath at puberty",
+      "bibkey": "Kuzn2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "33",
+      "units": "#",
+      "label": "life time reproduction output",
+      "bibkey": "Kuzn2005",
+      "temp": "C2K(21.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.0484",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "25",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Kuzn2005",
+      "temp": "C2K(21.5)",
+      "units.temp": "K",
+      "comment": "24-36 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Kuzn2005",
+      "temp": "C2K(21.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

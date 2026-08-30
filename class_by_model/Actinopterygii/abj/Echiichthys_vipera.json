@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Trachinidae",
+    "genus": "Echiichthys",
+    "specie": "Echiichthys_vipera",
+    "specie_en": "Lesser weever"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.08",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(10.5)",
+    "units.temp": "K",
+    "comment": "based on Trachinus draco"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "27.7",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.27",
+    "units": "cm",
+    "label": "total length st puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Trachinus_draco: 12*27.7/53 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MunkNiel2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.3 mm: pi/6*0.13^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "177.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00708*Li^3.05, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.91",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Lp^3.05, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "26",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(10.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ScotHend2015",
+    "temp": "C2K(10.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

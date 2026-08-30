@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Mustelus",
+    "specie": "Mustelus_asterias",
+    "specie_en": "Starry  smooth-hound"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "33",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "FarrMari2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "140",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "80",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "75",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(10.1)",
+    "units.temp": "K",
+    "comment": "7-15 pups per litter, 1 litter per 2 yr assumed, based on ab"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1.8*365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(10.1)",
+    "units.temp": "K",
+    "comment": "based on v around 0.3 cm/d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "18.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FarrMari2010",
+    "temp": "C2K(10.1)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

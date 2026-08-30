@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Macrouridae",
+    "genus": "Macrourus",
+    "specie": "Macrourus_caml",
+    "specie_en": "Caml grenadier"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "82",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on tL data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "52",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "PinkMcMi2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.5e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(2.5)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Macrourus_carinatus: 79221*2848/6450"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.6 mm for Coryphaenoides rupestris: pi/6*0.26^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2848",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00214*Li^3.20, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "663",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'PinkMcMi2013','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00214*Lp^3.20, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "62*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PinkMcMi2013",
+    "temp": "C2K(2.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

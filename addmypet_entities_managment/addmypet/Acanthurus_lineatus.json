@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Acanthuridae",
+    "genus": "Acanthurus",
+    "specie": "Acanthurus_lineatus",
+    "specie_en": "Lined surgeonfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "38",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6.4e5/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "guess based on Ri for Zebrasoma_scopas as fraction of Wwi"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Tuck1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.7 mm: 4/3*pi*0.035^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1943",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 2.219e-4 * (10*Li)^2.691, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "260",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on g = 2.219e-4 * (10*Lp)^2.691, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "45*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ChoaAxe1996",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "all temperatures are guessed"
+    }
+  ]
+}

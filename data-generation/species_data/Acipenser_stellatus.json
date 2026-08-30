@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Acipenser",
+    "specie": "Acipenser_stellatus",
+    "specie_en": "Starry Sturgeon",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.8",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "MikhElen2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "220",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "MousGhaf2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Birs1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "246.5",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'SiddCoss2014'}",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "temp is guessed"
+    },
+    {
+      "entity": "Wwh",
+      "entity.value": "0.011",
+      "units": "g",
+      "label": "wet weight at hatch",
+      "bibkey": "MikhElen2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "80000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Frim1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6+8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "GhasNoor2018",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "feeding starts 8 d post hatch"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "guess on the basis of Acipenser_sturio data with ah = 3 and ab = 16"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7665",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Coad2018",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "4380",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "KottFrey2007",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'for female: ap = 8-14 yr"
+    }
+  ]
+}

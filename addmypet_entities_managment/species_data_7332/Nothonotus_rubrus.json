@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Nothonotus",
+    "specie": "Nothonotus_rubrus",
+    "specie_en": "Bayou darter"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.15",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "KnigRoss1992",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.8",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on TL 5.5 cm, converted to SL using F2"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.56",
+    "units": "cm",
+    "label": "standard length at puberty for females",
+    "bibkey": "KnigRoss1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.3 mm: pi/6*0.13^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.1",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','IrwiFolt2012'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "relationship 0.00513*5.5^3.14 (see F1)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

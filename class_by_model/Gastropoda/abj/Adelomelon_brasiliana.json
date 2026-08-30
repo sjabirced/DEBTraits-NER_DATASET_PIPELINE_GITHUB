@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Neogastropoda",
+    "family": "Volutidae",
+    "genus": "Adelomelon",
+    "specie": "Adelomelon_brasiliana",
+    "specie_en": "Black snail"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.69",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "ArriPenc2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length compared to Adelomelon_beckii: 1.72*20/49.5"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Cled2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.5",
+    "units": "cm",
+    "label": "shell length at puberty for female",
+    "bibkey": "Cled2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "10.7",
+    "units": "cm",
+    "label": "shell length at puberty for male",
+    "bibkey": "Cled2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "246/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "Based on kap = 0.8"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Cled2004",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Cled2004",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "Temp varies between 6.5 and 21 C"
+  }
+]

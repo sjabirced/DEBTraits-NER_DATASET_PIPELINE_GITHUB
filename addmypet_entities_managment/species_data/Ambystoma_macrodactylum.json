@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Ambystomatidae",
+    "genus": "Ambystoma",
+    "specie": "Ambystoma_macrodactylum",
+    "specie_en": "Long-toed salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8.9",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "2.7",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "RussPowe1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "RussPowe1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "411/365",
+      "units": "#/d",
+      "label": "reprod rate at 25.3 g",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "90 to 411 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2 mm for Ambystoma_mexicanum: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "15.7",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

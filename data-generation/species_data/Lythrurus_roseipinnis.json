@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Lythrurus",
+    "specie": "Lythrurus_roseipinnis",
+    "specie_en": "Cherryfin shiner",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6.45",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 7.5 cm, see F1"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.9",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "HeinBres1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.68e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HeinBres1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00646*(Li/0.86)^3.11, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "1*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HeinBres1975",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

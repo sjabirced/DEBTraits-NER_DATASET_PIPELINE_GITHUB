@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Molossidae",
+    "genus": "Sauromys",
+    "specie": "Sauromys_petrophilus",
+    "specie_en": "Roberts"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "6.74",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "1 pup per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Eumops_perotis: 16*22/65 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "22",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "9-22 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Eumops_perotis"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "175",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "gbif",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Eumops_perotis"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": "based on Eumops_perotis"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

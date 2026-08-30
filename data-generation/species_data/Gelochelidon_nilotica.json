@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Gelochelidon",
+    "specie": "Gelochelidon_nilotica",
+    "specie_en": "Gull-billed tern",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "Wiki: 2 to 5 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "27.5",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "BouzBouc2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "21",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Ww0 and tW"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "240",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "150 to 292 g  g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "22.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Harr1975",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "'Temperature is guessed based on being the optimal temperature for artificial incubation for several species"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1825",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "84",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "28",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Harr1975",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

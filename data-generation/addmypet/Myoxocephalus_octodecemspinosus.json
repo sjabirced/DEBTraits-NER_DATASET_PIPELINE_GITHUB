@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Myoxocephalus",
+    "specie": "Myoxocephalus_octodecemspinosus",
+    "specie_en": "Longhorn sculpin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "46",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4e4/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(6.7)",
+      "units.temp": "K",
+      "comment": "based on Myoxocephalus_scorpius"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.4 mm of Myoxocephalus_scorpius: pi/6*0.24^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1108",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00692*Li^3.13, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "33",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00692*Lp^3.13, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(6.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

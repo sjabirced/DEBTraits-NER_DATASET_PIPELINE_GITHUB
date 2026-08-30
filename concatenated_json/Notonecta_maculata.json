@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hemiptera",
+    "family": "Notonectidae",
+    "genus": "Notonecta",
+    "specie": "Notonecta_maculata",
+    "specie_en": "Backswimmer"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.25",
+    "units": "cm",
+    "label": "length at birth",
+    "bibkey": "GergJage2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.6",
+    "units": "cm",
+    "label": "ultimate length",
+    "bibkey": "SavaMaca1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "60/14",
+    "units": "#/d",
+    "label": "ultimate reproductive rate",
+    "bibkey": "Gerg2010",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "'adults lay eggs in autumn and most die during winter"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": "0.00027",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "Gerg2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "0.03",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "Gerg2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17.58",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "GergJage2014",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5*30.5",
+    "units": "d",
+    "label": "life span as imago",
+    "bibkey": "Gerg2010",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "52.38+17.58",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "GergJage2014",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "puberty is assumed to coincide with moult into winged stage"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "OvalentariaIncSed",
+    "family": "Pomacentridae",
+    "genus": "Centropyge",
+    "specie": "Centropyge_loriculus",
+    "specie_en": "Flame angel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Sapo2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Sapo2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "444*7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(26.9)",
+    "units.temp": "K",
+    "comment": "guess based on fecundity of Chromis chromis: 444*7"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.9e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg length 2.5 mm and egg diameter (guessed) 1.5 mm: pi/6*0.25*0.15^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "77.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Wwi = 0.03090*Li^2.89, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Wwp = 0.03090*Lp^2.89, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(26.9)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Sapo2005",
+    "temp": "C2K(26.9)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

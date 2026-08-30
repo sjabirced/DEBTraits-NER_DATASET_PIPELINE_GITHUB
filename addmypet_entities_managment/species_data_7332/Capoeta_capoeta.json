@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Capoeta",
+    "specie": "Capoeta_capoeta",
+    "specie_en": "Caucasian scraper"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "46.7",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "TL 50 cm, corresponding with FL 46.7 cm, based on photo"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20.9",
+    "units": "cm",
+    "label": "fork length at puberty for females",
+    "bibkey": "TurkErdo2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16.9",
+    "units": "cm",
+    "label": "fork length at puberty for males",
+    "bibkey": "TurkErdo2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "35859/365",
+    "units": "#/d",
+    "label": "reprod rate for FL 40.2 cm",
+    "bibkey": "TurkErdo2002",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "TurkErdo2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 1.7 mm: pi/6*0.17^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TurkErdo2002",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "observed max age"
+  }
+]

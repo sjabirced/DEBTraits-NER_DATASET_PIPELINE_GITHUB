@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Benthesicymidae",
+    "genus": "Gennadas",
+    "specie": "Gennadas_elegans",
+    "specie_en": "Shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "4.68",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "GuerCaba2024",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.92",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Palaemon elegans: 3.65*4.68/5.84"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1704/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.5e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 0.65 mm and egg width 0.5 mm of palaemon elegans: pi/6*.05^2*.065"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.84",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "GuerCaba2024",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.147",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'GuerCaba2024','guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi*(Lp/Li)^3: 0.84*(2.62/4.68)^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "1050",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Mauc1988",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

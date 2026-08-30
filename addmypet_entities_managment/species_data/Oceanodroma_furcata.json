@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Procellariiformes",
+    "family": "Hydrobatidae",
+    "genus": "Oceanodroma",
+    "specie": "Oceanodroma_furcata",
+    "specie_en": "Fork-tailed storm petrel",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.0",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BoerWhee1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "95",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "BoerWhee1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'asymptotic weight for nestling"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "49.8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BoerWhee1980",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "37 to 68 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "195",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "61 to 66 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "65",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "BoerWhee1980",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "61 to 66 d"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Neobalaenidae",
+    "genus": "Caperea",
+    "specie": "Caperea_marginata",
+    "specie_en": "Pygmy right whale"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "180",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "1.6-2.2 m"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "625",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'6-6.5 m"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "550",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "5-6 m"
+  },
+  {
+    "entity": "Lx",
+    "entity.value": "325",
+    "units": "cm",
+    "label": "total length at weaning",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "3-3.5 m"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "based on Eschrichtius_robustus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "76.5e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lb/Li)^3*Wwi"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.2e6",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "3-3.5 ton"
+  },
+  {
+    "entity": "am",
+    "entity.value": "70*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "based on Eschrichtius_robustus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "320",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "based on v = 0.04 cm/d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "guess",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "based on v = 0.04 cm/d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

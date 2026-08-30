@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Scaridae",
+    "genus": "Calotomus",
+    "specie": "Calotomus_carolinus",
+    "specie_en": "Carolines parrotfish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "3*0.04",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(27.7)",
+    "units.temp": "K",
+    "comment": "based on Hipposcarus_longiceps, assumed: 3 spawnings per year"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "32",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.75 mm of Chaetodon: 4/3*pi*0.038^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01259*Li^3.11, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "347.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01259*Lp^3.11, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

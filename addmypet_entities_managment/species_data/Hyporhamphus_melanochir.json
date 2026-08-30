@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Beloniformes",
+    "family": "Hemiramphidae",
+    "genus": "Hyporhamphus",
+    "specie": "Hyporhamphus_melanochir",
+    "specie_en": "Southern garfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "52",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tL data at ap = 1 yr"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(17.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Lin1958",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.5 mm: pi/6*0.25^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "600",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00240*Li^3.10.00257*Li^3.090, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(17.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

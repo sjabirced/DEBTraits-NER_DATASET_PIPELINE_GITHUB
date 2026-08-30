@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Trichomycteridae",
+    "genus": "Trichomycterus",
+    "specie": "Trichomycterus_itacarambiensis",
+    "specie_en": "Cave catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8.3",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "10/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.98 as found for Eremophilus_mutisii"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0141",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Traj1997a",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3 mm : pi/6*0.3^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.66",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "base on 0.00851*Li^2.93, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00851*Lp^2.93, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6.7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

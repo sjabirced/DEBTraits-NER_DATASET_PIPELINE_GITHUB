@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Delphinidae",
+    "genus": "Cephalorhynchus",
+    "specie": "Cephalorhynchus_hectori",
+    "specie_en": "Hector",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "90",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Sloo1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "139",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Sloo1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "126",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Sloo1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "125",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "Sloo1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": "read from tL_f curve at tp"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "137",
+      "units": "cm",
+      "label": "total length at puberty for male",
+      "bibkey": "Sloo1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365/2.5",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(36.9)",
+      "units.temp": "K",
+      "comment": "1 calf each 2 till 3 yr"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Sloo1991",
+      "temp": "C2K(36.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "365",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(36.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "7.5 * 365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "Sloo1991",
+      "temp": "C2K(36.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "7.75 * 365",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "Sloo1991",
+      "temp": "C2K(36.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Wiki",
+      "temp": "C2K(36.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

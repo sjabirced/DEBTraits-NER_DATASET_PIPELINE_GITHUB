@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Rhinolophidae",
+    "genus": "Rhinolophus",
+    "specie": "Rhinolophus_mehelyi",
+    "specie_en": "Mehely"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "MacDBarr1993",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "'1 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.4",
+    "units": "g",
+    "label": "wet weight at birth for female",
+    "bibkey": "Shar2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12.6",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Shar2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "33*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "90",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "730",
+    "units": "d",
+    "label": "time since birth at first litter ",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "35",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Bosminidae",
+    "genus": "Bosminopsis",
+    "specie": "Bosminopsis_deitersi",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.0200",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "MelaRoch2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.0510",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "MelaRoch2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.0413",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "MelaRoch2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri_20",
+      "entity.value": "1.47/1.88",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "MelaRoch2006",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on clutch size 1.47, clutch interval 1.88 d"
+    },
+    {
+      "entity": "Ri_25",
+      "entity.value": "1.6/1.48",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "MelaRoch2006",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "based on clutch size 1.6, clutch interval 1.48 d"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "0.23e-6",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "MelaRoch2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.70e-6",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "MelaRoch2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab_20",
+      "entity.value": "1.62",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MelaRoch2006",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab_25",
+      "entity.value": "1.21",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MelaRoch2006",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am_20",
+      "entity.value": "19.55",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MelaRoch2006",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am_25",
+      "entity.value": "16.60",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MelaRoch2006",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp_20",
+      "entity.value": "4.56",
+      "units": "d",
+      "label": "time since birth at at puberty",
+      "bibkey": "MelaRoch2006",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp_25",
+      "entity.value": "2.74",
+      "units": "d",
+      "label": "time since birth at at puberty",
+      "bibkey": "MelaRoch2006",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

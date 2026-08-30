@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Ehiravidae",
+    "genus": "Clupeonella",
+    "specie": "Clupeonella_engrauliformis",
+    "specie_en": "Anchovy sprat"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.123",
+    "units": "g/g",
+    "label": "gonado somatic index for female",
+    "bibkey": "AliaPara2013",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "Spawns throught the year: GSI peaks at 0.042. Assumed 3 spawns per yr"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "20.7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00501*Li^2.97, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.2",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00501*Lp^2.97, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KariGabr2010",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

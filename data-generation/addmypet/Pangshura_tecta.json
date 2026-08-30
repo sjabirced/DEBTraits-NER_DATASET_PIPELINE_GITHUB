@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Geoemydidae",
+    "genus": "Pangshura",
+    "specie": "Pangshura_tecta",
+    "specie_en": "Indian roofed turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.52",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "Vyas1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "22.9",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on \"males are somewhat smaller than females\""
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7.44",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "Vyas1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "6.5",
+      "units": "cm",
+      "label": "carapace length at puberty for males",
+      "bibkey": "Vyas1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "3-14 eggs er clutch, 1 clutche per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.14",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Vyas1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1795",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "100",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "70-144 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "seems very short"
+    }
+  ]
+}

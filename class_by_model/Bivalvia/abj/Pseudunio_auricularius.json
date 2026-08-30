@@ -1,0 +1,90 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Margaritiferidae",
+    "species": "Pseudunio_auricularius",
+    "species_en": "Spengler''s freshwater mussel"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": ".02",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "unio",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": ".02",
+    "units": "cm",
+    "label": "shell length at settlement",
+    "bibkey": "NakaCuca2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "NakaCuca2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8e6/365",
+    "units": "#/d",
+    "label": "maximum reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on Margaritifera_margaritifera"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "210",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Unio_tumidus : 14*(18/7.3)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "unio",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "70*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "NakaCuca2018",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

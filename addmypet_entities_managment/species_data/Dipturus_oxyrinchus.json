@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Dipturus",
+    "specie": "Dipturus_oxyrinchus",
+    "specie_en": "Longnose skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "16",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "KadrMaro2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "LicaCern2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "82",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "KadrMaro2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "72",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "KadrMaro2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "30/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(10.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "15*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(10.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KadrMaro2015",
+      "temp": "C2K(10.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

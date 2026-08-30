@@ -1,0 +1,90 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "species": "Potomida_littoralis",
+    "species_en": "Black river mussel"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": ".02",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "unio",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "PouRCamp2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": ".03",
+    "units": "cm",
+    "label": "shell length at settlement",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.2",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "Nage2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 4-5 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e5/365",
+    "units": "#/d",
+    "label": "maximum reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "36",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Unio_tumidus : 14*(10/7.3)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "unio",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "80*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PouRCamp2015",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

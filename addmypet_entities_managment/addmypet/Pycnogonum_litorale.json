@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Pycnogonida",
+    "order": "Pantapoda",
+    "family": "Pycnogonidae",
+    "genus": "Pycnogonum",
+    "specie": "Pycnogonum_litorale",
+    "specie_en": "Sea spider",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.015",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "TomaWilh1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "1.01",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "TomaWilh1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "for females: 0.85-1.1 cm"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.071",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "TomaWilh1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "5th larval instar"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.82",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "TomaWilh1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "pre-adult at 8th juvenile instar"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5.5e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "['roughly estimated from photo: volume of eggs as carried by male about equal to own volume: 0.05 cm^3. '...\n      'Volume of 1 egg: pi 4/3 (L0/2)^3 = 9.05e-7 cm^3. So 0.05/9.05e-7 = 5.5e4 eggs per mass, one mass per yr']"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.077",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "very roughly estimated from stylised picture: disc of diam 0.7 cm and height 0.2 cm: pi * 0.35^2 * .2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "32",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "TomaWilh1997",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "32 - 81 d, max 111 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "TomaWilh1997",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "83",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "TomaWilh1997",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "66 - 113 d after birth"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "290",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "TomaWilh1997",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

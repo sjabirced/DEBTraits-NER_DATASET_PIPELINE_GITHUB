@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sillaginidae",
+    "genus": "Sillago",
+    "specie": "Sillago_sihama",
+    "specie_en": "Northern whiting"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "31",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16.7",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "166e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "Fecundity 166e3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.5e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.66 mm: pi/6*0.066^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "215.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00589*Li^3.06, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Arcida",
+    "family": "Glycymerididae",
+    "genus": "Glycymeris",
+    "specie": "Glycymeris_glycymeris",
+    "specie_en": "Dog cockle",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6.5",
+      "units": "cm",
+      "label": "ultimate shell height",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.1",
+      "units": "cm",
+      "label": "shell length at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on shell length 2 cm: 2/7*3.5"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5e5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(9)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.98"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.54",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Shell length Glycymeris_glycymeris: (4.2/6.5)^2*1.3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.8e-8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 55 mum: pi/9*0.0055^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "75*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BrocReyn2012",
+      "temp": "C2K(9)",
+      "units.temp": "K",
+      "comment": "mean temparature is guessed"
+    }
+  ]
+}

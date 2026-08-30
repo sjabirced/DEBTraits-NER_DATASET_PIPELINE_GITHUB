@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Hynobiidae",
+    "genus": "Salamandrella",
+    "specie": "Salamandrella_keyserlingii",
+    "specie_en": "Siberian salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "ultimate SVL  for females",
+      "bibkey": "Hasu2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: TL = 12.5 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.5",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "Hasu2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "SLV at metam",
+      "bibkey": "Hasu2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.12",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "Hasu2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.76",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "Hasu2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "200/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "200 eggs in 2 sacs, one clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0141",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3 mm: pi/6*0.3^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Onychodactylus japonicus: (12.5/17)^3*9.65"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Hasu2010",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

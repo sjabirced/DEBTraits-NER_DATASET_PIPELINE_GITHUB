@@ -1,0 +1,54 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Noturus",
+    "specie": "Noturus_miurus",
+    "specie_en": "Brindled madtom",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.7/0.86",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "BrooMayd1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on SL 3.7 cm, see F2"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.446e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BrooMayd1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.6 mm: pi/6*0.36^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

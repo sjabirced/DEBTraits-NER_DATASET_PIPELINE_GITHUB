@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Discoglossidae",
+    "genus": "Hoplobatrachus",
+    "specie": "Hoplobatrachus_tigerinus",
+    "specie_en": "Indus Valley bullfrog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "20.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "DashHota1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "4.3",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "tadpole, tail 23-26 mm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1800/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "DashHota1980",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "2.5-2.8 mm egg diameter, 1 brood/year"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.04",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "DashHota1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "875",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "DashHota1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.845",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "DashHota1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "DashHota1980",
+      "temp": "C2K(31.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(31.5)",
+      "units.temp": "K",
+      "comment": "based on Hoplobatrachus occipitalis"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "28",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "DashHota1980",
+      "temp": "C2K(31.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(31.5)",
+      "units.temp": "K",
+      "comment": "guess based on Pyxicephalus_adspersus"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Pholidae",
+    "genus": "Pholis",
+    "specie": "Pholis_fangi",
+    "specie_en": "Gunnel"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": 0.015,
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "VallMacL2007",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "Value for Pholis gunnellus"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 14.0,
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "HwanLee2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 8.8,
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "VallMacL2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length, compared to Pholis gunnellus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.0042,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Sawy1967",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2 mm of Pholis gunnellus: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 12.4,
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "{'fishbase','HwanLee2008'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00430*Li^3.018, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": 1800.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HwanLee2008",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

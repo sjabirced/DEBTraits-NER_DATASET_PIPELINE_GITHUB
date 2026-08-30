@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Lamniformes",
+    "family": "Alopiidae",
+    "genus": "Alopias",
+    "specie": "Alopias_vulpinus",
+    "specie_en": "Common thresher",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "81",
+      "units": "cm",
+      "label": "fork length at birth",
+      "bibkey": "GervNata2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'at TL 12-40 cm, the yolk sac is completely resorbed"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "274.5",
+      "units": "cm",
+      "label": "ultimate fork length for females",
+      "bibkey": "GervNata2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "228",
+      "units": "cm",
+      "label": "ultimate fork length for males",
+      "bibkey": "GervNata2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "216",
+      "units": "cm",
+      "label": "fork length at puberty for females",
+      "bibkey": "GervNata2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "PCL 145-150 cm, TL 282-292 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "188",
+      "units": "cm",
+      "label": "fork length at puberty for males",
+      "bibkey": "GervNata2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "PCL 140-145 cm, TL 267-276 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(23.2)",
+      "units.temp": "K",
+      "comment": "'2-4 pups per litter, 1 l"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "293.8e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "GervNata2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 4e?5*Li^2.8156, see F2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "174.2e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "GervNata2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 4e?5*Lpm^2.8156, see F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "149.6e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "GervNata2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 4e?5*Lp^2.8156, see F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "101.2e3",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "GervNata2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.7*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(23.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(23.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "12 * 365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "GervNata2013",
+      "temp": "C2K(23.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "8 * 365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "GervNata2013",
+      "temp": "C2K(23.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

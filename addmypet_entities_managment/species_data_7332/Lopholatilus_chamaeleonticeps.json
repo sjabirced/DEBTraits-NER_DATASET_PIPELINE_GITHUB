@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Latilidae",
+    "genus": "Lopholatilus",
+    "specie": "Lopholatilus_chamaeleonticeps",
+    "specie_en": "Great northern tilefish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "102",
+    "units": "cm",
+    "label": "ultimate fork length for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "112",
+    "units": "cm",
+    "label": "ultimate fork length for males",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "fork length at puberty for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "50-70 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(16.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based egg diameter of 0.85 mm of Lutjanus stellatus: pi/6*0.085^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(16.2)",
+    "units.temp": "K",
+    "comment": "25-35 yrs"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(16.2)",
+    "units.temp": "K",
+    "comment": "5-7 yrs"
+  }
+]

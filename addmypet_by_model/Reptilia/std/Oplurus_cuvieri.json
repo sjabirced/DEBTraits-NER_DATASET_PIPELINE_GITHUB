@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Opluridae",
+    "genus": "Oplurus",
+    "specie": "Oplurus_cuvieri",
+    "specie_en": "Collared iguanid lizard"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "{'EoL','Balc2006','RandMori2001'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on TL 35 cm, using F1"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Balc2006",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "4.2",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "RandMori2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "114.63",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "74",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Balc2006",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

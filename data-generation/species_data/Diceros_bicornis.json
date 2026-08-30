@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Perissodactyla",
+    "family": "Rhinocerotidae",
+    "genus": "Diceros",
+    "specie": "Diceros_bicornis",
+    "specie_en": "Black rhinoceros",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "0.4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "21.4e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "VahaVond1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.3e6",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 800 to 1400 kg"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2e6",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 2,199-2,896 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "49*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "474",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1826",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": "males 2254 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "634",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

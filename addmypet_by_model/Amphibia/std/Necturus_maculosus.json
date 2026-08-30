@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Proteidae",
+    "genus": "Necturus",
+    "specie": "Necturus_maculosus",
+    "specie_en": "Common mudpuppy"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki gives 33 cm, but 43.5 cm has been reported, EoL gives 48.6 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "68/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "Wiki 20-200 eggs per clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0871",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on freshly-laid egg diameter 5-6 mm : pi/6*0.55^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "453",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "landconservationfoundation",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "100",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed from Wwi*(Lp/Lm)^3: 453*(20/33)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "60",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "Wiki: 40 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "34*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "AnAge",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

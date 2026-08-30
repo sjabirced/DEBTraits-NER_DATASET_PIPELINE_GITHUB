@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Pristigasteridae",
+    "genus": "Opisthopterus",
+    "specie": "Opisthopterus_tardoore",
+    "specie_en": "Tardoore"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.07",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Desa1972",
+    "temp": "C2K(18.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "23.5",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.4e-4",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "Desa1972",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.87 mm: pi/6*0.087^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "106.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'max published weight: 87 g"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "10.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00724*Lp^3.04, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "6.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": "based on  Engraulis encrasicolus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": "based on  Engraulis encrasicolus"
+  }
+]

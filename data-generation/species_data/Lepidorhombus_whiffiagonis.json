@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Scophthalmidae",
+    "genus": "Lepidorhombus",
+    "specie": "Lepidorhombus_whiffiagonis",
+    "specie_en": "Megrim",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25.8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "640e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.236e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm of : pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1461",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00468*Li^3.09, see F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "108",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00468*Lp^3.09, see F2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7",
+      "units": "d",
+      "label": "time since hatch at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": "Actually fishbase specifies a temp of 0 C, but this is hard to belief"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

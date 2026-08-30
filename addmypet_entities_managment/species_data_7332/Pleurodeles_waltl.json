@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Pleurodeles",
+    "specie": "Pleurodeles_waltl",
+    "specie_en": "Iberian ribbed newt"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "200/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "huisdieren",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.1796",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "huisdieren",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 7 mm: pi/6*0.7^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "62",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "VladAlek2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "33",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "VladAlek2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "4.4",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "VladAlek2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "18",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "VladAlek2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "19.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "138",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "VladAlek2017",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "396",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "VladAlek2017",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

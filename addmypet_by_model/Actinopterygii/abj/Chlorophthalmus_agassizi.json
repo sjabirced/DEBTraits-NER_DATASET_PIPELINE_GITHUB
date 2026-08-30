@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Aulopiformes",
+    "family": "Chlorophthalmidae",
+    "genus": "Chlorophthalmus",
+    "specie": "Chlorophthalmus_agassizi",
+    "specie_en": "Shortnose greeneye"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.035",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "CabiFoll2010",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "CabiFoll2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.4e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "CabiFoll2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 356.6 mum: pi/6*0.0356^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "461",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','AnasPapa2006'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0000026*(10*Li)^3.17, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnasPapa2006",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

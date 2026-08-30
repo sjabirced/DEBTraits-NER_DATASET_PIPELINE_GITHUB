@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Sirenidae",
+    "genus": "Siren",
+    "specie": "Siren_intermedia",
+    "specie_en": "Lesser siren",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "L1_f",
+      "entity.value": "15.0",
+      "units": "cm",
+      "label": "SVL at 1 yr for females",
+      "bibkey": "DaviKnap1953",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "L1_m",
+      "entity.value": "18.5",
+      "units": "cm",
+      "label": "SVL at 1 yr for males",
+      "bibkey": "DaviKnap1953",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "25.5",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "DaviKnap1953",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lim*L1_f/L1_m: 31.5*15/18.5, which is close to L_im*Lp/Lpm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "31.5",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "DaviKnap1953",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15.0",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "DaviKnap1953",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19.0",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "DaviKnap1953",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "125/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "120-130 eggs per clutch 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.41e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on egg diameter of 3 mm"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "266",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "DaviKnap1953",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "35",
+      "units": "d",
+      "label": "time since birth at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25.7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

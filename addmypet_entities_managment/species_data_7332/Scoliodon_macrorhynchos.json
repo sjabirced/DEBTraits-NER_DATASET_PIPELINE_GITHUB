@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Scoliodon",
+    "specie": "Scoliodon_macrorhynchos",
+    "specie_en": "Pacific spadenose shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "20.4",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ZhaoJian2022",
+    "temp": null,
+    "units.temp": null,
+    "comment": "19.0–21.8 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "80",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "71.5",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "42.4",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "ZhaoJian2022",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "46.4",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "ZhaoJian2022",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "28.7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00309*Lb^3.03, see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.8e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'based on 0.00309*Li^3.03, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "263.6",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00309*Lp^3.03, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5.5*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ZhaoJian2022",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

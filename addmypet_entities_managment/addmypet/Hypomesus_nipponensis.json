@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Osmeriformes",
+    "family": "Osmeridae",
+    "genus": "Hypomesus",
+    "specie": "Hypomesus_nipponensis",
+    "specie_en": "Wakasagi",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "17",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "43779/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "temps are guessed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.6 to 0.9 mm for Osmerus mordax: pi/6*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "30",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Li^3.16, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.44",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Lp^3.16, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KudoMizu2000",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

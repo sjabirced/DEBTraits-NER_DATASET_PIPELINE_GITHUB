@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Aethomys",
+    "specie": "Aethomys_hindei",
+    "specie_en": "Hinde"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Okia1976",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "'2 or 3 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Okia1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on extrapolation of tW data"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "210",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Okia1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "210",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Okia1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "24.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Okia1976",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "189",
+    "units": "d",
+    "label": "time since birth at puberty female",
+    "bibkey": "Okia1976",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "206",
+    "units": "d",
+    "label": "time since birth at puberty male",
+    "bibkey": "Okia1976",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "21",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Okia1976",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

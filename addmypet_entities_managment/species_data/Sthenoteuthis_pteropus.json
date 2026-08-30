@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Ommastrephidae",
+    "genus": "Sthenoteuthis",
+    "specie": "Sthenoteuthis_pteropus",
+    "specie_en": "Orangeback flying squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 55.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "ArkhMikh1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 20.5,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "ArkhMikh1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 23.5,
+      "units": "cm",
+      "label": "mantle length at puberty for female",
+      "bibkey": "ArkhMikh1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": "195 to 330 mm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 11.5,
+      "units": "cm",
+      "label": "mantle length at puberty for male",
+      "bibkey": "ArkhMikh1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": "142 to 250 mm"
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 1000000.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "Wiki",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.00027,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": 365.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "ArkhMikh1992",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Bufotes",
+    "specie": "Bufotes_latastii",
+    "specie_en": "Ladakh toad"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.2",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.7",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.8",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": "TL 25-27 mm, tail 17-19 mm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "MatuKido2020",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "6804-10149 eggs per year"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0012",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MatuKido2020",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 0.8-1.9 mm: pi/6*0.13^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "MatuKido2020",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "17",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "MatuKido2020",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "2-5 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LyapKido2020",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "106",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "MatuKido2020",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "86 – 125 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since metam at puberty for female",
+    "bibkey": "LyapKido2020",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since metam at puberty for male",
+    "bibkey": "MatuKido2020",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

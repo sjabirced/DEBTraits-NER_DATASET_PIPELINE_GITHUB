@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Phalangeridae",
+    "genus": "Phalanger",
+    "specie": "Phalanger_carmelitae",
+    "specie_en": "Mountain cuscus"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "534.9",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "gbif",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "1 pup per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Spilocuscus_maculatus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2500",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "1.7-2.6 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "based on Spilocuscus_maculatus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "17",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "based on Trichosurus_vulpecula"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "222",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "based on Spilocuscus_maculatus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "204",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "based on Trichosurus_vulpecula"
+  }
+]

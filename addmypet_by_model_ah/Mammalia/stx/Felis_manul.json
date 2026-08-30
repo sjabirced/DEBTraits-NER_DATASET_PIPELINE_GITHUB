@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Felis",
+    "specie": "Felis_manul",
+    "specie_en": "Pallas cat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": "4.1 cups per litter, 1 litters per r"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "79",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Andr2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "AnAge gives 89 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3500",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW gives 2-5 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "72",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "90",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

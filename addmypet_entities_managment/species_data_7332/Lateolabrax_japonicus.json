@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Moroniformes",
+    "family": "Lateolabracidae",
+    "genus": "Lateolabrax",
+    "specie": "Lateolabrax_japonicus",
+    "specie_en": "Japanese seabass"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "102",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10e6/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(22.4)",
+    "units.temp": "K",
+    "comment": "fecundity 1,726,242-17,822,576"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.4 mm: pi/6*0.14^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(22.4)",
+    "units.temp": "K",
+    "comment": "specified temp is 13 C, but this seems at odds with other rates"
+  },
+  {
+    "entity": "am",
+    "entity.value": "40*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "OrloVedi2018",
+    "temp": "temperature",
+    "units.temp": "K",
+    "comment": "max age found was 38 yr, but this problably underestimates max life span"
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Scaridae",
+    "genus": "Calotomus",
+    "specie": "Calotomus_japonicus",
+    "specie_en": "Japanese parrotfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.04",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "KumeKubo2010",
+      "temp": "C2K(20.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "39",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.5e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.66 mm: pi/6*0.066^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.15e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02089*Li^2.98, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "157.4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02089*Lp^2.98, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KumeKubo2010",
+      "temp": "C2K(20.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

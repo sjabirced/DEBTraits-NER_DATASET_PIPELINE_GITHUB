@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acropomatiformes",
+    "family": "Polyprionidae",
+    "genus": "Polyprion",
+    "specie": "Polyprion_americanus",
+    "specie_en": "Atlantic wreckfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "210",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "55",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "PereHaim2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "11.9e6/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PaPaPele2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 1.25 mm : pi/6*0.125^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "100e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.8e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/Li)^3*Wwi"
+  },
+  {
+    "entity": "am",
+    "entity.value": "80*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PereHaim2004",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

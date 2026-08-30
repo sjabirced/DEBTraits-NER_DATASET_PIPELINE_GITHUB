@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Theropoda",
+    "family": "Tyrannosauridae",
+    "genus": "Tyrannosaurus",
+    "specie": "Tyrannosaurus_rex",
+    "specie_en": "Tyrannosaurus",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "160/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Learning",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "'Very speculative, see D1"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Learning",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Very speculative"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8e6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "65*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "Wiki suggest 28 yr, but im view of growth assumed to be somewhat larger"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "wR",
+      "entity.value": "10",
+      "units": "g/mol",
+      "label": "neonate mass per O2",
+      "bibkey": "Kooy2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    }
+  ]
+}

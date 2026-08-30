@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Triglidae",
+    "genus": "Prionotus",
+    "specie": "Prionotus_punctatus",
+    "specie_en": "Bluewing searobin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "45",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "26.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "180e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(26.1)",
+    "units.temp": "K",
+    "comment": "based on P. evolans"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.1e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.05 mm of Prionotus_carolinus: pi/6*0.105^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "850",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00933*Li^3.00, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "168",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00933*Lp^3.00, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7.7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(26.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "19*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Andr2004",
+    "temp": "C2K(26.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Urolophidae",
+    "genus": "Trygonoptera",
+    "specie": "Trygonoptera_personata",
+    "specie_en": "Masked stingaree",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "disc width at birth",
+      "bibkey": "WhitHall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "31.1",
+      "units": "cm",
+      "label": "ultimate disc width",
+      "bibkey": "WhitHall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "for females"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "26.9",
+      "units": "cm",
+      "label": "ultimate disc width for males",
+      "bibkey": "WhitHall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "for males"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "23",
+      "units": "cm",
+      "label": "disc width at puberty",
+      "bibkey": "WhitHall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "for females"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "22",
+      "units": "cm",
+      "label": "disc width at puberty",
+      "bibkey": "WhitHall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "for males"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "350000 * (31.1/200)^3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "350000 * (26.9/200)^3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Guess based on Trygonoptera testacea grows to 2 m disc width and a weight of 350 kg (Austr museum)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "11*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "WhitHall2002",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WhitHall2002",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "for females, 10 yr for males"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "1460",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "for females"
+    }
+  ]
+}

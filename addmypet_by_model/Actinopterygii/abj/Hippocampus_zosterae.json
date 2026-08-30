@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "genus": "Hippocampus",
+    "specie": "Hippocampus_zosterae",
+    "specie_en": "Pigmy seahorse"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Stra1958",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*69/30.5",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Stra1958",
+    "temp": "C2K(26.6)",
+    "units.temp": "K",
+    "comment": "69 eggs per brood, 2 broods per month"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.5e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'fishbase','Stra1958'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00447*Lb^3.00, see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.5587",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00447*Li^3.00, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.0414",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00444*Lp^3.00, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(26.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(26.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

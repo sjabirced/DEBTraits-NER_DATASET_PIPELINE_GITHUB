@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hymenoptera",
+    "family": "Ichneumonidae",
+    "genus": "Venturia",
+    "specie": "Venturia_canescens",
+    "specie_en": "Parasitic wasp"
+  },
+  {
+    "entity": "Wd0",
+    "entity.value": 1.87e-07,
+    "units": "g",
+    "label": "initial eggs dry weight",
+    "bibkey": "HarvHarv1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "calculated from the length (l= 0.027 cm) and width (w = 0.0047 cm radio=r2 0.0047/2= 0.0024) of a egg picture and by assuming that the egg is cylindrical and the density of the eggs is 0.4 g/cm^3, Mass = density*pi*l*r2^2 =0.4 *pi*0.027* 0.0024^2= 1.87e-007g * pi * 0.0047^2/4"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": 6.9e-05,
+    "units": "g",
+    "label": "dry weight at hatch",
+    "bibkey": "HarvHarv1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wde",
+    "entity.value": 0.00175,
+    "units": "g",
+    "label": "dry weight at emergence",
+    "bibkey": "HarvHarv1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdj",
+    "entity.value": 0.00477,
+    "units": "g",
+    "label": "dry weight at pupation",
+    "bibkey": "HarvHarv1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": 4.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "HarvHarv1994",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 36.5,
+    "units": "d",
+    "label": "life span as imago",
+    "bibkey": "HarvHarv1994",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "while fed with honey solution add libitum"
+  },
+  {
+    "entity": "te",
+    "entity.value": 10.0,
+    "units": "d",
+    "label": "time since pupation at emergence",
+    "bibkey": "HarvHarv1994",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": 5.0,
+    "units": "d",
+    "label": "time since birth at pupation",
+    "bibkey": "HarvHarv1994",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

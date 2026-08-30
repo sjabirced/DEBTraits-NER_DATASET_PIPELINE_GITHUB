@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Ctenomyidae",
+    "genus": "Ctenomys",
+    "specie": "Ctenomys_tuconax",
+    "specie_en": "Robust tuco-tuco",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "208.5",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4*1.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "gbif",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "'based on Ctenomys_talarum: 4 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "40",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Ctenomys_talarum: 8*600/121"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "600",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "gbif",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Ctenomys_talarum"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "102",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Ctenomys_talarum"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "243",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "36",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

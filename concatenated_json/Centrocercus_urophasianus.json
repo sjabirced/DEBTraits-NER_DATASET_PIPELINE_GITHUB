@@ -1,0 +1,100 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "species": "Centrocercus_urophasianus",
+    "species_en": "Sage grouse"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "2-10 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "30.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SchrYoun2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1400",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "SchrYoun2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "1-1.8 kg"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "2300",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "SchrYoun2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "1.7-2.9 kg"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "26",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "SchrYoun2020",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "25-29 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at first reproduction",
+    "bibkey": "AnAge",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "12*7",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "SchrYoun2020",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "based on broods break up 10-12 wk"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "30",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "based on Colinus_virginianus"
+  }
+]

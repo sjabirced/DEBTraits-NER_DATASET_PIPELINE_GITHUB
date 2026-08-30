@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Tragulidae",
+    "genus": "Moschiola",
+    "specie": "Moschiola_meminna",
+    "specie_en": "Sri Lankan spotted chevrotain",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "350",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MohaSahu2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW: 288-382"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3800",
+      "units": "g",
+      "label": "ultimate wet weight females",
+      "bibkey": "ultimateungulate",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3100",
+      "units": "g",
+      "label": "ultimate wet weight males",
+      "bibkey": "ultimateungulate",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "1680",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "MohaSahu2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "14.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "150",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": "ADW: 150-160 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "8*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "MohaSahu2019",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": "5-8 mnth"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "50",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "MohaSahu2019",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

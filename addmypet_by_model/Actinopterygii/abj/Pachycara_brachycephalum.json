@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Zoarcidae",
+    "genus": "Pachycara",
+    "specie": "Pachycara_brachycephalum",
+    "specie_en": "Shorthead eelpout"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "36",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "165/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "BrodKnus2006",
+    "temp": "C2K(-0.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.27",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BrodKnus2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 8 mm: pi/6*0.8^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "538",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "65.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Lp^3.04, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BrodKnus2006",
+    "temp": "C2K(-0.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

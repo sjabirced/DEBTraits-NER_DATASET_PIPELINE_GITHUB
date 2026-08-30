@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Dasyuromorphia",
+    "family": "Dasyuridae",
+    "genus": "Sminthopsis",
+    "specie": "Sminthopsis_virginiae",
+    "specie_en": "Red-cheeked dunnart"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "88.8",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(36.8)",
+    "units.temp": "K",
+    "comment": "'based on Sminthopsis murina 22.5*75/19"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "2.5 pups per litter, assumed 2 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.01",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "75",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "18-75 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "4.8",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "15",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "230",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "80",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "65-70 d"
+  }
+]

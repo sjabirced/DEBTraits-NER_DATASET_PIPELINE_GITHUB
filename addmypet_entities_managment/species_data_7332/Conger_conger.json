@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Anguilliformes",
+    "family": "Congridae",
+    "genus": "Conger",
+    "specie": "Conger_conger",
+    "specie_en": "European conger"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "300",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "200",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "120",
+    "units": "cm",
+    "label": "total length at puberty for male",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2e6/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Cunn1981",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 1.25 mm: pi/6*0.135^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "110e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "7e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lp/Li)^3*Wwi"
+  },
+  {
+    "entity": "am",
+    "entity.value": "55*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "based on Anguilla anguilla"
+  }
+]

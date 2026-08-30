@@ -1,0 +1,174 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Squalius",
+    "specie": "Squalius_cephalus",
+    "specie_en": "European Chub",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.785",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "KuprMamc2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "start of feeding at 19 C"
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.59",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "KuprMamc2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "70",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fischlexikon",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19.18",
+      "units": "cm",
+      "label": "forked length at puberty female",
+      "bibkey": "KiliBece2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "15.32",
+      "units": "cm",
+      "label": "forked length at puberty male",
+      "bibkey": "KiliBece2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "15e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fischlexikon",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "temperature assumed from KuprMamc2011 as optimal temperature"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "5.24e-4",
+      "units": "g",
+      "label": "initial wet weigh",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.151",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Calt2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "assumed based on KuprMamc2011 ratio of hatch and birth timepoint"
+    },
+    {
+      "entity": "Wwh",
+      "entity.value": "0.1238",
+      "units": "g",
+      "label": "wet weight at hatch",
+      "bibkey": "Calt2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fischlexikon",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab_19",
+      "entity.value": "10.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "KuprMamc2011",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "start of feeding"
+    },
+    {
+      "entity": "ab_27",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "KuprMamc2011",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": "start of feeding"
+    },
+    {
+      "entity": "ah_19",
+      "entity.value": "4.5",
+      "units": "d",
+      "label": "age at hatching",
+      "bibkey": "KuprMamc2011",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "0.5 of assessed individuals has hatched during that timepoint"
+    },
+    {
+      "entity": "ah_27",
+      "entity.value": "1.5",
+      "units": "d",
+      "label": "age at hatching at 27.5 degrees",
+      "bibkey": "KuprMamc2011",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": "0.5 of assessed individuals has hatched during that timepoint"
+    },
+    {
+      "entity": "am",
+      "entity.value": "17.7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fischlexikon",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "temperature assumed from KuprMamc2011 as optimal temperature"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Sasi2004",
+      "temp": "C2K((7.42+28.9)/2)",
+      "units.temp": "K",
+      "comment": "'maturity was reached between age class 2 and 3, in age class 4 all sampled fish were mature"
+    }
+  ]
+}

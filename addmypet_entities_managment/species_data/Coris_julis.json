@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Labridae",
+    "genus": "Coris",
+    "specie": "Coris_julis",
+    "specie_en": "Mediterranean rainbow wrasse",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9.8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AlonAlos2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.9e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.82 to 1.05 mm of Labrus merula: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "238",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'GordMoli2000','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.012*Li^2.910, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "9.2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'GordMoli2000','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.012*Lp^2.910, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

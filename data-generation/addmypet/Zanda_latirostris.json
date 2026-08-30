@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Psittaciformes",
+    "family": "Cacatuidae",
+    "genus": "Zanda",
+    "specie": "Zanda_latirostris",
+    "specie_en": "Carnaby",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": "'2 eggs/clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "27",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Saun1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "egg length 4.88 cm, width 3.47, weight: pi/6*4.88*3.47^2=30.7"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "780",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Saun1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'asymptotic weight of netling"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "29.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "28 to 31 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "41*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": "4 to 6 yr"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "234",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "78",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Saun1982",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

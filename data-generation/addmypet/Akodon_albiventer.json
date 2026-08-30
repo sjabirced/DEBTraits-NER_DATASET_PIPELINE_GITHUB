@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Akodon",
+    "specie": "Akodon_albiventer",
+    "specie_en": "white-bellied grass mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "46.5",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.5*3.6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "'3.6 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Akodon_azarae"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "36",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "gbif",
+      "temp": null,
+      "units.temp": null,
+      "comment": "21-36 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Akodon_molinae"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "22.7",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Akodon_azarae"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Akodon_azarae"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "14.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Akodon_azarae"
+    }
+  ]
+}

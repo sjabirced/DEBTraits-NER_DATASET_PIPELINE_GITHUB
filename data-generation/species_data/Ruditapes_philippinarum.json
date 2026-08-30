@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Veneroida",
+    "family": "Veneridae",
+    "genus": "Ruditapes",
+    "specie": "Ruditapes_philippinarum",
+    "specie_en": "Manila_clam",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.0095,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "{'HelmPeli1990', 'JoneSanf1993'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 5.212,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Mahe2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Berre Lagoon, France (2018)"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": 0.025,
+      "units": "cm",
+      "label": "total length at metamorphosis",
+      "bibkey": "LeTreut1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 1.5,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "HollandChew1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 7500.0,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Laru1999",
+      "temp": "C2K(14.6)",
+      "units.temp": "K",
+      "comment": "Data from Gulf of Morbihan, computed from Laru1999"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": 2.3e-09,
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "Flye2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess, taken from Mytilus edulis"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": 0.98,
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "Mahe2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "In Berre lagoon, personal observations 2018"
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": 1e-05,
+      "units": "g",
+      "label": "dry weight at metamorphosis",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": 0.043,
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 2.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'HelmPeli1990', 'JoneSanf1993'}",
+      "temp": "C2K(21.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "aj",
+      "entity.value": 11.0,
+      "units": "d",
+      "label": "age at metamorphosis",
+      "bibkey": "Calvez2002",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 6000.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Flye2008",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "guess"
+    },
+    {
+      "entity": "tp",
+      "entity.value": 363.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "HollandChew1974",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

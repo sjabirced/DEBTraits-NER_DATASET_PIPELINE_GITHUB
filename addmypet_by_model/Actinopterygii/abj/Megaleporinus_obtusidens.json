@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Characiformes",
+    "family": "Anostomidae",
+    "genus": "Megaleporinus",
+    "specie": "Megaleporinus_obtusidens",
+    "specie_en": "Piapara"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "76",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "21.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.7e6/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Leporinus_acutidens: 2e5*7.3e3/390"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.3e3",
+    "units": "g",
+    "label": "max wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01122*Li^3.09, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "149",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01122*Lp^3.09, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ArayAgos2005",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

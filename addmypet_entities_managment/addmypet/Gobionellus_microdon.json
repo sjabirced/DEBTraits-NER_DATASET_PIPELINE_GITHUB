@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Gobionellus",
+    "specie": "Gobionellus_microdon",
+    "specie_en": "Estuary goby",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "32",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Warb1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "73e3/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.92"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.6e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 1.5 mm and width of 0.45 mm of Gobius niger: pi/6*0.15*0.045^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "55.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00794*Li^3.04, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4.4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','GibsEzzi1978'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00794*Lp^3.04, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

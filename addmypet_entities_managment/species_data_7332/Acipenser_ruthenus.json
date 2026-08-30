@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Acipenser",
+    "specie": "Acipenser_ruthenus",
+    "specie_en": "Sterlet"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.65",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "RochWill1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "120",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "RochWill1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "42",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "RochWill1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "108000/365",
+    "units": "#/d",
+    "label": "reprod rate at TL = 77 cm",
+    "bibkey": "Rein2002",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "absolute fecundity 108000 for TL = 77 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0014",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "RochWill1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6400",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Rein2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "292",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "RochWill1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "{'RochWill1991'}",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9500",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PikiDoek2005",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": "temp is wild guess"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "2550",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "{'Rein2002', 'PeteVecs2006'}",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "'for female"
+  }
+]

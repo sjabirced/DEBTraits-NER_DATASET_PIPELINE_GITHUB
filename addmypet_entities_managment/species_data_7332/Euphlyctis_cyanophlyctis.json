@@ -1,0 +1,171 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Dicroglossidae",
+    "genus": "Euphlyctis",
+    "specie": "Euphlyctis_cyanophlyctis",
+    "specie_en": "Indian skipper frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "GramShan2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "GramShan2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.2",
+    "units": "cm",
+    "label": "SVL at puberty for female",
+    "bibkey": "GramShan2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tp = 2 yr and tL_f data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "SVL at puberty for male",
+    "bibkey": "GramShan2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tp = 2 yr and tL_m data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "Gram2009 gives 551 eggs per clutch for a SVL 5.7 cm female, but multiple clutches per yr exist."
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "31",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "GramShan2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12.5",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "GramShan2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "1.4",
+    "units": "g",
+    "label": "wet weight at metam for female",
+    "bibkey": "GramShan2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "1.2",
+    "units": "g",
+    "label": "wet weight at metam for male",
+    "bibkey": "GramShan2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "12.8",
+    "units": "g",
+    "label": "wet weight at puberty for female",
+    "bibkey": "GramShan2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "6.1",
+    "units": "g",
+    "label": "wet weight at puberty for male",
+    "bibkey": "GramShan2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "GramShan2005",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "242",
+    "units": "d",
+    "label": "time since metam at puberty for female at f_l",
+    "bibkey": "GramShan2005",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "91",
+    "units": "d",
+    "label": "time since metam at puberty  for male at f_l",
+    "bibkey": "GramShan2005",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

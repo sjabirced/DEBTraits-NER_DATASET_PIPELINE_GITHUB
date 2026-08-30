@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Nemipteridae",
+    "genus": "Pentaprion",
+    "specie": "Pentaprion_longimanus",
+    "specie_en": "Longfin mojarra"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Gerres_oyena"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "424",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(26.6)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Gerres_oyena: 1006*(15/20)^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.5e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.5 mm of Gerres_oyena: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "44.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01122*Li^3.06, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(26.6)",
+    "units.temp": "K",
+    "comment": "based on Nemipterus_japonicus"
+  }
+]

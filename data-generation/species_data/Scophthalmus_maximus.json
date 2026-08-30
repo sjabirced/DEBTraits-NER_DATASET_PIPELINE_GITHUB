@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Scophthalmidae",
+    "genus": "Scophthalmus",
+    "specie": "Scophthalmus_maximus",
+    "specie_en": "Turbot",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.37",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Jone1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": "3.6-3.7 mm"
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.28",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "Jone1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": " 2.7 - 3 mm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "84.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Hamm2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "maximum length of 100 has also been observed (fishbase) so field f = 0.84"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "2.3",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "Jone1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "46.01",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Jone1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8.3e6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Jone1974",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "max potential reprod only large eggs (Jone1974)"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.88e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Jone1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Jone1972 gives Wh + L-W-relationship"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "15500",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Hamm2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1200",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Jone1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "7",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "Jone1972",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "38 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1627.9",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Jone1974",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tb",
+      "entity.value": "6.6",
+      "units": "d",
+      "label": "time since hatch at birth",
+      "bibkey": "Jone1972",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "69",
+      "units": "d",
+      "label": "time since hatch at metam",
+      "bibkey": "Jone1973",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

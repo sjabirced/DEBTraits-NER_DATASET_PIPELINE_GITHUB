@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Scombridae",
+    "genus": "Scomberomorus",
+    "specie": "Scomberomorus_guttatus",
+    "specie_en": "Indo-Pacific king mackerel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "76",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "39.8",
+    "units": "cm",
+    "label": "fork length at puberty for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1100000 \t/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": "based on fecundity of 640800"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.5e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.5 mm of Scomberomorus_commerson: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.71e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00776*Li^3.02, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "526.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00776*Lp^3.02, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": "based on Scomberomorus_commerson"
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Cephalophus",
+    "specie": "Cephalophus_sylvicultor",
+    "specie_en": "Yellow-backed duiker"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": "1 or 2 calves per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3650",
+    "units": "g",
+    "label": "wet weight at birth for female",
+    "bibkey": "BarnGree2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": "AnAge: 2.4 kg"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3650",
+    "units": "g",
+    "label": "wet weight at birth for male",
+    "bibkey": "BarnGree2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "75e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "60 till 80 kg, females a bit heavier than males"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "65e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "22.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tg",
+    "entity.value": "165",
+    "units": "d",
+    "label": "gestation time for female calves",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "10.5*30.5",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Wiki",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": "9 till 12 mnth"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "15*30.5",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Wiki",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": "12 till 18 mnth"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "95",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "BarnGree2002",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

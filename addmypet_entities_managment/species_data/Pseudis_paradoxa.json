@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Hylidae",
+    "genus": "Pseudis",
+    "specie": "Pseudis_paradoxa",
+    "specie_en": "Paradoxical frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5.68",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "DownRamn2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.09",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "DownRamn2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "4.79",
+      "units": "cm",
+      "label": "SVL at metam for females",
+      "bibkey": "DownRamn2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "4.49",
+      "units": "cm",
+      "label": "SVL at metam for males",
+      "bibkey": "DownRamn2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.80",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.50",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e4/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "bas on egg diameter of 2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "29.9",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "DownRamn2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "21.2",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "DownRamn2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "27.2",
+      "units": "g",
+      "label": "wet weight at metam for females",
+      "bibkey": "DownRamn2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "17.8",
+      "units": "g",
+      "label": "wet weight at metam for males",
+      "bibkey": "DownRamn2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "27.5",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "18",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

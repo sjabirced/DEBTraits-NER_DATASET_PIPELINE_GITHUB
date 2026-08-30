@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Pitheciidae",
+    "genus": "Pithecia",
+    "specie": "Pithecia_pithecia",
+    "specie_en": "White-faced saki",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "41",
+      "units": "cm",
+      "label": "ultimate body length",
+      "bibkey": "Emmo1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "35.8-46.0 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/319",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(38)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "121",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Lind2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "P. monachus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1480",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "233",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Leontopithecus_rosalia:  Wb+tx*(165-55.3)/131"
+    },
+    {
+      "entity": "am",
+      "entity.value": "36*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "k_tar",
+      "entity.value": "0.3",
+      "units": "-",
+      "label": "target value for k",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "158",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(38)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "775",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(38)",
+      "units.temp": "K",
+      "comment": "for female, 1460 d for male"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "122",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(38)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

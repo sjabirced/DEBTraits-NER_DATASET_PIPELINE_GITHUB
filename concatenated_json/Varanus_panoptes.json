@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "genus": "Varanus",
+    "specie": "Varanus_panoptes",
+    "specie_en": "Yellow-spotted monitor"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "2.1",
+    "units": "ml O2/min",
+    "label": "max BMR",
+    "bibkey": "ChriConl1994",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "'3-13 eggs per clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "26",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: based on Varanus_niloticus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7000",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "18.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "263",
+    "units": "d",
+    "label": "time since metam at puberty for female",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Eurycea",
+    "specie": "Eurycea_bislineata",
+    "specie_en": "Northern two-lined salamander"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.3*0.406",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "Wild1924",
+    "temp": null,
+    "units.temp": null,
+    "comment": "ADW gives SVL 1.2-1.4 cm, but this should probably be TL in view of tL data and Wwb"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.94",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'TL = 9.7 cm, converted to SVL using F1"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.74",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "5.4*0.406",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "Wild1924",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "100/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "ADW",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "15 - >100 eggs per season"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.09e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 2.5-3 mm: pi/6*0.275^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.68",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Eurycea lucifuga: 2.6*(3.94/4.56)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "56",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "4-10 wk"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "based on Eurycea lucifuga"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "690",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Wild1924",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "1 yr after metam"
+  }
+]

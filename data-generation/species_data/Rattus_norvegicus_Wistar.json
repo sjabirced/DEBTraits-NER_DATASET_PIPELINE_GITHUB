@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Rattus",
+    "specie": "Rattus_norvegicus_Wistar",
+    "specie_en": "Laboratory rat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "4.26",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "Angu1932",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Albino rat"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "27.75",
+      "units": "cm",
+      "label": "ultimate body length",
+      "bibkey": "GhezCamb2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "naso-anal length of 12 month old wistar rats"
+    },
+    {
+      "entity": "Lx",
+      "entity.value": "11.321",
+      "units": "cm",
+      "label": "total length at weaning",
+      "bibkey": "NascMuni2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wistar"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12*7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Baye2004",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "'Wistar"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.82",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Baye2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wistar"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "330",
+      "units": "g",
+      "label": "ultimate wet weight - females",
+      "bibkey": "RoeLee1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Wistar"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "560",
+      "units": "g",
+      "label": "ultimate wet weight - males",
+      "bibkey": "Baye2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Wistar, male"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "123",
+      "units": "g",
+      "label": "wet weight at puberty female",
+      "bibkey": "GonzLope1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Table 1, experiment 1, Wistar, female, first vaginal opening"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "47.72",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "NascMuni2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wistar"
+    },
+    {
+      "entity": "am",
+      "entity.value": "1400",
+      "units": "d",
+      "label": "maximum life span females",
+      "bibkey": "Kool2010",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "Wistar, female"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "22",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Angu1932",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "Albino rat (Angu1932) + unknown strain, Lab data: gestation time 21-23 days, age at birth is 21-23 days, because the young born rats begin to suckle a few hours after birth (Kool2010, page 218, Chapter: The young)"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "37",
+      "units": "d",
+      "label": "time since birth at puberty females",
+      "bibkey": "GonzLope1984",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "Table 1, experiment 1, Wistar, female, first vaginal opening"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "43.5",
+      "units": "d",
+      "label": "time since birth at puberty males",
+      "bibkey": "Baye2005",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "Wistar, male, preputial separation"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "18",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Seng2013",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "Wistar, from data"
+    }
+  ]
+}

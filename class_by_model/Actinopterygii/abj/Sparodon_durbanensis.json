@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Sparodon",
+    "specie": "Sparodon_durbanensis",
+    "specie_en": "Musselcracker seabream"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.05",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(26.8)",
+    "units.temp": "K",
+    "comment": "based on Diplodus_puntazzo "
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "120",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.5e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.66 mm of Calotomus_japonicus: pi/6*0.066^3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "22.5e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "602",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01738*Lp^2.94, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "31*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LessSilv2015",
+    "temp": "C2K(26.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Sepioteuthis",
+    "specie": "Sepioteuthis_lessoniana",
+    "specie_en": "Bigfin reef squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Ni",
+      "entity.value": 300.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "Peel2000",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.22,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Peel2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 5-10 mm: pi/6*0.75^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 1000.0,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "Peel2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 100.0,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Peel2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 210.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "Peel2000",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

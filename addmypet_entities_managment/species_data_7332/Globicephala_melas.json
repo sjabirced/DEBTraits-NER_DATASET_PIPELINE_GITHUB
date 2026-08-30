@@ -1,0 +1,171 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Delphinidae",
+    "genus": "Globicephala",
+    "specie": "Globicephala_melas",
+    "specie_en": "Long-finned pilot whale"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "177",
+    "units": "cm",
+    "label": "length at birth",
+    "bibkey": "BlocLock1993",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "460",
+    "units": "cm",
+    "label": "ultimate length for females",
+    "bibkey": "BlocLock1993",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "600",
+    "units": "cm",
+    "label": "ultimate length for males",
+    "bibkey": "BlocLock1993",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "374.5",
+    "units": "cm",
+    "label": "length at puberty for females",
+    "bibkey": "BlocLock1993",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "470",
+    "units": "cm",
+    "label": "length at puberty for males",
+    "bibkey": "{'BlocLock1993','AnAge'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tpm and tL_m data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365/5",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "1 calf per litter, 1 litter per 5 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "75e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BlocLock1993",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1100e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "BlocLock1993",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2320e3",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "BlocLock1993",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "607.3e3",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "BlocLock1993",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1100e3",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "{'BlocLock1993','AnAge'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tpm and tW_m data"
+  },
+  {
+    "entity": "am",
+    "entity.value": "60*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tg",
+    "entity.value": "450",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "8.1*365",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "BlocLock1993",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4380",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "812",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

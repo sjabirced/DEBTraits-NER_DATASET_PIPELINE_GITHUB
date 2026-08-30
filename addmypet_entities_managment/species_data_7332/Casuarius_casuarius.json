@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Casuariiformes",
+    "family": "Casuariidae",
+    "genus": "Casuarius",
+    "specie": "Casuarius_casuarius",
+    "specie_en": "Southern cassowary"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "EoL",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": "4 till 8 eggs per season"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "413",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Reid1987",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Rome1997: 402 till 499 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "58.5e3",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": "max 85 kg"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "31e3",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": "29 till 34 kg"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "50",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "EoL",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": "embryo temp taken as an optimal temperature for many birds in the absence of more detailed knowledge. "
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "EoL",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "16*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": "guess based on 16 mo range time till independance"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "9*30.5",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "EoL",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Cyprinodontidae",
+    "genus": "Cyprinodon",
+    "specie": "Cyprinodon_macularius",
+    "specie_en": "Desert pupfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.08",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on TL 7.6 cm and F2"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "Scho1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "800/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Scho1988",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "800 eggs per season"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Scho1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length weight relationship, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ucdavis",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "maximum life span",
+    "bibkey": "bdo",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "dLb",
+    "entity.value": "6.4e-3",
+    "units": "cm/d",
+    "label": "change in length at birth",
+    "bibkey": "Scho1988",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "at TL = 4.5 mm (SL 3.6 mm) they can double their length in less than 8 wk: 3.6/54"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*30",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "bdo",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

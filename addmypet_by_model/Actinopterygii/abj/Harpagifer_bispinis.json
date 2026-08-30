@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Harpagiferidae",
+    "genus": "Harpagifer",
+    "specie": "Harpagifer_bispinis",
+    "specie_en": "Magellan plunderfish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.028",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Dani1978",
+    "temp": "C2K(8.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Dani1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 2.5 mm: pi/6*0.25^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "35",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Li and LW data"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "5",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Lp and LW data"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(7.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Dani1983",
+    "temp": "C2K(7.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

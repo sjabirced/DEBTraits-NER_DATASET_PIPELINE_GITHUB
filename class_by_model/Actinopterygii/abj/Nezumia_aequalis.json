@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Macrouridae",
+    "genus": "Nezumia",
+    "specie": "Nezumia_aequalis",
+    "specie_en": "Common Atlantic grenadier"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "36",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18.9",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase given 4.5 cm, but is probably PAL, not TL"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10630/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "FernRami2013",
+    "temp": "C2K(9.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "FernRami2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.3 mm: pi/6*0.13^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "130",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00182*Li^3.12, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "17.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00182*Lp^3.12, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(9.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

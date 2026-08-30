@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Emydidae",
+    "genus": "Deirochelys",
+    "specie": "Deirochelys_reticularia",
+    "specie_en": "Chicken turtle"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "3",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "BuhlCond2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "22.3-32.7 mm plastron length"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "25.4",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate carapace length for males",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on \"females are 1.5 larger than males\": 25.4/1.5"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "17.8",
+    "units": "cm",
+    "label": "carapace length at puberty",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "10.2",
+    "units": "cm",
+    "label": "carapace length at puberty fro males",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8*1.2/365",
+    "units": "#/d",
+    "label": "maximum reproduction rate",
+    "bibkey": "ADW",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "1-10 eggs per clutch, 1, sometimes 2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "11",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "8.7-13.3 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2763",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Graptemys_ouachitensis, size has similar size"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "159",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "78-89 d in Florida, 152 d in South Carolina at 29 C"
+  },
+  {
+    "entity": "am",
+    "entity.value": "24*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "13-18"
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "2.3*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "ADW",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

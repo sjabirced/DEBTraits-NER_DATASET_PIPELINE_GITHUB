@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Carcharhinus",
+    "specie": "Carcharhinus_plumbeus",
+    "specie_en": "Sandbar shark",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "64",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Wass1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "250",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "180",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "154.9",
+      "units": "cm",
+      "label": "fork length at puberty for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "151.6",
+      "units": "cm",
+      "label": "fork length at puberty for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wass1973",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "varies between 1 and 8 pups per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.179e5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.12*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wass1973",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "34*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "13 * 365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "fishbase",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

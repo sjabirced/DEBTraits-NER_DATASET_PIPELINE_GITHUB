@@ -1,0 +1,83 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Monacanthidae",
+    "species": "Meuschenia_scaber",
+    "species_en": "Velvet leatherjacket",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "31",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18.99",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ViscTrip2018a",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.6e5/365",
+      "units": "#/d",
+      "label": "max reprod rate at TL 16.3",
+      "bibkey": "RimMoha2011",
+      "temp": "C2K(15.1)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Stephanolepis_hispidus: 91323*740/263"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.5e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.5 mm of Stephanolepis_hispidus: pi/6*0.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "740",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02754*Li^2.97, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "173",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02754*Lp^2.97, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "17 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ViscTrip2018",
+      "temp": "C2K(15.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

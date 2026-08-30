@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Platyhelminthes",
+    "class": "Turbellaria",
+    "order": "Tricladida",
+    "family": "Dugesiidae",
+    "genus": "Schmidtea",
+    "specie": "Schmidtea_polychroa",
+    "specie_en": "Freshwater flatworm"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.14",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "CardHart2005",
+    "temp": null,
+    "units.temp": null,
+    "comment": "  % width : 0.07 mm, CardHart2005"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "2.2",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "BallReyn1981",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "BallReyn1981",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "BallReyn1981",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on volume 0.14 * 0.07 * 0.01 cm"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.38",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (2.2/ 0.14)^3 * Wwb"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.0475",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (1.1/ 0.14)^3 * Wwb"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "CardHart2005",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BallReyn1981",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "'2-3 yr"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "217",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "BallReyn1981",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "68",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "BallReyn1981",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

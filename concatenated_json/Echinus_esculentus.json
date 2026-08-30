@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Echinodermata",
+    "class": "Echinoidea",
+    "order": "Camarodonta",
+    "family": "Echinidae",
+    "genus": "Echinus",
+    "specie": "Echinus_esculentus",
+    "specie_en": "European edible sea urchin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "17.6",
+    "units": "cm",
+    "label": "ultimate test diameter",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.09",
+    "units": "cm",
+    "label": "length at metam",
+    "bibkey": "BIOTIC",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "between 0.68 and 0.95 mm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.1",
+    "units": "cm",
+    "label": "test diameter at puberty",
+    "bibkey": "ComeAnse1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "read from tL data for tp = 2 yr"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "20e6/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "temp guessed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.8e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "value taken from Echinocardium cordatum"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2312",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ComeAnse1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed as (Li/11.2)^3 * 595.7"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "96",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "ComeAnse1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed as (Lp/11.2)^3 * 595.7"
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BIOTIC",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "temp guessed"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Wiki",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "temp guessed"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "EoL",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "between 1 and 3 yr, temp guessed"
+  }
+]

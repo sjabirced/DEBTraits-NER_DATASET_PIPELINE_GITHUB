@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Emydidae",
+    "genus": "Pseudemys",
+    "specie": "Pseudemys_nelsoni",
+    "specie_en": "Florida red-bellied cooter",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.2",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "28-38 mm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "30.5",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "20*4.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "7-26 eggs per clutch, 3-6 clutches per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "12.3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "10.1-14.5 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1800",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "52.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(31)",
+      "units.temp": "K",
+      "comment": "45-60 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "26.1*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "6-8 yr"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "ADW",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "3-4 yr"
+    }
+  ]
+}

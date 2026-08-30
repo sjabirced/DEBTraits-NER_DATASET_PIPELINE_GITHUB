@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Variola",
+    "specie": "Variola_albimarginata",
+    "specie_en": "White-edged lyretail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "65",
+      "units": "cm",
+      "label": "ultimate std length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "fork length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Epinephelus aeneus: 55*65/120"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "7.8e5/365",
+      "units": "#/d",
+      "label": "max reoduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Epinephelus_aeneus: 3873271*4962/24600"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.95 mm: pi/6*0.095^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4962",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01349*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "462",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01349*Lp^3.07, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

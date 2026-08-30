@@ -1,0 +1,100 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Dorosomatidae",
+    "species": "Sardinella_aurita",
+    "species_en": "Round sardinella"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.3,
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Hour2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 28.42,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Hour2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 16.0,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "TsikAnto2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 200.0,
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "TsikAnto2006",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.0001984,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Hour2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Calculated as Wwi*(Lb/Li)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 166.0,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Hour2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": 4.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Hour2015",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 2190.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Hour2015",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": 450.0,
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "Hour2015",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

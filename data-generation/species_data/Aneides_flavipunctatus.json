@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Aneides",
+    "specie": "Aneides_flavipunctatus",
+    "specie_en": "Black salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.5",
+      "units": "cm",
+      "label": "SVL at birth ",
+      "bibkey": "Stau2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8.7",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Stau2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.4",
+      "units": "cm",
+      "label": "SVL at puberty ",
+      "bibkey": "Stau2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "28/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "28 eggs per clutch, 1 clutch each yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "13.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Desmognathus quadramaculatus: (8.7/9)^3*14.6"
+    },
+    {
+      "entity": "am",
+      "entity.value": "27*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Stau2016",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

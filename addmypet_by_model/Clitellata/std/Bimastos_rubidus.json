@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Annelida",
+    "class": "Clitellata",
+    "order": "Haplotaxida",
+    "family": "Lumbricidae",
+    "genus": "Bimastos",
+    "specie": "Bimastos_rubidus",
+    "specie_en": "Earthworm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Kred2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.67*1.45/7",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "ElviDomi1996",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": "1.45 cocoons per wk, 1.67 neonates per cocoon"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.025",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ElviDomi1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.400",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.270",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "ElviDomi1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "21.7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ElviDomi1996",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2601",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": "based on Lumbricus terrestris"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "54",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ElviDomi1996",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

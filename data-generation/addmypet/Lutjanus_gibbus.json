@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Lutjanus",
+    "specie": "Lutjanus_gibbus",
+    "specie_en": "Humpback red snapper",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.015",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "PrihKama2020",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "56.8",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "21.5",
+      "units": "cm",
+      "label": "fork length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "PrihKama2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.9 mm of L. stellatus: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2515",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01549*Li^2.97, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "140",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'HeupCurr2009','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01549*Lp^2.97, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "(27+45)/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "uwi",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "hatch after 27 h, yolksac absorption after 45 h"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "uwi",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "based on tL data"
+    }
+  ]
+}

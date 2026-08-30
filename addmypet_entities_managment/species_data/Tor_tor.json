@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Tor",
+    "specie": "Tor_tor",
+    "specie_en": "Tor barb",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase also gives TL 275 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "36",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "17200/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "JohaNeg2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 2-2.5 mm: pi/6*0.225^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "35.6e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00955*Li^3.02, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "479",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00955*Lp^3.02, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "11",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "JohaNeg2003",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

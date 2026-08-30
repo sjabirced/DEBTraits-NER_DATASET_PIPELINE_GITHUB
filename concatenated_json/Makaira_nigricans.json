@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Istiophoriformes",
+    "family": "Istiophoridae",
+    "genus": "Makaira",
+    "specie": "Makaira_nigricans",
+    "specie_en": "Atlantic blue marlin"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.3",
+    "units": "cm",
+    "label": "LJFL at birth",
+    "bibkey": "SponDeni2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "400",
+    "units": "cm",
+    "label": "ultimate LJFL",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki gives (probably) upper-jaw-to-fork length: 500 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "150",
+    "units": "cm",
+    "label": "LJFL at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase gives 50 cm, but this is inconsistent with ap = 2 yr"
+  },
+  {
+    "entity": "R277",
+    "entity.value": "3.6e6/365",
+    "units": "#/d",
+    "label": "reprod rate at 277 cm",
+    "bibkey": "MartPinh2007",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "R290",
+    "entity.value": "6.8e6/365",
+    "units": "#/d",
+    "label": "reprod rate at 290 cm",
+    "bibkey": "MartPinh2007",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "818000",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

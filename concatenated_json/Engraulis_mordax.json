@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Engraulidae",
+    "genus": "Engraulis",
+    "specie": "Engraulis_mordax",
+    "specie_en": "Californian anchovy "
+  },
+  {
+    "entity": "Li",
+    "entity.value": "24.8",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.6",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6e5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3e-4",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "Pike1951",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 1.2 mm and width 0.7 mm of Engraulis_anchoita: pi/6*0.12*0.07^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "108.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00550*Li^3.08, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": "based on  Engraulis encrasicolus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": "based on  Engraulis encrasicolus"
+  }
+]

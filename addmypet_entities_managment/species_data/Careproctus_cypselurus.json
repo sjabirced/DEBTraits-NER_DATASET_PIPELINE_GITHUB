@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Liparidae",
+    "genus": "Careproctus",
+    "specie": "Careproctus_cypselurus",
+    "specie_en": "Falcate snailfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "35",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "OrloTokr2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "16",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "367/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Glub2010",
+      "temp": "C2K(3.1)",
+      "units.temp": "K",
+      "comment": "based on Careproctus furcellus: 1129*650/2000"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0224",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Glub2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.5 mm of C. furcellus: pi/6*0.35^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "650",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "OrloTokr2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "62",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi*(Lp/Li)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "76",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(3.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "OrloTokr2011",
+      "temp": "C2K(3.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

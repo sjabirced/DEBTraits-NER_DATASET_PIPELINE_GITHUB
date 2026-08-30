@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ariidae",
+    "genus": "Osteogeneiosus",
+    "specie": "Osteogeneiosus_militaris",
+    "specie_en": "Soldier catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "48.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "43.0",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "23",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Pant1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Pant1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 10.45 mm: pi/6*1.045^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "825",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00575*Li^3.12, see F1, gives 1 kg"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "102",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','Pant1963'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00575*Lp^3.12, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "88",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

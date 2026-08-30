@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acropomatiformes",
+    "family": "Pentacerotidae",
+    "genus": "Pentaceros",
+    "specie": "Pentaceros_wheeleri",
+    "specie_en": "Slender armourhead",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.098",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(7.8)",
+      "units.temp": "K",
+      "comment": "based on Pentaceropsis_recurvirostris"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "44",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "28",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 1.1 mm and width of 0.6 mm: pi/6*0.11*0.06^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1765",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01995*Li^3.01, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "453",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01995*Lp^3.01, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(7.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(7.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

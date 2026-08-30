@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Isthmura",
+    "specie": "Isthmura_bellii",
+    "specie_en": "Bell",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "0.0033",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "NespSola2017",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*20/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "20 eggs per clutch, assumed: 3 clutches per season"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0141",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3 mm: pi/6*0.3^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "13.13",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "NespSola2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "50",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "3*30.5",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since metam at puberty for female",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

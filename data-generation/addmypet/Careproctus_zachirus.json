@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Liparidae",
+    "genus": "Careproctus",
+    "specie": "Careproctus_zachirus",
+    "specie_en": "Blacktip Snailﬁsh",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "32",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "203/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Glub2010",
+      "temp": "C2K(3.5)",
+      "units.temp": "K",
+      "comment": "based on Careproctus furcellus: 1129*360/2000"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0224",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Glub2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.5 mm of C. furcellus: pi/6*0.35^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "360",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00676*Li^3.14, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "16.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00676*Lp^3.14, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "63",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(3.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Vespertilionidae",
+    "genus": "Nyctophilus",
+    "specie": "Nyctophilus_corbeni",
+    "specie_en": "Southeastern long-eared bat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "20.40",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(34.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(34.8)",
+      "units.temp": "K",
+      "comment": "1 pups per litter, 1 litter per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.65",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "21",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "14-21 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "15",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "11-15 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(34.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "40",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(34.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "240",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(34.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "42",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(34.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Johnius",
+    "specie": "Johnius_belangerii",
+    "specie_en": "Belanger",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "17.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "DengLiao2024",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "121849/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(28.2)",
+      "units.temp": "K",
+      "comment": "based on Johnius_coitor"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm of Johnius_coitor: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "126",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "DengLiao2024",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

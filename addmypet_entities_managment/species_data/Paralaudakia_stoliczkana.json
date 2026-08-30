@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "genus": "Paralaudakia",
+    "specie": "Paralaudakia_stoliczkana",
+    "specie_en": "Mongolia rock agama",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.5",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Calotes versicolor"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "13.1",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Pete1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "14.3",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "Pete1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9.5",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "SmirAnan2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "15/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "for Agamidae: 6 till 10 eggs per clutch, assumed twice per year"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "69.3",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "Pete1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7.5*7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "for Agamidae: 7 till 8 weeks"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SmirAnan2007",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "SmirAnan2007",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

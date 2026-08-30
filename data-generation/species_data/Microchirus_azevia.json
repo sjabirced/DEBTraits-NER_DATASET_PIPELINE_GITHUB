@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Soleidae",
+    "genus": "Microchirus",
+    "specie": "Microchirus_azevia",
+    "specie_en": "Bastard sole",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.34,
+      "units": "cm",
+      "label": " total length at birth",
+      "bibkey": "Mari1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 39.27,
+      "units": "cm",
+      "label": "ultimate total lenght",
+      "bibkey": "BoufZero2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 17.51,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "BoufZero2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 422.79,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "BoufZero2018",
+      "temp": "C2K(13.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.000516,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BoufZero2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 572.7,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "BoufZero2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 53.68,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "BoufZero2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 2555.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "{'BoufZero2018',}",
+      "temp": "C2K(13.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 1438.54,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "{'BoufZero2018','fishbase'}",
+      "temp": "C2K(13.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

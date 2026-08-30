@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Liolaemidae",
+    "genus": "Phymaturus",
+    "specie": "Phymaturus_antofagastensis",
+    "specie_en": "Lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Phymaturus_patagonicus"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "9.5",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "BoreCabe2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tL data"
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "416.5*(9.5/22.8)^3",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'AnAge','BoreCabe2017'}",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "2 eggs per clutch, 1 clutch per 2 yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "30.1",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Basiliscus_basiliscus: 416.5*(9.5/22.8)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "90",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BoreCabe2017",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "BoreCabe2017",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "BoreCabe2017",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

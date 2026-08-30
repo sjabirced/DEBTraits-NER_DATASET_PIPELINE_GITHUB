@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Littorinimorpha",
+    "family": "Littorinidae",
+    "genus": "Laevilacunaria",
+    "specie": "Laevilacunaria_antarctica",
+    "specie_en": "Antarctic littorinid"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.094",
+    "units": "cm",
+    "label": "shell diameter at birth",
+    "bibkey": "Pick1979",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.71",
+    "units": "cm",
+    "label": "ultimate shell height",
+    "bibkey": "Pick1979",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.3",
+    "units": "cm",
+    "label": "shell height at puberty for female",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "47/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Pick1979",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": "based on 1 clutch of 47 young per season"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "1.67e-3",
+    "units": "g",
+    "label": "egg dry weight",
+    "bibkey": "Pick1979",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 10^(3.1050*log10(10*Li) - 4.4207), see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Pick1979",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Cephalaspidomorphi",
+    "order": "Petromyzontiformes",
+    "family": "Petromyzontidae",
+    "genus": "Lampetra",
+    "specie": "Lampetra_lanceolata",
+    "specie_en": "Turkish brook lamprey",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "17.3",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "GozlEngi2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "GozlEngi2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "NR",
+      "entity.value": "1898.5",
+      "units": "#",
+      "label": "eggs at the end of life",
+      "bibkey": "GozlEngi2011",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.9e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GozlEngi2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.821 mm: pi/6*0.0821^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "GozlEngi2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','GozlEngi2011'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00126*Lp^2.99, see F2)"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GozlEngi2011",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "GozlEngi2011: temp 5.4-22.4 C, mean 10 C"
+    }
+  ]
+}

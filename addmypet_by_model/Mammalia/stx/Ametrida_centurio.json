@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Phyllostomidae",
+    "genus": "Ametrida",
+    "specie": "Ametrida_centurio",
+    "specie_en": "Little white-shouldered bat"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "21.90",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "1 pup per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Anoura_caudifer"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "8",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Anoura_caudifer"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "122",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Anoura_caudifer"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": "based on Anoura_caudifer"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "30.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Anoura_caudifer"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Chydoridae",
+    "genus": "Chydorus",
+    "specie": "Chydorus_sphaericus",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.019,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 0.05,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.033,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 0.33,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Vijv1980",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Derived from Tab data"
+    },
+    {
+      "entity": "am",
+      "entity.value": 90.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 18.0,
+      "units": "d",
+      "label": "time since birth at at puberty",
+      "bibkey": "Vijv1980",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": "Read from tL-data for Lp"
+    }
+  ]
+}

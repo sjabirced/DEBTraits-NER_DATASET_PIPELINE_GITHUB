@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Geoemydidae",
+    "genus": "Batagur",
+    "specie": "Batagur_baska",
+    "specie_en": "Northern river terrapin"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*18/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "'10 till 34 eggs/clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "35",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "WeisPrei2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "18e3",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "65",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "WeisPrei2015",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "59 till 74 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "21.7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "6 till 8 yr, value for Callagur_borneoensis"
+  }
+]

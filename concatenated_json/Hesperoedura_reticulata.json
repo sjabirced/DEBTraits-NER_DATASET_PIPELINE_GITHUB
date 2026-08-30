@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Diplodactylidae",
+    "genus": "Hesperoedura",
+    "specie": "Hesperoedura_reticulata",
+    "specie_en": "Reticulated velvet gecko"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "3.18",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "KitcHow1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.8",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "KitcHow1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "6.0",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Li*(Lpm/Lp)"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.25",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "HowKitc1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "HowKitc1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "KitcHow1988",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "1 eggs per clutch, 2 clutches per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.17",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "31",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KitcHow1988",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "HowKitc1982",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "HowKitc1982",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Hippoglossoides",
+    "specie": "Hippoglossoides_dubius",
+    "specie_en": "Flathead flounder",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "26",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "ChoiYoon2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ChoiYoon2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.9-1.4 mm: pi/6*0.12^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "848.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00741*Li^3.06, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "158",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','ChoiYoon2013'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00741*Lp^3.06, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(3.4)",
+      "units.temp": "K",
+      "comment": "based on tL data"
+    }
+  ]
+}

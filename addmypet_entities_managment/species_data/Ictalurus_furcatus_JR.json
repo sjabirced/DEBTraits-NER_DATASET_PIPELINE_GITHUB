@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Ictalurus",
+    "specie": "Ictalurus_furcatus_JR",
+    "specie_en": "Blue catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.6 * 16.786 / 19",
+      "units": "cm",
+      "label": "fork length at birth",
+      "bibkey": "SimoWall2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'16-17.6 mm TL (p. 95-96)"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "105.5",
+      "units": "cm",
+      "label": "ultimate fork length for females",
+      "bibkey": "NepaFabr2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki accessed 2020 02 16 says 145 but dont know sex"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "110.2",
+      "units": "cm",
+      "label": "ultimate fork length for males",
+      "bibkey": "NepaFabr2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki accessed 2020 02 16 says 145 but dont know sex"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "31.5",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "NepaFabr2021a",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Smallest for James (Mean = 34.3 cm FL)"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "328",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "NepaFabr2021a",
+      "temp": "C2K(17.3)",
+      "units.temp": "K",
+      "comment": "Extrapolation for 25725 g fish based on Fec ~ SomaWt gam relationship"
+    },
+    {
+      "entity": "Wd0",
+      "entity.value": "7.093/ 1000",
+      "units": "g",
+      "label": "egg dry mass",
+      "bibkey": "NepaFabr2021a",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Mean egg dry weight for James"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "25725",
+      "units": "g",
+      "label": "ultimate somatic wet weight for females",
+      "bibkey": "NepaFabr2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Wiki on 2020 02 16 says 64864"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "29630",
+      "units": "g",
+      "label": "ultimate somatic wet weight for males",
+      "bibkey": "NepaFabr2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Wiki on 2020 02 16 says 64864"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "398",
+      "units": "g",
+      "label": "somatic wet weight at puberty",
+      "bibkey": "NepaFabr2021a",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Somatic Wet weight of the shortest mature fish in James"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6 + 3",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'BioKidsUmichWebsite'}",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "Egg to hatch + hatch to exogenous feeding"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span for females",
+      "bibkey": "NepaFabr2020",
+      "temp": "C2K(17.3)",
+      "units.temp": "K",
+      "comment": "max I have ever seen in literature regardless of sex is 34"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span for males",
+      "bibkey": "NepaFabr2020",
+      "temp": "C2K(17.3)",
+      "units.temp": "K",
+      "comment": "max I have ever seen in literature regardless of sex is 34"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "NepaFabr2021a",
+      "temp": "C2K(17.3)",
+      "units.temp": "K",
+      "comment": "'Youngest mature"
+    }
+  ]
+}

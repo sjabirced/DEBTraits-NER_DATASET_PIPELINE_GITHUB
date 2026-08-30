@@ -1,0 +1,90 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Margaritiferidae",
+    "species": "Margaritifera_laevis",
+    "species_en": "Freshwater pearl mussel"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": ".02",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "unio",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13.3",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "AkiyIwak2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": ".03",
+    "units": "cm",
+    "label": "shell length at settlement",
+    "bibkey": "AkiyIwak2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "AkiyIwak2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 13 yr"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8e6/365",
+    "units": "#/d",
+    "label": "maximum reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "based on Margaritifera margaritifera"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "84.7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Unio_tumidus : 14*(13.3/7.3)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "unio",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "67*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AkiyIwak2009",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "Baue1987 gives 93 yrs is typical in natural populations"
+  }
+]

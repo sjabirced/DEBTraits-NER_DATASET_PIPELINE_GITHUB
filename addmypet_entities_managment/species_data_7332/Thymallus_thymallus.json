@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Thymallus",
+    "specie": "Thymallus_thymallus",
+    "specie_en": "Grayling"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "1/6",
+    "units": "g/g",
+    "label": "Gonado som index",
+    "bibkey": "{'Laak2008'}",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "temperature, IngrIbbo20aa: 3-11 C"
+  },
+  {
+    "entity": "Lh",
+    "entity.value": "1.7",
+    "units": "cm",
+    "label": "total length at hatch",
+    "bibkey": "IngrIbbo20aa",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "{'fishbase'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "23",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Laak2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "R45",
+    "entity.value": "36240/365",
+    "units": "#/d",
+    "label": "reprod rate at 45 cm, 1160 g, 9 yr",
+    "bibkey": "{'Laak2008'}",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "temperature, IngrIbbo20aa: 3-11 C"
+  },
+  {
+    "entity": "ah",
+    "entity.value": "14.7",
+    "units": "d",
+    "label": "age at hath at 13C",
+    "bibkey": "IngrIbbo20aa",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ah",
+    "entity.value": "8",
+    "units": "d",
+    "label": "age at hath at 15C",
+    "bibkey": "IngrIbbo20aa",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ah",
+    "entity.value": "22",
+    "units": "d",
+    "label": "age at hath at 8C",
+    "bibkey": "IngrIbbo20aa",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "{'IngrIbbo20aa'}",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "temperature: 3-11 C"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "Laak2008",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  }
+]

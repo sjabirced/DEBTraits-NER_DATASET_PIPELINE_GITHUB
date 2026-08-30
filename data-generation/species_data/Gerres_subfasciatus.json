@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gerreiformes",
+    "family": "Gerreidae",
+    "genus": "Gerres",
+    "specie": "Gerres_subfasciatus",
+    "specie_en": "Common silver-biddy",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 13.9 cm and F2"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "367200/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": "based on Gerres_oyena"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.54e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.5 mm: pi/6*0.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "137.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01479*Li^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "12",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01479*Lp^3.05, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

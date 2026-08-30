@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Acanthuridae",
+    "genus": "Acanthurus",
+    "specie": "Acanthurus_leucosternon",
+    "specie_en": "Powderblue surgeonfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "54",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13.8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.1e6/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": "guess based on Ri for Zebrasoma_scopas"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Tuck1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.7 mm of Acanthurus_lineatus: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.5e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02089*Li^2.93, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "45.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02089*Lp^2.93, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "45*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": "all temperatures are guessed"
+    }
+  ]
+}

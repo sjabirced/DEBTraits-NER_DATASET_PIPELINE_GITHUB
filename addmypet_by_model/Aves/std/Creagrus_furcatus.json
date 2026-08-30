@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Creagrus",
+    "specie": "Creagrus_furcatus",
+    "specie_en": "Swallow-tailed gull"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": "1 egg per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "74.3",
+    "units": "g",
+    "label": "initital wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "70.75",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Harr1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "687",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "32.7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "avibase",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "'26 to 28 d. Temperature is guessed based on being the optimal temperature for artificial incubation for several species"
+  },
+  {
+    "entity": "am",
+    "entity.value": "32*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "5.5*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "180",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": "35-54 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "60",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "avibase",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": "35-54 d"
+  }
+]

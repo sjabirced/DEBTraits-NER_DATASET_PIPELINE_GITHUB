@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Atheriniformes",
+    "family": "Atherinopsidae",
+    "genus": "Menidia",
+    "specie": "Menidia_beryllina",
+    "specie_en": "Inland silverside",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "{'HubeBeng1999','ConoRoss1982'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on \"reserve accumulation in winter\", combined with tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "18e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(23.7)",
+      "units.temp": "K",
+      "comment": "iucn give max fecundity of 1699, fishbase 18e4"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "EPA2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based of egg diameter of 0.75 mm: pi/6*0.075^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "LetcBeng1993",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(23.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "68",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ConoRoss1982",
+      "temp": "C2K(23.7)",
+      "units.temp": "K",
+      "comment": "based on tL data at Lp"
+    }
+  ]
+}

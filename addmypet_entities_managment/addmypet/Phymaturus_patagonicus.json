@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Liolaemidae",
+    "genus": "Phymaturus",
+    "specie": "Phymaturus_patagonicus",
+    "specie_en": "Patagonia mountain lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "PianIbar2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "PianIbar2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.5",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "PianIbar2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "8.7",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "PianIbar2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "PianIbar2006",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "2 young per clutch, 1 clutch each 2 yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "46.8",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Basiliscus_basiliscus: 416.5*(11/22.8)^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "PianIbar2006",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "PianIbar2006",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "PianIbar2006",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

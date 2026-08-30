@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Alytidae",
+    "genus": "Alytes",
+    "specie": "Alytes_obstetricans",
+    "specie_en": "Common midwife toad",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.5",
+      "units": "cm",
+      "label": "total length at birth of tadpoles",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.0",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4.2",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "SVL at metam of toads",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "6.5",
+      "units": "cm",
+      "label": "total length at metam of tadpoles",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "5-8 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "45/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "45 eggs per clutch, 4 clutches per year"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0335",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 4 mm: pi/6*0.4^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.0",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "nlsoorten",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Alytes obstetricans of 5 cm, 9 g: (4.1/5)^3*9"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "nlsoorten",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Alytes obstetricans of 5 cm, 9 g: (3.9/5)^3*9"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.5*7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "3-6 weeks"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "365+8*7",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1.5*365",
+      "units": "d",
+      "label": "time since metam at puberty for female",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1.5*365",
+      "units": "d",
+      "label": "time since metam at puberty for male",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Nephropidae",
+    "genus": "Homarus",
+    "specie": "Homarus_gammarus",
+    "specie_en": "European lobster"
+  },
+  {
+    "entity": "E0",
+    "entity.value": "43.9",
+    "units": "J",
+    "label": "egg energy content",
+    "bibkey": "Pand1970",
+    "temp": null,
+    "units.temp": null,
+    "comment": "10.49 cal"
+  },
+  {
+    "entity": "L2",
+    "entity.value": "7.5",
+    "units": "cm",
+    "label": "carapace length at 2yr",
+    "bibkey": "ProdJors2010",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "21.4",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Converted from TL = 60 cm by 60 * 7.5/ 20, see ProdJors2010"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.6",
+    "units": "cm",
+    "label": "carapace length at settle",
+    "bibkey": "ProdJors2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8.27",
+    "units": "cm",
+    "label": "carapace length at puberty",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "30",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.90"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": "1.7e-3",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "Pand1970",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Based on 6172 cal/g and 10.49 cal per egg"
+  },
+  {
+    "entity": "Ww2",
+    "entity.value": "300",
+    "units": "g",
+    "label": "wet weight at 2yr",
+    "bibkey": "ProdJors2010",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "0.154",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "ProdJors2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Computed as (Lj/ L2)^3 * Ww2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "331",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "ProdJors2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Computed as (Lp/ L2)^3 * Ww2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ProdJors2010",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": "After extrusion, the eggs are held on the pleopods for approximately another year until hatching the following summer"
+  },
+  {
+    "entity": "am",
+    "entity.value": "60*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Hans2005",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": "at least 60 years, van der Meeren and Agnalt 2000 in Hans2005"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "35",
+    "units": "d",
+    "label": "time since birth at metam at 15 C",
+    "bibkey": "ProdJors2010",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "12",
+    "units": "d",
+    "label": "time since birth at metam at 20 C",
+    "bibkey": "ProdJors2010",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ProdJors2010",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": "5-8 yr"
+  }
+]

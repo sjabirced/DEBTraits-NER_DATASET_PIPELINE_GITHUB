@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Bucerotiformes",
+    "family": "Bucerotidae",
+    "genus": "Anthracoceros",
+    "specie": "Anthracoceros_malayanus",
+    "specie_en": "Black hornbill"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.4/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "2.4 eggs per clutch, 1 cutch each 2 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "65",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "WitmLaGr2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1050",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "30",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Kemp1995",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "50*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "150",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "50",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Kemp1995",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

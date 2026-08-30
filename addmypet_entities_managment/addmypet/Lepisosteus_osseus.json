@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lepisosteiformes",
+    "family": "Lepisosteidae",
+    "genus": "Lepisosteus",
+    "specie": "Lepisosteus_osseus",
+    "specie_en": "Longnose gar",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "68",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "WallYeag1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on R68, reported TL 83.8 and 50 cm"
+    },
+    {
+      "entity": "R114",
+      "entity.value": "36000/365",
+      "units": "#/d",
+      "label": "reprod rate at TL 114.2 cm",
+      "bibkey": "WallYeag1990",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "converted from SL 101.6 cm, see F1"
+    },
+    {
+      "entity": "R142",
+      "entity.value": "77156/365",
+      "units": "#/d",
+      "label": "reprod rate at TL 142.2 cm",
+      "bibkey": "WallYeag1990",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "R68",
+      "entity.value": "1110/365",
+      "units": "#/d",
+      "label": "reprod rate at TL 68.6 cm",
+      "bibkey": "WallYeag1990",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.7e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WallYeag1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.2 mm: pi/6*0.32^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "39*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "WallYeag1990",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "WallYeag1990",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

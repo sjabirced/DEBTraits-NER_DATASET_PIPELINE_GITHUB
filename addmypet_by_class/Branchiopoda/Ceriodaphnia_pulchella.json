@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Daphniidae",
+    "genus": "Ceriodaphnia",
+    "specie": "Ceriodaphnia_pulchella",
+    "specie_en": "Waterflea"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.004",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.09",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "nina",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.025",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Vijv1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "cst",
+    "temp": "C2K(17.5)",
+    "units.temp": "K",
+    "comment": "'4 eggs per first brood"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "4.67",
+    "units": "mug",
+    "label": "ultimate dry weight",
+    "bibkey": "Mich2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "cumputed from Li as exp(1.807+2.517 * ln(Li))"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "BoerVijv1995",
+    "temp": "C2K(17.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "140",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "BoerVijv1995",
+    "temp": "C2K(17.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

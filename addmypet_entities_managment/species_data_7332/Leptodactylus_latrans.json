@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Leptodactylidae",
+    "genus": "Leptodactylus",
+    "specie": "Leptodactylus_latrans",
+    "specie_en": "Lesser foam frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10.6",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "LopeAnto2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "LopeAnto2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.98",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.2",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "LopeAnto2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "25e2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "based on Leptodactylus_fallax"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.41e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 3 mm: pi/6*0.3^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "147.15",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "LopeAnto2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "202.55",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "LopeAnto2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "33",
+    "units": "g",
+    "label": "weight at puberty",
+    "bibkey": "LopeAnto2017",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "aj",
+    "entity.value": "45",
+    "units": "d",
+    "label": "age at metam",
+    "bibkey": "Wiki",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LopeAnto2017",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ap",
+    "entity.value": "365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "LopeAnto2017",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

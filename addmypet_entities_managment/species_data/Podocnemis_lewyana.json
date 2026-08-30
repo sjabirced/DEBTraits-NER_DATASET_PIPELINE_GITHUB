@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Podocnemididae",
+    "genus": "Podocnemis",
+    "specie": "Podocnemis_lewyana",
+    "specie_en": "Magdalena River turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "4.4",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "PaezCorr2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "45.4",
+      "units": "cm",
+      "label": "ultimate carapace length for females",
+      "bibkey": "PaezBock2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "34.8",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "PaezBock2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "carapace length at puberty for females",
+      "bibkey": "PaezBock2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "carapace length at puberty for males",
+      "bibkey": "PaezBock2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2*22/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "PaezBock2015",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "22 eggs per clutch, 1 to 4 clutches per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "30",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "PaezCorr2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10.2e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Li/Lim)^3*Wwim"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.6e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "edgeofexistence",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "value for Podocnemis expansa"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "PaezBock2015",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

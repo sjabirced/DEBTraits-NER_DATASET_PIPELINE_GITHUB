@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Kinosternidae",
+    "genus": "Kinosternon",
+    "specie": "Kinosternon_subrubrum",
+    "specie_en": "Eastern mud turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.84",
+      "units": "cm",
+      "label": "plastron length at birth",
+      "bibkey": "Iver1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10.2",
+      "units": "cm",
+      "label": "ultimate plastron length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "ultimate plastron length for males",
+      "bibkey": "{'Wiki','Iver1979'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tL_m(8yr)/tL_f(8yr)*Li: 10.2*7.28/8.22"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7.75",
+      "units": "cm",
+      "label": "plastron length fat puberty",
+      "bibkey": "Iver1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Iver1979",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "1-6 (mode 6) eggs per clutch, 3 clutch per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "209",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based in same length-weight compared to K.scorpiodes: 225* 10.2/11"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "106",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Iver1979",
+      "temp": "C2K(30.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "40*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6.3*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Iver1979",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

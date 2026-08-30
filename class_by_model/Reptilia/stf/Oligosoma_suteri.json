@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "genus": "Oligosoma",
+    "specie": "Oligosoma_suteri",
+    "specie_en": "Suter"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "3.4",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "HareLong2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12.6",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "reptNZ",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.4",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "HareLong2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "assumin that tp = 1 yr"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "reptNZ",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "3 to 6 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Ww1",
+    "entity.value": "2.35",
+    "units": "g",
+    "label": "wet weight at 1 yr",
+    "bibkey": "HareLong2004",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.75",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HareLong2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "32.52",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab22",
+    "entity.value": "77.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "75 to 80 d"
+  },
+  {
+    "entity": "ab26",
+    "entity.value": "55",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "44*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on Oligosoma otagense as given in AnAge"
+  }
+]

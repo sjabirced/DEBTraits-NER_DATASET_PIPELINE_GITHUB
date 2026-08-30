@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Lavinia",
+    "specie": "Lavinia_exilicauda",
+    "specie_en": "Hitch"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "36",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "GearMoyl1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "R21",
+    "entity.value": "9000/365",
+    "units": "#/d",
+    "label": "reprod rate at SL 21.2 cm",
+    "bibkey": "GearMoyl1980",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "R31",
+    "entity.value": "63000/365",
+    "units": "#/d",
+    "label": "reprod rate at SL 31.2 cm",
+    "bibkey": "GearMoyl1980",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.3 mm from G. bicolor, now called Siphateles bicolor : pi/6*0.13^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "292",
+    "units": "g",
+    "label": "ultimate wet weigh",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00393*Li^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "46.4",
+    "units": "g",
+    "label": "wet weight puberty",
+    "bibkey": "{'fishbase','GearMoyl1980'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00393*Lp^3.13, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "GearMoyl1980",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

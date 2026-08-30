@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Eulipotyphla",
+    "family": "Talpidae",
+    "genus": "Galemys",
+    "specie": "Galemys_pyrenaicus",
+    "specie_en": "Pyrenean desman"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.5*2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "3-4 pups per litter, 1-3 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.22",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "70",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "GonzVill2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "39.4",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "GonzVill2002",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "30",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "in the second year"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "31",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "based on Talpa europaea"
+  }
+]

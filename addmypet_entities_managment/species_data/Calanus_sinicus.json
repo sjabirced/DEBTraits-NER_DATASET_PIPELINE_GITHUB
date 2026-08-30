@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Hexanauplia",
+    "order": "Calanoida",
+    "family": "Calanidae",
+    "genus": "Calanus",
+    "specie": "Calanus_sinicus",
+    "specie_en": "Copepod",
+    "deb_model": "sbp"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": 42.0,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "JageSala2015",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "WC0",
+      "entity.value": 0.32,
+      "units": "mug",
+      "label": "initial carbon weight",
+      "bibkey": "JageSala2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 1.73,
+      "units": "mug",
+      "label": "wet weight at birth",
+      "bibkey": "JageSala2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 512.0,
+      "units": "mug",
+      "label": "ultimate wet weight",
+      "bibkey": "JageSala2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 512.0,
+      "units": "mug",
+      "label": "wet weight at puberty",
+      "bibkey": "JageSala2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 45.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Value inspired by Cyclops"
+    }
+  ]
+}

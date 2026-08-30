@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Bandicota",
+    "specie": "Bandicota_indica",
+    "specie_en": "Greater bandicoot rat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12*9/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "'8-14 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.43",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Stem1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwbm",
+    "entity.value": "10.54",
+    "units": "g",
+    "label": "wet weight at birth for male",
+    "bibkey": "Stem1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "365+160",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "adult lifespan 1 yr"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "21",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Stem1988",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "Based on Rattus rattus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "160",
+    "units": "d",
+    "label": "time since birth at puberty female",
+    "bibkey": "Stem1988",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "Wiki gives 60 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "25",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "HuanLiao1980",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Callitrichidae",
+    "genus": "Leontocebus",
+    "specie": "Leontocebus_nigricollis",
+    "specie_en": "Black-mantled tamarin",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "22.3",
+      "units": "cm",
+      "label": "ultimate body length",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "22 to 22.6 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.8*1.4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": "1.8 pups per litter, 1.4 litter per yr in the wild"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "43.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "480",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "470",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "140",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "850",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "82",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": "Wiki: 18 mnth"
+    }
+  ]
+}

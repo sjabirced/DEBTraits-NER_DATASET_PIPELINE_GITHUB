@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cichliformes",
+    "family": "Cichlidae",
+    "genus": "Gymnogeophagus",
+    "specie": "Gymnogeophagus_lacustris",
+    "specie_en": "Eartheater",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "14.6",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*253/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "HartPere1999",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "Spawning frequency is assumed three times per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "VerbLamp2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.7-2.6 mm : pi/6*0.25^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "78.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02512*Li^3.00, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "8.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02512*Lp^3.00, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

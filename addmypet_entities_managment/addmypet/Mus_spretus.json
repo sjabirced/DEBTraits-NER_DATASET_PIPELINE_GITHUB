@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Mus",
+    "specie": "Mus_spretus",
+    "specie_en": "Algerian mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "61.91",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4*4.5/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "gbif",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "'2-10 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.9",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Mus_musculus: 0.8*18/6"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "21.8",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "GenoIsle2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 15-19 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "442",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "PaloJust2009",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "14-15 mnth"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "19.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "gbif",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "19-20"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Mus_musculoides"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "21",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "gbif",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

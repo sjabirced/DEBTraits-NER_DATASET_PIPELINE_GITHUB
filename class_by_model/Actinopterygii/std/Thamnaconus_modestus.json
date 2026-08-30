@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Monacanthidae",
+    "species": "Thamnaconus_modestus",
+    "species_en": "Black scraper"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.15",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "KimBae2016",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "37.4",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25.9",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate, derived from other species"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.7e-5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.57 mm of Stephanolepis_hispidus: pi/6*0.057^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "610.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01349*Li^2.96, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "205.8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01349*Lp^2.96, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KimBae2016",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Vetigastropoda",
+    "family": "Trochidae",
+    "species": "Phorcus_lineatus",
+    "species_en": "Lined top shell",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "2.3",
+      "units": "cm",
+      "label": "ultimate shell height",
+      "bibkey": "Crot2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "shell height and width are about equal"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.1",
+      "units": "cm",
+      "label": "shell diam at puberty",
+      "bibkey": "Crot2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "250/365",
+      "units": "#/d",
+      "label": "reproduction rate at 2 cm",
+      "bibkey": "Unde1972",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "'Counts based on mature + immature oocytes"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Crot2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 165-195 mum:  4/3*pi*0.009^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.8",
+      "units": "g",
+      "label": "wet tissue weight at 2 cm shell height",
+      "bibkey": "GestFili2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Shell height was assumed, not given"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30/24",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Crot2001",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "marlin",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "3",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Crot2001",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "marlin",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

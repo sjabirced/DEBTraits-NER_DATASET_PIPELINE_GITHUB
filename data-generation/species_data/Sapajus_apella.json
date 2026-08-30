@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Cebidae",
+    "genus": "Sapajus",
+    "specie": "Sapajus_apella",
+    "specie_en": "Tufted capuchin",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate body length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "32 to 57 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.5*0.6/803",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": "1.5 pups per litter, 0.6 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "239.7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "1.9 to 4.8 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "46*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "158",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1703",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": "female, 2921 d for male"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "307",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": "for C. apella"
+    }
+  ]
+}

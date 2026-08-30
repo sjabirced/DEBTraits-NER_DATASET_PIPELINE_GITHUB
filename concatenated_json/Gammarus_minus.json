@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Amphipoda",
+    "family": "Gammaridae",
+    "genus": "Gammarus",
+    "specie": "Gammarus_minus",
+    "specie_en": "Freshwater shrimp"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "90/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(10.5)",
+    "units.temp": "K",
+    "comment": "based on Gammarus roeselii"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.123e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Gammarus roeselii"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.0109",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'GlazButl2011','Fong2019'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in Wwi and Li=0.67*Lim: 0.67^3*Wwim"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "0.0362",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "GlazButl2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in WW data, assuming that they are males"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.0109/6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwp/Wwi ratio of Gammarus roeselii: 0.0109/6"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "20",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(10.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Fong2019",
+    "temp": "C2K(10.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Apodiformes",
+    "family": "Apodidae",
+    "genus": "Streptoprocne",
+    "specie": "Streptoprocne_zonaris",
+    "specie_en": "White-collared swift"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "2 egg per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "10.6",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "MariStil1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.0",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MariStil1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tW data"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "35",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "24",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "based on Apus apus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "159",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "28-39 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "53",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "MariStil1993",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "28-39 d"
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acropomatiformes",
+    "family": "Polyprionidae",
+    "genus": "Stereolepis",
+    "specie": "Stereolepis_gigas",
+    "specie_en": "Giant sea bass",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "250",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.06",
+      "units": "cm",
+      "label": "standard length at metam",
+      "bibkey": "BensAlle2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "65",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "HawkAlle2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "read from tL data for tp = 11 yr, but this value is uncertain"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e6/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 1.25 mm of  \tPolyprion americanus: pi/6*0.125^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "255.6e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "76*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HawkAlle2014",
+      "temp": "C2K(20.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "26.8",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "BensAlle2018",
+      "temp": "C2K(20.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

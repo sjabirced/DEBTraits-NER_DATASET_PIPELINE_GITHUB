@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Cephalopholis",
+    "specie": "Cephalopholis_sexmaculata",
+    "specie_en": "Sixblotch hind"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "ultimate fork length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16.7",
+    "units": "cm",
+    "label": "fork length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Cephalopholis_fulva: 14.7*50/44"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.3e5/365",
+    "units": "#/d",
+    "label": "max reoduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Cephalopholis_fulva: 28e4*1840/1200"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.95 mm: pi/6*0.095^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1840",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01259*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "65.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01259*Lp^3.04, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

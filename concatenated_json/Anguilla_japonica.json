@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Anguilliformes",
+    "family": "Anguillidae",
+    "genus": "Anguilla",
+    "specie": "Anguilla_japonica",
+    "specie_en": "Japanese eel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "150",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "value for Anguila anguilla"
+  },
+  {
+    "entity": "Ls",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "total length at end leptocephalus stage",
+    "bibkey": "TanaKaga2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.4e6/(6*365)",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "based on Anguila anguilla"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.3e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "CastEdwa2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm for Anguila anguilla: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.9e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TanaKaga2001",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ts",
+    "entity.value": "120",
+    "units": "d",
+    "label": "time since birth at end leptocephalus stage",
+    "bibkey": "TanaKaga2001",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

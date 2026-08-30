@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Osteoglossiformes",
+    "family": "Arapaimidae",
+    "genus": "Arapaima",
+    "specie": "Arapaima_gigas",
+    "specie_en": "Pirarucu",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.4",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "FAO",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "240",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Quei2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "160",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AranCast2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FAO",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1e5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Quei2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "9",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "WWF",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Nat_Geogr",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "AranCast2010",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "for males: 6 yr"
+    }
+  ]
+}

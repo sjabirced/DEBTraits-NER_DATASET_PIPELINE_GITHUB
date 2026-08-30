@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Engraulidae",
+    "genus": "Engraulis",
+    "specie": "Engraulis_japonicus",
+    "specie_en": "Japanese anchovy",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10.5",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "600",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(18.4)",
+      "units.temp": "K",
+      "comment": "based on Engraulis encrasicolus"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.5e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "FukuTaka1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 1.21 mm, width 0.63 mm: pi/6*0.121*0.063^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "620",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on Li and LW data: 63*(18/8.4)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "31/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Fuku1983",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "20.5/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Fuku1983",
+      "temp": "C2K(29.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(18.4)",
+      "units.temp": "K",
+      "comment": "based on Engraulis encrasicolus"
+    }
+  ]
+}

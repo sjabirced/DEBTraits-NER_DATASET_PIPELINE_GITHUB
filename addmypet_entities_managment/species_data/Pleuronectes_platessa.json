@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Pleuronectes",
+    "specie": "Pleuronectes_platessa",
+    "specie_en": "Plaice",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.765",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "SkjaFinn2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Size of a larvae after complete yolk resorption"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "78",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "RijnIbel1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "34",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "RijnIbel1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "size at 50% maturity (24-37 cm)"
+    },
+    {
+      "entity": "R68",
+      "entity.value": "2098",
+      "units": "#/d",
+      "label": "reprod rate at 68 cm",
+      "bibkey": "KennGeff2007",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.6e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SkjaFinn2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "RijnIbel1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "450",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "RijnIbel1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "28",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "SkjaFinn2003",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": "counted as complete yolk resorption"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Whee1978",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "1735",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "RijnIbel1989",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "age at 50% maturity of 4.5 yr for North Sea"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Myliobatidae",
+    "genus": "Mobula",
+    "specie": "Mobula_birostris",
+    "specie_en": "Giant manta"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "192",
+    "units": "cm",
+    "label": "disc width at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: width 1.4 m"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "700",
+    "units": "cm",
+    "label": "ultimate disc width",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: for females, width: 9 m"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "448",
+    "units": "cm",
+    "label": "disc width at puberty",
+    "bibkey": "RambLamo2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "for females"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "RambLamo2018",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "gestation 1 yr, pregnacy interval 2 - 5 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9000",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3e6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "for females"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "372",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "temp is guess for all data"
+  },
+  {
+    "entity": "am",
+    "entity.value": "50*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "AnAge: 20 yr"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "AnAge: 2190 d"
+  }
+]

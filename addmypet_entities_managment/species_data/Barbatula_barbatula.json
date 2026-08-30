@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Nemacheilidae",
+    "genus": "Barbatula",
+    "specie": "Barbatula_barbatula",
+    "specie_en": "Stone loach",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.8",
+      "units": "cm",
+      "label": " total length at puberty",
+      "bibkey": "VinySost2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on minimum length in LN data"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.1e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "VinySost2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.6 mm: pi/6*0.06^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "108",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Based on 0.01*Li^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.13",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "{'VinySost2010','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 0.01*Lp^3.05, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "VinySost2010: till 8 yrs in Siberia"
+    }
+  ]
+}

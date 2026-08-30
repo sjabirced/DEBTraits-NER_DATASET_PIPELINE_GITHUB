@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "genus": "Pogona",
+    "specie": "Pogona_barbata",
+    "specie_en": "Bearded Dragon"
+  },
+  {
+    "entity": "E0",
+    "entity.value": 23193.5,
+    "units": "J",
+    "label": "initial energy content",
+    "bibkey": "{'Vitt1978'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Calculated using energy content equation in Vitt1978, based on 3g egg from museum data in Gatt2013"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 3.9,
+    "units": "cm",
+    "label": "length at birth",
+    "bibkey": "{'WalkRept'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 25.0,
+    "units": "cm",
+    "label": "ultimate length",
+    "bibkey": "{'StauBoot2003'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 12.0,
+    "units": "cm",
+    "label": "length at puberty",
+    "bibkey": "{'StauBoot2003'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 0.247,
+    "units": "#/d",
+    "label": "ultimate reproduction rate",
+    "bibkey": "{'AmeyWhit2000'}",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "Calculated by multiplying 30 eggs/clutch by 3 clutches per year"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 2.81,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'WhitHoll2017'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 718.0,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'Gatt2013'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Calculated from museum specimens"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 56.7,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'StauBoot2003'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Calculated using lengths from StauBoot2003 and relationship between mass and SVL in Gatt2013"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 77.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "{'Done2006'}",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 3650.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "{'DeVo2011'}",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "Based on captive animals"
+  },
+  {
+    "entity": "tR",
+    "entity.value": 730.0,
+    "units": "d",
+    "label": "time since birth at first egg production",
+    "bibkey": "{'BDTank'}",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": 390.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "{'BDTank'}",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "between 8 and 18 months"
+  }
+]

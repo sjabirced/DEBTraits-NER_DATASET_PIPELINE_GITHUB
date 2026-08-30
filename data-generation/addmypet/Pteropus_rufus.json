@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Pteropodidae",
+    "genus": "Pteropus",
+    "specie": "Pteropus_rufus",
+    "specie_en": "Madagascan flying fox",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "forewarm length at birth",
+      "bibkey": "AndrAndr2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate forewarm length",
+      "bibkey": "AndrAndr2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(34.8)",
+      "units.temp": "K",
+      "comment": "'1 pup per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "82.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "13-17 percent of adult: 0.15*550"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "650",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "500 to 645 g for females, 526 to 750 g for males"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(34.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "125",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "ADW",
+      "temp": "C2K(34.8)",
+      "units.temp": "K",
+      "comment": "100-150 g"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(34.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "4.5*31",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ADW",
+      "temp": "C2K(34.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

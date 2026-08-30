@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "OvalentariaIncSed",
+    "family": "Pseudochromidae",
+    "genus": "Pseudochromis",
+    "specie": "Pseudochromis_flavivertex",
+    "specie_en": "Sunrise dottyback",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.356",
+      "units": "cm",
+      "label": "standard length at birth",
+      "bibkey": "OlivRoll2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.5",
+      "units": "cm",
+      "label": "ultimate standard length for females",
+      "bibkey": "wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "7.35",
+      "units": "cm",
+      "label": "ultimate standard length for males",
+      "bibkey": "wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "OlivRoll2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "5 cm individuals are mature, but puberty is problably earlier"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1200/56",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "MiesGuth2004",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "1200 eggs per ball, 1 ball per 8 weeks"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.3e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "OlivRoll2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 1.35 mm: 4/3*pi*0.067^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01175 * Li^3.01, see F1"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "4.8",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01175 * Li^3.01, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.1",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "OlivRoll2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01175 * Lp^3.01, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "OlivRoll2006",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

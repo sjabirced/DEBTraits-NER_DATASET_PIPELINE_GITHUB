@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Pholidota",
+    "family": "Manidae",
+    "genus": "Smutsia",
+    "specie": "Smutsia_gigantea",
+    "specie_en": "Giant pangolin"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "45",
+    "units": "cm",
+    "label": "length at birth",
+    "bibkey": "HoffNix2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "178.9",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "HoffNix2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": "guess based on S. temminckii"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "500",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HoffNix2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "authors say just over"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "32.1e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "HoffNix2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "possibly up to 40 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "8e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on S. temminkii, besed on the smallest adult S. temminckii"
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "based on the 20-25 years thought to apply to S. temminckii"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "139",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "one individual in the Bloemfontein zoon"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2 * 365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "when it is not exactly knowne experts guess 1-2 years till puberty."
+  },
+  {
+    "entity": "tx",
+    "entity.value": "3*30.5",
+    "units": "d",
+    "label": "age at weaning",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "from Smutia temminckii and other pangolines"
+  }
+]

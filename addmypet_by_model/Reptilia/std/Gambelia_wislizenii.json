@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Crotaphytidae",
+    "genus": "Gambelia",
+    "specie": "Gambelia_wislizenii",
+    "specie_en": "Long-nosed leopard lizard"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "4.5",
+    "units": "cm",
+    "label": "SVL at hatching",
+    "bibkey": "Toll1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11.15",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Toll1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "10.45",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Toll1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.1",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "Toll1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "9.0",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "Toll1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.2*5.6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Toll1982",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "5.6 eggs per clutch, assumed: 1.2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Toll1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 2.3 cm and diameter 1.56 cm: pi/6*2.3*1.56^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "18.2",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Larcerta agilis: 12*1.15^3 g"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "13.7",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "gues",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Larcerta agilis: 12*1.045^3 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "20.5*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Toll1982",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "20.5*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Toll1982",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

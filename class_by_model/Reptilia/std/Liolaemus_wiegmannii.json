@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Liolaemus",
+    "specie": "Liolaemus_wiegmannii",
+    "specie_en": "Lizard"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.2",
+    "units": "cm",
+    "label": "SVL at hatching",
+    "bibkey": "MartCard1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.8",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "MartCard1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.2",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "MartCard1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.5*4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "MartCard1998",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "3-8 eggs per clutch, assumed: 3-4 clutches per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.84",
+    "units": "g",
+    "label": "ultimate wet ",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on Podarcis muralis: 5.41*(5.0/6.5)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "56",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on Liolaemus_pictus"
+  }
+]

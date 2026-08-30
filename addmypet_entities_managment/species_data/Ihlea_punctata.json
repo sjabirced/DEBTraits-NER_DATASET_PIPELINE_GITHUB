@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Thaliacea",
+    "order": "Salpida",
+    "family": "Salpidae",
+    "genus": "Ihlea",
+    "specie": "Ihlea_punctata",
+    "specie_en": "Salp",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.35",
+      "units": "cm",
+      "label": "oozoid length at birth",
+      "bibkey": "MadiPurc1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "2.2",
+      "units": "cm",
+      "label": "ultimate oozoid length",
+      "bibkey": "MadiPurc1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on finding of considerable growth at L=1.5 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.1",
+      "units": "cm",
+      "label": "oozoid length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lp/Li relationship of Cyclosalpa_bakeri: 2.2*5/10"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2400/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": "guess based on kap = 0.95"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.22",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-volume relationship of Cyclosalpa_bakeri: 44*(1.7/10)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

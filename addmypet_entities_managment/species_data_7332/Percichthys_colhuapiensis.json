@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Percichthyidae",
+    "genus": "Percichthys",
+    "specie": "Percichthys_colhuapiensis",
+    "specie_en": "Largemouth perch "
+  },
+  {
+    "entity": "Li",
+    "entity.value": "59.1",
+    "units": "cm",
+    "label": "ultimate std length for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "24.3",
+    "units": "cm",
+    "label": "std length at puberty for females",
+    "bibkey": "CazoSido2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "27.1",
+    "units": "cm",
+    "label": "std length at puberty for males",
+    "bibkey": "CazoSido2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5e5/365",
+    "units": "#/d",
+    "label": "Reprod rate max size",
+    "bibkey": "GuerBisb1992",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 0.8 mm: 4/3*pi*0.04^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.6e3",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "CazoSido2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CazoSido2008",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4.4*365",
+    "units": "d",
+    "label": "age at puberty for females",
+    "bibkey": "CazoSido2008",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "age at puberty for males",
+    "bibkey": "CazoSido2008",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Alligatoridae",
+    "genus": "Alligator",
+    "specie": "Alligator_mississippiensis",
+    "specie_en": "American alligator",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "304",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "myfwc",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "440",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "180",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "46/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "myfwc",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "70",
+      "units": "g",
+      "label": "egg wet weight",
+      "bibkey": "DeemFerg1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "450e3",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "65",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "myfwc",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": "Mass1993 gives 52"
+    },
+    {
+      "entity": "am",
+      "entity.value": "80*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "defenders",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "age at puberty for female",
+      "bibkey": "mom",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

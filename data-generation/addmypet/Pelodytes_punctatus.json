@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Pelodytidae",
+    "genus": "Pelodytes",
+    "specie": "Pelodytes_punctatus",
+    "specie_en": "Common parsley frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.2",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "ToxoOhm1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4.6",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "EsteSanc2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "4.0",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "EsteSanc2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.8",
+      "units": "cm",
+      "label": "SVL of frog at metam",
+      "bibkey": "ToxoOhm1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.0",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "EsteSanc2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1300/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'1000-1600"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "13.1",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW data for Pelobates_fuscus"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "8.6",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lim/Li)^3*Wwi: (4/4.3)^3*10.7"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "7.0",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/Li)^3*Wwi: (4/4.6)^3*10.7"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EsteSanc2004",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "85",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "EsteSanc2004",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "230",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "EsteSanc2004",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

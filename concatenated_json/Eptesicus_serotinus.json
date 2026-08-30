@@ -1,0 +1,90 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Vespertilionidae",
+    "species": "Eptesicus_serotinus",
+    "species_en": "Serotine bat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "1 litter per yr, 1 to 2 pups per litters"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Klei1969",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "25",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Klei1969",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "20 to 30 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "14.8",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "Klei1969",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "21*365",
+    "units": "d",
+    "label": "life span, guessed",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "68",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "547",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "Value for E. fuscus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "24",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Klei1969",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

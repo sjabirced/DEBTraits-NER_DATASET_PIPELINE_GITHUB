@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Engraulidae",
+    "genus": "Stolephorus",
+    "specie": "Stolephorus_waitei",
+    "specie_en": "Spotty-face anchovy"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11.7",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "DoddRame2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase gives 9.4 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8.4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2436/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "DoddRame2002",
+    "temp": "C2K(28.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "DoddRame2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.7 mm: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "9.53",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00501*Li^3.07, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.45",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00501*Lp^3.07, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.53*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "DoddRame2002",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

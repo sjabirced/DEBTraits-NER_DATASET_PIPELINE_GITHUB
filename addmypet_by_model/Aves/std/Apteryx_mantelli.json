@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Apterygiformes",
+    "family": "Apterygidae",
+    "genus": "Apteryx",
+    "specie": "Apteryx_mantelli",
+    "specie_en": "North Island brown kiwi"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "79.75",
+    "units": "cm",
+    "label": "ultimate physical (tail included) length",
+    "bibkey": "Mill1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "average observed adult length (including the tail)"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ARKive",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": "ARKive: upto 3 clutches/yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "239.25",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PrinzDiet2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "average observed weight at hatching"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2350",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "McLeDew2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "average observed adult weight (males and females)"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "82.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "{'McLeMcCa1991'}",
+    "temp": "C2K(31)",
+    "units.temp": "K",
+    "comment": "Age at birth obtained from average incubation time. Average egg temperature (31 C)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "18250",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "DOC2012",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": "captivity"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "928.01",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "{'BourCast2009','McNa1996'}",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": "age at first breeding. average body temperature (38.17 C)"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "21",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "HoyoColl2020",
+    "temp": "C2K(31)",
+    "units.temp": "K",
+    "comment": "2 yrs for female, 14 mnth for male"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "7",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "ARKive",
+    "temp": "C2K(31)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

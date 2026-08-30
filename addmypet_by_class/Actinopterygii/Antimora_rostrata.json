@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Moridae",
+    "genus": "Antimora",
+    "specie": "Antimora_rostrata",
+    "specie_en": "Blue antimora"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "75",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "42",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "41 to 43 cm, OrloVedi2018 give 19-20 yr, whcih corresponds with 51 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.9e6/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(2.9)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.5"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "40*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "OrloVedi2018",
+    "temp": "C2K(2.9)",
+    "units.temp": "K",
+    "comment": "max age found was 38 yr, but this problably underestimates max life span"
+  }
+]

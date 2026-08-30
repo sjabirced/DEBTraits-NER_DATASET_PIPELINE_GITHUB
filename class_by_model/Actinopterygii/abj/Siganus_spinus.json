@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siganiformes",
+    "family": "Siganidae",
+    "genus": "Siganus",
+    "specie": "Siganus_spinus",
+    "specie_en": "Little spinefoot"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "28",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "WestRose1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "315433/365",
+    "units": "#/d",
+    "label": "max reprodion rate",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "based on Siganus_luridus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.7e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on assumed egg diameter of 0.55 mm: pi/6*0.055^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "447",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01905*Li^3.02, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "29.54",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "WestRose1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01905*Lp^3.02, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

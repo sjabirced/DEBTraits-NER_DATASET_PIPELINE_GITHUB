@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Crocodylidae",
+    "genus": "Mecistops",
+    "specie": "Mecistops_cataphractus",
+    "specie_en": "West African slender-snouted crocodile",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "32.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "28-35"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "250",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "420",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "2-2.5 m"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "15/365",
+      "units": "#/d",
+      "label": "reprod rate at 364 cm",
+      "bibkey": "ADW",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "7-22 eggs per clutch, 1 cutch per yr assumed"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "104.7",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on eggs length 8 cm, width 5 cm: pi/6*8*5^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "68.5e3",
+      "units": "g",
+      "label": "ultimate wet weight of female",
+      "bibkey": "{'Wiki','ADW'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Li/Lim)^3*Wwim"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "325e3",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "95",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": "90-100 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "56.1*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "12.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "ADW",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "10-15 yrs"
+    }
+  ]
+}

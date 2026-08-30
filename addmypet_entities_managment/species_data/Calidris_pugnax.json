@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Calidris",
+    "specie": "Calidris_pugnax",
+    "specie_en": "Ruff",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ScheStie1985",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": "1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "10",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ScheStie1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "110",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "ScheStie1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "180",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "ScheStie1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "21",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ScheStie1985",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "19.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "ScheStie1985",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "27",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "9",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ScheStie1985",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

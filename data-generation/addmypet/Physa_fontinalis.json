@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Physidae",
+    "genus": "Physa",
+    "specie": "Physa_fontinalis",
+    "specie_en": "Common bladder snail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.07",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Wit1955",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "1.20",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.42",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Wit1955a",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "190/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wit1955a",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.0447",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Lymnaea stagnalis, with extra correction for shape difference, excluding shell: 0.699*(1.2/3)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wit1955a",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "230",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wit1955",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

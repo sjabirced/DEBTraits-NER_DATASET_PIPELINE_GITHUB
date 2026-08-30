@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Cyclopsettidae",
+    "genus": "Etropus",
+    "specie": "Etropus_crossotus",
+    "specie_en": "Fringed flounder",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "21.3",
+      "units": "cm",
+      "label": "ultimate total lenght for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "587500/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Reic2013",
+      "temp": "C2K(25.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.5e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Reic2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.5 mm: pi/6*0.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "109",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00832*Li^3.10, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.8",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi*(Lp/Li)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5",
+      "units": "d",
+      "label": "time at birth",
+      "bibkey": "guess",
+      "temp": "C2K(25.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Reic2013",
+      "temp": "C2K(25.7)",
+      "units.temp": "K",
+      "comment": "3-5 yrs"
+    }
+  ]
+}

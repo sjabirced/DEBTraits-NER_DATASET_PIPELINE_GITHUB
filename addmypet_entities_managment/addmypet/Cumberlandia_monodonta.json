@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Margaritiferidae",
+    "genus": "Cumberlandia",
+    "specie": "Cumberlandia_monodonta",
+    "specie_en": "Spectacle case pearly mussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": ".02",
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "unio",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "Baird2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": ".03",
+      "units": "cm",
+      "label": "shell length at settlement",
+      "bibkey": "unio",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "Baird2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "smallest gravid females had 5.6, 7.4 and 7.6 cm shell length"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "unio",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "56*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Baird2000",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

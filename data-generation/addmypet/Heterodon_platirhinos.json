@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Colubridae",
+    "genus": "Heterodon",
+    "specie": "Heterodon_platirhinos",
+    "specie_en": "Eastern hognose snake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "total length at hatching for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "16.5-21 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "116",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "25/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "8-40 eggs per clutch, 1 clutch per yr assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3",
+      "units": "g",
+      "label": "wet at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "601",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lb/Li)^3*Wwi=(18/116)^3*601"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "50",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(24.5)",
+      "units.temp": "K",
+      "comment": "49-63 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

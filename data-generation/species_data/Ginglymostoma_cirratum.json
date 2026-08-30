@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Orectolobiformes",
+    "family": "Ginglymostomatidae",
+    "genus": "Ginglymostoma",
+    "specie": "Ginglymostoma_cirratum",
+    "specie_en": "Nurse shark",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "28",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "430",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "235",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "27-30 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "24/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": "21-28 pups per litter, 1 litter each  yr"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5.5*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Cast2000",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": "5-6 mnth"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

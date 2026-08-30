@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Mus",
+    "specie": "Mus_musculus",
+    "specie_en": "House mouse"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10.2",
+    "units": "cm",
+    "label": "ultimate body length",
+    "bibkey": "IJssSche1977",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5*7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BerrBron1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "50",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "WeinWalf1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "10",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Laur1946",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "20",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.9)",
+    "units.temp": "K",
+    "comment": "temp from AnAge"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "26",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "BrusSchi2015",
+    "temp": "C2K(36.9)",
+    "units.temp": "K",
+    "comment": "In female mice, the vagina is closed at birth and opens at around PND 26."
+  },
+  {
+    "entity": "tx",
+    "entity.value": "22",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "xi_WE",
+    "entity.value": "4.8 * 4.1858",
+    "units": "kJ/g",
+    "label": "whole-body energy density (no reprod buffer), in dry weight",
+    "bibkey": "Stud1979",
+    "temp": "C2K(36.9)",
+    "units.temp": "K",
+    "comment": "mean value from neonates to adults"
+  }
+]

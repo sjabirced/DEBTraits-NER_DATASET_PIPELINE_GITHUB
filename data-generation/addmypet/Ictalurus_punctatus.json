@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Ictalurus",
+    "specie": "Ictalurus_punctatus",
+    "specie_en": "Channel catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.1",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "{'SakaIrwi2008'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "SakaIrwi2008: Linear regression of first three data points for pond"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "132",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Might be too high"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "33.8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Grah1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Lots of variation"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "64629/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "JearBrow1971",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Hubert says 60000"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.004",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "TyusNiki1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "W at L = 1.1 cm"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "26300",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "527",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "TyusNiki1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "W at L = 33.8 cm"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13 + 5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'Pawi2004','SakaIrwi2008'}",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "24*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(14.5)",
+      "units.temp": "K",
+      "comment": "'Reports of upto 40 year olds (Chapman: Farm-raised channel catfish)"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5 * 365",
+      "units": "d",
+      "label": "time since bith at puberty",
+      "bibkey": "Grah1999",
+      "temp": "C2K(14.5)",
+      "units.temp": "K",
+      "comment": "the earliest observed"
+    }
+  ]
+}

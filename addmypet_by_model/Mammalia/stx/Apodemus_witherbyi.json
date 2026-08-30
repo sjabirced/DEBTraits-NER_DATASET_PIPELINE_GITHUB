@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Apodemus",
+    "specie": "Apodemus_witherbyi",
+    "specie_en": "Steppe field mouse"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "47.8",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.5*5/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "gbif",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "'1-7 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Apodemus_sylvaticus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "22",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "16 - 34 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "based on Apodemus_sylvaticus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "24.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "gbif",
+    "temp": "C2K(35.3)",
+    "units.temp": "K",
+    "comment": "23-26 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "71",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "based on Apodemus_sylvaticus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "17",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "based on Apodemus_sylvaticus"
+  }
+]

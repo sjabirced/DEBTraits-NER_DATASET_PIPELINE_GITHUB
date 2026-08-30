@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Batrachoidiformes",
+    "family": "Batrachoididae",
+    "genus": "Porichthys",
+    "specie": "Porichthys_porosissimus",
+    "specie_en": "Atlantic midshipman",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "34",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "110/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "DeMa1990",
+      "temp": "C2K(24.1)",
+      "units.temp": "K",
+      "comment": "based on fecundity of P. notatus"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.44e-2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "DeMa1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": " based on egg diameter of 0.47 cm of P. notatus: pi/6*0.47^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "408",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00550*Lp^3.18, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "30.2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(24.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

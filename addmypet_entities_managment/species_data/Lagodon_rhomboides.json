@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Lagodon",
+    "specie": "Lagodon_rhomboides",
+    "specie_en": "Pinfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishesoftexas gives 25 cm, Wiki 11.4 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13.1",
+      "units": "cm",
+      "label": "total length st puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "9e4/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(18.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.5e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.02 mm: pi/6*.102^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.02e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01380*Li^3.04, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "34.4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Lp^3.04, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Nels2002",
+      "temp": "C2K(18.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Fundulidae",
+    "genus": "Fundulus",
+    "specie": "Fundulus_chrysotus",
+    "specie_en": "Golden topminnow"
+  },
+  {
+    "entity": "L91",
+    "entity.value": "3.75",
+    "units": "cm",
+    "label": "total length at 91 d",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 3 cm and F2"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.88",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 7.1 cm and F2"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "245/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on F. catenatus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.6 mm of Fundulus parvipinnis: pi/6*0.26^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12.9",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','fishesoftexas'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01413*Li^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at death",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "305",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

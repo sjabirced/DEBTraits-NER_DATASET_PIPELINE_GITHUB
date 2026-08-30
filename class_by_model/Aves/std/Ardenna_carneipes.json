@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Procellariiformes",
+    "family": "Procellariidae",
+    "genus": "Ardenna",
+    "specie": "Ardenna_carneipes",
+    "specie_en": "Flesh-footed shearwater"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "PoweWool2007",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "99",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PoweWool2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "900",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "PoweWool2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Asymptotic mass prior to fledging, mean adult mass 590 g (EoL) or 690 g (AnAge)"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "54",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "PoweWool2007",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "30.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": "value for Puffinus puffinus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "303",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "101",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "PoweWool2007",
+    "temp": "C2K(39.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Chaetodontiformes",
+    "family": "Chaetodontidae",
+    "genus": "Chaetodon",
+    "specie": "Chaetodon_marleyi",
+    "specie_en": "Doublesash butterflyfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.06",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": "based on Cheatodon larvatus"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Vine1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.75 mm of Cheatodon larvatus: pi/6*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "137.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02570*Li^2.97, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "27.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02570*Lp^2.97, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

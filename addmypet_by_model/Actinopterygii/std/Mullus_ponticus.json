@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Mullidae",
+    "genus": "Mullus",
+    "specie": "Mullus_ponticus",
+    "specie_en": "Blunt-snouted mullet"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "21.9",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.6e6/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(10.2)",
+    "units.temp": "K",
+    "comment": "based on Mullus_barbatus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.5e-5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.5 mm: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "112",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00832*Li^3.08, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "11.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00832*Lp^3.08, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

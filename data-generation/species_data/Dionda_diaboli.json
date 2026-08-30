@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Dionda",
+    "specie": "Dionda_diaboli",
+    "specie_en": "Devils River minnow",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.58/0.84",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "HulbBonn2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Day-8 mesolarva, converted from standard length see discussion"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.4",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.5/0.84",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishesOfTexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "converted from standard length see discussion"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "100/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": "based on size-corrected value for Phoxinus phoxinus: (6.4/14)^3*1e3 per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'GibsFrie2005', 'guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.6 mm after GibsFrie2005: pi/6*0.17^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'fishbase', 'guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": " 0.00708 * 6.4^3.08, see discussion "
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8 + data.ah",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "HulbBonn2007",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": "authors express age post hatch"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "HulbBonn2007",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": "authors say most fish hatched at 5 days"
+    },
+    {
+      "entity": "am",
+      "entity.value": "2 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

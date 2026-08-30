@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Dipturus",
+    "specie": "Dipturus_laevis",
+    "specie_en": "Barndoor skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "18.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "TL 18-19 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "163",
+      "units": "cm",
+      "label": "ultimate pelvic for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "100",
+      "units": "cm",
+      "label": "pelvic lengtb at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "58/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(7.3)",
+      "units.temp": "K",
+      "comment": "based on kappa = 0.8"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "18e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "270",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(7.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GedaDuPa2005",
+      "temp": "C2K(7.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

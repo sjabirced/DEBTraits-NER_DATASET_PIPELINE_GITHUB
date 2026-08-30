@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Glandirana",
+    "specie": "Glandirana_rugosa",
+    "specie_en": "Japanese wrinkled frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.9",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "KhonMats2014",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.8",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "KhonMats2014",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.36",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.6",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "KhonMats2014",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "200/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0141",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based egg diameter of 3 mm: pi/6*0.3^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15.1",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 10.9 g for SVL 5.29: (5.9/5.29)^3*10.9"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KhonMats2014",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "KhonMats2014",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "KhonMats2014",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Ammocrypta",
+    "specie": "Ammocrypta_pellucida",
+    "specie_en": "Eastern sand darter",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.6",
+      "units": "cm",
+      "label": "standard length at puberty for females",
+      "bibkey": "WallYeag1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "829/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "WallYeag1990",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WallYeag1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.4 mm: pi/6*0.14^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Li^3.14, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "120/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "WallYeag1990",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "DrakPowe2008",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

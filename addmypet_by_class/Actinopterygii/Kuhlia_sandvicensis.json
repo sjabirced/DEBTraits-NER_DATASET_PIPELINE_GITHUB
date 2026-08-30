@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Kuhliidae",
+    "genus": "Kuhlia",
+    "specie": "Kuhlia_sandvicensis",
+    "specie_en": "Hawaiian flagtail"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "23",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 3 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.3e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.4)",
+    "units.temp": "K",
+    "comment": "based on kap=0.8"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.5e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.05 mm of Ambloplites_rupestris: pi/6*0.205^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "312",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','fishesoftexas'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01995*Li^3.08, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "146.6",
+    "units": "g",
+    "label": "wet weight at piberty",
+    "bibkey": "{'fishbase','fishesoftexas'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01995*Lp^3.08, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "time since birth at death",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(27.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

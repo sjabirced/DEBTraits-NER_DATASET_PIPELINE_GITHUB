@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Pimephales",
+    "specie": "Pimephales_promelas",
+    "specie_en": "Fathead minnow",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Wang1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "7.1",
+      "units": "cm",
+      "label": "ultimate total length females",
+      "bibkey": "GranTonn2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "7.7",
+      "units": "cm",
+      "label": "ultimate total length males",
+      "bibkey": "GranTonn2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.49",
+      "units": "cm",
+      "label": "total length at first brood",
+      "bibkey": "ParrBala2017",
+      "temp": "C2K(24.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "30",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wata2007",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wd0",
+      "entity.value": "1.629e-4",
+      "units": "g",
+      "label": "dry egg weight",
+      "bibkey": "Boeh2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "11.19e-4",
+      "units": "g",
+      "label": "wet egg weight",
+      "bibkey": "Boeh2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.3929e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BrauHint1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.07",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "PantGlen2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.2",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "Wata2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.8825",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "ParrBala2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BrauHint1998",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Boeh2012",
+      "temp": "C2K(23.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "365*5",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GranTonn2002",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "90",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "ParrBala2017",
+      "temp": "C2K(24.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Etheostoma",
+    "specie": "Etheostoma_chermocki",
+    "specie_en": "Vermilion darter"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.78",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "KhudArri2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.1",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length, compared to E. cragini: 5.78*2.8/5.2"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "152/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "KhudArri2005",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.75e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "KhudArri2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.14 mm: pi/6*0.114^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KhudArri2005",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

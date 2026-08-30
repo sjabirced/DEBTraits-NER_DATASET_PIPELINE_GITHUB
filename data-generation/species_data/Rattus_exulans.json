@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Rattus",
+    "specie": "Rattus_exulans",
+    "specie_en": "Polynesian rat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4*4/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": "'4 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BrooHtun1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "60",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wwi",
+      "temp": null,
+      "units.temp": null,
+      "comment": "40 to 80 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "20",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "ADW",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": "19 to 21 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "300",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "ADW",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": "8 to 12 mnth"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "20",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "BrooHtun1980",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

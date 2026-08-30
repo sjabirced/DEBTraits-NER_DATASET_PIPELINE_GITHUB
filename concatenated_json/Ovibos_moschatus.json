@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Ovibos",
+    "specie": "Ovibos_moschatus",
+    "specie_en": "Muskox"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'AnAge'}",
+    "temp": "C2K(37.7)",
+    "units.temp": "K",
+    "comment": "1 calf per litter, 0.8 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "11460",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "210e3",
+    "units": "g",
+    "label": "ultimate wet weight females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on length-correct male max weight"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "300e3",
+    "units": "g",
+    "label": "ultimate wet weight males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "49000",
+    "units": "g",
+    "label": "wet weight at weaning female",
+    "bibkey": "PeltBarb2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwxm",
+    "entity.value": "54000",
+    "units": "g",
+    "label": "wet weight at weaning male",
+    "bibkey": "PeltBarb2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "24.7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.7)",
+    "units.temp": "K",
+    "comment": "life span between 15 and 25 yr "
+  },
+  {
+    "entity": "tg",
+    "entity.value": "258",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1096",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "1278",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "140",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "PeltBarb2003",
+    "temp": "C2K(37.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Polynemiformes",
+    "family": "Polynemidae",
+    "genus": "Polydactylus",
+    "specie": "Polydactylus_macrochir",
+    "specie_en": "King threadfin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "170",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on Li, relative to family memeber"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5e7/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.8"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.775 mm: pi/6*0.0775^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "45e3",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MoorSimp2012",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

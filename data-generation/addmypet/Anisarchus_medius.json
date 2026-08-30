@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Lumpenidae",
+    "genus": "Anisarchus",
+    "specie": "Anisarchus_medius",
+    "specie_en": "Stout eelblenny",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "700/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(-0.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0042",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "baed on egg diameter of 2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "74",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00324*Li^2.95, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'AunePrim2014','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00324*Lp^2.95, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "170",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(-0.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "13 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(-0.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

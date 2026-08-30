@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Myida",
+    "family": "Dreissenidae",
+    "genus": "Mytilopsis",
+    "specie": "Mytilopsis_sallei",
+    "specie_en": "Black-striped mussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.007",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "HeFei2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "3.16",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Lee2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.03",
+      "units": "cm",
+      "label": "total length at metamorphosis",
+      "bibkey": "HeFei2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.0",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Mort1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "23000/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Lee2015",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.131e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HeFei2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from egg diameter of 0.006 cm: 4/3*pi*(0.006/2)^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.3194",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Lee2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.011",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Lee2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "0.25",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "HeFei2016",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "Trochophore stage"
+    },
+    {
+      "entity": "aj",
+      "entity.value": "9",
+      "units": "d",
+      "label": "age at metamorphosis",
+      "bibkey": "HeFei2016",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "Plantigrade stage"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18/12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Mort1989",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Mort1989",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

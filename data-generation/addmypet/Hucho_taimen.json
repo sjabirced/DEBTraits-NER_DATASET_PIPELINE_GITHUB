@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Hucho",
+    "specie": "Hucho_taimen",
+    "specie_en": "Taimen",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "JensGilr2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp = 4-6 yr, so not very accurate"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "44e3/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.5 mm of Stenodus leucichthys: pi/6*0.25^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "92.3e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00933*Li^3.04, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.4e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00933*Lp^3.04, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "55*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

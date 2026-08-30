@@ -1,0 +1,191 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Gadidae",
+    "genus": "Merlangius",
+    "specie": "Merlangius_merlangus",
+    "specie_en": "Whiting"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.335",
+    "units": "cm",
+    "label": "total length at first feeding",
+    "bibkey": "PovoDave2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "80",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Datras",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "68",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "Datras",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.75",
+    "units": "cm",
+    "label": "total length at metamorphosis",
+    "bibkey": "{'ShawDiek2008', 'Last1978'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "17.46",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Datras",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15.88",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Datras",
+    "temp": null,
+    "units.temp": null,
+    "comment": "L50% is decreasing over time: we chose lowest L50% in North Sea datras dataset 2008"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3500000/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "HislHall1974",
+    "temp": "C2K(9.39)",
+    "units.temp": "K",
+    "comment": "'Mean NNS temperature from Hadley SST for 1962 (mean monthly available, changes different to SNS"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3e3*(0.335/80)^3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "estimate",
+    "temp": null,
+    "units.temp": null,
+    "comment": "calculated as 3e3*(0.335/80)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5695",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "FishBase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "L50% is decreasing over time, weight calculated from L50% using 2008 L~W relationship"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3128",
+    "units": "g",
+    "label": "ultimate male wet weight for males",
+    "bibkey": "FishBase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "L50% is decreasing over time, weight calculated from L50% using 2008 L~W relationship"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "40.47",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "calculated",
+    "temp": null,
+    "units.temp": null,
+    "comment": "L50% is decreasing over time, weight calculated from L50% using 2008 L~W relationship"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "30.82",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "calculated",
+    "temp": null,
+    "units.temp": null,
+    "comment": "L50% is decreasing over time, weight calculated from L50% using 2008 L~W relationship"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "PovoDave2011",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "aj",
+    "entity.value": "59",
+    "units": "d",
+    "label": "age at metam for female",
+    "bibkey": "JoneHisl1972",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "aj",
+    "entity.value": "50",
+    "units": "d",
+    "label": "age at metam for male",
+    "bibkey": "JoneHisl1972",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "7300",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FishBase",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ap",
+    "entity.value": "262",
+    "units": "d",
+    "label": "age at puberty for female",
+    "bibkey": "calculated",
+    "temp": "C2K(9.59)",
+    "units.temp": "K",
+    "comment": "calculated from 2005 North Sea data (using von Bertalanfy growth)"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "232",
+    "units": "d",
+    "label": "age at puberty for male",
+    "bibkey": "calculated",
+    "temp": "C2K(9.59)",
+    "units.temp": "K",
+    "comment": "'calculated from 2005 North Sea data (using van Bertalanfy growth)"
+  }
+]

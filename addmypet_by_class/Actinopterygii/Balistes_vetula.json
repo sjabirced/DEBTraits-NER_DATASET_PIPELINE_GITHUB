@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Balistidae",
+    "genus": "Balistes",
+    "specie": "Balistes_vetula",
+    "specie_en": "Queen triggerfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'mouth-to-tail"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "23.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate, derived from other species"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8e5/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.95e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MacK2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.62 mm of B.capriscus: 4/3*pi*0.036^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5400",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "13 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "flmnh",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

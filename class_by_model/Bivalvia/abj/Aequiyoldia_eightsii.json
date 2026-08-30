@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Nuculanida",
+    "family": "Sareptidae",
+    "genus": "Aequiyoldia",
+    "specie": "Aequiyoldia_eightsii",
+    "specie_en": "Bivalve"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.3",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "PeckBull1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.075",
+    "units": "cm",
+    "label": "shell length at metam",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "LauGran2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length, compared to Mya arenaria: (2.34/15)*Li"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate for assumed SL 3 cm",
+    "bibkey": "LauGran2018",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": "\"more than 3000\", 4e3 is assumed and also 2 cycles per yr"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "0.474",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Macoma baltica: 0.131*(4.3/2.8)^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.9e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LauGran2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 94 mum: pi/9*0.0094^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "120*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PeckBull1993",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": "mean temparature is guessed"
+  }
+]

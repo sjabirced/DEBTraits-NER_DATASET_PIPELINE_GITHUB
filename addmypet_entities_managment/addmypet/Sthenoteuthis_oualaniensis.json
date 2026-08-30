@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Ommastrephidae",
+    "genus": "Sthenoteuthis",
+    "specie": "Sthenoteuthis_oualaniensis",
+    "specie_en": "Purpleback flying squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "24",
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "LiuLin2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "LiuLin2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18.3",
+      "units": "cm",
+      "label": "mantle length at puberty for female",
+      "bibkey": "LiuLin2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "195 to 330 mm"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "15.6",
+      "units": "cm",
+      "label": "mantle length at puberty for male",
+      "bibkey": "LiuLin2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "142 to 250 mm"
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "2e6",
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "Snij1998",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm for Sthenoteuthis_pteropus: pi/6*0.08^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*30.5",
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "LiuLin2017",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

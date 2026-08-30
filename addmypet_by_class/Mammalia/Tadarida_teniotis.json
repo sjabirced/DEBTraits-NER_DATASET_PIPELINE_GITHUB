@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Molossidae",
+    "genus": "Tadarida",
+    "specie": "Tadarida_teniotis",
+    "specie_en": "European free-tailed bat"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "34.40",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "1 pup per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "14",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Eumops_perotis: 16*57/65 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "57",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "28-57 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Eumops_perotis"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "46",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Eumops_perotis"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": "based on Eumops_perotis"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

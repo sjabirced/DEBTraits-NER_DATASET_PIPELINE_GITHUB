@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Poeciliidae",
+    "genus": "Belonesox",
+    "specie": "Belonesox_belizanus",
+    "specie_en": "Pike topminnow",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.62",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "TurnSnel1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 1.4 cm, see F2: 0.97*1.4 + 0.262"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "mean total length at puberty",
+      "bibkey": "TurnSnel1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 6.2 of LN data, mean TL is however 10.1 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.1",
+      "units": "cm",
+      "label": "total length at puberty for male",
+      "bibkey": "TurnSnel1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0206",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "TurnSnel1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.4 mm: pi/6*0.34^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "88",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00724*Li^3.14, see F1"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00724*Lim ^3.14, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','TurnSnel1984'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00724*Lp^3.14, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "guess",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "163",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "TurnSnel1984",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "84",
+      "units": "d",
+      "label": "age at puberty for males",
+      "bibkey": "TurnSnel1984",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Lipotidae",
+    "genus": "Lipotes",
+    "specie": "Lipotes_vexillifer",
+    "specie_en": "Baiji",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "230",
+      "units": "cm",
+      "label": "ultimate length for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "185-253 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "ultimate length for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "141-216 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "calving interval 2 yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "115e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "64-167 kg"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "80e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "42-125 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "24*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "Probably an underestimate"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "319",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "ADW: 6-12 mnth"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "Wiki",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Wiki",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

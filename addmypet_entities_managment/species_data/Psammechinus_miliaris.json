@@ -1,0 +1,123 @@
+{
+  "taxonomy": {
+    "phylum": "Echinodermata",
+    "class": "Echinoidea",
+    "order": "Camarodonta",
+    "family": "Parechinidae",
+    "species": "Psammechinus_miliaris",
+    "species_en": "Green sea urchin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5.75",
+      "units": "cm",
+      "label": "ultimate test diameter",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.09",
+      "units": "cm",
+      "label": "length at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on Echinus_esculentus"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.9",
+      "units": "cm",
+      "label": "test diameter at puberty",
+      "bibkey": "BIOTIC",
+      "temp": null,
+      "units.temp": null,
+      "comment": "read from tL data for tp = 2 yr"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.5e6/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Zeut1955",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "75.78",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as 0.4943 * Li^2.877, see F1"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "4.8e-4",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "BIOTIC",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as 0.4943 * Lj^2.877, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.365",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "BIOTIC",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as 0.4943 * Lp^2.877, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BIOTIC",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "45",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "BIOTIC",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "temps are guessed"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "BIOTIC",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

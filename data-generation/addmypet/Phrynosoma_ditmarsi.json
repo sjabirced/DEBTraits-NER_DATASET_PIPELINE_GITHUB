@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Phrynosomatidae",
+    "genus": "Phrynosoma",
+    "specie": "Phrynosoma_ditmarsi",
+    "specie_en": "Rock horned lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.1",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "Mont1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lpm * (Wwb/Wwpm)^(1/3)"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "7.2",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "Mont1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.7",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "Mont1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "5.8",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "Mont1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "10/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Mont1989",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.9",
+      "units": "g",
+      "label": "wet at birth",
+      "bibkey": "Mont1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "36",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "Mont1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "29",
+      "units": "g",
+      "label": "wet at puberty for females",
+      "bibkey": "Mont1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "19",
+      "units": "g",
+      "label": "wet at puberty for males",
+      "bibkey": "Mont1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Mont1989",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

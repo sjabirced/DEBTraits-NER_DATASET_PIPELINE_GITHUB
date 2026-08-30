@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Eulipotyphla",
+    "family": "Soricidae",
+    "genus": "Crocidura",
+    "specie": "Crocidura_luna",
+    "specie_en": "Moonshine shrew"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "24.80",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "2 pups per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.933",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Crocidura_leucodon"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11.8",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "GenoIsle2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "based on Crocidura_leucodon"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "30",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "based on Crocidura_leucodon"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "95",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "based on Crocidura_leucodon"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "22",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "based on Crocidura_leucodon"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Dorosomatidae",
+    "genus": "Odaxothrissa",
+    "specie": "Odaxothrissa_mento",
+    "specie_en": "Nigerian fangtooth pellonuline"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "14",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Kimu1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.4e4/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.5e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Pete1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.5 mm: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "18.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','Kimu1995'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Lp^2.91"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','Pete1999'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "QuarAlhs2024",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Cervidae",
+    "genus": "Hydropotes",
+    "specie": "Hydropotes_inermis",
+    "specie_en": "Water deer",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1042",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "18e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": "12 till 18.5 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "190",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "7.5*30.5",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "EoL",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5.5*30.5",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "EoL",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "42",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "KirkWill1988",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Epinephelus",
+    "specie": "Epinephelus_rivulatus",
+    "specie_en": "Halfmoon grouper",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.045",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "Mack2000",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19.4",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.13e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.6 mm: pi/6*0.06^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.3e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01259*Li^3.03, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "100.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01259*Lp^3.03, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ThilMcIl2016",
+      "temp": "C2K(27.2)",
+      "units.temp": "K",
+      "comment": "based on tL data"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Cambaridae",
+    "genus": "Orconectes",
+    "specie": "Orconectes_neglectus",
+    "specie_en": "Ringed crayfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "2.1",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "LarsMago2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "LarsMago2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.2 mm: pi/6*0.22^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "LarsMago2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on exp(-8.53)*(10*Li)^3.29, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.913",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "LarsMago2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on exp(-8.53)*(10*Lp)^3.29, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SousHold2006",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "value for Orconectes Limosus"
+  }
+]

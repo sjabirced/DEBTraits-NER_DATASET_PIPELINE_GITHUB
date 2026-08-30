@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Fundulidae",
+    "genus": "Fundulus",
+    "specie": "Fundulus_catenatus",
+    "specie_en": "Northern studfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "9.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "WallSimo2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "16",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "WallSimo2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.8",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "WallSimo2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative length, compared to F.dispar: 3.5 * 9.5/8.7"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "245/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WallSimo2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.6 mm of Fundulus parvipinnis: pi/6*0.26^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','WallSimo2006'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00603*Li^3.08, see F1"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "30.8",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "{'fishbase','WallSimo2006'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00603*Lim^3.08, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "time since birth at death",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "WallSimo2006",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

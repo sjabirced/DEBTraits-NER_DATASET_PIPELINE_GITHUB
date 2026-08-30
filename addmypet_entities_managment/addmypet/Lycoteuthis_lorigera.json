@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Lycoteuthidae",
+    "genus": "Lycoteuthis",
+    "specie": "Lycoteuthis_lorigera",
+    "specie_en": "Crowned firefly squid ",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 11.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "HoviLipi2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "assumed death at 320 d"
+    },
+    {
+      "entity": "Lim",
+      "entity.value": 19.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "HoviLipi2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "assumed death at 500 d"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 8.0,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "HoviLipi2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 2500.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "HoviLapt2014",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "between 1000 and 4000 eggs per spawn, assumed death at 320 d"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.001,
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "HoviLapt2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "HoviLapt2014 write 0.67-0.97 g, but given the egg size of 1.2-1.5 mm, they probably mean mg rather than g"
+    },
+    {
+      "entity": "am",
+      "entity.value": 550.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "sealifebase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

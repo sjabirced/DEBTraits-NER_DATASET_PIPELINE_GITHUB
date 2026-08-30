@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "genus": "Testudo",
+    "specie": "Testudo_graeca",
+    "specie_en": "Spur-thighed tortoise",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "14/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "guess based on Testudo_hermanni"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "12.8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HichZnar2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "77",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "startortoises",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "60",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "startortoises",
+      "temp": "C2K(31.5)",
+      "units.temp": "K",
+      "comment": "HichZnar2016 gives 70 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "127*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "4560",
+      "units": "d",
+      "label": "age at puberty for female",
+      "bibkey": "AnAge",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

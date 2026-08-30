@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Hemitremia",
+    "specie": "Hemitremia_flammea",
+    "specie_en": "Flame chub"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.8",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Soss1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on FL 4.1 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Mull2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on egg diameter of 1 mm: pi/6*0.16^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.96",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Li^3.08, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.83",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','Soss1990'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Lp^3.08, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Mull2012",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on hatch at 5-6 d, feeding 2 d post-hatch"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Soss1990",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

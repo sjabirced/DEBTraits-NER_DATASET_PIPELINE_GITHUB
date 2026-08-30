@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Teiidae",
+    "genus": "Tupinambis",
+    "specie": "Tupinambis_teguixin",
+    "specie_en": "Gold tegu",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "2.4681",
+      "units": "ml O2/min",
+      "label": "max BMR",
+      "bibkey": "NespSola2017",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "35/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "animalia",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "'20-50 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "10",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Salvator_merianae"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "90",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "animalia",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16.1*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "27*30.5",
+      "units": "d",
+      "label": "time since metam at puberty for female",
+      "bibkey": "animalia",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "18-36 mnth"
+    }
+  ]
+}

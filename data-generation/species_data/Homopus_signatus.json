@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "genus": "Homopus",
+    "specie": "Homopus_signatus",
+    "specie_en": "Speckled padloper",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.0",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "Loeh2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8.95",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "Loeh2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.4",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "Loeh2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "Wiki: \"several eggs\" per clutch, 1 clutch per yr assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "7.8-11.9 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "241",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Loeh2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "113",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Loeh2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "110",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "100-120 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Loeh2004",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "3.5 yr in captivity, 11 yr in the wild"
+    }
+  ]
+}

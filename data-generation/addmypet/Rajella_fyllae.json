@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Rajella",
+    "specie": "Rajella_fyllae",
+    "specie_en": "Round ray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "10.2",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Leucoraja erinacea: 9.7*57/54"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "57",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "36",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "47/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00302*Lb^3.24, see F1"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1476",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'AunePrim2014','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00302*Lp^3.24, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "333",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(3.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

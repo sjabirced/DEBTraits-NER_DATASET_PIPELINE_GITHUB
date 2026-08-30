@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Lutjanus",
+    "specie": "Lutjanus_kasmira",
+    "specie_en": "Bluestripe snapper"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "21",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "17 to 25 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "749e3/365",
+    "units": "#/d",
+    "label": "max reoduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(26.4)",
+    "units.temp": "K",
+    "comment": "based on Lutjanus_carponotatus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.9e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.82 mm: pi/6*0.082^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "879",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length-weight of 0.01479*Li^2.98, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "129",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length-weight of 0.01479*Lp^2.98, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "0.75",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(26.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(26.4)",
+    "units.temp": "K",
+    "comment": "base on other Lutjanus species"
+  }
+]

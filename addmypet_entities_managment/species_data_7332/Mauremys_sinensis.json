@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Geoemydidae",
+    "genus": "Mauremys",
+    "specie": "Mauremys_sinensis",
+    "specie_en": "Chinese stripe-necked turtle"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "ChenLue1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "ultimate carapace length for female",
+    "bibkey": "ChenLue1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16.3",
+    "units": "cm",
+    "label": "ultimate carapace length for male",
+    "bibkey": "ChenLue1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "carapace length at puberty for female",
+    "bibkey": "ChenLue1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "carapace length at puberty for male",
+    "bibkey": "ChenLue1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12.6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ChenLue1998",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.17",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ChenLue1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lb/Li)^3*Wwi"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1750",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "ChenLue1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "246",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "ChenLue1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lim/Li)^3*Wwi"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "896",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "ChenLue1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lp/Li)^3*Wwi"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "246",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "ChenLue1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lp/Li)^3*Wwi"
+  },
+  {
+    "entity": "am",
+    "entity.value": "16.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "value for M. japonica"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "age at puberty for female",
+    "bibkey": "ChenLue1998",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

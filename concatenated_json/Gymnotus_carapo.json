@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gymnotiformes",
+    "family": "Gymnotidae",
+    "genus": "Gymnotus",
+    "specie": "Gymnotus_carapo",
+    "specie_en": "Banded knifefish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "76",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "24.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "BarbBarb1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "915/30",
+    "units": "#/d",
+    "label": "max reproduction rate ",
+    "bibkey": "CognFial2006",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": "abs fecundity is 915.3, assumed to be monthly"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "CognFial2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.7 mm: pi/6*0.17^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.2e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00372*Li^2.93, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "45.3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','Barb1995'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00372*Lp^2.93, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "12.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Barb1995",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

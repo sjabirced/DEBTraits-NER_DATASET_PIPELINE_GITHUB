@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Myida",
+    "family": "Mytilidae",
+    "genus": "Modiolus",
+    "specie": "Modiolus_barbatus",
+    "specie_en": "Bearded horsemussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.7e6/365",
+      "units": "#/d",
+      "label": "reproduction rate at SL 8.1 cm",
+      "bibkey": "WongArsh2013",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "value for Modiolus philippinarum"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.8e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WongArsh2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 81 mum for Modiolus philippinarum: pi/6*0.0081^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "22.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 10^(-3.716 + 2.847*log10(10*Li)) for Modiolus_modiolus, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "PehaRich2007",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

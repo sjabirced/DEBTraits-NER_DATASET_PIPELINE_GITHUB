@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Lotidae",
+    "genus": "Molva",
+    "specie": "Molva_dypterygia",
+    "specie_en": "Blue ling",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "155",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "fao",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "115",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "fao",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "88",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "fao",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "75",
+      "units": "cm",
+      "label": "total length at puberty for male",
+      "bibkey": "fao",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5e5/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MunkNiel2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm of M. molva: 4/3*pi*0.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "16.5e3",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.4e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on  0.00191 * Lp^3.149, see F4"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "fao",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "fao",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

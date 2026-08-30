@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Rhaebo",
+    "specie": "Rhaebo_blombergi",
+    "specie_en": "Blomberg"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "21",
+    "units": "cm",
+    "label": "ultimate body length for females",
+    "bibkey": "SmitFish1975",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 20 till 25 cm"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "ultimate body length for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "15 till 17 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "SmitFish1975",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "1 brood/year"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.001",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SmitFish1975",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg width of 1 mm and egg length of 2 mm: pi/6*0.1^2*0.2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1135",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "SmitFish1975",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "4.9",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "815",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on same relative weight, compared to Bufo bufo: 1135*0.35/80"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "guess based on expectations, given Wwb"
+  },
+  {
+    "entity": "am",
+    "entity.value": "28.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "EoL",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "141",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "guess based on expectations, given Wwj"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "912",
+    "units": "d",
+    "label": "time since metam at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "guess based on expectations, given Wwp"
+  }
+]

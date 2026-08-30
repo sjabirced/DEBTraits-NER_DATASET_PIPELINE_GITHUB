@@ -1,0 +1,148 @@
+{
+  "Hexanauplia_sbp_cycle_de_vie": {
+    "titre": "Life cycle of class Hexanauplia — SBP (std with growth ceasing at puberty)",
+    "ordre": "Copepoda / Cirripedia",
+    "classe": "Hexanauplia",
+    "stades": [
+      {
+        "id": 1,
+        "label": "t0",
+        "nom": "Fertilisation",
+        "type": "transition",
+        "termes": [
+          "egg fertilisation",
+          "zygote formation",
+          "gamete fusion",
+          "syngamy",
+          "ovum activation",
+          "reproductive pairing",
+          "zygote stage onset",
+          "gametic union",
+          "fecundation",
+          "external fertilisation",
+          "sperm transfer",
+          "spermatophore deposition",
+          "broadcast fertilisation"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Egg / Incubation",
+        "nom": "Embryo under incubation",
+        "type": "stade",
+        "termes": [
+          "fertilised ovum",
+          "incubating egg",
+          "embryonated egg",
+          "yolk-dependent embryo",
+          "cleavage-stage embryo",
+          "blastula-stage embryo",
+          "gastrulating embryo",
+          "organogenesis stage",
+          "brood egg",
+          "subitaneous egg",
+          "dormant resting egg"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "B",
+        "nom": "Onset of exogenous feeding",
+        "type": "transition",
+        "termes": [
+          "first exogenous feeding",
+          "first feeding",
+          "yolk-sac resorption",
+          "mouth opening",
+          "first prey capture",
+          "exotrophic transition",
+          "trophic switch",
+          "active feeding onset",
+          "larval feeding commencement",
+          "yolk absorption completion",
+          "nauplius feeding",
+          "phytoplankton grazing onset",
+          "filter feeding onset",
+          "copepodite feeding"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Juvenile",
+        "nom": "Juvenile crustacean",
+        "type": "stade",
+        "termes": [
+          "juvenile",
+          "sub-adult",
+          "immature individual",
+          "young individual",
+          "pre-reproductive juvenile",
+          "growing juvenile",
+          "immature organism",
+          "juvenile crustacean",
+          "early benthic phase",
+          "post-larval crustacean",
+          "crablet",
+          "shrimp juvenile"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "P",
+        "nom": "Puberty and growth cessation",
+        "type": "transition",
+        "termes": [
+          "sexual maturation",
+          "reproductive maturity",
+          "first reproduction event",
+          "gonad maturation",
+          "puberty",
+          "gametogenesis onset",
+          "reproductive activation",
+          "age at first reproduction",
+          "first egg clutch",
+          "first ovigerous female",
+          "first mating"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Breeding adult",
+        "nom": "Ovigerous adult crustacean",
+        "type": "stade",
+        "termes": [
+          "sexually mature adult",
+          "reproductively active adult",
+          "breeding individual",
+          "gravid individual",
+          "post-pubertal adult",
+          "reproductively viable organism",
+          "ovigerous female",
+          "egg-bearing female",
+          "berried female",
+          "gravid crustacean",
+          "brooding adult"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "M",
+        "nom": "Natural death",
+        "type": "transition",
+        "termes": [
+          "natural mortality",
+          "senescence",
+          "age-related death",
+          "post-reproductive mortality",
+          "biological death",
+          "somatic death",
+          "lifespan completion",
+          "ecological mortality",
+          "organismal death",
+          "reproductive senescence",
+          "physiological death"
+        ]
+      }
+    ]
+  }
+}

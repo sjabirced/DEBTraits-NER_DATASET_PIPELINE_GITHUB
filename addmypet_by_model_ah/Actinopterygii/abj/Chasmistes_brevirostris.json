@@ -1,0 +1,90 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "species": "Chasmistes_brevirostris",
+    "species_en": "Shortnose sucker"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "64",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "mean([44,49])",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "WarrBurr2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "mean value of length at puberty from table 13.4 - life history of Chasmistes."
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "72500/365",
+    "units": "#/d",
+    "label": "Ultimate reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "temp is guessed, max value from fishbase chosen"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'guess', 'WarrBurr2014'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from egg diameter of 2 mm for genus Chasmistes: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3096",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "0.01*Li^3.04, see discussion."
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "this is incubation time for Chasmistes table 13.4 - life history of Chasmiste - time to first feeding is likely a bit longer"
+  },
+  {
+    "entity": "am",
+    "entity.value": "44 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "WarrBurr2014",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "'guessed temp"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "mean([5,7])*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "WarrBurr2014",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "guessed temp and we here took the mean value of age at puberty from table 13.4 - life history of Chasmistes."
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "OvalentariaIncSed",
+    "family": "Pomacentridae",
+    "genus": "Acanthochromis",
+    "specie": "Acanthochromis_polyacanthus",
+    "specie_en": "Spiny chromis",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "16",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.5",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "Kava2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1100/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Kava2000",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": "250–550 eggs per clutch, 2 clutcher per yr assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.4e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Kava2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 3.7-4.3 mm and width 1.4-1.5 mm: pi/6*0.4*0.145^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "152",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.03236*Li^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "9.8",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','Kava2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "16",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Kava2000",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KingHugh2005",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

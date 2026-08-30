@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Percina",
+    "specie": "Percina_sciera",
+    "specie_en": "Dusky darter"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.55",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 4 cm and F2"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2000/365",
+    "units": "#/d",
+    "label": "reprod rate at SL 8.3 cm, TL 9.4 cm",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16.1",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','fishesoftexas'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00513*Li^3.14 (see F1)"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','fishesoftexas'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00513*Lp^3.14 (see F1)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

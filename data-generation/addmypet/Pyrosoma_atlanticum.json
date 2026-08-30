@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Thaliacea",
+    "order": "Pyrosomida",
+    "family": "Pyrosomatidae",
+    "genus": "Pyrosoma",
+    "specie": "Pyrosoma_atlanticum",
+    "specie_en": "Tube tunicate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "ultimate colony length",
+      "bibkey": "MillSant2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": "4-6 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "colony length at puberty",
+      "bibkey": "Soes1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "15e6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "guess based on kap = 0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MillSant2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.3 mm of B. schlosseri : pi/6*0.03^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "40",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'data for a zooid, a colony can live forever"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

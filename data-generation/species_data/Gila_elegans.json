@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Gila",
+    "specie": "Gila_elegans",
+    "specie_en": "Bonytail chub",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "62",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "RL",
+      "entity.value": "37700/365",
+      "units": "#/d",
+      "label": "ultimate reprod rate",
+      "bibkey": "Hamm1982b",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "fecundity of 51.8 TL female, temp is a guessed average of what an individaul experiences in a year"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Hamm1982b",
+      "temp": null,
+      "units.temp": null,
+      "comment": "average wet weight at hatch actually"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.3e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'fishbase', 'guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "0.00813 * 62^3.13, see discussion"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "mean([170,269])/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Hamm1982b",
+      "temp": "C2K(16.5)",
+      "units.temp": "K",
+      "comment": "average age at hatch actually"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2 * 365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "based on gila cypha"
+    }
+  ]
+}

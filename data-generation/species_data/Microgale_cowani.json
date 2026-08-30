@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Afrosoricida",
+    "family": "Tenrecidae",
+    "genus": "Microgale",
+    "specie": "Microgale_cowani",
+    "specie_en": "Cowan",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "32",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "WhitSeym2003",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": "3-5 pups per litter, 1 litter per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on rel weight of Microgale dobsoni: 3.95*10.3/37.8"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10.3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "WhitSeym2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": "value is very unsure"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "60",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "ADW",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": "58-63 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "200",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "29",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ADW",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

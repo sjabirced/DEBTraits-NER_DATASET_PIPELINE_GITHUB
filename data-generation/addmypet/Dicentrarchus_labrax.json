@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Moroniformes",
+    "family": "Moronidae",
+    "genus": "Dicentrarchus",
+    "specie": "Dicentrarchus_labrax",
+    "specie_en": "European seabass",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.55",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "LikaKooy2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.35",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "LikaKooy2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "103",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "4.0",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "LikaKooy2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.3e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1e4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "700",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Anon2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ah_15",
+      "entity.value": "3.6",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "LikaKooy2014",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah_17",
+      "entity.value": "2.9",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "Papa2012",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tb_16",
+      "entity.value": "9",
+      "units": "d",
+      "label": "time since hatch at birth",
+      "bibkey": "Papa2012",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tb_19",
+      "entity.value": "7",
+      "units": "d",
+      "label": "time since hatch at birth",
+      "bibkey": "LikaKooy2014",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "70",
+      "units": "d",
+      "label": "time since hatch at metam",
+      "bibkey": "LikaKooy2014",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "this stage (metamorphosis) corresponds to the completeness of metamorhosis"
+    }
+  ]
+}

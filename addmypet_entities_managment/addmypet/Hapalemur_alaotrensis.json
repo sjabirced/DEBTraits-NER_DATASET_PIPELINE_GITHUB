@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Lepilemuridae",
+    "genus": "Hapalemur",
+    "specie": "Hapalemur_alaotrensis",
+    "specie_en": "Lac Alaotra bamboo lemur",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "95",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BeatFeis1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Bsade on tW data, back-extrapolated to birth"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1250",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "1.1 till 1,4 kg, males slighly larger than females"
+    },
+    {
+      "entity": "am",
+      "entity.value": "23.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "value for Hapalemur griseus"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "135",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "temp is guessed"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "880",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "value for Hapalemur griseus"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "85",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

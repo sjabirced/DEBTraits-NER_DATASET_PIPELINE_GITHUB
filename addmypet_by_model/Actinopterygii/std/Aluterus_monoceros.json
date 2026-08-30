@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Monacanthidae",
+    "species": "Aluterus_monoceros",
+    "species_en": "Unicorn leatherjacket filefish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "76.2",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "40.85",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "GhosHosh2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1239202/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "GhosHosh2021",
+    "temp": "C2K(27.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.37e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "GhosHosh2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.64 mm: pi/6*0.064^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5233",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01905*Li^2.89, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "863",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'GhosHosh2021','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01905*Lp^2.89, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MillStew2010",
+    "temp": "C2K(27.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

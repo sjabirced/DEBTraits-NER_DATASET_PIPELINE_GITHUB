@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Batrachoidiformes",
+    "family": "Batrachoididae",
+    "genus": "Opsanus",
+    "specie": "Opsanus_tau",
+    "specie_en": "Oyster toadfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.55",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "gma",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "43.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "PalaSara2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "from Halobatrachus_didactylus"
+    },
+    {
+      "entity": "RL",
+      "entity.value": "1200/365",
+      "units": "#/d",
+      "label": "reprod rate L = 34.5 cm",
+      "bibkey": "PalaSara2001",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "from Halobatrachus_didactylus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2200",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "Wiki",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "2.9*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "MensStep2001",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": "MensStep2001: less than 3 yr"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Crocodilidae",
+    "genus": "Crocodylus",
+    "specie": "Crocodylus_johnsoni",
+    "specie_en": "Australian freshwater crocodile"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "24",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Whit1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "200",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "300",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "76 * 150/87",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "crocodilian",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "150 cm total length = 87 cm snout-to-vent"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "150",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "crocodilian",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "13/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Whit1987",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "42",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Whit1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "26600",
+    "units": "g",
+    "label": "ultimate wet weight of female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Computed as Wwim*(Li/Lim)^3 = 90*(2/3)^3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "90000",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: upto 100 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "7480",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed as Wwi*(Lp/Li)^3"
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "11250",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed as Wwim*(Lp/Lim)^3 = 90*(1.5/3)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "65",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "crocodilian",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "74-80 d, depending on temperature"
+  },
+  {
+    "entity": "am",
+    "entity.value": "50 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Whit1987",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "365*12.5",
+    "units": "d",
+    "label": "age at puberty for female",
+    "bibkey": "Whit1987",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "apm",
+    "entity.value": "365*16.5",
+    "units": "d",
+    "label": "age at puberty for male",
+    "bibkey": "Whit1987",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

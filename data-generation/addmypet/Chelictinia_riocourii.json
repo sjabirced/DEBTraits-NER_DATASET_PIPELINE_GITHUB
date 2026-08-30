@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Chelictinia",
+    "specie": "Chelictinia_riocourii",
+    "specie_en": "Scissor-tailed kite",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "avibase",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": "'4 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "12",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MullCava2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "110",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "110",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "29",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "KempKirw2020",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "27-31 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "100.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": "32-35 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "33.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "KempKirw2020",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": "32-35 d"
+    }
+  ]
+}

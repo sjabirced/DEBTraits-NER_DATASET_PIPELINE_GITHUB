@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Engraulidae",
+    "genus": "Anchoa",
+    "specie": "Anchoa_panamensis",
+    "specie_en": "Panama  anchovy"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18.7",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.6",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Anchoa_nasus: 6*18.7/17"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "32e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.9)",
+    "units.temp": "K",
+    "comment": "based on total fecundity of Anchoa_nasus: (18.7/8.292)^3*2839.929"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.1e-4",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.6 mm of Anchoa_nasus: pi/6*0.06^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "49.7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Li^3.15, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.9",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Lp^3.15, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27.9)",
+    "units.temp": "K",
+    "comment": "based on  Engraulis encrasicolus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

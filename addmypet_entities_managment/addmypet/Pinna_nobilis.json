@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Pterioida",
+    "family": "Pinnidae",
+    "genus": "Pinna",
+    "specie": "Pinna_nobilis",
+    "specie_en": "Noble pen shell",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "E0",
+      "entity.value": "0.001",
+      "units": "J",
+      "label": "initial energy content",
+      "bibkey": "VeerCard2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "data for Crassostrea gigas"
+    },
+    {
+      "entity": "GSI",
+      "entity.value": "0.52",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "DeudGrau2017",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "calculated as weight of visceral mass (including gonad)/weight of total soft tissue"
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "8.5e-03",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "TrigVice2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "86",
+      "units": "cm",
+      "label": "ultimate length in the wild",
+      "bibkey": "RichKenn1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Common ultimate size in the wild. Largest specimen ever reported was 120 cm."
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.1",
+      "units": "cm",
+      "label": "total length at metamorphosis",
+      "bibkey": "ButlVice1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "16.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "DeudGrau2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "TrigVice2017",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "the feeding starts with the development of the ciliary structure, i.e. vellum"
+    },
+    {
+      "entity": "aj",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at metamorphosis",
+      "bibkey": "ButlVice1993",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "27*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GaliVlah2006",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "(1.5*365)-2",
+      "units": "d",
+      "label": "age at puberty since birth",
+      "bibkey": "RichKenn1999",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

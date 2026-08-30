@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Atractoscion",
+    "specie": "Atractoscion_aequidens",
+    "specie_en": "Geelbeck croaker",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.055",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "GrifHech1995",
+      "temp": "C2K(18.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "65",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.68e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter og 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "27.6e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3264",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'Anon2001','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00851*Lp^3.08, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "28*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "RomoHerz2015",
+      "temp": "C2K(18.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

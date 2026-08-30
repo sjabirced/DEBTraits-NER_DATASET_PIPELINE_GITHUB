@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Pimelodidae",
+    "genus": "Brachyplatystoma",
+    "specie": "Brachyplatystoma_rousseauxii",
+    "specie_en": "Zungaro dorado",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.20",
+      "units": "g/g",
+      "label": "gonado somatic index for female",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "192",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "173",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "{'fishbase','CordLeon2013'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Li*91.8/101.6"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "88.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "CordLeon2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "81.7",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "CordLeon2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AndrMakr2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.74 mm of Hemisorubim_platyrhynchos: pi/6*0.174^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "94.1e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*Li^3.12, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "8.3e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','CordLeon2013'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00468*Lp^3.13, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

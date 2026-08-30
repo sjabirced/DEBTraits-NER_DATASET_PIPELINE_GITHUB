@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Lymnaeidae",
+    "genus": "Ampullaceana",
+    "specie": "Ampullaceana_balthica",
+    "specie_en": "Wandering pond snail"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 1.717,
+    "units": "cm",
+    "label": "ultimate length",
+    "bibkey": "Schu2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Largest one I encountered, Rupp2011 measured largest at 1.7 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.911,
+    "units": "cm",
+    "label": "length at puberty",
+    "bibkey": "Hall2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": 11.3,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Rupp2011",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "Ruppert measured day of hatching"
+  },
+  {
+    "entity": "ab_15",
+    "entity.value": 22.8,
+    "units": "d",
+    "label": "age at birth 15 C",
+    "bibkey": "Rupp2011",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "Ruppert measured day of hatching"
+  },
+  {
+    "entity": "ab_25",
+    "entity.value": 8.1,
+    "units": "d",
+    "label": "age at birth 25 C",
+    "bibkey": "Rupp2011",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "Ruppert measured day of hatching"
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Rupp2011",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "literature states a life span of 1 year"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 128.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Hall2012",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "First laying of eggs in Halgreens control group"
+  }
+]

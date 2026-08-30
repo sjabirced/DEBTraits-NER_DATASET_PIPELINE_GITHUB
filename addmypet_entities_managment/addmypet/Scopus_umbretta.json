@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Pelecaniformes",
+    "family": "Scopidae",
+    "genus": "Scopus",
+    "specie": "Scopus_umbretta",
+    "specie_en": "Hamerkop",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": "3 to 7 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "20",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WilsWils1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "520",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "WilsWils1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'asymptotic weight of nestling"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Wiki",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "240",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": "44 to 55 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "80",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Wiki",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": "44 to 55 d"
+    }
+  ]
+}

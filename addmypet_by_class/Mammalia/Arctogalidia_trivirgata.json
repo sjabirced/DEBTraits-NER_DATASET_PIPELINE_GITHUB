@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Viverridae",
+    "genus": "Arctogalidia",
+    "specie": "Arctogalidia_trivirgata",
+    "specie_en": "Small-toothed palm civet"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "552.8",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "corrected table of WhitSeym2003 is used"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*2/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.7)",
+    "units.temp": "K",
+    "comment": "'2-3 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "71.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2400",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "1.36 to 1.87 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "16.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "45",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "Wiki",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "61",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Littorinimorpha",
+    "family": "Littorinidae",
+    "genus": "Melarhaphe",
+    "specie": "Melarhaphe_neritoides",
+    "specie_en": "Small periwinkle"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.73",
+    "units": "cm",
+    "label": "ultimate shell height",
+    "bibkey": "HughRobe1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.05",
+    "units": "cm",
+    "label": "shell height at settlement",
+    "bibkey": "MyerMcGr1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.38",
+    "units": "cm",
+    "label": "shell height at puberty for female",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "7.1e-3",
+    "units": "g",
+    "label": "ulitmate dry tissue weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 80 mum: pi/6*0.008^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

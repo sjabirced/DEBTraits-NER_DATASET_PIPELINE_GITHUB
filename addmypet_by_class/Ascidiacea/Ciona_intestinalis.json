@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Ascidiacea",
+    "order": "Phlebobranchia",
+    "family": "Cionidae",
+    "genus": "Ciona",
+    "specie": "Ciona_intestinalis",
+    "specie_en": "Vase tunicate"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.1",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "CiriTosc2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "plus or minus 0.03 cm at settlement (start of feeding)"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "biotic",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "CiriTosc2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3000 * 2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": "'BIOTIC 3000 per spawn, but possibly more spawns per year"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "CiriTosc2002",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": "'temperature (18-22 C)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "biotic",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "60",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "CiriTosc2002",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

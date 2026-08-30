@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Beringraja",
+    "specie": "Beringraja_stellulata",
+    "specie_en": "Starry skate"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "86.1",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Jame2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "47",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "46",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "65/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Jame2011",
+    "temp": "C2K(8.9)",
+    "units.temp": "K",
+    "comment": "speculative, based on related species of the same size"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.5e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00282 *Li^3.24, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9.5*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(8.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(8.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

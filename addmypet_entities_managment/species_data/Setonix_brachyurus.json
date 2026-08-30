@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Macropodidae",
+    "genus": "Setonix",
+    "specie": "Setonix_brachyurus",
+    "specie_en": "Quokka",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1.4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "HindPool1990",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": ".404",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'Bart1956','Russ1982','AnAge'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1332",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Tynd1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": "500 g AnAge"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "726",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "HaysTien1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "13.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WeigJone2005",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "pL",
+      "entity.value": ".1*2.08e7*data.Wwi/1000*data.Ri",
+      "units": "J/d",
+      "label": "average yearly milk production",
+      "bibkey": "CorkDove1989",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "29",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Tynd1973",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "'temp from DawsDenn1969"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "220",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "{'Russ1982','AnAge'}",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "250 d Russ1982, 190 d Anage"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "186",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Tynd1973",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "'190 d Bart1956"
+    }
+  ]
+}

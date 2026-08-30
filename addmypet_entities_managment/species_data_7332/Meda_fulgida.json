@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Meda",
+    "specie": "Meda_fulgida",
+    "specie_en": "Spikedace"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.1",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.56",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "BarbWill1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 3.9"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1749/365",
+    "units": "#/d",
+    "label": "reprod rate at SL 92 mm, TL 108 mm",
+    "bibkey": "BarbWill1970",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BarbWill1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.37",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'fishbase','BarbWill1970'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Li^3.08, F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.76",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','BarbWill1970'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Lp^3.08, F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BarbWill1970",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Mugiliformes",
+    "family": "Mugilidae",
+    "genus": "Chelon",
+    "specie": "Chelon_labrosus",
+    "specie_en": "Thicklip grey mullet",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.50",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "ZouiKhem2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.34",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "ZouiKhem2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "90",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Leij2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Leij2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "R53",
+      "entity.value": "745000/365",
+      "units": "#/d",
+      "label": "reprod rate at L = 53 cm",
+      "bibkey": "Wiki",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "reprod rate for L = 53 cm, Ww = 1700 g (Leij2006)"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8324",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as (90/53)^3*1700"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "data.ah + 15",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ZouiKhem2008",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "ZouiKhem2008",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "all temps are guessed form remark: come to coast if temp > 14 C, Leij2006"
+    },
+    {
+      "entity": "am",
+      "entity.value": "23*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Leij2006",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "Leij2006: females become older than males"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Leij2006",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "2 till 3 yr"
+    }
+  ]
+}

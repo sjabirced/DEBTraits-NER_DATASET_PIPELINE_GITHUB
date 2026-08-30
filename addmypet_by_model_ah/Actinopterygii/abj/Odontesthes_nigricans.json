@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Atheriniformes",
+    "family": "Atherinopsidae",
+    "genus": "Odontesthes",
+    "specie": "Odontesthes_nigricans",
+    "specie_en": "Silverside"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "21.6",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbases gives TL 18 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Odontesthes_regia: 7318*(21.6/26)^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based of egg diameter of 1.8-2.5 mm of Odontesthes_regia: pi/6*0.22^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "62.7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00603*Li^3.01, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "10.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00603*Lp^3.01, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

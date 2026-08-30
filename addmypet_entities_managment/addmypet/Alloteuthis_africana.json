@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Alloteuthis",
+    "specie": "Alloteuthis_africana",
+    "specie_en": "African squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.28,
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "HastPier2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "2.5-3.2 mm for Alloteuthis_subulata"
+    },
+    {
+      "entity": "Li",
+      "entity.value": 18.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "ArkhNeklu1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": 22.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "ArkhNeklu1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 7.7,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "HastPier2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value for Alloteuthis_subulata"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": 7.2,
+      "units": "cm",
+      "label": "mantle length at puberty for males",
+      "bibkey": "HastPier2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value for Alloteuthis_subulata"
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 30000.0,
+      "units": "#",
+      "label": "cum reprod at death at ML 12 cm",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "based on size-corrected value for Alloteuthis_subulata"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 33.1,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "HastPier2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.167*Li^1.83, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": 250.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "ArkhNeklu1993",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

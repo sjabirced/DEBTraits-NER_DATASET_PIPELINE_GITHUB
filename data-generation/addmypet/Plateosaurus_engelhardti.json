@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Saurischia",
+    "family": "Plateosauridae",
+    "genus": "Plateosaurus",
+    "specie": "Plateosaurus_engelhardti",
+    "specie_en": "Plateosaurus",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "30/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Learning",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "Very speculative"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GrieKlei2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Very speculative"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.0e6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GrieKlei2013",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "GrieKlei2013",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

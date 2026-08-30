@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Ascidiacea",
+    "order": "Stolidobranchia",
+    "family": "Styelidae",
+    "genus": "Dendrodoa",
+    "specie": "Dendrodoa_grossularia",
+    "specie_en": "Baked bean ascidian",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "1",
+      "units": "cm",
+      "label": "ultimate diameter",
+      "bibkey": "Mill1954",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.4",
+      "units": "cm",
+      "label": "diameter at puberty",
+      "bibkey": "Mill1954",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.234e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Mill1954",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 287 mum: pi/6*0.0287^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.42",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on diameter 1 cm, height 0.8 cm: pi/6*1*1*0.8"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "11",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Mill1954",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

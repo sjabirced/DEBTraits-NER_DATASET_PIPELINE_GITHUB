@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Spinicaudata",
+    "family": "Cyzicidae",
+    "genus": "Cyzicus",
+    "specie": "Cyzicus_grubei",
+    "specie_en": "Iberian clam shrimp"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.0",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "PerePiri2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "1.158",
+    "units": "cm",
+    "label": "ultimate carapace length for males",
+    "bibkey": "PerePiri2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.821",
+    "units": "cm",
+    "label": "carapace length at puberty",
+    "bibkey": "PerePiri2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "0.813",
+    "units": "cm",
+    "label": "carapace length at puberty for males",
+    "bibkey": "PerePiri2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1068/4",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "PerePiri2014",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "1068 eggs per female, clutch interval guessed at 5 d, based on Artemia salina"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.6e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 200-210 mum of Eulimnadia antlei, but that probably includes the ridges: pi/6*190e-4^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.196",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on foto length 1 cm, height 0.625 cm, thickness 0.2 cm: pi/4*1*0.625*0.4"
+  },
+  {
+    "entity": "am",
+    "entity.value": "180",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PerePiri2014",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "130-150 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "82",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "PerePiri2014",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "75-90 d"
+  }
+]

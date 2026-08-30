@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Venerida",
+    "family": "Veneridae",
+    "genus": "Venus",
+    "specie": "Venus_verrucosa",
+    "specie_en": "Warty venus"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.05",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "PopoMlad2013",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "ultimate shell height",
+    "bibkey": "PehaPopo2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.05",
+    "units": "cm",
+    "label": "shell length at settling",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.58",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "PopoMlad2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PopoMlad2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based onegg diameter of 164 mum: pi/6*0.0164^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "37.9",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "sealifebase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.1591*Li^3.210, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PehaPopo2013",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

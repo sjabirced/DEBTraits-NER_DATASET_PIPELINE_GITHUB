@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Anabantiformes",
+    "family": "Helostomatidae",
+    "genus": "Helostoma",
+    "specie": "Helostoma_temminckii",
+    "specie_en": "Kissing gourami",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "144104/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "HelmSuwi2021",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.6e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HelmSuwi2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.956 mm: pi/6*0.0956^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "557",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01995*Li^3.01, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "69",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01995*Lp^3.01, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Graa2003",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "based on tL data"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Poeciliidae",
+    "genus": "Poecilia",
+    "specie": "Poecilia_reticulata",
+    "specie_en": "Guppy",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.7",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "GarcTron2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.0",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "50/28",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Wiki', 'GarcTron2008'}",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": ".008 * data.Lb^3.0447",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GarcTron2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as .008 * Lb^3.0447"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": ".008 * data.Li^3.0447",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "GarcTron2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as .008 * Li^3.0447"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "28",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2.5 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "74",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

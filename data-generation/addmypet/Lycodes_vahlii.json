@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Zoarcidae",
+    "genus": "Lycodes",
+    "specie": "Lycodes_vahlii",
+    "specie_en": "Vahl",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "52",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13.4",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "Nash1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.113",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 6 mm: pi/6*0.6^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "627",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00219*Li^3.18, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "15",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00219*Lp^3.18, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Erzi1991",
+      "temp": "C2K(3.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Scyliorhinidae",
+    "genus": "Scyliorhinus",
+    "specie": "Scyliorhinus_retifer",
+    "specie_en": "Chain catshark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "10.6",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "CastBubu1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "59",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "CastBubu1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "52",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "CastBubu1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "CastBubu1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki gives 37-50 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/14.1",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "CastBubu1988",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "For TL 44 cm"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "700",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "CastBubu1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": "AnAge 726 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "256",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "CastBubu1988",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "based on Scyliorhinus_canicula "
+    }
+  ]
+}

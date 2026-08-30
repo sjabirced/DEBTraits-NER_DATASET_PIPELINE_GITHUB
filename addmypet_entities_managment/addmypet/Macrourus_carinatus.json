@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Macrouridae",
+    "genus": "Macrourus",
+    "specie": "Macrourus_carinatus",
+    "specie_en": "Ridge scaled rattail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "3.54*32",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "LeeCock2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "3.54*25",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "LeeCock2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.54*21",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "LeeCock2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "15.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "LeeCock2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "79221/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(6.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.6 mm for Coryphaenoides rupestris: pi/6*0.26^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6.45e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "baseed on 0.00229*Li^3.14 g, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "55*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "LeeCock2019",
+      "temp": "C2K(6.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

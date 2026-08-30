@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Desmognathus",
+    "specie": "Desmognathus_brimleyorum",
+    "specie_en": "Ouachita dusky salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.8",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "GuzyHals2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: TL 17.8 cm"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "2.5",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "GuzyHals2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "GuzyHals2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "25/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "20-30 eggs per clutch, assumed 1 clutch each other yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.46e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 4.4 mm for Desmognathus_monticola: pi/6*0.44^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "GuzyHals2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "49",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "based on Plethodon cinereus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GuzyHals2021",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "hightest age in the sample"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Moapa",
+    "specie": "Moapa_coriacea",
+    "specie_en": "Moapa dace"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.8",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ScopBurg1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp and tL data"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.10^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00813*Lp^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.72",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','ScopBurg1992'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "0.7*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

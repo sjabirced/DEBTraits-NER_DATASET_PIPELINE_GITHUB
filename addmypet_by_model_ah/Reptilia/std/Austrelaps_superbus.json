@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "genus": "Austrelaps",
+    "specie": "Austrelaps_superbus",
+    "specie_en": "Lowland copperhead"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "17.5",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "Shin1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "97",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Shin1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "110",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Shin1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "Shin1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "Shin1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "11.9/365",
+    "units": "#/d",
+    "label": "reprod rate at SVL 136.7 cm",
+    "bibkey": "Rohr2001",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.4",
+    "units": "g",
+    "label": "weight at birth",
+    "bibkey": "Rohr2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "432",
+    "units": "g",
+    "label": "ultimate weight for females",
+    "bibkey": "Rohr2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 174.9 g for SVL 71.77 cm: 174.9*(97/71.77)^3)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "maximum life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

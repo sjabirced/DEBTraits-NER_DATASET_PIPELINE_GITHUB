@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Nemertea",
+    "class": "Anopla",
+    "order": "Heteronemertea",
+    "family": "Lineidae",
+    "genus": "Lineus",
+    "specie": "Lineus_viridis",
+    "specie_en": "Green bootlace",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "11.4",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "DohrBeck2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.1",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "DohrBeck2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "DohrBeck2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.7e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "DohrBeck2012",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "based on decrease in wet weight before and after spawning form 254 to 132 mg: 0.122/Wwb per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.3e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Bart1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 400 mum: pi/6*0.04^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.22",
+      "units": "g",
+      "label": "ultimate wet weight of females",
+      "bibkey": "DohrBeck2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.035",
+      "units": "g",
+      "label": "ultimate wet weight of males",
+      "bibkey": "DohrBeck2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.076",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "DohrBeck2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (8/11.4)^3*Wwi"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "DohrBeck2012",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "survived at least 3 yrs in the lab"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "17",
+      "units": "d",
+      "label": "time since birth at settlement",
+      "bibkey": "Wiki_nl",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4.5*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "DohrBeck2012",
+      "temp": "K",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

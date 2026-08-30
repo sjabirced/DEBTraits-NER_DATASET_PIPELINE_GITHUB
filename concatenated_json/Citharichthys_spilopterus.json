@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Paralichthyidae",
+    "genus": "Citharichthys",
+    "specie": "Citharichthys_spilopterus",
+    "specie_en": "Bay whiff"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "21",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.7",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "DiasFiad2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "DiasFiad2005",
+    "temp": "C2K(25.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.7 to 0.8 mm: pi/6*0.075^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "84.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00631*Li^3.12, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "13.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','DiasFiad2005'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00631*Lp^3.12, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(10.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

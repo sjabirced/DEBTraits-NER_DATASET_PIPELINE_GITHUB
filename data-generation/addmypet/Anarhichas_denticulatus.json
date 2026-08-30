@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Anarhichadidae",
+    "genus": "Anarhichas",
+    "specie": "Anarhichas_denticulatus",
+    "specie_en": "Northern wolffish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "MunkNiel2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "yolk sac is resobed at ca 20 mm for both A. lupus and A. minor"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "138",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "WienJoha2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "WienJoha2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "pp. 227"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "42500/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "WienJoha2011",
+      "temp": "C2K(3)",
+      "units.temp": "K",
+      "comment": "temp is between 2-5 degC"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "32 * 1e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'WienJoha2011'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10*30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ShevJoha2011",
+      "temp": "C2K(3)",
+      "units.temp": "K",
+      "comment": "pp. 331 says that incubation time for all three wolf fish species is 9-10 months"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WienJoha2011",
+      "temp": "C2K(3)",
+      "units.temp": "K",
+      "comment": "They live at least 16 years"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "WienJoha2011",
+      "temp": "C2K(3)",
+      "units.temp": "K",
+      "comment": "females mature at 6-8 years or more"
+    }
+  ]
+}

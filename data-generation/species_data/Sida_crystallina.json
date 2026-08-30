@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Ctenopoda",
+    "family": "Sididae",
+    "genus": "Sida",
+    "specie": "Sida_crystallina",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.034",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "nina",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.22",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "nina",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.25",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5/3.9",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Bott1975",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on 5 egg per brood, 3.9 d per moult"
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "31.16e-6",
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "Bott1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Bott1975",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on moult interval of 3.9 d"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Prionailurus",
+    "specie": "Prionailurus_bengalensis",
+    "specie_en": "Leopard cat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": "2.5 cups per litter, 1 litter per yr, but 2 if litter gets lost"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "96",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": "ADW gives 75-120 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3800",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Wiki: 3.8 kg in the tropics, till 7.1 kg in Siberia"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7100",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "620",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tg",
+    "entity.value": "62",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

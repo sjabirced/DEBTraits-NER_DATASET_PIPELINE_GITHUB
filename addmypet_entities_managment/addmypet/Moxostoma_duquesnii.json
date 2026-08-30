@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Moxostoma",
+    "specie": "Moxostoma_duquesnii",
+    "specie_en": "Black redhorse",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "51",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Reid2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "750/365",
+      "units": "#/d",
+      "label": "max Reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.85, which is in the range of other Moxostoma species."
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.144",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.6-2.9 mm: pi/6*0.275^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.39e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01175*Li^2.97, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "36.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','Reid2009'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01175*Lp^2.97, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

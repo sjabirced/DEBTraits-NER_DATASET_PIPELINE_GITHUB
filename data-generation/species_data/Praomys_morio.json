@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Praomys",
+    "specie": "Praomys_morio",
+    "specie_en": "Cameroon soft-furred mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.5*2/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Dela2009",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "'2-3 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Dela2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "37",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Dela2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "36",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Dela2009",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "38",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Dela2009",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "20",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

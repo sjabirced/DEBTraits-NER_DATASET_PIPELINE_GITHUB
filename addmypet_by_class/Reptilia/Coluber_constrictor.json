@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Colubridae",
+    "genus": "Coluber",
+    "specie": "Coluber_constrictor",
+    "specie_en": "Eastern racer"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "21.4",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "Fitc1963",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "147",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "{'ADW','Fitc1963'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: 190 cm total length, whih corresponds with 190*890/(890+257) SVL, Fitc1963"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "80",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "Fitc1963",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data for tp = 2.5 yr"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Beau1995",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "3-32 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.16",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Fitc1963",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1593",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "43",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Fitc1963",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

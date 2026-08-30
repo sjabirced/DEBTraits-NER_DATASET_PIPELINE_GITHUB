@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Trachinidae",
+    "genus": "Trachinus",
+    "specie": "Trachinus_radiatus",
+    "specie_en": "Starry weever",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.08",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(10.5)",
+      "units.temp": "K",
+      "comment": "based on Trachinus draco"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "total length st puberty",
+      "bibkey": "HameDufo2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp = 3.5 yr and tL data"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.0 mm of Trachinus_draco: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.04e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00933*Li^2.97, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "78.9",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','HameDufo2019'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00933*Lp^2.97, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "18",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(10.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HameDufo2019",
+      "temp": "C2K(10.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

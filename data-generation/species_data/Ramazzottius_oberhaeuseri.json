@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Tardigrada",
+    "class": "Eutardigrada",
+    "order": "Parachela",
+    "family": "Hypsibiidae",
+    "genus": "Ramazzottius",
+    "specie": "Ramazzottius_oberhaeuseri",
+    "specie_en": "Water-bear",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.01125",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Grev1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "from Baum1966: 100-125 mum"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.0500",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "MorgKing1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.0225",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Grev1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Baum1966: 200-250 mum"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "10/80",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "wild guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.92e-8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on volume: aspect ratio del = .23: V = 0.25 * pi * del^2 * Lb^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.19e-6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on volume: aspect ratio del = .23: V = 0.25 * pi * del^2 * Li^2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4.73e-7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on volume: aspect ratio del = .23: V = 0.25 * pi * del^2 * Lp^2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "9.5",
+      "units": "d",
+      "label": "time since t_0 at birth",
+      "bibkey": "Grev1980",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "from Baum1966: 8-11 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "900",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Earth",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "for all tardigrades"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "12",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Grev1980",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "from Baum1966"
+    }
+  ]
+}

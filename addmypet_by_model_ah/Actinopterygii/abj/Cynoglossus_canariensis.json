@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Cynoglossidae",
+    "genus": "Cynoglossus",
+    "specie": "Cynoglossus_canariensis",
+    "specie_en": "Canary tonguesole"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "34",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.4e5/365",
+    "units": "#/d",
+    "label": "reprod rate at 40 cm",
+    "bibkey": "guess",
+    "temp": "C2K(17.5)",
+    "units.temp": "K",
+    "comment": "based on Cynoglossus_robustus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.245e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.35 mm of Cynoglossus_robustus: pi/6*0.035^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.1e3",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00380*Li^3.07, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "191",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00380*Lp^3.07, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3.3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(17.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Chau1972",
+    "temp": "C2K(17.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Mullidae",
+    "genus": "Parupeneus",
+    "specie": "Parupeneus_chrysopleuron",
+    "specie_en": "Yellowband goatfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.9e5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(25.9)",
+      "units.temp": "K",
+      "comment": "based on Parupeneus_barberinus: 26432*3093/285.5"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3093",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01349*Li^3.08, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "273",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01349*Lp^3.08, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(25.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

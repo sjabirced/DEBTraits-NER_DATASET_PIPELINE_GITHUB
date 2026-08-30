@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Cambaridae",
+    "genus": "Procambarus",
+    "specie": "Procambarus_virginalis",
+    "specie_en": "Marbled crayfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "E0",
+      "entity.value": "55.56 * 1.5/2.22",
+      "units": "J",
+      "label": "initial energy content of the egg",
+      "bibkey": "{'RodrGarc2006', 'VogtToll2004a'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on Redclaw crayfish: egg diameter (2.22 mm) and energy (55.56 J/egg) [RodrGarc2006], and egg diameter of marble crayfish of 1.5mm [VogtToll2004a] "
+    },
+    {
+      "entity": "LCi",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "VogtFalc2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Carapace length"
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.57",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "VogtToll2004a",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.35",
+      "units": "cm",
+      "label": "total length at hatching",
+      "bibkey": "VogtToll2004a",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "VogtFalc2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'TL: tip of rostrum to end of telson"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "VogtToll2004a",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "450/(8*7)",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "{'VogtFalc2015', 'VogtDorn2019','HossKoub2019'}",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "['Temperature guessed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0053",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SeitVilp2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "30",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "VogtFalc2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "largest in lab 30g, ever recorded in nature 32g (VogtFalc2015 and refs), largest in lab in Vogt2010: 23.5g"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.537",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "SeitVilp2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "20+25",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "VogtToll2004",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'Brood care period for stages 1-3: taken as 25 days"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "20",
+      "units": "d",
+      "label": "age at hatching",
+      "bibkey": "VogtToll2004",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'Embryonic period lasts 17-22days, depending on conditions (VogtToll2004a)"
+    },
+    {
+      "entity": "am",
+      "entity.value": "1154",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Vogt2010",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Mean life span of the most long-lived 10% from Vogt2010 lab population"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "245 - 25",
+      "units": "d",
+      "label": "time since birth at puberty at 20 C",
+      "bibkey": "VogtToll2004a",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Computed as 35 weeks (245 days since hatching, first spawning at 20 C) - 25 days (from hatching to birth)"
+    }
+  ]
+}

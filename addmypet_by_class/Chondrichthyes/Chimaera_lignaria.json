@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Chimaeriformes",
+    "family": "Chimaeridae",
+    "genus": "Chimaera",
+    "specie": "Chimaera_lignaria",
+    "specie_en": "Giant chimaera"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "16.4",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Chimaera_monstrosa"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "142",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "88.6",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Bell2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "65.9",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Bell2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(3.6)",
+    "units.temp": "K",
+    "comment": "based on Chimaera_monstrosa"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "18.7e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00309*Li^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "43*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Bell2012",
+    "temp": "C2K(3.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "33*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Bell2012",
+    "temp": "C2K(3.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Bell2012",
+    "temp": "C2K(3.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

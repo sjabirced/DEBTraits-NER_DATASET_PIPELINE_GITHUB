@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottocomephoridae",
+    "genus": "Batrachocottus",
+    "specie": "Batrachocottus_baicalensis",
+    "specie_en": "Bighead sculpin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "19",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "TolmGavr2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 5 yr, from tL_f data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2700/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.94, as found for  Cottus volki"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "baed on egg diameter of 1.63 mm of Cottus volki: pi/6*0.163^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TolmGavr2008",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

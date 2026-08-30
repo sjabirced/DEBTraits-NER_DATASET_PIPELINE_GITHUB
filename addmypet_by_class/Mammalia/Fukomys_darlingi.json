@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Bathyergidae",
+    "genus": "Fukomys",
+    "specie": "Fukomys_darlingi",
+    "specie_en": "Mashona mole-rat"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "58.8",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5*3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "gbif",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "1-7 pups per litter, 2-3 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Cryptomys_hottentotus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "92",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "54-92 g"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "80",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "60-80 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Cryptomys_hottentotus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "58",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "gbif",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "56-61 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "450",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Cryptomys_hottentotus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "82",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Cryptomys_hottentotus"
+  }
+]

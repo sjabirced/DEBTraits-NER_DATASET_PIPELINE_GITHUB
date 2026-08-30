@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Cyprinus",
+    "specie": "Cyprinus_carpio",
+    "specie_en": "Common carp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.3",
+      "units": "g/g",
+      "label": "gonado somatic index for female",
+      "bibkey": "Criv1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.7",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "WiltEmme2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "WiltEmme2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "130",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Balicubu2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as (Wi/0.0245)^(1/2.952). see F1"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25.1",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "NjouTcho2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3 + (0.2*4.2e-3)",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WiltEmme2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2 mm: 4/3*pi*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "42611.50373+(0.2*42611.50373)",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Balicubu2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "187.16 + (0.2*187.16)",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "NjouTcho2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "FAO",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "38*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "390",
+      "units": "d",
+      "label": "age at puberty for females",
+      "bibkey": "NjouTcho2013",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "330",
+      "units": "d",
+      "label": "age at puberty for males",
+      "bibkey": "NjouTcho2013",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

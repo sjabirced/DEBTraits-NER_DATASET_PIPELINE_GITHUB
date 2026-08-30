@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Saiga",
+    "specie": "Saiga_tatarica",
+    "specie_en": "Saiga antelope",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1.7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": "1.7 calves per litter, 1 litter per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3450",
+      "units": "g",
+      "label": "wet weight at birth of female",
+      "bibkey": "Bann1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3700",
+      "units": "g",
+      "label": "wet weight at birth of male",
+      "bibkey": "Bann1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "30.8e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Bann1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "43.1e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Bann1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "14.5e3",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "152",
+      "units": "d",
+      "label": "gestation time for female calves",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "331",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "669",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "87",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

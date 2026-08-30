@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Lethrinidae",
+    "genus": "Gymnocranius",
+    "specie": "Gymnocranius_euanus",
+    "specie_en": "Japanese large-eye bream"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "45",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "77e3/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.6)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Lethrinus lentjan"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Gymnocranius audleyi"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1572",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01862*Li^2.98, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

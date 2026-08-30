@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Batrachoidiformes",
+    "family": "Batrachoididae",
+    "genus": "Opsanus",
+    "specie": "Opsanus_beta",
+    "specie_en": "Gulf toadfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "22",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "MalcBari2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "35",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "MalcBari2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2200/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(24.6)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.6"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.35e-2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MalcBari2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": " based on egg diameter of 0.4 cm: pi/6*0.4^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MalcBari2009",
+      "temp": "C2K(24.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

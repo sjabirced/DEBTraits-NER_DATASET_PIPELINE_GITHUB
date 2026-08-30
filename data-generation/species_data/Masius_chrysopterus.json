@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Pipridae",
+    "genus": "Masius",
+    "specie": "Masius_chrysopterus",
+    "specie_en": "Golden-winged manakin",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "avibase",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "1 clutch per yr, 2 eggs per clutch"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "1.73",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "SalaLand2022",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SalaLand2022",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "11.74",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10.4",
+      "units": "g",
+      "label": "ultimate wet weight male",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "22",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "SalaLand2022",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "based on other Chiroxiphia species"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "48",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "based on other Chiroxiphia species"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "16",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "SalaLand2022",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "based on other Chiroxiphia species"
+    }
+  ]
+}

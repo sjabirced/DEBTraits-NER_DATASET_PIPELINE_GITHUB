@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Carditida",
+    "family": "Astartidae",
+    "genus": "Astarte",
+    "specie": "Astarte_borealis",
+    "specie_en": "Northern astarte"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.02",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "MossSurg2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.22",
+    "units": "cm",
+    "label": "ultimate shell height",
+    "bibkey": "MossSurg2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.8e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(5.5)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.98"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.8e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MossSurg2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 200 mum: pi/9*0.02^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "sealifebase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.2321*Li^2.920, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "150*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MossSurg2018",
+    "temp": "C2K(5.5)",
+    "units.temp": "K",
+    "comment": "reported from NW Greenland"
+  }
+]

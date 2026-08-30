@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Venerida",
+    "family": "Veneridae",
+    "genus": "Chamelea",
+    "specie": "Chamelea_gallina",
+    "specie_en": "Striped venus clam"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.4",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "BargVasa2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.03",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "DelgSilv2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "797424/365",
+    "units": "#/d",
+    "label": "maximum reprod rate at SL 3 cm",
+    "bibkey": "DelgSilv2013",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "'partial fecundity"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.44e-07",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "DelgSilv2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from guessed egg diameter of 65 mum: pi/6*0.0065^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "19.9",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed as 0.0002*(Li*10)^3.041, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "52/24",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "45*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

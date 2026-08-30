@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Nemacheilidae",
+    "genus": "Paracobitis",
+    "specie": "Paracobitis_malapterura",
+    "specie_en": "Western crested loach"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.5",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Robo1981",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "PatiAdin2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.74",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "PatiAdin2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.69",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "PatiAdin2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1180/365",
+    "units": "#/d",
+    "label": "Reprod rate max size",
+    "bibkey": "PatiAdin2009",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Robo1981",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Computed from egg diameter of 0.8 mm: 4/3*pi*0.04^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30.55",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "PatiAdin2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "4.9",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "Asay2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Bas Kooijman tWw_f data gives 11.28 g at tp"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "13.58",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "Asay2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Bas Kooijman tWw_m data gives 3.4 g at tpm"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PatiAdin2009",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "['PatiAdin2009 report max ages of the population observed were 3+ years for males and 4+ for females"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "age at puberty for females",
+    "bibkey": "MousKama2012",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "age at puberty for males",
+    "bibkey": "MousKama2012",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

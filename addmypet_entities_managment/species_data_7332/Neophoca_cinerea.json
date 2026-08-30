@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Otariidae",
+    "genus": "Neophoca",
+    "specie": "Neophoca_cinerea",
+    "specie_en": "Australian sea lion"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Gold2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": "60-70 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "180",
+    "units": "cm",
+    "label": "total length fem.",
+    "bibkey": "Gold2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": "130-180 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "250",
+    "units": "cm",
+    "label": "total length male",
+    "bibkey": "Gold2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": "180-250 cm cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/ ((14 + 18) * 30.5)",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Gold2018",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "assuming pup is every 14 + 18 months "
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Gold2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": "6-9 kg"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "105e3",
+    "units": "g",
+    "label": "ultimate wet weight fem.",
+    "bibkey": "Gold2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": "61 - 105 kg"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "250e3",
+    "units": "g",
+    "label": "ultimate wet weight male",
+    "bibkey": "Gold2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": "180-250 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "26 *365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Gold2018",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "'for females"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "14*30.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Gold2018",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "14 months"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "time since birth at puberty (female)",
+    "bibkey": "Gold2018",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "4.5–6 years"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "time since birth at puberty (male)",
+    "bibkey": "Gold2018",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "6 years of more for males"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "18*30.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Gold2018",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "usually around 18 months, can be extended to three or more years if no pup in subsequent breeding season or new pup dies "
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Natalidae",
+    "genus": "Natalus",
+    "specie": "Natalus_mexicanus",
+    "specie_en": "Mexican greater funnel-eared bat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "'1 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.98",
+    "units": "g",
+    "label": "wet weight at birth for female",
+    "bibkey": "MartGuti2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "MartGuti2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "18.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "90",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "ADW gives 8-10 mnth, but also that Wwb = 2.1 g"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "650",
+    "units": "d",
+    "label": "time since birth at first litter female",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "based on long tg"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "35",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "MartGuti2021",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

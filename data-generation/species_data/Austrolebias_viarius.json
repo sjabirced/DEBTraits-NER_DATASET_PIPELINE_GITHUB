@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Rivulidae",
+    "genus": "Austrolebias",
+    "specie": "Austrolebias_viarius",
+    "specie_en": "Killifish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.565,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "ErreDanu2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 6.8,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "ErreDanu2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 3.5,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ErreDanu2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 150.0,
+      "units": "#",
+      "label": "cum # eggs till 200 d",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.00108,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ErreDanu2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 2.0,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ErreDanu2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on  0.0029*Li^3.4123, see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": 200.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ErreDanu2001",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 75.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ErreDanu2001",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

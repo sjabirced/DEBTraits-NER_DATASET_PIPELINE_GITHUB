@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Clupeidae",
+    "genus": "Sprattus",
+    "specie": "Sprattus_sprattus",
+    "specie_en": "Sprat",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "16",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "VitaMitt2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "78995/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fushbase",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.1e-4",
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.99 mm: pi/6*0.099^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "28.6",
+      "units": "g",
+      "label": "ultimate weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Li using F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "9.08",
+      "units": "g",
+      "label": "weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lp using F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "average life span: 7-8 years, though max. age observed is 13 years old"
+    }
+  ]
+}

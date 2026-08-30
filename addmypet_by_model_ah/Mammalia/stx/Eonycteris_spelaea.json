@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Pteropodidae",
+    "genus": "Eonycteris",
+    "specie": "Eonycteris_spelaea",
+    "specie_en": "Cave nectar bat"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "48",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": "corrected PNAS table is used"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": "'1 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Dobsonia_moluccensis: 55*50/480"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "80",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "35-82 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "57",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "21.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": "typical values for the group"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "4.5*30.6",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "3-6 mnth"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "0.75*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "3*30.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

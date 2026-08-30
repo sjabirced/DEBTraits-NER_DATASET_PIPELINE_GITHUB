@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cichliformes",
+    "family": "Cichlidae",
+    "genus": "Trematocara",
+    "specie": "Trematocara_variabile",
+    "specie_en": "Cichlid"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "17",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "NiyoIsum2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "140/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on Lethrinops_parvidens"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8-1.53 mm of Hemichromis_fasciatus: pi/6*0.128^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "34.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','NiyoIsum2015'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Li^3.21, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.1",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Lp^3.21, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

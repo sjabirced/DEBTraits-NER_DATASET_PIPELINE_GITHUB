@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Pseudomys",
+    "specie": "Pseudomys_novaehollandiae",
+    "specie_en": "New Holland mouse"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'Kemp1976','Wiki'}",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "'4 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on P. australis"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "17",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Kemp1979",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "14.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Kemp1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on P. australis"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "31.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Kemp1976",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "13*7",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Kemp1976",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "20*7",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Kemp1976",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "24",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Kemp1976",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

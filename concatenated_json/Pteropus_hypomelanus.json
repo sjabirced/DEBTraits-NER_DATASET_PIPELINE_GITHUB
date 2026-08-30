@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Pteropodidae",
+    "genus": "Pteropus",
+    "specie": "Pteropus_hypomelanus",
+    "specie_en": "Small flying fox"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "290.10",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "1 pup per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "60",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Pteropus_rufus: 82.5*470/650"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "470",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "467.5-472.5 g"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "672",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "567-576 g "
+  },
+  {
+    "entity": "am",
+    "entity.value": "10.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "based on Dobsonia moluccensis"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "200",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "42",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Wiki",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

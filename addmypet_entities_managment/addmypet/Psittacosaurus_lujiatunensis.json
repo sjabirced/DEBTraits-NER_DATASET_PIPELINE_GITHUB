@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Ornithischia",
+    "family": "Psittacosauridae",
+    "genus": "Psittacosaurus",
+    "specie": "Psittacosaurus_lujiatunensis",
+    "specie_en": "Psittacosaurus",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "34/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ErikMako2009",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "250",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ErikMako2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "38.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ErikMako2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ErikMako2009",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ErikMako2009",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

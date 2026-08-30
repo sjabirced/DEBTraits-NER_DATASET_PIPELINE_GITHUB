@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Colubridae",
+    "genus": "Thamnophis",
+    "specie": "Thamnophis_gigas",
+    "specie_en": "Giant garter snake"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": ".8*45",
+    "units": "cm",
+    "label": "SVL at hatching",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on same relative length, compared to Coronella austriaca"
+  },
+  {
+    "entity": "Li",
+    "entity.value": ".8*165",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": ".8*130",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Li"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "17/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "17 eggs per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1678",
+    "units": "g",
+    "label": "ulitmate wet weight",
+    "bibkey": "EoL",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ap",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

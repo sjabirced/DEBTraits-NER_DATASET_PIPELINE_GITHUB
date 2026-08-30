@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Mytiloida",
+    "family": "Mytilidae",
+    "genus": "Mytilaster",
+    "specie": "Mytilaster_minimus",
+    "specie_en": "Dwarf mussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.018",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "2.0",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Mont2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.25",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "Mont2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.45",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Mont2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1400",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Mont2011",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.50",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Mont2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.015",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Mont2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.1",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "SaraBuff2004",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "182",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Rina2011",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

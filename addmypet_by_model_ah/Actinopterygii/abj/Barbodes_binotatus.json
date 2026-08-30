@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Barbodes",
+    "specie": "Barbodes_binotatus",
+    "specie_en": "Spotted barb"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.16",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "PutrPert2022",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.5e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AbduAlZa2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.888 mm: pi/6*0.189^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "104",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Li^3.12, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "12",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Lp^3.12, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "18*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

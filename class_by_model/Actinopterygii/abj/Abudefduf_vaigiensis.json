@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "OvalentariaIncSed",
+    "family": "Pomacentridae",
+    "genus": "Abudefduf",
+    "specie": "Abudefduf_vaigiensis",
+    "specie_en": "Indo-Pacific sergeant"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SudhSham2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.7e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length 1.7 mm and egg diameter 1.4 mm of P. amboinensis: pi/6*0.17*0.14^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "242",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02455*Li^3.07, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "58.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02455*Lp^3.07, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": "based on Chromis chromis"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Murt2002",
+    "temp": "C2K(28.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

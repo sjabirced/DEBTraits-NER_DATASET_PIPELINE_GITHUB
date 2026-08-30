@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Muraenolepididae",
+    "genus": "Muraenolepis",
+    "specie": "Muraenolepis_marmorata",
+    "specie_en": "Marbled moray cod",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "44",
+      "units": "cm",
+      "label": "ultimate length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "KompRoja1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3e4/365",
+      "units": "#/d",
+      "label": "ultimate reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": "guessed yearly fecundity 30000 eggs per year"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.65 mm: pi/6*0.065^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "780",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00437*Li^3.11, see F1, gives 564 g"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "65",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','KompRoja1996'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00437*Lp^3.11, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KompRoja1996",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

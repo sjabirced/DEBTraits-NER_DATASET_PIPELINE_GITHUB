@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Barbus",
+    "specie": "Barbus_meridionalis",
+    "specie_en": "Mediterranean barbel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "27",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.7e4/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "Neop1987",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.0e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from egg diameter of 1.25 mm: pi/6*0.125^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "209.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fisbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01175*Li^2.97, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "14.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01175*Lp^2.97, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

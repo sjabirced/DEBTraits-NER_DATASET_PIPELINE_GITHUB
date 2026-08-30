@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Hynobiidae",
+    "genus": "Hynobius",
+    "specie": "Hynobius_yangi",
+    "specie_en": "Kori salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6.14",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "6.26",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*66/365",
+      "units": "#/d",
+      "label": "max reprduction rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "'66 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.11e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.70 - 2.84mm: pi/6*0.277^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.64",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'guess','amphibiaweb'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on Onychodactylus_japonicus: 9.65*(6.3/9.7)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5*7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

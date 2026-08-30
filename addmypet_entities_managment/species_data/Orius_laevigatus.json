@@ -1,0 +1,44 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hemiptera",
+    "family": "Anthocoridae",
+    "genus": "Orius",
+    "specie": "Orius_laevigatus",
+    "specie_en": "Minute pirate bug",
+    "deb_model": "hep"
+  },
+  "data": [
+    {
+      "entity": "Ni",
+      "entity.value": "150",
+      "units": "#",
+      "label": "total fecundity",
+      "bibkey": "SancLaca2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.7e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'Kopp2025','Wiki','ArijPatr2001'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 0.4 mm, width 0.04/3: pi/6*0.04^3/9"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.2*5.1500e-04",
+      "units": "g",
+      "label": "asymptotic wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "hypothetical: 1.2*Ww_j"
+    }
+  ]
+}

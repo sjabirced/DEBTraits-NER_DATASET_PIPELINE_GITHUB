@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Cottus",
+    "specie": "Cottus_aleuticus",
+    "specie_en": "Coastrange sculpin"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "17",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.5",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Patt1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.63 mm for Cottus volki: pi/6*0.163^3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "50.3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Lim^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.78",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'fishbase','Patt1971'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Lp^3.13, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

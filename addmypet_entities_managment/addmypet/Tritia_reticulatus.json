@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Neogastropoda",
+    "family": "Nassariidae",
+    "genus": "Tritia",
+    "specie": "Tritia_reticulatus",
+    "specie_en": "Netted dog whelk",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.02",
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "ChatRich2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "3.1",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "ChatRich2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.64",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "ChatRich2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1050/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "ZupoPatt2009",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "several eggs capsules per individual, 100-120 lecithotrophic embryos per capsule, which developed until the veliger stage was reached"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.4",
+      "units": "g",
+      "label": "ultimate flesh weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on same relative weight, compared to Buccinanops_deformis: 31.6*(3.1/6.5)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "15",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BarrMore2007",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ChatRich2007",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "38",
+      "units": "d",
+      "label": "time since birth at settlement",
+      "bibkey": "ChatRich2007",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

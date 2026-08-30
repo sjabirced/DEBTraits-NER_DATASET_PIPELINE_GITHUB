@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anostraca",
+    "family": "Chirocephalidae",
+    "genus": "Eubranchipus",
+    "specie": "Eubranchipus_grubii",
+    "specie_en": "Fairy shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.105",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Kall1955",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "2.95",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Kall1955",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.65",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Kall1955",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "800/20",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "800 eggs in 20 d"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.0127",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "Dabo1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on F1 for Eubranchipus bundyi and Li"
+    },
+    {
+      "entity": "am",
+      "entity.value": "45",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Kall1955",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

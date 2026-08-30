@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Tetraodontidae",
+    "genus": "Tetraodon",
+    "specie": "Tetraodon_lineatus",
+    "specie_en": "Globe fish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.065",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "AbouFarr2021",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "43",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.6e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.85 - 0.91 mm of Sphoeroides maculatus: pi/6*0.088^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02570*Li^2.88, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AbouFarr2021",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

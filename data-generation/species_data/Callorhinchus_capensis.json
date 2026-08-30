@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Chimaeriformes",
+    "family": "Callorhinchidae",
+    "genus": "Callorhinchus",
+    "specie": "Callorhinchus_capensis",
+    "specie_en": "Cape elephantfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "13*98/120",
+      "units": "cm",
+      "label": "fork length at birth",
+      "bibkey": "IUCN",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "98",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "SASAA",
+      "temp": null,
+      "units.temp": null,
+      "comment": "IUCN: 120 cm total length"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "49.6",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "IUCN",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'females, IUCN"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "22/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "FreeGrif1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "275",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "IUCN",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "IUCN: 9-12 months"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1533",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "for females, 1204 d for males"
+    }
+  ]
+}

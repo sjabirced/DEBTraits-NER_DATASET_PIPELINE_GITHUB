@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Phyllostomidae",
+    "genus": "Chrotopterus",
+    "specie": "Chrotopterus_auritus",
+    "specie_en": "Big-eared woolly bat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "141.3",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "McNa1969",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "WhitSeym2003: 31.1 ml O2/h for Ww=96.1 g and say that they got it from McNa1969"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "EsbeMotta2006",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "' 1 pup per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "22.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "EsbeMotta2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "96.1",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "McNa1969",
+      "temp": null,
+      "units.temp": null,
+      "comment": "75 to 96 g"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "60",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "100",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Wiki",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "based on Anoura geoffroyi"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "EsbeMotta2006",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

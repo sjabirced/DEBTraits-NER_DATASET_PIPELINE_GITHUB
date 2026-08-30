@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Heterololigo",
+    "specie": "Heterololigo_bleekeri",
+    "specie_en": "Spear squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.32,
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "IkedSaku2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Doryteuthis_pealeii"
+    },
+    {
+      "entity": "Li",
+      "entity.value": 40.0,
+      "units": "cm",
+      "label": "mantle length at death",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 25.0,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 12000.0,
+      "units": "#",
+      "label": "fecundity",
+      "bibkey": "guess",
+      "temp": "C2K(14.7)",
+      "units.temp": "K",
+      "comment": "based on Doryteuthis_pealeii and corrected for mantle length at birth and death: (0.2/0.32)^3 * (40/27)^3 * 1.5e4"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 2000.0,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based in length-weight of Doryteuthis_opalescens: (40/14)^3*86"
+    },
+    {
+      "entity": "am",
+      "entity.value": 365.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "Wiki",
+      "temp": "C2K(14.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

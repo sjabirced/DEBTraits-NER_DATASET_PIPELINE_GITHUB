@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Noctilionidae",
+    "genus": "Noctilio",
+    "specie": "Noctilio_albiventris",
+    "specie_en": "Lesser bulldog bat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "'1 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.5",
+    "units": "g",
+    "label": "wet weight at birth for female",
+    "bibkey": "BrowBrow1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "31.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "4-5 wk"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at first litter female",
+    "bibkey": "Wiki",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "75",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "BrowBrow1983",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "fully weaned at 75-90 d"
+  }
+]

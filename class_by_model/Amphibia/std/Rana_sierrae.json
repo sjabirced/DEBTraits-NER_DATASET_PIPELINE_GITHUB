@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Rana",
+    "specie": "Rana_sierrae",
+    "specie_en": "Sierra Nevada yellow-legged frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.5",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "FellKlee2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "7.1",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "FellKlee2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.54",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "FellKlee2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "4.45",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "FellKlee2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "500/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "guess based on 500 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.05",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on Bufo bufo"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "73.5",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "FellKlee2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "48.3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "FellKlee2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FellKlee2013",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "FellKlee2013",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "FellKlee2013",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": "2-5th yr"
+  }
+]

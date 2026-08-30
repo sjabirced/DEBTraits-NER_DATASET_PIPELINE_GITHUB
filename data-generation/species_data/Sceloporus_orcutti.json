@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Phrynosomatidae",
+    "genus": "Sceloporus",
+    "specie": "Sceloporus_orcutti",
+    "specie_en": "Granite spiny lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.25",
+      "units": "cm",
+      "label": "SVL ate birth",
+      "bibkey": "Mayh1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": "3.0-3.5 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10.8",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.5",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "Mayh1963a",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "11/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Mayh1963a",
+      "temp": "C2K(22.7)",
+      "units.temp": "K",
+      "comment": "11 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "73.3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "{'Wiki','Mayh1963'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Li and LW data: 17.5*(10.8/6.7)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "48",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Engraulidae",
+    "genus": "Coilia",
+    "specie": "Coilia_brachygnathus",
+    "specie_en": "Yangtse grenadier anchovy",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "35.4",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "17.21",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "YimeCao2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": "based on Coilia_borneensis: 2558*156.6/6.91"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "156.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00275*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "17",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','YimeCao2023'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00275*Lp^3.07, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "9",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "QinWang2018",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

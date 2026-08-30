@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Valvatoida",
+    "family": "Valvatidae",
+    "genus": "Valvata",
+    "specie": "Valvata_cristata",
+    "specie_en": "Crested valve snail"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.038,
+    "units": "cm",
+    "label": "shell height at birth",
+    "bibkey": "Myzy2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.393,
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Myzy2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": 0.039,
+    "units": "cm",
+    "label": "shell height at settlement",
+    "bibkey": "Myzy2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.2475,
+    "units": "cm",
+    "label": "shell height at puberty for female",
+    "bibkey": "Myzy2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "2.05-2.95 mm"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 134.0,
+    "units": "#",
+    "label": "lifetime reprod output",
+    "bibkey": "Myzy2002",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "51 cocoons"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 0.0198,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Planorbis planorbis (including shell): 4.336e-1 * (0.393/1.1)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": 1170.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Myzy2002",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "uder good feeding conditions 377 d, upto 1170 under poor feeding conditions"
+  }
+]

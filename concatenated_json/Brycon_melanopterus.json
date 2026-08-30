@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Characiformes",
+    "family": "Bryconidae",
+    "genus": "Brycon",
+    "specie": "Brycon_melanopterus",
+    "specie_en": "Sickle-band brycon"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "38",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18.3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Bryon moorei: 38*25.5/53"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "312500/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "Azev2010",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": "based on relative fecundity of 0.5 for small Characiformes: absolute fecundity: 1e3*0.5*625"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.9e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.25 mm of Bryocon moorei: pi/6*0.195^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "625",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01318*Lp^2.96, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "71.9",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": "based on Brycon opalinus"
+  }
+]

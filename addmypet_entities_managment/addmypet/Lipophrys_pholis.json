@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Blenniiformes",
+    "family": "Blenniidae",
+    "genus": "Lipophrys",
+    "specie": "Lipophrys_pholis",
+    "specie_en": "Shanny",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.025",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "CarvMore2012",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "16",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "FariAlma1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.5 mm : pi/6*0.15^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "38",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'EoL','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.00930 * Li^3, see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

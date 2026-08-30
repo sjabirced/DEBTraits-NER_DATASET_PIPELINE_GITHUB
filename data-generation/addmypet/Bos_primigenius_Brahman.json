@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Bos",
+    "specie": "Bos_primigenius_Brahman",
+    "specie_en": "Brahman zebu",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JXL",
+      "entity.value": "5100",
+      "units": "g/d",
+      "label": "milkproduction",
+      "bibkey": "BreitButt1992",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/(data.tg + 79)",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "BreitButt1992",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "31.2e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BreitButt1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "700e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "BreitButt1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "1100e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "BreitButt1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "304e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "BreitButt1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "420e3",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "BreitButt1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "216.5e3",
+      "units": "g",
+      "label": "wet weight at weaning for females",
+      "bibkey": "BreitButt1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwxm",
+      "entity.value": "280e3",
+      "units": "g",
+      "label": "wet weight at weaning for males",
+      "bibkey": "BreitButt1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BreitButt1992",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "293.7",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "BreitButt1992",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "454",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "BreitButt1992",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "485.4",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "BreitButt1992",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "205",
+      "units": "d",
+      "label": "time since birth at weaning for females",
+      "bibkey": "BreitButt1992",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "txm",
+      "entity.value": "219",
+      "units": "d",
+      "label": "time since birth at weaning for males",
+      "bibkey": "BreitButt1992",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

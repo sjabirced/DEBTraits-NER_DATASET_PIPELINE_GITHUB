@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Chrosomus",
+    "specie": "Chrosomus_cumberlandensis",
+    "specie_en": "Blackside dace"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.6",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "StarStar1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 3.53 cm and F2"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2872/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "StarStar1981",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "StarStar1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.36 mm: pi/6*0.136^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "StarStar1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LW data"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.59",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','StarStar1981'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi*(Lp/Li)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

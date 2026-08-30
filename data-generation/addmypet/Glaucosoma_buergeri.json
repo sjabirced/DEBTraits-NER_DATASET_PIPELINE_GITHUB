@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acropomatiformes",
+    "family": "Glaucosomatidae",
+    "genus": "Glaucosoma",
+    "specie": "Glaucosoma_buergeri",
+    "specie_en": "Deepsea jewfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "32",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "CampJoin2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Glaucosoma scapulare"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e6/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "CampJoin2023",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Glaucosoma scapulare: 1e6"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 1.25 mm : pi/6*0.125^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.57e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02399*Li^2.89, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "537",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02399*Lp^2.89, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "27*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Newm2002",
+      "temp": "C2K(27.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

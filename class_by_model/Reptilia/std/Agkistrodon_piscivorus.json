@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Viperidae",
+    "genus": "Agkistrodon",
+    "specie": "Agkistrodon_piscivorus",
+    "specie_en": "Water moccasin"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "20.5",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki TL = 22 to 35 cm, with mean 28 cm"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "137",
+    "units": "cm",
+    "label": "ultimate SVL males",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'converted from TL = 188 cm to SVL, using F3"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "48",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "HillBeau2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "'5 to 9 or 16 young per clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "16",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HillBeau2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "4.6e3",
+    "units": "g",
+    "label": "ultimate wet weight of males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "since males are larger than females, the assumetion is that this value concerns a male"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "24.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1095",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "ADW",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

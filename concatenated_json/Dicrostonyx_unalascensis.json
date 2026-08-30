@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Dicrostonyx",
+    "specie": "Dicrostonyx_unalascensis",
+    "specie_en": "Unalaska Island Collared Lemming"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5*11/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": "'11 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MorrDiet1977",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "112",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "60",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "MorrDiet1977",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": "based on D. groenlandicus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "20",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": "19-21 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "40",
+    "units": "d",
+    "label": "time since birth at puberty female",
+    "bibkey": "guess",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": "based on D. groenlandicus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "17.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": "15-20 d"
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Hexagrammidae",
+    "genus": "Hexagrammos",
+    "specie": "Hexagrammos_agrammus",
+    "specie_en": "Spotty-bellied  Greenling",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "21.5",
+      "units": "cm",
+      "label": "ultimate std length",
+      "bibkey": "KuriSano1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "18.5",
+      "units": "cm",
+      "label": "ultimate std length for males",
+      "bibkey": "KuriSano1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7.1",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative length, compared to Hexagrammos_stelleri: 18.5 *(18.5/48)"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.2e3/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on same relative fecundity, compared to Hexagrammos_stelleri: 38.4e3*(18.5/48)^3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.75 mm for Hexagrammos_stelleri: pi/6*0.175^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "179",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00934*(Lp/0.86)^3.064, s22 F1, F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "6.0",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KuriSano1991",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "species": "Enteromius_liberiensis",
+    "species_en": "Barbel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12.9",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on max SL of 10 cm and photo to convert SL to TL"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on max SL of 5.5 cm and photo to convert SL to TL"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5e2/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.93"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.0e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from egg diameter of 1.25 mm: 4/3*pi*0.062^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "23.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Weim2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "18.8 g based on length-weight of Barbus barbus"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.92",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Weim2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "guess based on Barbus barbus with temp correction"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Payn1976",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

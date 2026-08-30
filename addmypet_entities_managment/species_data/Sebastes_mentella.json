@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastes",
+    "specie": "Sebastes_mentella",
+    "specie_en": "Deepwater redfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "77.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "33.7",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "BakaMeln2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "32.2",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "BakaMeln2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "94e3/365",
+      "units": "#/d",
+      "label": "reprod rate at 48.3 cm",
+      "bibkey": "SaboDomi2015",
+      "temp": "C2K(3.6)",
+      "units.temp": "K",
+      "comment": "based on relative fecundity of 64 oocytes per g, for 1308 g, at TL of 48.3 cm"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SaboDomi2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.833 mm: pi/6*0.0833^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "75*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(3.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

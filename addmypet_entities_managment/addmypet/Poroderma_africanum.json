@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Scyliorhinidae",
+    "genus": "Poroderma",
+    "specie": "Poroderma_africanum",
+    "specie_en": "Striped catshark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "L_24",
+      "entity.value": "82.4",
+      "units": "cm",
+      "label": "total length 24 yr",
+      "bibkey": "Grus2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "14.6",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "KiyaJohn2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "100",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Grus2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "79",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Grus2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "78",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Grus2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.5/30.5",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "KiyaJohn2023",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "17.19",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KiyaJohn2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.2e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "KiyaJohn2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW_f data"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.56e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "KiyaJohn2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/Li)^3 * Wwi"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "239.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "KiyaJohn2023",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "temps of all data are guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "6.6*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "KiyaJohn2023",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

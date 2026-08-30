@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Zoarcidae",
+    "genus": "Gymnelus",
+    "specie": "Gymnelus_viridis",
+    "specie_en": "Fish doctor"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "arcodiv",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbased give 56 cm, but other sources 30 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "106/365",
+    "units": "#/d",
+    "label": "reprod rate at 13 cm",
+    "bibkey": "arcodiv",
+    "temp": "C2K(-0.5)",
+    "units.temp": "K",
+    "comment": "Length 13 cm is guessed on the basis of most frequently length"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0335",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "arcodiv",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 4 mm: pi/6*0.4^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "163",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00363*Li^3.15, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "arcodiv",
+    "temp": "C2K(-0.5)",
+    "units.temp": "K",
+    "comment": "at leat 12 yr"
+  }
+]

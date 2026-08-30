@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Scombridae",
+    "genus": "Scomber",
+    "specie": "Scomber_scombrus",
+    "specie_en": "Mackerel"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.471",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "MendAlva2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "different values at diffent temperatures (MendAlva2007)"
+  },
+  {
+    "entity": "Lh",
+    "entity.value": "0.37",
+    "units": "cm",
+    "label": "total length at hatch",
+    "bibkey": "MendAlva2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "63",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Lock1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "28.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.996e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Damm2007",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "Mackerel fecundity 2007 v1_1). linear regression used till animal of 2.8kg. Could be lower (Jansen)."
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "55e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MendAlva2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2800",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "anglingtrust",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "175",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "MendAlva2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ah",
+    "entity.value": "239.6/24",
+    "units": "d",
+    "label": "age at hatch",
+    "bibkey": "MendAlva2006",
+    "temp": "C2K(11.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "MendAlva2006",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "2 years, maturity oogive WGWIDE, 58% is mature at age 2"
+  },
+  {
+    "entity": "tb",
+    "entity.value": "4",
+    "units": "d",
+    "label": "time since hatch at birth",
+    "bibkey": "MendAlva2006",
+    "temp": "C2K(11.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

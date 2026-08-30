@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Austroglanididae",
+    "genus": "Austroglanis",
+    "specie": "Austroglanis_gilli",
+    "specie_en": "Clanwilliam catfish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.05",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Mtho2009",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13.7",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.23",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Mtho2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Mtho2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.8 mm: pi/6*0.18^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "28.55",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.6",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'fishbase','Mtho2009'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Lp^3.04, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Mtho2009",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

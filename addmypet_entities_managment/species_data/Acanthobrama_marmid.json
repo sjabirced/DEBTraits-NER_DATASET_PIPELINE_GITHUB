@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Acanthobrama",
+    "specie": "Acanthobrama_marmid",
+    "specie_en": "Tigris bream",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "29",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11.4",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "UlnuBlaci1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 1.2 mm: pi/6*0.12^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "226.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00759*Li^3.06, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "13",
+      "units": "g",
+      "label": "wet weight at puberty\\",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as 0.00759*Lp^3.06, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

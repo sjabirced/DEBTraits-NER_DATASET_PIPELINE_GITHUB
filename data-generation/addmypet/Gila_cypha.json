@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Gila",
+    "specie": "Gila_cypha",
+    "specie_en": "Humpback chub",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "mean([6.7,7.4])/10",
+      "units": "cm",
+      "label": "standard length at birth",
+      "bibkey": "Hamm1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "length at hatch actually"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "41",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Hamm1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase says Li of males in 38, we here take the max female TL from this study"
+    },
+    {
+      "entity": "RL",
+      "entity.value": "5445/365",
+      "units": "#/d",
+      "label": "ultimate reprod rate",
+      "bibkey": "Hamm1982",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "fecundity of 40.6 TL female, temp is a guessed average of what an individaul experiences in a year"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "mean([2.8,4.2]) * 1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Hamm1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "wet weight at hatch actually"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "716",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'fishbase', 'guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "0.00813 * 38^3.13, see discussion "
+    },
+    {
+      "entity": "ah",
+      "entity.value": "mean([102,149])/24",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "Hamm1982",
+      "temp": "C2K(21.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "natureserve",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "guessed, report says several years"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2 * 365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "natureserve",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "source says adults are at least 2-3 years old"
+    }
+  ]
+}

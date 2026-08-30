@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Rivulidae",
+    "genus": "Austrolebias",
+    "specie": "Austrolebias_adloffi",
+    "specie_en": "Killifish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.51",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Kryptolebias_marmoratus"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.64",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "LiuWalf1966",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "102",
+      "units": "#",
+      "label": "cum # eggs till 335 d",
+      "bibkey": "WalfLiu1965",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "335",
+      "units": "d",
+      "label": "mean life span",
+      "bibkey": "WalfLiu1965",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "WalfLiu1965",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

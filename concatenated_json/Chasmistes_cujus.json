@@ -1,0 +1,90 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "species": "Chasmistes_cujus",
+    "species_en": "Cui-ui"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fws",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "27.5 inches"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "mean([44,49])",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "WarrBurr2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "mean value of length at puberty from table 13.4 - life history of Chasmistes."
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "60000/365",
+    "units": "#/d",
+    "label": "Ultimate reprod rate",
+    "bibkey": "WarrBurr2014",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "'temp is guessed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'guess', 'WarrBurr2014'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from egg diameter of 2 mm: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3493",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fws",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "7.7 lbs"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "12",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "WarrBurr2014",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "'incubation time for Chasmistes table 13.4 - life history of Chasmiste is 9 d - time to first feeding is likely a bit longer"
+  },
+  {
+    "entity": "am",
+    "entity.value": "44 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "WarrBurr2014",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "'guessed temp"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "mean([5,7])*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "WarrBurr2014",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "guessed temp and we here took the mean value of age at puberty from table 13.4 - life history of Chasmistes."
+  }
+]

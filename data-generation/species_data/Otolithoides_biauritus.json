@@ -1,0 +1,83 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "species": "Otolithoides_biauritus",
+    "species_en": "Bronze croaker",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "160",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "93",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "GhosMoha2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1941400/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "GhosMoha2009",
+      "temp": "C2K(28.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.6e-4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "GhosMoha2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.79 mm: pi/6*0.079^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "27.7e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00676*Li^3.00, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "5.4e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','GhosMoha2009'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00676*Lp^3.00, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

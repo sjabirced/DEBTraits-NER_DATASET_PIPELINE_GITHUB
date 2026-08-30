@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "genus": "Pseudanodonta",
+    "specie": "Pseudanodonta_complanata",
+    "specie_en": "Depressed river mussel"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": ".0254",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Jirk1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "value for Actinonaias_ligamentina"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Jans2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 2 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "15e3/365",
+    "units": "#/d",
+    "label": "maximum reproduction rate",
+    "bibkey": "ReisArau2016",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "value for Unio tumidiformis"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15.5",
+    "units": "g",
+    "label": "body wet weight at shell length 8.2 cm",
+    "bibkey": "Negu1966",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "value for Anodonta anatina"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Negu1966",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

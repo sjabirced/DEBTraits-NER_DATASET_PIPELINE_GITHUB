@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Emydidae",
+    "genus": "Graptemys",
+    "specie": "Graptemys_ernsti",
+    "specie_en": "Escambia map turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.2",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "Lind1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "27.94",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "12.7",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4*10/365",
+      "units": "#/d",
+      "label": "maximum reproduction rate",
+      "bibkey": "ADW",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "6-13 eggs per clutch, 4 clutches per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3349",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "76",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "65-85 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "31*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "data unsure"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "15.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "13-18"
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "ADW",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

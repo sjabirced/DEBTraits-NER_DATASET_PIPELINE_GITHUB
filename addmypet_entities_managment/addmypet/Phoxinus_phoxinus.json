@@ -1,0 +1,224 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Phoxinus",
+    "specie": "Phoxinus_phoxinus",
+    "specie_en": "European minnow",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "JOw",
+      "entity.value": "0.22",
+      "units": "ml O2*h-1*g-1",
+      "label": "oxygen consumption per gram",
+      "bibkey": "PlatSarb2013",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "fork length at hatch",
+      "bibkey": "Frost1943",
+      "temp": "C2K(10.25)",
+      "units.temp": "K",
+      "comment": "Mean temperature 1933-1975 in lake Windermere (Kipling1977)"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "14",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "MuusDahl1968",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.8",
+      "units": "cm",
+      "label": "fork length at metamorphosis",
+      "bibkey": "Frost1943",
+      "temp": "C2K(10.25)",
+      "units.temp": "K",
+      "comment": "'Metamorphosis when yolk sac disappeared (13-14 day post hatch)"
+    },
+    {
+      "entity": "Lo",
+      "entity.value": "0.016",
+      "units": "cm",
+      "label": "egg diameter",
+      "bibkey": "Frost1943",
+      "temp": "C2K(10.25)",
+      "units.temp": "K",
+      "comment": "Mean temperature 1933-1975 in lake Windermere (Kipling1977)"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "Fork length at puberty",
+      "bibkey": "Mills1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "LsWw",
+      "entity.value": "5.38",
+      "units": "g",
+      "label": "wet weight",
+      "bibkey": "Puig1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Mean measurement of 34 fresh P. phoxinus (4.8-8.6 cm SL) from Sec Lake (Spain)"
+    },
+    {
+      "entity": "LtWw",
+      "entity.value": "5.38",
+      "units": "g",
+      "label": "wet weight",
+      "bibkey": "Puig1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Mean measurement of 34 fresh P. phoxinus (4.8-8.6 cm SL) from Sec Lake (Spain)"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1000/365",
+      "units": "#/d",
+      "label": "max reproduction",
+      "bibkey": "cabi",
+      "temp": "C2K(3.79)",
+      "units.temp": "K",
+      "comment": "Mean surface temperature observed in River Hinogla, the outlet of Lake Ovre Heimdalsvatn (study from Museth 2002 DOI  10.1007/s10750-010-0158-2). 6 Data points extracted by month. If possible evently spaced in time."
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "3.34e-3",
+      "units": "g",
+      "label": "egg wet weight",
+      "bibkey": "SchoSchw2000",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.81e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SchoSchw2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "29",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "extrapolated from length weight data from StalKest1991"
+    },
+    {
+      "entity": "ah_T1",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at hatch at 18 C",
+      "bibkey": "KottFrey2007",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah_T2",
+      "entity.value": "9.9",
+      "units": "d",
+      "label": "age at hatch at 12.5 C",
+      "bibkey": "SchoSchw2000",
+      "temp": "C2K(12.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah_T3",
+      "entity.value": "5.9",
+      "units": "d",
+      "label": "age at hatch at 15 C",
+      "bibkey": "SchoSchw2000",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah_T4",
+      "entity.value": "6",
+      "units": "d",
+      "label": "age at hatch at 17.5 C",
+      "bibkey": "SchoSchw2000",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah_T5",
+      "entity.value": "3.9",
+      "units": "d",
+      "label": "age at hatch at 20 C",
+      "bibkey": "SchoSchw2000",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah_T6",
+      "entity.value": "2.5",
+      "units": "d",
+      "label": "age at hatch at 25 C",
+      "bibkey": "SchoSchw2000",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "lifespan",
+      "bibkey": "MuseBorg2002",
+      "temp": "C2K(3.79)",
+      "units.temp": "K",
+      "comment": "Mean surface temperature observed in River Hinogla, the outlet of Lake Ovre Heimdalsvatn (study from Museth 2002 DOI  10.1007/s10750-010-0158-2). 6 Data points extracted by month. If possible evently spaced in time."
+    },
+    {
+      "entity": "tj",
+      "entity.value": "14",
+      "units": "d",
+      "label": "time since hatch at metamorphosis",
+      "bibkey": "Frost1943",
+      "temp": "C2K(10.25)",
+      "units.temp": "K",
+      "comment": "'Metamorphosis when yolk sac disappeared (13-14 day post hatch)"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "137",
+      "units": "d",
+      "label": "time since hatch at puberty",
+      "bibkey": "Bengtsson1974",
+      "temp": "C2K(11.4)",
+      "units.temp": "K",
+      "comment": "time since hatch at first spawning"
+    }
+  ]
+}

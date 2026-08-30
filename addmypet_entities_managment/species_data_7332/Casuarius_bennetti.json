@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Casuariiformes",
+    "family": "Casuariidae",
+    "genus": "Casuarius",
+    "specie": "Casuarius_bennetti",
+    "specie_en": "Dwarf cassowary"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "EoL",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "340",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Reid1987",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg-size corrected value for C. casuarius: (13/13.8)^3*413"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "35e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "18.5e3",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "guess based on same relative weight of female, compered to C. casuarius: Wwi * 31/58.5"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "50.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "EoL",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": "49 till 52 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "26*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "EoL",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "0.7*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(38.17)",
+    "units.temp": "K",
+    "comment": "about the time the young bird is independant of parent and considered a sub-adult."
+  }
+]

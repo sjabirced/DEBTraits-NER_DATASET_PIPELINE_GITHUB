@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acropomatiformes",
+    "family": "Epigonidae",
+    "genus": "Epigonus",
+    "specie": "Epigonus_crassicaudus",
+    "specie_en": "Cardinalfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "43",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "9e4/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(7.5)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.95"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.13e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "OkamMoto2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.6 mm for Epigonus affinis: pi/6*0.06^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "874",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01230*Li^2.97, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "54*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ContArel2013",
+      "temp": "C2K(7.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

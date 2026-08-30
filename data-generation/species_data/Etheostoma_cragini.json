@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Etheostoma",
+    "specie": "Etheostoma_cragini",
+    "specie_en": "Arkansas darter",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.15",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "TabeTabe1986",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.2",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 6 cm, converted to SL using F2"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.8",
+      "units": "cm",
+      "label": "standard length at puberty for females",
+      "bibkey": "TabeTabe1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.3 mm: pi/6*0.13^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "TabeTabe1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

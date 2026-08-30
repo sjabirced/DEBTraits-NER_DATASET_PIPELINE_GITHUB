@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Pimelodidae",
+    "genus": "Iheringichthys",
+    "specie": "Iheringichthys_labrosus",
+    "specie_en": "Long-whiskered catfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "36.1",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "TL 43.5 cm , so SL "
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10.2",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'TL 12.3 cm, which gives SL 10.2 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4*67274.5/365",
+    "units": "#/d",
+    "label": "max reproduction rate ",
+    "bibkey": "SuzuGarc2013",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": "Assumed: 4 spawnings per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SuzuGarc2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.7 mm: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "983.7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Li^3.09 (TL), see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "20.9",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Lp^3.09 (TL), see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SantRodri2016",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

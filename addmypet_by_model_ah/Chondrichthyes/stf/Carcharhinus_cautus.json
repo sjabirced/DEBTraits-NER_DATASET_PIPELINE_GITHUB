@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Carcharhinus",
+    "specie": "Carcharhinus_cautus",
+    "specie_en": "Nervous shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "37",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "WhitHall2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "35 to 39 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "113",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "WhitHall2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "111",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "WhitHall2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on remark that males are 10 cm shorter than females"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "101",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "WhitHall2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "180  to 200 cm"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "91",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "WhitHall2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "170  to 190 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.2/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "WhitHall2002",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": "4.2 per litter, 1 litter each 2 yrs"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "167.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','WhitHall2002'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00331*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "167.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','WhitHall2002'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00331*Lim^3.10, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "WhitHall2002",
+    "temp": "C2K(16.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "WhitHall2002",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

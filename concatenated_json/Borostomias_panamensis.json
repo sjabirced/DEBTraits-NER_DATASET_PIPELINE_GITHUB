@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Stomiiformes",
+    "family": "Stomiidae",
+    "genus": "Borostomias",
+    "specie": "Borostomias_panamensis",
+    "specie_en": "Panama snaggletooth"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "ChilTayl1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5e6/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(4.8)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ChilTayl1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.2 mm: pi/6*0.02^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "171",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00437*Li^3.11, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "97",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','ChilTayl1980'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00437*Lp^3.11, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ChilTayl1980",
+    "temp": "C2K(4.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

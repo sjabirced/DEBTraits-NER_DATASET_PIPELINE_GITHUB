@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Aromobatidae",
+    "genus": "Mannophryne",
+    "specie": "Mannophryne_trinitatis",
+    "specie_en": "Yellow-throated frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "2.55",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Melr2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki gives 2.2 cm, but in view of LW data, this must be higher"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "2.0",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.1",
+      "units": "cm",
+      "label": "SVL at metam for females",
+      "bibkey": "Melr2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on the assumption that the smallest frog found just passed matamorphosis"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "2 to 12 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.24e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.5 mm: pi/6*0.35^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.9",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Melr2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "21",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "17 to 26 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "56",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

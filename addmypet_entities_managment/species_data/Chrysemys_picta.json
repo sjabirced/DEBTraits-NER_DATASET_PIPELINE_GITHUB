@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Emydidae",
+    "genus": "Chrysemys",
+    "specie": "Chrysemys_picta",
+    "specie_en": "Painted turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "{'ADW','Wiki'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "{'ADW','Wiki'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4*6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "8(north)-4.5(south) eggs per clutch, 1 (north)-5(south) clutches per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Rowe1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "76",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "72-80 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "61*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "6-10 yr"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

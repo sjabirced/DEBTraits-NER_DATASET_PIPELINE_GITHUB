@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Perissodactyla",
+    "family": "Equidae",
+    "genus": "Equus",
+    "specie": "Equus_africanus_asinus",
+    "specie_en": "Domestic Donkey"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "164.92*60*60/20.1",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/548",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "1 foal per litter, 1 litter per 548 d"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "30e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: 12-34 kg"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "250e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "250 kg for wild ass"
+  },
+  {
+    "entity": "am",
+    "entity.value": "47*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "359",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "708",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "12-14 mnth"
+  }
+]

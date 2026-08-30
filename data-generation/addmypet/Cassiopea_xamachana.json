@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Cnidaria",
+    "class": "Scyphozoa",
+    "order": "Rhizostomeae",
+    "family": "Cassiopeidae",
+    "genus": "Cassiopea",
+    "specie": "Cassiopea_xamachana",
+    "specie_en": "Upside-down jellyfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.02,
+      "units": "cm",
+      "label": "bell diameter at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 25.0,
+      "units": "cm",
+      "label": "ultimate bell diameter",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": 1.0,
+      "units": "cm",
+      "label": "bell diameter at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 5.5,
+      "units": "cm",
+      "label": "bell diameter at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 3700000.0,
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "based on kap=0.95"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 995.5,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MuffAulg2022",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Li and Lw data: (25/0.829)^3*0.0363"
+    },
+    {
+      "entity": "am",
+      "entity.value": 200.0,
+      "units": "d",
+      "label": "life span of the medusae",
+      "bibkey": "guess",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

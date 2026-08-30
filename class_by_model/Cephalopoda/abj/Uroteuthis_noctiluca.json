@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Uroteuthis",
+    "specie": "Uroteuthis_noctiluca",
+    "specie_en": "Luminous bay squid"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.28,
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Uroteuthis_edulis"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 9.0,
+    "units": "cm",
+    "label": "mantle length at death",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 2.6,
+    "units": "cm",
+    "label": "mantle length at puberty",
+    "bibkey": "DimmHoed1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 1788.0,
+    "units": "#",
+    "label": "cum reprod at death",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on kap=0.9"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 15.26,
+    "units": "g",
+    "label": "wet weight at death d",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Uroteuthis_edulis: 443*(9/27.66)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": 250.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "DimmHoed1998",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

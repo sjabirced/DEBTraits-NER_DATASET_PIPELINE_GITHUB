@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Etheostoma",
+    "specie": "Etheostoma_barbouri",
+    "specie_en": "Teardrop darter",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5.1",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 6 cm and F1"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.1",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "Flyn1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "48/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Flyn1975",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Flyn1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.73 mm: pi/6*0.173^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Flyn1975",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "0.6*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Flyn1975",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "based on mature at 1 yr"
+    }
+  ]
+}

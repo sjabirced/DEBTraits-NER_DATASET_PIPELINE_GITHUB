@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Chelidae",
+    "genus": "Pseudemydura",
+    "specie": "Pseudemydura_umbrina",
+    "specie_en": "Western Swamp Turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.6",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "Arna2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average of ab individuals"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "13.1",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "{'Arna2018', 'BurbKuch2010'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Best guess, based on CZ2 (largest female) who has grown less than 3mm in 10 years"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10.7",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "Arna2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average of ap individuals, taken at first instance of being gravid"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Burb1981",
+      "temp": "C2K(18.7)",
+      "units.temp": "K",
+      "comment": "Females lay 3-5 eggs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'Arna2018', 'BurbKuch2010'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average of ab individuals"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "417",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Arna2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Best guess, based on maximum weight recorded for CZ2 (largest female"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "236.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Arna2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average of ap individuals, taken at first instance of being gravid"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "153",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Arna2018",
+      "temp": "C2K(24.532)",
+      "units.temp": "K",
+      "comment": "'Average of 8 individuals born in captivity that were incubated at 24oC constant for entire incubation period (range 126-172 days"
+    },
+    {
+      "entity": "am",
+      "entity.value": "36500",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Arna2018",
+      "temp": "C2K(18.7)",
+      "units.temp": "K",
+      "comment": "UNKNOWN. Best guess: certainly greater than 61 years (females acquired as adults in 1963 are still producing viable clutches), likely 80-100 (G. Kuchling pers comm.)"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "3767",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Arna2018",
+      "temp": "C2K(18.7)",
+      "units.temp": "K",
+      "comment": "'temperature"
+    }
+  ]
+}

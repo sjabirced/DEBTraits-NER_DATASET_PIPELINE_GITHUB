@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Palaemonidae",
+    "genus": "Macrobrachium",
+    "specie": "Macrobrachium_rosenbergii",
+    "specie_en": "Giant river prawn"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "17.5",
+    "units": "cm",
+    "label": "ultimate length from eye-stalk to tip of tail",
+    "bibkey": "Anon2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "7.7",
+    "units": "cm",
+    "label": "total length at recruitment",
+    "bibkey": "Anon2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "length from eye-stalk to tip of tail at puberty",
+    "bibkey": "Anon2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwp and LW data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5*5e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": "5e4 eggs per clutch, 5 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Anon2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length 0.65 mm and egg width 0.55 mm: pi/6*.055^2*.065"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "77",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Anon2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "17.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Anon2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "normally 15-20 g, but berried females have been observed as small as 6.5 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "20",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Anon2002",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": "based on Macrobrachium vollenhovenii"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "32",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Wiki",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": "30-35 days"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "9*30",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": "based on Macrobrachium vollenhovenii"
+  }
+]

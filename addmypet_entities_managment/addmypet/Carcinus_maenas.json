@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Portunidae",
+    "genus": "Carcinus",
+    "specie": "Carcinus_maenas",
+    "specie_en": "Shorecrab",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6",
+      "units": "cm",
+      "label": "ultimate carapace width for females",
+      "bibkey": "BehrDumb2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "ultimate carapace width for males",
+      "bibkey": "BehrDumb2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Data for Baltic/Germany"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.3",
+      "units": "cm",
+      "label": "carapace width at puberty",
+      "bibkey": "BehrDumb2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "exoticsguide",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "Temp is guessed"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "149",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'glaucus','BehrDumb2005'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "exoticsguide",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "exoticsguide gives 3-6 yr"
+    },
+    {
+      "entity": "tj_12",
+      "entity.value": "80",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "exoticsguide",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "corresponds with end megalope stage"
+    },
+    {
+      "entity": "tj_25",
+      "entity.value": "17",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "exoticsguide",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "250",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "'exoticsguide gives <1 - 3 yr, depending on temp"
+    }
+  ]
+}

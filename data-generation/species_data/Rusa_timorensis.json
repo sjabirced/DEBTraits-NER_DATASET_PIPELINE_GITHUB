@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Cervidae",
+    "genus": "Rusa",
+    "specie": "Rusa_timorensis",
+    "specie_en": "Javan rusa",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4000",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "gbif",
+      "temp": null,
+      "units.temp": null,
+      "comment": "3-5 kg"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "91e3",
+      "units": "g",
+      "label": "ultimate wet weight females",
+      "bibkey": "ZakaZamr2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "96.5e3",
+      "units": "g",
+      "label": "ultimate wet weight males",
+      "bibkey": "ZakaZamr2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "20400",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "ZakaZamr2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "21.1*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "251",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "gbif",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": "249-253 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "gbif",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "gbif",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "92",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ZakaZamr2016",
+      "temp": "C2K(38.6)",
+      "units.temp": "K",
+      "comment": "'in production culture"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cobitidae",
+    "genus": "Misgurnus",
+    "specie": "Misgurnus_fossilis",
+    "specie_en": "Weatherfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.44",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "DrozKour2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "27.9",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "PyrzZieb2020",
+    "temp": null,
+    "units.temp": null,
+    "comment": "fishbase gives 30.7 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "PyrzZieb2020",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6900/365",
+    "units": "#/d",
+    "label": "Reprod rate at TL = 23 cm",
+    "bibkey": "DrozKour2009",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "total fecundity at 23 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "DrozKour2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Egg diameter of 1.24 mm: pi/6*0.124^3 = 9.98e-4 g, so actual weight is a little less"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "126.3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "{'fishbase','PyrzZieb2020'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Based on 0.00417*Li^3.10, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "7.05",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Based on 0.00417*Lp^3.10, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "21.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "EoL",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "'Schu2023 gives 20 yrs"
+  }
+]

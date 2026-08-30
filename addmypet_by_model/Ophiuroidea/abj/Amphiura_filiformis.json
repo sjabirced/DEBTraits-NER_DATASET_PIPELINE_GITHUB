@@ -1,0 +1,151 @@
+[
+  {
+    "phylum": "Echinodermata",
+    "class": "Ophiuroidea",
+    "order": "Ophiurida",
+    "family": "Amphiuridae",
+    "genus": "Amphiura",
+    "specie": "Amphiura_filiformis",
+    "specie_en": "Long-armed burrowing brittlestar"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.0075",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "DupoThor2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lh",
+    "entity.value": "0.0075",
+    "units": "cm",
+    "label": "total length at hatching",
+    "bibkey": "DupoThor2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Measurement taken from representative image of hatched ophiopluteus"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.29",
+    "units": "cm",
+    "label": "ultimate oral width",
+    "bibkey": "OConBown1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Taken from different population study as others use disc diameter instead, which is not so stable, however max disc size also reported and this corresponds to that reported by the Swedish population studies"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.0325",
+    "units": "cm",
+    "label": "total length at metamorphosis",
+    "bibkey": "Muus1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Settlement length taken as proxy for metamorphosis"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.138",
+    "units": "cm",
+    "label": "oral width at puberty",
+    "bibkey": "{'Muus1981', 'JoseJens1992'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Value calculated using original disc diameter (4mm) from JoseJens1992,and converting using the equation given in Table 1 of JoseJens 1992)"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "806.45",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "OConBown1983",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "Average temperature during spawning season"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.236e-7",
+    "units": "g",
+    "label": "wet weight atb birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Calculated from guessed egg diameter of 0.1 mm: 4/3*pi*(0.01/2)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.8465",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'Muus1981', 'JoseJens1992'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Value calculated from converting disc diameter to wet weight using equation given in JoseJens1992, Table1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "4.7756",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'Muus1981', 'JoseJens1992'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Value calculated from converting disc diameter to wet weight using equation given in JoseJens1992, Table1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "DupoThor2009",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": "by d2 embryos have become ophiopleuteus larvae"
+  },
+  {
+    "entity": "ah",
+    "entity.value": "1.5",
+    "units": "d",
+    "label": "age at hatching",
+    "bibkey": "DupoThor2009",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "aj",
+    "entity.value": "17",
+    "units": "d",
+    "label": "age at metamorphosis",
+    "bibkey": "DupoThor2009",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "365*25",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "{'Muus1981','OckeMuus1978'}",
+    "temp": "C2K(6.8)",
+    "units.temp": "K",
+    "comment": "average taken from long term study of same population (Ocklemannn & Muus, 1978"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "{'Muus1981','OckeMuus1978'}",
+    "temp": "C2K(6.8)",
+    "units.temp": "K",
+    "comment": "average taken from long term study of same population (Ocklemannn & Muus, 1978)"
+  }
+]

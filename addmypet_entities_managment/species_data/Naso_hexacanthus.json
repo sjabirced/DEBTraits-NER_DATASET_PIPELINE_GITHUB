@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Acanthuridae",
+    "genus": "Naso",
+    "specie": "Naso_hexacanthus",
+    "specie_en": "Sleek unicornfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "75",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on same relative length, compared to Zebrasoma_scopas"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4e6/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "guess based on Ri for Zebrasoma_scopas as fraction of Wwi"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Leis1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.75 mm of Chaetodon: 4/3*pi*0.038^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12105",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 2.219e-4 * (10*Li)^2.691, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3062",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on g = 2.219e-4 * (10*Lp)^2.691, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "45*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ChoaAxe1996",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "all temperatures are guessed"
+    }
+  ]
+}

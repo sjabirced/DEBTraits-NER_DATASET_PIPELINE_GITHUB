@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Burnupiidae",
+    "genus": "Burnupia",
+    "specie": "Burnupia_stenochorias",
+    "specie_en": "Freshwater limpet"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.075,
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "Davi2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.54,
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Davi2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.35,
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "Davi2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 141.0,
+    "units": "#",
+    "label": "lifetime reprod output",
+    "bibkey": "Davi2001",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "5 eggs per capsule, 35 capsules per lifetime"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 0.0014,
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Ancylus_fluviatilis: 3.4e-3 * (0.54/0.73)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": 147.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Davi2001",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": 53.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Davi2001",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

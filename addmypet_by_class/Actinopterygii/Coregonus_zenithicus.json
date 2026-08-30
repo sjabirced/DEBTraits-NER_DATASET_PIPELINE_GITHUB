@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Coregonus",
+    "specie": "Coregonus_zenithicus",
+    "specie_en": "Shortjaw cisco"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 4-5 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "34891/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": "based on Coregonus_hoyi (which has the same size)"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from egg diameter of 2-3 mm of Coregonus kiyi: pi/6*0.225^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "774",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00537*Li^3.22, see F1, ADW gives 1 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "33",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00537*Lp^3.22, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MuirVecs2014",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

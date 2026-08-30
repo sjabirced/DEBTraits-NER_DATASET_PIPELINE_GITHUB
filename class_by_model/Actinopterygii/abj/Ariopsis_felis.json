@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ariidae",
+    "genus": "Ariopsis",
+    "specie": "Ariopsis_felis",
+    "specie_en": "Hardhead catfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "65/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "smithonian",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.145",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "smithonian",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 16 mm: pi/6*1.6^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.36e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00759*Li^3.17, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "23.36",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00759*Lp^3.17, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "24*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FlinMidw2019",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

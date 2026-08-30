@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Littorinimorpha",
+    "family": "Naticidae",
+    "genus": "Euspira",
+    "specie": "Euspira_nitida",
+    "specie_en": "Common necklace shell"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.6",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki_nl",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.2e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Based on egg diameter of 250 mum for E. lewisii: 4/3 * pi * (0.0125)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "RobiGree2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Based on log10(W in g) = a + b log10(L in mm), with a = -2.629, b = 2.321, L = 16 mm"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "KingRich2005",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "KingRich2005",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki_nl",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "70",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

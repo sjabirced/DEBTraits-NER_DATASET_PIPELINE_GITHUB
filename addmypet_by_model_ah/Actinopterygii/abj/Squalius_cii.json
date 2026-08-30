@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Squalius",
+    "specie": "Squalius_cii",
+    "specie_en": "Marmara chub"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "5",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "KocErdo2007",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "27.5",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from fork length 28.9 cm  by FL = 0.95 * TL, based on photo"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.6",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on same relative length as Rutilus rutilus: 27.5*12.1/44"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "EconDaou1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 2 mm for Rutilus rutilus: pi/6*0.2^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "based on Rutilus rutilus"
+  }
+]

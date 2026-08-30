@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Labridae",
+    "genus": "Xyrichtys",
+    "specie": "Xyrichtys_novacula",
+    "specie_en": "Pearly razorfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.03",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "CardArdi1998",
+      "temp": "C2K(24.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "38",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Labrus_mixta: 16*38/40"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.95e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.72 mm of Labrus_bergylta: pi/6*0.072^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "788",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00955*Li^3.00, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "46",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00955*Lp^3.00, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(24.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

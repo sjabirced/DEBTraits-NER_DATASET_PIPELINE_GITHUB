@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Alosidae",
+    "genus": "Alosa",
+    "specie": "Alosa_aestivalis",
+    "specie_en": "Blueback herring",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "26",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "Mess1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "23",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "Mess1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "21.5",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "Mess1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "WallYeag1990",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "based on same relative value, compared to Alosa_pseudoharengus: 3.6e5*(26/31)^3 per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.9e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WallYeag1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.1 mm for Alosa_pseudoharengus: pi/6*0.11^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3.7*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Mess1977",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

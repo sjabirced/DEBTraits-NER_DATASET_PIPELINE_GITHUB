@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Suliformes",
+    "family": "Phalacrocoracidae",
+    "genus": "Leucocarbo",
+    "specie": "Leucocarbo_atriceps",
+    "specie_en": "Imperial shag",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Gree1997",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": "'2.8 eggs per clutch"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "52.6",
+      "units": "g",
+      "label": " intitial wet weight",
+      "bibkey": "Gree1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg volume of 52.6 cm^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2467",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Gree1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "3157",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Gree1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "26.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "avibase",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temp from PoweAule1996"
+    },
+    {
+      "entity": "am",
+      "entity.value": "17.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "avibase",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1.4*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "avibase",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "135",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": "temps from DawsWhit1999"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "45",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "avibase",
+      "temp": "C2K(40.6)",
+      "units.temp": "K",
+      "comment": "temps from DawsWhit1999"
+    }
+  ]
+}

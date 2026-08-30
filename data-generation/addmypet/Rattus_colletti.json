@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Rattus",
+    "specie": "Rattus_colletti",
+    "specie_en": "Dusky rat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "123",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*9/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "gbif",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "'9 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.55",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Rattus_rattus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "213",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "gbif",
+      "temp": null,
+      "units.temp": null,
+      "comment": "22 - 213 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Rattus_rattus"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "22",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Rattus_rattus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Rattus_rattus"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "26",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Rattus_rattus"
+    }
+  ]
+}

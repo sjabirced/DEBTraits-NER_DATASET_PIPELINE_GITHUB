@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Bufo",
+    "specie": "Bufo_bufo",
+    "specie_en": "Common toad",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "KatzWari2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.3",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "KatzWari2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "KatzWari2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1500/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "EoL",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "1 brood/year"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0042",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Anaxyrus americanus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "417",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'KatzWari2003','ReadClar1995'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi = exp(-10.1 + 3.22 * 1og(10*Li)), see F4"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "83",
+      "units": "g",
+      "label": "ultimate wet weight of males",
+      "bibkey": "ReadClar1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwim = exp(-8.01 + 2.70 * 1og(10*Lim))"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.35",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "KatzWari2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "based on Anaxyrus americanus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13000",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "58",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "KatzWari2003",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "EoL",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

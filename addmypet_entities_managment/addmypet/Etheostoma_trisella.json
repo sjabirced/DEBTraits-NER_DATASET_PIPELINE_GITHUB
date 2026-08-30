@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Etheostoma",
+    "specie": "Etheostoma_trisella",
+    "specie_en": "Trispot darter",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "Ryon1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.0",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "Ryon1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "154/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Ryon1986",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Ryon1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.0 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.96",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Ryon1986','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*(4.5/0.85)^3.14"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Ryon1986",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "1.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Ryon1986",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "190",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Ryon1986",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "based on mature at 1 yr"
+    }
+  ]
+}

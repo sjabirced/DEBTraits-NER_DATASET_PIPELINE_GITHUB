@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Phocidae",
+    "genus": "Erignathus",
+    "specie": "Erignathus_barbatus",
+    "specie_en": "Bearded seal",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.3*1e2",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "KovaLyde",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "250",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "KovaLyde",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "210",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AndeHjel1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "authors say females are mature at 90% of the ultimate length as estimated from their von Bert curve"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/608",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "35*1e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "400e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "KovaLyde",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "75.75*1e3",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "31*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "Their longevity in captivity has not been studied in detail and hence their maximum longevity must be classified as unknown."
+    },
+    {
+      "entity": "tg",
+      "entity.value": "259",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AndeHjel1999",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "females"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "24",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "KovaLyde",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "18-24 days"
+    }
+  ]
+}

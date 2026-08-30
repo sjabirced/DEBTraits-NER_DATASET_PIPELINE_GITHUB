@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Tyrannidae",
+    "genus": "Tyrannus",
+    "specie": "Tyrannus_savana",
+    "specie_en": "Fork-tailed flycatcher"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "1 clutch per year"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "28 to 32 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "12",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "value for Tyrannus_tyrannus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "value for Tyrannus_tyrannus"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "42",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "14",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "TuerJahn2018",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

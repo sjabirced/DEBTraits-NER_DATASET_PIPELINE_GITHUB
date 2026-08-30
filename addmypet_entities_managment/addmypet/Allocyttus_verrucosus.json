@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Zeiformes",
+    "family": "Oreosomatidae",
+    "genus": "Allocyttus",
+    "specie": "Allocyttus_verrucosus",
+    "specie_en": "Warty oreo",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "42",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "28",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(4.9)",
+      "units.temp": "K",
+      "comment": "based on Allocyttus niger at 1.23 kg"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1/350",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 350 eggs/g of Allocyttus niger"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.23e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Li^3.05, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "50.5",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "guess",
+      "temp": "C2K(4.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "140*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(4.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

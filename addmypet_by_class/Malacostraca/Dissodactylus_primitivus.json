@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Pinnotheridae",
+    "genus": "Dissodactylus",
+    "specie": "Dissodactylus_primitivus",
+    "specie_en": "Heart urchin pea crab"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1",
+    "units": "cm",
+    "label": "ultimate carapace width for females",
+    "bibkey": "PohlTelf1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.0745",
+    "units": "cm",
+    "label": "carapace width at metam",
+    "bibkey": "PohlTelf1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.58",
+    "units": "cm",
+    "label": "carapace width at puberty",
+    "bibkey": "PohlTelf1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.4e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PohlTelf1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from egg size at hatch 0.64 X 0.53 mm: 4/24*pi*0.064*0.053^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "PohlTelf1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on Li, using F2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "19.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "PohlTelf1983",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "15.3",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "PohlTelf1983",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "250",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "PohlTelf1983",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

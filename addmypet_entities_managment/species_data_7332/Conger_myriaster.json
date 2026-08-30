@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Anguilliformes",
+    "family": "Congridae",
+    "genus": "Conger",
+    "specie": "Conger_myriaster",
+    "specie_en": "Whitespotted conger"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "MuZha2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.1e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HoriUtoh2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.992 mm: pi/6*0.0992^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "920",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase: based on 0.00058*Li^3.23, see F1, gives 1.7e3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "315.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/Li)^3*Wwi: (70/100)^3*920"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "HoriUtoh2002",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "2 d to hatch, 7 d later mouths opens"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(8.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

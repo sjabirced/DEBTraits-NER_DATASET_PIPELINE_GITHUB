@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Noturus",
+    "specie": "Noturus_phaeus",
+    "specie_en": "Brown madtom"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "{'fishbase','ChanPars2000'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SimoWall2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "128/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "SimoWall2003",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "fecundity 108 to 128 eggs"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SimoWall2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.1 to 2.8 mm: pi/6*0.25^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "25.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'SimoWall2003','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Lp^3.10, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "SimoWall2003",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ChanPars2000",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

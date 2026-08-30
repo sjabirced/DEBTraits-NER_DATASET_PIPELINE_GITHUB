@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Psittaciformes",
+    "family": "Psittacidae",
+    "genus": "Amazona",
+    "specie": "Amazona_finschi",
+    "specie_en": "Lilac-crowned parrot"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(41.3)",
+    "units.temp": "K",
+    "comment": "'3 till 4 eggs/clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "15",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Rent2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "400",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Rent2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "asymptote of nesting, adults are typically smaller: 302 g (AnAg8)"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "28",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "25.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(41.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "EoL",
+    "temp": "C2K(41.3)",
+    "units.temp": "K",
+    "comment": "Data for Amazona aestiva"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "180",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "60",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Wiki",
+    "temp": "C2K(41.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Atheriniformes",
+    "family": "Atherinopsidae",
+    "genus": "Menidia",
+    "specie": "Menidia_menidia",
+    "specie_en": "Atlantic silverside",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ConoRoss1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "167/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "temp is guessed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.4e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BengBark1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.17 mm: pi/6*0.117^3"
+    },
+    {
+      "entity": "ab_18",
+      "entity.value": "15",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BengBark1987",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab_25",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BengBark1987",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

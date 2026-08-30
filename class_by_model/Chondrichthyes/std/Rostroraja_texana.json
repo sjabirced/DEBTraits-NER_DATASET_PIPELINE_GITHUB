@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Rostroraja",
+    "specie": "Rostroraja_texana",
+    "specie_en": "Roundel skate "
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "9",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "SuliIrvi2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "62.4",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "SuliIrvi2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "53.7",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "SuliIrvi2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "35/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(24.9)",
+    "units.temp": "K",
+    "comment": "based on Rostroraja_alba after size-correction"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.9e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00269*Li^3.26"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "97",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SuliIrvi2007",
+    "temp": "C2K(24.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

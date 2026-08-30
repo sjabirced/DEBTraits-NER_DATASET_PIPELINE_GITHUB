@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Helicidae",
+    "genus": "Cornu",
+    "specie": "Cornu_aspersum",
+    "specie_en": "Garden snail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "3.3",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "inspection",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki_ls gives 3.8 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "86/42",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "cabi",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.029",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CzarKozl2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "inspection",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "cabi",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "0.4*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "petsnails",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "inspection gives 2 yr for natural populations"
+    }
+  ]
+}

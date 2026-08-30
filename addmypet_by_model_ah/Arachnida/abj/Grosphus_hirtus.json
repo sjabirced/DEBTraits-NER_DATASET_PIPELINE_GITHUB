@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Arachnida",
+    "order": "Scorpiones",
+    "family": "Buthidae",
+    "genus": "Grosphus",
+    "specie": "Grosphus_hirtus",
+    "specie_en": "Scorpion"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.5",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "LourGood2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.9",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "LourGood2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.3",
+    "units": "cm",
+    "label": "carapace length at puberty",
+    "bibkey": "LourGood2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on the assumption that allocation to reproduction starts in the secand last moult"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "31/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "LourGood2006",
+    "temp": "C2K(25.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "17.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length-weight of Smeringurus_mesaensis and the assumption that total length is 2 times carapace length: 8*2.2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "65 * 30.5",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LourGood2006",
+    "temp": "C2K(25.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

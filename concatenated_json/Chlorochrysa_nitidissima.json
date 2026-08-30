@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Thraupidae",
+    "genus": "Chlorochrysa",
+    "specie": "Chlorochrysa_nitidissima",
+    "specie_en": "Multicolored tanager"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "LoaiMosq2017",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "1 eggs per clutch, 1 clutch per yr assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LoaiMosq2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "13.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "LoaiMosq2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "SancLond2016",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "69",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "23",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "LoaiMosq2017",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Zoarcidae",
+    "genus": "Lycodes",
+    "specie": "Lycodes_squamiventer",
+    "specie_en": "Scalebelly eelpout",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "26",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "HildBerg2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "55/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(0.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0224",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.5 mm: pi/6*0.35^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "40",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "HildBerg2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW data and Li"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "14",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "HildBerg2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW data and Lp"
+    },
+    {
+      "entity": "am",
+      "entity.value": "22*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HildBerg2011",
+      "temp": "C2K(0.9)",
+      "units.temp": "K",
+      "comment": "fishbase gives 5 yrs, but in view of fast growth at 5 yrs, max age is probably much larger"
+    }
+  ]
+}

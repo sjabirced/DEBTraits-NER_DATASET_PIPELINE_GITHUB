@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Amphiliidae",
+    "genus": "Amphilius",
+    "specie": "Amphilius_uranoscopus",
+    "specie_en": "Stargazer mountain catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.10",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "NgugMany2009",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "28.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "NgugMany2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.14",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 14.5 mm: pi/6*1.45^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "187.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'NgugMany2009','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00490*Li^3.15, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "15.8",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00490*Lp^3.15, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

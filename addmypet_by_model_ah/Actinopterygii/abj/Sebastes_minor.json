@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastes",
+    "specie": "Sebastes_minor",
+    "specie_en": "Little redfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Kolp2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "48e3/365",
+    "units": "#/d",
+    "label": "reprod rate at 48.3 cm",
+    "bibkey": "Kolp2006",
+    "temp": "C2K(3.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.833 mm: pi/6*0.0833^3 for Sebastes mentella"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "98.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Kolp2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Kolp2006",
+    "temp": "C2K(3.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Apodemus",
+    "specie": "Apodemus_semotus",
+    "specie_en": "Taiwan field mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "5.2*3.8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": "'5.2 pups per litter"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": "Data for Apodemus sylvaticus"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "23",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": "Data for Apodemus sylvaticus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "71",
+      "units": "d",
+      "label": "time since birth at puberty female",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": "Data for Apodemus sylvaticus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "65",
+      "units": "d",
+      "label": "time since birth at puberty male",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": "Data for Apodemus sylvaticus"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "21",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": "Data for Apodemus sylvaticus"
+    }
+  ]
+}

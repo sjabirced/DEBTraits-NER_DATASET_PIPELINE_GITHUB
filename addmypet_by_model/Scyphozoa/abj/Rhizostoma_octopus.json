@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Cnidaria",
+    "class": "Scyphozoa",
+    "order": "Rhizostomeae",
+    "family": "Rhizostomatidae",
+    "genus": "Rhizostoma",
+    "specie": "Rhizostoma_octopus",
+    "specie_en": "Barrel jellyfish"
+  },
+  {
+    "entity": "L76",
+    "entity.value": "30.0",
+    "units": "cm",
+    "label": "bell diameter at 76 d",
+    "bibkey": "HolsSotj2007",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "from Elbe area where max length is probably much smaller than 90 cm"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.45",
+    "units": "cm",
+    "label": "bell diameter at birth",
+    "bibkey": "HolsSotj2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "90",
+    "units": "cm",
+    "label": "ultimate bell diameter",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "bell diameter at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on Cyanea capillata"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": "7e11",
+    "units": "#",
+    "label": "cumulated # eggs",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.6 accumulation of 1.5 yr and"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.20e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HolsSotj2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 100 mum: pi/6*0.01^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.5e5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 90 cm bell diamater and general spherical shape: pi/6*90^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "life span of the medusae",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "guess beased on large max diameter, while 30 cm is more commen in autumn"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "30",
+    "units": "d",
+    "label": "time since birth at puberty of the medusae",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

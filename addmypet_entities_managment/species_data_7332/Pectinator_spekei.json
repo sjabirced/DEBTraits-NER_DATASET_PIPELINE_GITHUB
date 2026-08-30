@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Ctenodactylidae",
+    "genus": "Pectinator",
+    "specie": "Pectinator_spekei",
+    "specie_en": "Speke"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Geor2009",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": "2 cups per litter, 1 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "22",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Geor2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "178",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": "based on Ctenodactylus_gundi"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "67",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "11.5*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Geor2009",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "65",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

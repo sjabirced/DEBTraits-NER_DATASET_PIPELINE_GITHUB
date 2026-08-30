@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Vespertilionidae",
+    "genus": "Myotis",
+    "specie": "Myotis_lucifugus",
+    "specie_en": "Little brown bat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "'1 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.96",
+    "units": "g",
+    "label": "wet weight at birth for female",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12.5",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "34*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "55",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at first litter female",
+    "bibkey": "AnAge",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "Wiki: female become mature in their 1st yr, males in their 2nd yr"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "25",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "BaptRich2000",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "3-4 wk"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Daphniidae",
+    "genus": "Simocephalus",
+    "specie": "Simocephalus_vetulus",
+    "specie_en": "Waterflea"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.056",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "LeeBan1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.38",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "nina",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "0.13",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "nina",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.26",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "{'LeeBan1999','Bott1975'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Ttp and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "15/3.8",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "Bott1975",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on 15 egg per brood, 3.8 d per moult 11.75 d at 20 C)"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "47.3",
+    "units": "mug",
+    "label": "ultimate dry weight",
+    "bibkey": "LemkBenk2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based F1 for L = 3.8 mm, see facts"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

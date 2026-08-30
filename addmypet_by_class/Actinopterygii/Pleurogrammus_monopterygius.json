@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Hexagrammidae",
+    "genus": "Pleurogrammus",
+    "specie": "Pleurogrammus_monopterygius",
+    "specie_en": "Atka mackerel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "56.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "32.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.6*16e3/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "McDeMasl2007",
+    "temp": "C2K(3.7)",
+    "units.temp": "K",
+    "comment": "4.6 batches over 12 weeks spawning period, 16e3 eggs per batch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.4e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "McDeMasl2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.3 mm: pi/6*0.23^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2171",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Li^3.06, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "404",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "ShesNaza2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00955*Lp^3.06, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "169",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Lowe2011",
+    "temp": "C2K(1.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Lowe2011",
+    "temp": "C2K(3.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

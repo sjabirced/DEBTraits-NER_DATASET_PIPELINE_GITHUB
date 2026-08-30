@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Rotifera",
+    "class": "Monogononta",
+    "order": "Ploimida",
+    "family": "Brachionidae",
+    "genus": "Brachionus",
+    "specie": "Brachionus_plicatilis",
+    "specie_en": "Rotifer",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "JCi",
+      "entity.value": "40",
+      "units": "ng C/d",
+      "label": "CO2 flux",
+      "bibkey": "AlveAlfr2006",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "JXi",
+      "entity.value": "0.72",
+      "units": "mug/d",
+      "label": "dry Nannochloropsis oculata",
+      "bibkey": "AlveAlfr2006",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "148 cells N.c./min per rotifer"
+    },
+    {
+      "entity": "K",
+      "entity.value": "4.8e-3",
+      "units": "g/l",
+      "label": " half saturation coefficient",
+      "bibkey": "AlveAlfr2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "for Isochrysis galbana on dry mass basis"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "24/5.3",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AlveAlfr2006",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AlveAlfr2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.8e-6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AlveAlfr2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.2e-6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "AlveAlfr2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.0",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AlveAlfr2006",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AlveAlfr2006",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "1.9",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "AlveAlfr2006",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

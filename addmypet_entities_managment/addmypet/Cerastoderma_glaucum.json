@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Cardiida",
+    "family": "Cardiidae",
+    "genus": "Cerastoderma",
+    "specie": "Cerastoderma_glaucum",
+    "specie_en": "Lagoon cockle",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.96",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "KandMoha2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Data for female"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4657.5",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Honk1998",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "Data for C. edule"
+    },
+    {
+      "entity": "Ww15",
+      "entity.value": "0.17",
+      "units": "g",
+      "label": "wet weight at shell length 15 mm",
+      "bibkey": "KandMoha2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "marlin_Ce",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 75 mum egg diameter for C. edule: 4/3*pi*0.00375^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Card2007",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": "Data for C. edule"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "marlin",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "11",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "marlin",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "time since birth at settlement 11 till 30 d, but temp is guessed "
+    }
+  ]
+}

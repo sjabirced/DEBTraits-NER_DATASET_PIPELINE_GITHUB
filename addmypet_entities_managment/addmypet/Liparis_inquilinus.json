@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Liparidae",
+    "genus": "Liparis",
+    "specie": "Liparis_inquilinus",
+    "specie_en": "Inquiline snailfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.1",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.9",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "AbleMusi1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AbleMusi1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1135/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AbleMusi1976",
+      "temp": "C2K(8.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.5e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AbleMusi1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": "baed on egg diameter of 0.5 mm: pi/6*0.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.52",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00525*Li^3.15, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','AbleMusi1976'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00525*Lp^3.15, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "15",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(8.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "13 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(8.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

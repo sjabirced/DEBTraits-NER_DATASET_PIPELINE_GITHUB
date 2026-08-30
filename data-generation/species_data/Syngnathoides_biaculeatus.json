@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "genus": "Syngnathoides",
+    "specie": "Syngnathoides_biaculeatus",
+    "specie_en": "Alligator pipefish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "TakaConn2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "29",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "200*2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "TakaConn2003",
+      "temp": "C2K(28.4)",
+      "units.temp": "K",
+      "comment": "200 eggs per brood, assumed: 2 broods per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "TakaConn2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "16.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00037*Li^3.18, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4.3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00037*Lp^3.18, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "34",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.4)",
+      "units.temp": "K",
+      "comment": "30 till 38 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ForsLowe2006",
+      "temp": "C2K(17.2)",
+      "units.temp": "K",
+      "comment": "survived 3.5 yr in lab"
+    }
+  ]
+}

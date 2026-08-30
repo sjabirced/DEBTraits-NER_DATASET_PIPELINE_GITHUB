@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Schizopygopsis",
+    "specie": "Schizopygopsis_selincuoensis",
+    "specie_en": "Selincuo naked carp"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "42",
+    "units": "cm",
+    "label": "ultimate std length for females",
+    "bibkey": "ChenHe2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "38",
+    "units": "cm",
+    "label": "ultimate std length for males",
+    "bibkey": "ChenHe2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "37.4e3/365",
+    "units": "#/d",
+    "label": "Reprod rate max size",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "based on Schizopygopsis_younghusbandi, corrected for Wwi: 2*18682"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 0.8 mm: 4/3*pi*0.04^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1100",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "ChenHe2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ChenHe2002",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "age at puberty for females",
+    "bibkey": "fishbase",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "age at puberty for males",
+    "bibkey": "fishbase",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,214 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Arachnida",
+    "order": "Sarcoptiformes",
+    "family": "Acaridae",
+    "genus": "Rhizoglyphus",
+    "specie": "Rhizoglyphus_robini",
+    "specie_en": "Bulb mite",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.0167,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Smal2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": 0.0169,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Smal2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 0.0486,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Smal2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 0.0674,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Smal2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.034,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Smal2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.054,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Smal2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 2.65,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Smal2011",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 21.89,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Smal2011",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Vb",
+      "entity.value": 1.49e-06,
+      "units": "cm^3",
+      "label": "volume at birth",
+      "bibkey": "Beuk2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "All volumes are calculated as pi/6 * width^2 * length"
+    },
+    {
+      "entity": "Vb",
+      "entity.value": 1.74e-06,
+      "units": "cm^3",
+      "label": "volume at birth",
+      "bibkey": "Beuk2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Vi",
+      "entity.value": 3.54e-05,
+      "units": "cm^3",
+      "label": "ultimate volume",
+      "bibkey": "Beuk2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Vi",
+      "entity.value": 0.0001,
+      "units": "cm^3",
+      "label": "ultimate volume",
+      "bibkey": "Beuk2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Vp",
+      "entity.value": 1.17e-05,
+      "units": "cm^3",
+      "label": "volume at puberty",
+      "bibkey": "Beuk2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Vp",
+      "entity.value": 5.09e-05,
+      "units": "cm^3",
+      "label": "volume at puberty",
+      "bibkey": "Beuk2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 2.86,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Smal2011",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 2.58,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Smal2011",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "age upon ecdysis, can be off by max. one day as they were not checked during the night for emerging"
+    },
+    {
+      "entity": "am",
+      "entity.value": 69.76,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Smal2011",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 40.38,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Smal2011",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 32.94,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Smal2011",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 9.58,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Smal2011",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

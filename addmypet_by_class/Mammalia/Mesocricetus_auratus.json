@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Mesocricetus",
+    "specie": "Mesocricetus_auratus",
+    "specie_en": "Golden hamster"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*9/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "'9 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.45",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MorrDiet1977",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "85",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "105",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tWw_m"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "16",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "based on Lemmus lemmus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "48",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "20",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

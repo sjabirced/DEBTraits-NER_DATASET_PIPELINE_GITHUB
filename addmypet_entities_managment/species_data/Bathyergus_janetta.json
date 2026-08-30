@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Bathyergidae",
+    "genus": "Bathyergus",
+    "specie": "Bathyergus_janetta",
+    "specie_en": "Namaqua dune mole-rat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "BennJarv1991",
+      "temp": "C2K(34)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "15",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BennJarv1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "390",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "BennJarv1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(34)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "70",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(34)",
+      "units.temp": "K",
+      "comment": "based on other mole-rats"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(34)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "28",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "BennJarv1991",
+      "temp": "C2K(34)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

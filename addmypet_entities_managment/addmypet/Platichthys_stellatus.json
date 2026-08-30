@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Platichthys",
+    "specie": "Platichthys_stellatus",
+    "specie_en": "Starry flounder",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.35",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "oac",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.2",
+      "units": "cm",
+      "label": "length at hatch",
+      "bibkey": "oac",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "91",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.05",
+      "units": "cm",
+      "label": "length at metam",
+      "bibkey": "oac",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "29",
+      "units": "cm",
+      "label": "length at puberty for females",
+      "bibkey": "oac",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "27.5",
+      "units": "cm",
+      "label": "length at puberty for males",
+      "bibkey": "oac",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3e5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.5e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "oac",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 0.95 mm: 4/3*pi*0.0475^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "13e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01210*Li^3.081"
+    },
+    {
+      "entity": "ah10",
+      "entity.value": "110/24",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "oac",
+      "temp": "C2K(10.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah12",
+      "entity.value": "68/24",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "oac",
+      "temp": "C2K(12.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "24*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tb",
+      "entity.value": "68/24",
+      "units": "d",
+      "label": "time since hatch at birth",
+      "bibkey": "oac",
+      "temp": "C2K(12.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "oac",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "oac",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

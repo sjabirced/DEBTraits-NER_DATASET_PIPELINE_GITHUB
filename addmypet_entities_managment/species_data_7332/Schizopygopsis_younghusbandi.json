@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Schizopygopsis",
+    "specie": "Schizopygopsis_younghusbandi",
+    "specie_en": "Brahmaputra carb"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "35.8",
+    "units": "cm",
+    "label": "ultimate std length for females",
+    "bibkey": "DuanXie2014",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30.3",
+    "units": "cm",
+    "label": "ultimate std length for males",
+    "bibkey": "DuanXie2014",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Li*28.05/33.2 from tL data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30.8",
+    "units": "cm",
+    "label": "std length at puberty for females",
+    "bibkey": "DuanHuos2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "22.2",
+    "units": "cm",
+    "label": "std length at puberty for males",
+    "bibkey": "DuanHuos2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "18682/365",
+    "units": "#/d",
+    "label": "Reprod rate max size",
+    "bibkey": "DuanHuos2018",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 0.8 mm: 4/3*pi*0.04^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "598.1",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "DuanXie2014",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "DuanXie2014",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "age at puberty for females",
+    "bibkey": "DuanHuos2018",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4.4*365",
+    "units": "d",
+    "label": "age at puberty for males",
+    "bibkey": "DuanHuos2018",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

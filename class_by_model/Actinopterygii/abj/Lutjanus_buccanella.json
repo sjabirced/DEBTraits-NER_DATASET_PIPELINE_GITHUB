@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Lutjanus",
+    "specie": "Lutjanus_buccanella",
+    "specie_en": "Blackfin snapper"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "75",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "28.7",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.8e6/365",
+    "units": "#/d",
+    "label": "reprod rate at TL = 48.5 cm",
+    "bibkey": "guess",
+    "temp": "C2K(22.3)",
+    "units.temp": "K",
+    "comment": "based on fecundity Lutjanus_carponotatus: 749e3*5481/859"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.85 mm of L. stellatus: 4/3*pi*0.0425^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5481",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01479*Li^2.97, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "316",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01479*Lp^2.97, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AmezSoto2006",
+    "temp": "C2K(22.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

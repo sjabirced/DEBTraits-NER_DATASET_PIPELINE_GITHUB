@@ -1,0 +1,184 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Eurycea",
+    "specie": "Eurycea_lucifuga",
+    "specie_en": "Spotted-tail salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.82",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "RingLips2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "TL at yolk absorption"
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "1.2",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "RingLips2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7.8",
+      "units": "cm",
+      "label": "total length at puberty ",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "converted from SVL 4.8 cm: 22/13.5*4.8"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "total length  at puberty for males",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "converted from SVL 4.6 cm: 22/13.5*4.6"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "17/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "1 clutch each other yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Hutc1958",
+      "temp": null,
+      "units.temp": null,
+      "comment": "largest mentioned body weight, not clear if this is maximum weight"
+    },
+    {
+      "entity": "ab10",
+      "entity.value": "106",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "RingLips2007",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab15",
+      "entity.value": "100",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "RingLips2007",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab21",
+      "entity.value": "74",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "RingLips2007",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah10",
+      "entity.value": "72.8",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "RingLips2007",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah15",
+      "entity.value": "24.6",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "RingLips2007",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah21",
+      "entity.value": "18",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "RingLips2007",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "9.1*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "dLb10",
+      "entity.value": "0.05",
+      "units": "cm/d",
+      "label": "change in TL at birth",
+      "bibkey": "RingLips2007",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "dLb15",
+      "entity.value": "0.07",
+      "units": "cm/d",
+      "label": "change in TL at birth",
+      "bibkey": "RingLips2007",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "dLb21",
+      "entity.value": "0.09",
+      "units": "cm/d",
+      "label": "change in TL at birth",
+      "bibkey": "RingLips2007",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Monacanthidae",
+    "species": "Stephanolepis_hispidus",
+    "species_en": "Planehead filefish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "27.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13.9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimate, derived from other species"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "91323/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "MancCast2015",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.7e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MancCast2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.47 mm : pi/6*0.057^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "263",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01820*Li^2.89, see F3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "36.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01820*Lp^2.89, see F3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "Wiki gives 3 yr, but that seems small given tL data"
+    }
+  ]
+}

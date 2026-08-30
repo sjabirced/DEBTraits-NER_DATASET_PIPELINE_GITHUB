@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Oxudercidae",
+    "genus": "Taenioides",
+    "specie": "Taenioides_cirratus",
+    "specie_en": "Bearded worm goby"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.075",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "LianFang2020",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "fecundity "
+  },
+  {
+    "entity": "Li",
+    "entity.value": "36.2",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "SiddRahm2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12.6",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "LianFang2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.77e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LianFang2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.45 mm: pi/6*0.045^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "52.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "SiddRahm2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LianFang2020",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "based on remark that life span is short"
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Pagellus",
+    "specie": "Pagellus_acarne",
+    "specie_en": "Axillary seabream",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.25,
+      "units": "cm",
+      "label": " total length at birth",
+      "bibkey": "Gaet1935",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 33.31,
+      "units": "cm",
+      "label": "ultimate total lenght",
+      "bibkey": "Bouf2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 16.55,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Bouf2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 499.452,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Bouf2016",
+      "temp": "C2K(18.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 8.32e-05,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Bouf2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 391.53,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Bouf2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 55.156,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Bouf2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 2.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'Gaet1935','fishbase'}",
+      "temp": "C2K(18.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 3650.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "{'Bouf2016','fishbase'}",
+      "temp": "C2K(18.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 716.964,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "{'Bouf2016','fishbase'}",
+      "temp": "C2K(18.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Liparidae",
+    "genus": "Paraliparis",
+    "specie": "Paraliparis_grandis",
+    "specie_en": "Slender snailfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "42",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "OrloTokr2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "339/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "Glub2010",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": "based on Careproctus furcellus: 1129*600/2000"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0224",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Glub2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 3.5 mm of C. furcellus: pi/6*0.35^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "600",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "OrloTokr2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "136",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi*(Lp/Li)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "65",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "OrloTokr2011",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

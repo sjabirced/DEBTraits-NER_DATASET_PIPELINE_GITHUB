@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Pandalidae",
+    "genus": "Pandalus",
+    "specie": "Pandalus_borealis",
+    "specie_en": "Northern prawn",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "16.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "Alle1959",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7.9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Alle1959",
+      "temp": null,
+      "units.temp": null,
+      "comment": "9.5 cm for secondary females"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Alle1959",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.1 mm: 4/3 * pi * 0.055^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "3*30.5",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Alle1959",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

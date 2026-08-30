@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Chirocentridae",
+    "genus": "Chirocentrus",
+    "specie": "Chirocentrus_nudus",
+    "specie_en": "Whitefin wolf herring"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.68",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Chirocentrus_dorab, which is very similar"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Chirocentrus_dorab, which is very similar"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Chirocentrus_dorab, which is very similar"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "43.4",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "AbduPill2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "41.7",
+    "units": "cm",
+    "label": "total length at puberty for male",
+    "bibkey": "AbduPill2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "60268/365",
+    "units": "#/d",
+    "label": "reprod rate at TL 58.7 cm",
+    "bibkey": "AbduPill2011",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1200",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'based on Chirocentrus_dorab, which is very similar. Fishbase gives 410 g as max published weight"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Dels1930",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "'temp EOL: 26-29C"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ap",
+    "entity.value": "8*30.5",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "AbduPill2011",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "read from growth curve for Lp"
+  }
+]

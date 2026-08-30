@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Trichiuridae",
+    "genus": "Trichiurus",
+    "specie": "Trichiurus_lepturus",
+    "specie_en": "Largehead hairtail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "234",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "50.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "130e3/365",
+      "units": "#/d",
+      "label": "rep rate at 45 cm preanal length",
+      "bibkey": "fishbase",
+      "temp": "C2K(15.2)",
+      "units.temp": "K",
+      "comment": "45 cm preanal length converts to 175.5 cm TL"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on guessed egg diameter of 1 mm: 4/3*pi*.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "79/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "scxuebao",
+      "temp": "C2K(21.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(15.2)",
+      "units.temp": "K",
+      "comment": "except for ab, all temps are guessed"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Daphniidae",
+    "genus": "Daphnia",
+    "specie": "Daphnia_magna",
+    "specie_en": "Waterflea"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.1,
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "PreuHamm2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "length at birth depends on size of the mother respective its brood number, usually neonates of first brood are smaller (~0.08cm), compared to later broods"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.25,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Kooy2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wd0",
+    "entity.value": 8.2,
+    "units": "mug",
+    "label": "initial dry weight",
+    "bibkey": "Elen1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wd37",
+    "entity.value": 600.0,
+    "units": "mug",
+    "label": "dry weight at L = 3.7 mm",
+    "bibkey": "Elen1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "after brood release"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": 6.6,
+    "units": "mug",
+    "label": "dry weight at birth",
+    "bibkey": "Elen1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": 1.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "MacABail1929",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 45.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MacABail1929",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

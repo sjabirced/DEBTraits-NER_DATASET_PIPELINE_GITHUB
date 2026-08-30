@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Gymnuridae",
+    "genus": "Gymnura",
+    "specie": "Gymnura_altavela",
+    "specie_en": "Spiny butterfly ray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "32",
+      "units": "cm",
+      "label": "disc width at birth",
+      "bibkey": "AlkuAli2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "28.1 - 36.7 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "400",
+      "units": "cm",
+      "label": "ultimate disc width",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "96.1",
+      "units": "cm",
+      "label": "disc width at puberty",
+      "bibkey": "AlkuAli2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "77.1",
+      "units": "cm",
+      "label": "disc width at puberty for males",
+      "bibkey": "AlkuAli2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(23.6)",
+      "units.temp": "K",
+      "comment": "4-7 pups per litter, 1 litter per yr"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(23.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ParsMais2008",
+      "temp": "C2K(23.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

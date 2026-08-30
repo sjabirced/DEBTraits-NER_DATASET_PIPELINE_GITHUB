@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Mytiloida",
+    "family": "Mytilidae ",
+    "genus": "Perna",
+    "specie": "Perna_canaliculus",
+    "specie_en": "New Zealand green-lipped mussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "E0",
+      "entity.value": "0.0004",
+      "units": "J",
+      "label": "energy content of an egg",
+      "bibkey": "ChenRagg2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'median 0.0003 J, average 0.0004 J, range 0.00007-0.003J"
+    },
+    {
+      "entity": "GSI",
+      "entity.value": "0.14",
+      "units": "-",
+      "label": "gonado somatic index",
+      "bibkey": "NIWA",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "GSI is both temporally and spatially variable"
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.00979",
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "{'Rusk2012','RuskAlfa2017'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "shell length of late D-larvae"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "24",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.028",
+      "units": "cm",
+      "label": "shell length at metamorphosis",
+      "bibkey": "RaggGale2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": "0.0242 cm in Rusk2012"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.7",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "Alfa2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'estimate based on Alfa2001: spawning occurs between Jun and Dec, and in Jul and Apr shells 3-60mm in length were recovered"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Buchann1998",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "Estimated value"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "1e-6",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Used the ratio of lengths for 2-day and 4-day old D-larvae, and weight of 2-day D-larva"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "35",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": "1.8e-6",
+      "units": "g",
+      "label": "ash free dry weight at metamorphosis",
+      "bibkey": "RaggGale2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "0.5",
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "NIWA",
+      "temp": null,
+      "units.temp": null,
+      "comment": "calculation based on length-weight relationship from NIWA unpublished data"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Buchann1998",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "D-larvae at day 2 pf, some late D-larvae (4 days pf) have developed PII layer, which coincides with digestive system and exogenous feeding, see also https://doi.org/10.1093/mollus/eyt044 "
+    },
+    {
+      "entity": "am",
+      "entity.value": "20 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "20-data.ab",
+      "units": "d",
+      "label": "time since birth at metamorphosis",
+      "bibkey": "{'Rusk2012'}",
+      "temp": "C2K(19.1)",
+      "units.temp": "K",
+      "comment": "post-larvae at day 20 post-fertilization, characterized by layers indicating the onset of settlement transition"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "150",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Arhynchobatidae",
+    "genus": "Bathyraja",
+    "specie": "Bathyraja_abyssicola",
+    "specie_en": "Deepsea Skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "26.4",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Prov2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "23.7",
+      "units": "cm",
+      "label": "total length at birth for males",
+      "bibkey": "Prov2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "160",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Prov2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "126.7",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Prov2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "117.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Prov2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "10/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "38.8e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00490*Li^3.13, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "45*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Prov2016",
+      "temp": "C2K(3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

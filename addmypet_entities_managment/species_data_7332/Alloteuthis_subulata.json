@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Alloteuthis",
+    "specie": "Alloteuthis_subulata",
+    "specie_en": "European common squid"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.28,
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "HastPier2015",
+    "temp": null,
+    "units.temp": null,
+    "comment": "2.5-3.2 mm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 15.0,
+    "units": "cm",
+    "label": "mantle length at death for female",
+    "bibkey": "HastPier2015",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": 21.5,
+    "units": "cm",
+    "label": "mantle length at death for male",
+    "bibkey": "HastPier2015",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 7.7,
+    "units": "cm",
+    "label": "mantle length at puberty",
+    "bibkey": "HastPier2015",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 7.2,
+    "units": "cm",
+    "label": "mantle length at puberty for males",
+    "bibkey": "HastPier2015",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 18770.0,
+    "units": "#",
+    "label": "cum reprod at death at ML 12 cm",
+    "bibkey": "HastPier2015",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 23.7,
+    "units": "g",
+    "label": "wet weight at death",
+    "bibkey": "HastPier2015",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.167*Li^1.83, see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 16.7,
+    "units": "g",
+    "label": "wet weight at death for males",
+    "bibkey": "HastPier2015",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.420*Lim^1.2, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 14.0,
+    "units": "d",
+    "label": "age at hatching",
+    "bibkey": "HastPier2015",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": 250.0,
+    "units": "d",
+    "label": "life span for female",
+    "bibkey": "ArkhNeklu1993",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

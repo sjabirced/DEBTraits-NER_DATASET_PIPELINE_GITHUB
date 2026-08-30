@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Oxudercidae",
+    "genus": "Tridentiger",
+    "specie": "Tridentiger_bifasciatus",
+    "specie_en": "Shimofuri goby"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.96",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on TL 12 cm and F2"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.7",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "QinXian2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.6e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "QinXian2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.79 mm: pi/6*0.079^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30.14",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','Slat2005'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00000405 * (10*Li)^3.305 (see F1) for Tridentiger barbatus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.5 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "QinXian2020",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on remark that life span is short"
+  }
+]

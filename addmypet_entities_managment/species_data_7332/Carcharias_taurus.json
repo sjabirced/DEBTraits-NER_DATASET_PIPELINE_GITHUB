@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Lamniformes",
+    "family": "Odontaspididae",
+    "genus": "Carcharias",
+    "specie": "Carcharias_taurus",
+    "specie_en": "Sand tiger shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "GilmDod1993",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'At 10 cm feeding on other eggs/offring starts"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "330",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "220",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "195",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2000/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate at 269 cm",
+    "bibkey": "GilmDod1993",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "'2000 hatched embryos in a 269 cm female"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "computed as 0.0106 * Lb^2.940, see F3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.690e+05",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "computed as 0.0106 * Lpm^2.940, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "8.166e+04",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "computed as 0.0106 * Lp^2.940, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "5.728e+04",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "50",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "GilmDod1993",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6 * 365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "ADW",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4.5 * 365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "ADW",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

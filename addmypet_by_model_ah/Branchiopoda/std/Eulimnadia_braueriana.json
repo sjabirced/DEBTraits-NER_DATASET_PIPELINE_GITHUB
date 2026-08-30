@@ -1,0 +1,51 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Spinicaudata",
+    "family": "Limnadiidae",
+    "genus": "Eulimnadia",
+    "specie": "Eulimnadia_braueriana",
+    "specie_en": "Clam shrimp"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.8,
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "HuanChou2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.33,
+    "units": "cm",
+    "label": "carapace length at puberty",
+    "bibkey": "HuanChou2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 3.6e-06,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Belk1972",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 200-210 mum of Eulimnadia antlei, but that probably includes the ridges: pi/6*190e-4^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 0.0471,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on foto length 0.777 cm, height 0.5 cm, thickness 0.15 cm: pi/4*0.8*0.5*0.15"
+  }
+]

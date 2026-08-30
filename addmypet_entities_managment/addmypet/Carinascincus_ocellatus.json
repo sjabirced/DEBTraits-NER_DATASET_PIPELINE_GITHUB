@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "genus": "Carinascincus",
+    "specie": "Carinascincus_ocellatus",
+    "specie_en": "spotted skink",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "WapsSwai2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8.1",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "WapsSwai2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "7.9",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "WapsSwai2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.1",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "WapsSwai2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "JoneWaps1997",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "1-4 young per litter, 1 litter per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "WapsSwai2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "87",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "JoneWaps1997",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "12-13 wk"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WapsSwai2001",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

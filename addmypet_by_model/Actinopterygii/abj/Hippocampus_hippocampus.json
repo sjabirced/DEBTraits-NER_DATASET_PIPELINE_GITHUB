@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "genus": "Hippocampus",
+    "specie": "Hippocampus_hippocampus",
+    "specie_en": "Short snouted seahorse"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15.2",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "CurtSant2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "CurtSant2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "smallest male with a full brood pouch"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "509*3.6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "CurtSant2017",
+    "temp": "C2K(18.2)",
+    "units.temp": "K",
+    "comment": "509 eggs per spawn, 3.6 spawnings per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.8 mm of H.kuda: pi/6*0.18^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "8.88",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00282*Li^2.96, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.23",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00282*Lp^2.96, see F2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "22",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "CurtSant2017",
+    "temp": "C2K(18.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CurtSant2017",
+    "temp": "C2K(18.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

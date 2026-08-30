@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Cycleptus",
+    "specie": "Cycleptus_elongatus",
+    "specie_en": "Blue sucker",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "82.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "56.8",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 5 yr, and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.18e6/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "based on fecudity of 278 eggs/g: 278*Wwi/365"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.24e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00407*Li^3.14, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.31e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00407*Lp^3.14, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "genus": "Gopherus",
+    "specie": "Gopherus_morafkai",
+    "specie_en": "Sonoran desert tortoise"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "4.2",
+    "units": "cm",
+    "label": "mid-line carapace at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "27",
+    "units": "cm",
+    "label": "ultimate mid-line carapace for females",
+    "bibkey": "Brid2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "19.4",
+    "units": "cm",
+    "label": "mid-line carapace at puberty for females",
+    "bibkey": "Brid2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data at tp"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5.2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AverChri2018",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "mean clutch size 5.2 eggs/clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "22.4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AverChri2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 35 mm: pi/6*3.5^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.2e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length-weight of G. polyphemus: (27/29.5)^3*5500"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "118",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "value for Gopherus agassizii"
+  },
+  {
+    "entity": "am",
+    "entity.value": "80*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Brid2012",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Brid2012",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "genus": "Varanus",
+    "specie": "Varanus_niloticus",
+    "specie_en": "Nile monitor"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "10.8",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Wwb/Wwi)^(1/3)*Li: 52*(26/2827)^(1/3)"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "52",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "BuffCast2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "TL 220 cm, max 244 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "25/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "20-30 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "26",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3600",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "BuffCast2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: up to 20 kg"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "129",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "data for captive individuals, 300 d in the wild"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14.6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1278",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

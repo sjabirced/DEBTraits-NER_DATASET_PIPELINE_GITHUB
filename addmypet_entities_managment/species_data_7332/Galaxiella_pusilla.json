@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Galaxiiformes",
+    "family": "Galaxiidae",
+    "genus": "Galaxiella",
+    "specie": "Galaxiella_pusilla",
+    "specie_en": "Eastern dwarf galaxias"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.8",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.4",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*62/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "Hump1986",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "65 eggs per clutch, 3 clutches assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Hump1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.08-0.1 mm : pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.65",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Li^3.12, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PenPott1993",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

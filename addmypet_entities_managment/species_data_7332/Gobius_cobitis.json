@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Gobius",
+    "specie": "Gobius_cobitis",
+    "specie_en": "Giant goby"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "27",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Gibs1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.6e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 1.5 mm and width of 0.45 mm of G.niger: pi/6*0.15*0.045^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "259.6",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "18.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','Gibs1970'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Lp^3.10, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

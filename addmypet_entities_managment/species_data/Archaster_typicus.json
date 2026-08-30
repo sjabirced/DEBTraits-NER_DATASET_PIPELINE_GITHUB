@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Echinodermata",
+    "class": "Asteroidea",
+    "order": "Valvatida",
+    "family": "Archasteridae",
+    "genus": "Archaster",
+    "specie": "Archaster_typicus",
+    "specie_en": "Sand star",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.10",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "Runchen1988",
+      "temp": "C2K(29.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.7e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.15 mm: pi/6*0.015^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "28.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "BosGuma2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.16",
+      "units": "g",
+      "label": "radius at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.0007*29^2.499, for radius length 29 mm, see F3"
+    },
+    {
+      "entity": "aj",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at settlement",
+      "bibkey": "BosGuma2011",
+      "temp": "C2K(29.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "17*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(29.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "BosGuma2011",
+      "temp": "C2K(29.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

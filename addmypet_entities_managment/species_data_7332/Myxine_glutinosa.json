@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Myxini",
+    "order": "Myxiniformes",
+    "family": "Myxinidae",
+    "genus": "Myxine",
+    "specie": "Myxine_glutinosa",
+    "specie_en": "Atlantic hagfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "9.8",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "GranBish2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "6 to 8 cm, no larval stage"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "65",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Gran2006",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "34.3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "GranBish2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "first mature 29.1 cm, 50% mature 34.3 cm, 100% mature 42 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "38/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "GranBish2009",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "GranBish2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "assuming eggs of 14 * 8 * 6 mm"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "275",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "GranBish2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "large individulas are sterile (GranBish2009)"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "47",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "GranBish2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "first mature 28.7 g, 50% mature 47 g, 100% mature 76 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "pXi",
+    "entity.value": "2353",
+    "units": "J/d",
+    "label": "energy intake at 122.6 g",
+    "bibkey": "LessMart1996",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": "calculated by LessMart1996 on measured O2-consumption using 480 kJ/mol O2, not accounting for digestion efficiency, growth costs etc."
+  }
+]

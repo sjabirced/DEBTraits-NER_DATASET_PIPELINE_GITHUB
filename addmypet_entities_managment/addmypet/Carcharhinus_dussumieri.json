@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Carcharhinus",
+    "specie": "Carcharhinus_dussumieri",
+    "specie_en": "Whitecheek shark",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "34.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Asad2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "34.5 to 49 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "121",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "110",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tL_fm data"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "69",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Asad2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "67",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Asad2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Asad2001",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": "1-5 per litter, 1 litter each 2 yrs"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8.8e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','WhitHall2002'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00324*Li^3.09, see F1"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "6.58e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','WhitHall2002'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00324*Lim^3.09, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(16.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "RaesKamr2017",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

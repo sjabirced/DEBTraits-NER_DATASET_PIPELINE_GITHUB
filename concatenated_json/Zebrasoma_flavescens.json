@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Acanthuridae",
+    "genus": "Zebrasoma",
+    "specie": "Zebrasoma_flavescens",
+    "specie_en": "Yellow tang"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "935032/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Tuck1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.7 mm of Acanthurus lineatus: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "147",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01950*Li^2.98, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "4.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01950*Lp^2.98, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "41*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TaylRhod2014",
+    "temp": "C2K(27.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

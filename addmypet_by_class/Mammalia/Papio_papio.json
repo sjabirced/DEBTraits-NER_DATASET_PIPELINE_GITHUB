@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Cercopithecidae",
+    "genus": "Papio",
+    "specie": "Papio_papio",
+    "specie_en": "Guinea baboon"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "2622.00",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(38)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(38)",
+    "units.temp": "K",
+    "comment": "1 pup per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "863",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Papio_anubis: 976*13e3/1.47e+04"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "13e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "10-14 kg"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "26e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "17-26 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "45*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(38)",
+    "units.temp": "K",
+    "comment": "20-50 yrs"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "6*30.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(38)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4.3*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(38)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "420",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Wiki",
+    "temp": "C2K(38)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

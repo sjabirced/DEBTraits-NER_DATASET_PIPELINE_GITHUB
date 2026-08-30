@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "genus": "Unio",
+    "specie": "Unio_tumidus",
+    "specie_en": "Swollen river mussel"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": ".0254",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "Jirk1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "value for Actinonaias_ligamentina"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Jans2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 2 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "15e3/365",
+    "units": "#/d",
+    "label": "maximum reproduction rate",
+    "bibkey": "ReisArau2016",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "value for Unio tumidiformis"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Negu1966",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

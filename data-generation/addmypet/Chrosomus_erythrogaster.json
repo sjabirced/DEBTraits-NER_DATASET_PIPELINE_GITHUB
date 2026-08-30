@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Chrosomus",
+    "specie": "Chrosomus_erythrogaster",
+    "specie_en": "Southern redbelly dace",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "9.1",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.64",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Sett1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based SL 3.9 cm and F2"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.89e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Sett1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.04 mm: pi/6*0.104^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6.37",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*Li^3.08, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.8",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','Sett1974'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*Lp^3.08, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Sett1974",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

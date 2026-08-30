@@ -1,0 +1,184 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Nephropidae",
+    "genus": "Homarus",
+    "specie": "Homarus_americanus",
+    "specie_en": "American lobster",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "E0",
+      "entity.value": "21",
+      "units": "J",
+      "label": "egg energy content",
+      "bibkey": "AttaHudo1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": "5 cal per egg"
+    },
+    {
+      "entity": "L1",
+      "entity.value": "3.1",
+      "units": "cm",
+      "label": "total length at 1yr",
+      "bibkey": "Wiki",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "25 till 38 mm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "110",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.3",
+      "units": "cm",
+      "label": "total length at settle",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "17.7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "at 18 cm, the fecundity is 3e3 eggs"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.1",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "Krou1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.4",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "Krou1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "R18",
+      "entity.value": "3e3/365",
+      "units": "#/d",
+      "label": "reprod rate at TL 18 cm",
+      "bibkey": "ADW",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "R45",
+      "entity.value": "75e3/365",
+      "units": "#/d",
+      "label": "reprod rate at TL 45 cm",
+      "bibkey": "ADW",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ww6",
+      "entity.value": "450",
+      "units": "g",
+      "label": "wet weight at 6yr",
+      "bibkey": "Wiki",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "20e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.0746",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as (Lj/ Lp)^3 * Wwp"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "413",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "Krou1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": "basied on LpC, using F3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "70.4",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "Krou1973",
+      "temp": null,
+      "units.temp": null,
+      "comment": "basied on LpmC, using F3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "60*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Wiki",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

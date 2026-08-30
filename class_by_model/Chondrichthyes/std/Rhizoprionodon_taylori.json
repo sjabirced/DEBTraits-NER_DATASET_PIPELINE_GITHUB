@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Rhizoprionodon",
+    "specie": "Rhizoprionodon_taylori",
+    "specie_en": "Australian sharpnose shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "24",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Simp1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "73.3",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "Simp1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "65.2",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "Simp1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "55",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Simp1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Simp1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(26.6)",
+    "units.temp": "K",
+    "comment": "1-10 pups per litter, 1 litter per yr assumed"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.6e3",
+    "units": "g",
+    "label": "ultimate wet weight (female)",
+    "bibkey": "{'fishbase','Simp1993'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Li^3.12, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(26.6)",
+    "units.temp": "K",
+    "comment": "fishbase gives 11-13 mnth, but that is in conflict with very rapid post-natal growth"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Simp1993",
+    "temp": "C2K(26.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

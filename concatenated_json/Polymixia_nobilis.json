@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Polymixiiformes",
+    "family": "Polymixiidae",
+    "genus": "Polymixia",
+    "specie": "Polymixia_nobilis",
+    "specie_en": "Stout beardfish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.02",
+    "units": "g/g",
+    "label": "gonado-somatic index",
+    "bibkey": "GarcTuse2010",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "48",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "GarcTuse2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "26",
+    "units": "cm",
+    "label": "fork length at puberty for females",
+    "bibkey": "GarcTuse2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "fork length at puberty for males",
+    "bibkey": "GarcTuse2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'guess based on egg diameter of 1 mm: 4/3*pi*0.05^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": "temperatures are guessed, based on deep water occurence, see F1"
+  }
+]

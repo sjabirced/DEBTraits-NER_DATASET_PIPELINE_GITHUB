@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "genus": "Hemiaspis",
+    "specie": "Hemiaspis_damelii",
+    "specie_en": "Gray snake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "14.7",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "Shin1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "58",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Shin1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "63",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "Shin1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "Shin1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12/365",
+      "units": "#/d",
+      "label": "reprod rate at SVL 136.7 cm",
+      "bibkey": "Wiki",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": "4-16 young per clutch, 1 clutch every 1 yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.9",
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Notechis_scutatus: 4.5*(14.7/17)^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "273",
+      "units": "g",
+      "label": "ultimate weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Notechis_scutatus: 1400*(58/100)^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

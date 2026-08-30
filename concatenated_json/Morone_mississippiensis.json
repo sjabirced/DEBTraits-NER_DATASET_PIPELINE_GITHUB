@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Moroniformes",
+    "family": "Moronidae",
+    "genus": "Morone",
+    "specie": "Morone_mississippiensis",
+    "specie_en": "Yellow bass"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "46",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "250e3/365",
+    "units": "#/d",
+    "label": "Reprod rate max rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MontHoud1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.9 mm for M. saxatilis: pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.38e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01175*Li^3.05, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anostraca",
+    "family": "Branchinectidae",
+    "genus": "Branchinecta",
+    "specie": "Branchinecta_mackini",
+    "specie_en": "Fairy shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.05",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Dabo1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "2.3",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Dabo1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.77",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Dabo1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*225/40",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Dabo1977",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "255 eggs per clutch, 3 clutches assumed in 40 d"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.0207",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based in Arteria salina: 0.0017*(2.3/1)^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "72",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Dabo1977",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "40",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Dabo1977",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

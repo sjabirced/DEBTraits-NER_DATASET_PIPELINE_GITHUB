@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Stomiiformes",
+    "family": "Gonostomatidae",
+    "genus": "Cyclothone",
+    "specie": "Cyclothone_pallida",
+    "specie_en": "Tan bristlemouth",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "ultimate std length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.3",
+      "units": "cm",
+      "label": "std length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3000/365",
+      "units": "#/d",
+      "label": "reprod rate at 20 cm",
+      "bibkey": "MiyaNemo1986",
+      "temp": "C2K(4.2)",
+      "units.temp": "K",
+      "comment": "fecundity 900 eggs, each 2 yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MiyaNemo1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.3 mm: pi/6*0.03^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.6",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Li^2.99, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.31",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Lp^2.99, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(4.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Cheloniidae",
+    "genus": "Natator",
+    "specie": "Natator_depressus",
+    "specie_en": "Flatback turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "E0",
+      "entity.value": "323e3",
+      "units": "J",
+      "label": "initial energy content of the egg",
+      "bibkey": "{'VenkKann2005', 'Wine2016', 'RuslBoot2016', 'StubMitc2019'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average energy density of eggs in refs, multiplied by average dry yolk mass from nine Eighty Mile Beach eggs. d_Y is assumed higher than d_E, as in green turtle entry (StubMitc2019)."
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "data.Lh",
+      "units": "cm",
+      "label": "SCL at birth",
+      "bibkey": "Bent2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "length at hatching and emergence is approximately the same as L_b"
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "5.461",
+      "units": "cm",
+      "label": "SCL at hatching",
+      "bibkey": "Bent2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "average SCL of 13 hatchlings from multiple females, same eggs used for Ah, Ww0 and Wwh"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "98.5",
+      "units": "cm",
+      "label": "ultimate CCL",
+      "bibkey": "WaayStub2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'maximum CCL of a nesting female at Port Headland"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "82.7",
+      "units": "cm",
+      "label": "CCL at puberty",
+      "bibkey": "WaayStub2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "82.7 cm reported as minimum CCL of a nesting female at Cemetery Beach"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.84 * 46.6/ (1.6 * 365)",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Limp2007",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "calculated as number of nests per nesting season (2.84,{Mon Repos,Limp1984}) multiplied by number of eggs per clutch (46.6, consistent for three WA rookeries, Pend2014}) and divided by the interval between two nesting seasons (1.5 yr,{Cemetery Beach, WaayStub2016})"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "66.54",
+      "units": "g",
+      "label": "wet weight of egg",
+      "bibkey": "Bent2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "average mass of 9 eggs from multiple females, same eggs used for ah, Lh and Wwh"
+    },
+    {
+      "entity": "Wwh",
+      "entity.value": "45.42",
+      "units": "g",
+      "label": "wet weight at hatching",
+      "bibkey": "Bent2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "average mass of 9 hatchlings from multiple females, same eggs used for ah, Lh and Ww0"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "94.8e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "DBCA2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "60e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Limp2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "51.23 + 6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Bent2017",
+      "temp": "C2K(29.85)",
+      "units.temp": "K",
+      "comment": "age at birth = age at hatching + 2 days to exit the nest + 4 days relying on yolksac (6d)"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "51.23",
+      "units": "d",
+      "label": "age at hatching",
+      "bibkey": "Bent2017",
+      "temp": "C2K(29.85)",
+      "units.temp": "K",
+      "comment": "' derived from laboratory incubation of 13 Eighty Mile Beach eggs, so that time before exiting nest does not need to be accounted for"
+    },
+    {
+      "entity": "am",
+      "entity.value": "(21+30+20)*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Limp2007",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "21yrs to first breeding + 30 years of nesting thereafter at Mon Repos in Queensland - but not the same female. Limp2007,"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "19 * 365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Limp2007",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "21yrs to first nesting in Limp2007 and allocation to reproduction begins 2 years earlier, temperature based on data from tagged flatbacks in Western Australia"
+    }
+  ]
+}

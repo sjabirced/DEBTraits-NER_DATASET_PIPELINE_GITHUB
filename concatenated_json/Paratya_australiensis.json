@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Atyidae",
+    "genus": "Paratya",
+    "specie": "Paratya_australiensis",
+    "specie_en": "Australian glass shrimp"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.2",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "Wals1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LN data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.5",
+    "units": "cm",
+    "label": "carapace length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on Lp/Li ratio of Palaemonetes varians: 4.2*1.9/5.2"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wals1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 0.59 0.mm and diameter 0.36 mm: pi/6*0.059*0.036^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Palaemonetes pugio and Li: 1*(4.2/5)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

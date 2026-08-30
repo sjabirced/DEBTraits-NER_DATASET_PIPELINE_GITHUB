@@ -1,0 +1,133 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "OvalentariaIncSed",
+    "family": "Pomacentridae",
+    "species": "Pomacentrus_coelestis",
+    "species_en": "Neon damselfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.26",
+      "units": "cm",
+      "label": "standard length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on P. amboinensis"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.20",
+      "units": "cm",
+      "label": "standard length at metam",
+      "bibkey": "KingOCal2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.10",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative length, compared to P. amboinensis: 7 * 4.85/11"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "444*7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": "guess based on Chromis chromis, where smaller size of P. coelestis is assumed to balance shorter life span"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.9e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 2.5 mm and egg diameter (guessed) 1.5 mm of P. amboinensis: pi/6*0.25*0.15^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "29.3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi = 0.04394 * Li^2.824, see F1, F2"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.074",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'KingOCal2017', 'fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwp = 0.04394 * (Lj/ 0.8)^2.824, see F1, F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.05",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwp = 0.04394 * Lp^2.824, see F1, F2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": "based on P. amboinensis"
+    },
+    {
+      "entity": "am",
+      "entity.value": "160",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KingOCal2017",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "45",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "KingOCal2017",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": "based on tL data for Lp"
+    }
+  ]
+}

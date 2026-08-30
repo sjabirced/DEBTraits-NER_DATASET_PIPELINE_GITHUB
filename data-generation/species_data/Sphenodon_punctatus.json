@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Rhynchocephalia",
+    "family": "Sphenodontidae",
+    "genus": "Sphenodon",
+    "specie": "Sphenodon_punctatus",
+    "specie_en": "Tuatara",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "10.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "NelsThom2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length of females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "ultimate total length of males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "18/4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(8.2)",
+      "units.temp": "K",
+      "comment": "Wiki: eggs every 4 yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "(10.5/80)^3*1300",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed from (Lb/Li)^3 * Wwi"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1300",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13.5*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "Wiki: 12-15 months"
+    },
+    {
+      "entity": "am",
+      "entity.value": "100*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(8.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(8.2)",
+      "units.temp": "K",
+      "comment": "wiki: 10-20 yr"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Bathydraconidae",
+    "genus": "Gerlachea",
+    "specie": "Gerlachea_australis",
+    "specie_en": "Antarctic dragonfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "28",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "MesaCali2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "22",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "MesaCali2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "MesaCali2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1260/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(-0.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0172",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MesaCali2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.2 mm of based: pi/6*0.32^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "88",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MesaCali2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "36",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MesaCali2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "106",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(-0.9)",
+      "units.temp": "K",
+      "comment": "based on Trematomus_bernacchii"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MesaCali2018",
+      "temp": "C2K(-0.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

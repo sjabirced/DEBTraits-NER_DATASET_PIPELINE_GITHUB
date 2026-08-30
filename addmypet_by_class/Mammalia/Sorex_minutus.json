@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Eulipotyphla",
+    "family": "Soricidae",
+    "genus": "Sorex",
+    "specie": "Sorex_minutus",
+    "specie_en": "Eurasian pygmy shrew"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5*6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "2 or more litters per yr, 3 to 6 young per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.235",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "5.1",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*12*30.5",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Arkive",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "24",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "21 to 23 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Arkive",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": "born in April can breed in August, which is the beginning and end of the breeding season"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "22",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

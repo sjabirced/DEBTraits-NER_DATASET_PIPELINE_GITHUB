@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Millardia",
+    "specie": "Millardia_meltada",
+    "specie_en": "Soft-furred rat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4*6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Yosi1978",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": "'4 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Yosi1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "6.1-9.6 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "66",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Yosi1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Lemniscomys_striatus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*30.5",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Yosi1978",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": "might be underestimated due to small cages"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "20",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Yosi1978",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "50",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "Yosi1978",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "20",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

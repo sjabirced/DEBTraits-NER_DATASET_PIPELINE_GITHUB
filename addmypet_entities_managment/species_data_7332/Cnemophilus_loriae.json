@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Cnemophilidae",
+    "genus": "Cnemophilus",
+    "specie": "Cnemophilus_loriae",
+    "specie_en": "Loria"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "119",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "13.55",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "bow",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg length 38.9 mm, width 25.8 mm of Cnemophilus_macgregorii: pi/6*3.89*2.58^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "80.5",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "84",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "25",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "bow",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "value very uncertain"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13.4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1.8*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "72",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "24",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": "based on ab"
+  }
+]

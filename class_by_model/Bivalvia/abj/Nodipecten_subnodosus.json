@@ -1,0 +1,151 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Pectinida",
+    "family": "Pectinidae",
+    "genus": "Nodipecten",
+    "specie": "Nodipecten_subnodosus",
+    "specie_en": "Lion"
+  },
+  {
+    "entity": "E_0",
+    "entity.value": "2.12e-3",
+    "units": "J",
+    "label": "egg energy content",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "calculated from egg diameter (52.5 mum), which gives egg dry weight from M. varia and P. magellanicus data, and times 26kJ/gdw from P. magellanicus litterature"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.006",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "Abasolo2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Experimental, measure start with stade D of larvae which is supposed to be the start of feeding, according to Serr-Guz97 [70-90] micrometer so taken the mean"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "19",
+    "units": "cm",
+    "label": "ultimate shell length  ",
+    "bibkey": "VelAbu2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "L infinite for the von bertalanffy model, random sampling from Bahia Los Angeles, , from January to December 2006"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.0210",
+    "units": "cm",
+    "label": "shell length at metam",
+    "bibkey": "NavaG2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "experimental - no exact measure when metam start, but measure before and after [200-400] micro m"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.6",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "Ram2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Length, 50% of individuals reach sexual maturity at this size temperature extract from digitize R package from the study, integration from the beginning to day 406 for the temperature"
+  },
+  {
+    "entity": "R_L",
+    "entity.value": "84247",
+    "units": "#/d",
+    "label": "reprod rate at a large size",
+    "bibkey": "{'MaldAmp2004'}",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "['Average of the values given in this paper, with spawning induced in the lab. Hypothesis of 1.5 spawning events per year 20.5 million*1.5/365 '...\n     '1.5 because usually one major and maybe another one (Racotta et al., 2003)']"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": "2.3398e-8",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "NavaG2022",
+    "temp": "C2K(26.5)",
+    "units.temp": "K",
+    "comment": "experimental, from linear regression of Shell length/dry weight of larva througout 35 days of experimentation"
+  },
+  {
+    "entity": "Wdj",
+    "entity.value": "1.68169e-7",
+    "units": "g",
+    "label": "dry weight at metam",
+    "bibkey": "NavaG2022",
+    "temp": "C2K(26.5)",
+    "units.temp": "K",
+    "comment": "experimental - end of measure during metamorphosis, last measure was near 200 micro m, from linear regression of DW and shell length of larvae"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "513.5",
+    "units": "g",
+    "label": "ultimate wet total weight",
+    "bibkey": "VelAbu2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "from the linear regression extended of Length/Total weight (TW = 0.2979 * L^2.9193) and Mass weight/Total weight (MW = 2.2213 + 0.3144*TW) ,  random sampling from Bahia Los Angeles, from January to December 2006"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "25.34",
+    "units": "g",
+    "label": "Mass Wet weight at puberty",
+    "bibkey": "VelAbu2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "from the linear regression of Length/Total weight (TW = 0.2979 * L^2.9193) and Mass weight/Total weight (MW = 2.2213 + 0.3144*TW) ,  random sampling from Bahia Los Angeles, from January to December 2006"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "{'NavaG2022','Serrano1997'}",
+    "temp": "C2K(26.5)",
+    "units.temp": "K",
+    "comment": "D larvae observed 20 to 24h after fertilization"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Minchin2003",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "chapter 29 in the book, not found mentioned elsewhere"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "14",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "NavaG2022",
+    "temp": "C2K(26.5)",
+    "units.temp": "K",
+    "comment": "experimental, not directly oberved, measures stop and begin once individual metamorphosed, metamorphosis occur during 3 to 5 days and measures stop in a same scale"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "406",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Ram2009",
+    "temp": "C2K(23.80)",
+    "units.temp": "K",
+    "comment": "['experimental - two phase of cultivation, first in lab, with 24°C maintain until individuals reach size of 2mm in length, '... \n    'then Bahia Loreto field experiment, with data of surface temperature integrated in the 406 days of cultivation to get temperature '...\n    'but day 0 of cultivation is when scallops are 6-months old (add 6*30 to the value)']"
+  }
+]

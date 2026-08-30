@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Adapedonta",
+    "family": "Solenidae",
+    "genus": "Ensis",
+    "specie": "Ensis_siliqua",
+    "specie_en": "Pod razor"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.13",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "CrosRior2014",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "based on mean weight of 85 g in Mar-May Jan and 75 g in July-Aug (spent), but values are uncertain"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "21.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.045",
+    "units": "cm",
+    "label": "shell length at metam",
+    "bibkey": "Wijs2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.2",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "FahyGaff2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.5e-9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wijs2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 6.7e-3 cm for Ensis directus: pi/6*6.7e-9"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "110",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "FahyGaff2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "EoL gives 239 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wijs2011",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "Value for Ensis directus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FahyGaff2001",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

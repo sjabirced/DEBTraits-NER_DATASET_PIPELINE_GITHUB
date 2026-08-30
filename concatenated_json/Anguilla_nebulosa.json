@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Anguilliformes",
+    "family": "Anguillidae",
+    "genus": "Anguilla",
+    "specie": "Anguilla_nebulosa",
+    "specie_en": "Mottled eel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "121",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.4e6/(6*365)",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": "based on Anguila anguilla"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.3e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm for Anguila anguilla: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

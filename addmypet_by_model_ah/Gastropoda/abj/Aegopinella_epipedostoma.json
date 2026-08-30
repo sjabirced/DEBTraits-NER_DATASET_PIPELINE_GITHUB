@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Gastrodontidae",
+    "species": "Aegopinella_epipedostoma",
+    "species_en": "Glass snail"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.16",
+    "units": "cm",
+    "label": "shell breath at birth",
+    "bibkey": "KuznPokr2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.1",
+    "units": "cm",
+    "label": "ultimate shell breath",
+    "bibkey": "Jans2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "values for A.nitens, which is very similar"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "20/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "KuznPokr2012",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "9-26 eggs per clutch, 1 to 4 clutch per life time"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "0.025",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "Will1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Cepaea nemoralis: (1.1/2.2)^3*0.2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "25",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "KuznPokr2012",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "27-41 d "
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KuznPokr2012",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "260",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "KuznPokr2012",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "220-298 d"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Latilidae",
+    "genus": "Caulolatilus",
+    "specie": "Caulolatilus_affinis",
+    "specie_en": "Bighead tilefish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "49.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.5e5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(15.8)",
+    "units.temp": "K",
+    "comment": "Guessed based on kap = 0.8 as found for Lutjanus species"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.85 mm of Lutjanus stellatus: 4/3*pi*0.0425^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.68e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "RamiMelo2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.000084*(Li*10)^2.71, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "21*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "RamiMelo2011",
+    "temp": "C2K(15.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

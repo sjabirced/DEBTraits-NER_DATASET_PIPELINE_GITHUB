@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Atheriniformes",
+    "family": "Atherinopsidae",
+    "genus": "Chirostoma",
+    "specie": "Chirostoma_attenuatum",
+    "specie_en": "Slender silverside"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.139",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Roja2006",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Roja2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based of egg diameter of 1.6 mm of  Leuresthes_tenuis : pi/6*0.16^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00550*Li^3.09, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.8",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'Roja2006','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00550*Lp^3.09, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "temerature is guessed"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

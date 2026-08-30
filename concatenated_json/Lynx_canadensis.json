@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Lynx",
+    "specie": "Lynx_canadensis",
+    "specie_en": "Canada Lynx"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": "3.5 cups per litter, 1 litter per yr "
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "204",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "AnAge gives 250 g, Wiki 220-250 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12000",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "17000",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "26.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "63",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": "AnAge gives 95 d, Wiki 78-80"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "498",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "152",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Platycephalidae",
+    "genus": "Platycephalus",
+    "specie": "Platycephalus_aurimaculatus",
+    "specie_en": "Toothy flathead"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "55",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Cott1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.5e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Cott1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.5 mm: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1953",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Li^3.04, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(16.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "18*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Cott1999",
+    "temp": "C2K(16.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

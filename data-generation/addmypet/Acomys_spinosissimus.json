@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Acomys",
+    "specie": "Acomys_spinosissimus",
+    "specie_en": "Southern African spiny mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "44.15",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*3/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "gbif",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": "'2-5 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Acomys_russatus: 7*31/54.4"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "31",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "gbif",
+      "temp": null,
+      "units.temp": null,
+      "comment": "20-31 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "26",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "gbif",
+      "temp": "C2K(35.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "91",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "26",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "gbif",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

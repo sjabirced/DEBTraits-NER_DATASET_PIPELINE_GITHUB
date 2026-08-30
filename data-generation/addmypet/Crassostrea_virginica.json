@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Ostreoida",
+    "family": "Ostreidae",
+    "genus": "Crassostrea",
+    "specie": "Crassostrea_virginica",
+    "specie_en": "Eastern oyster",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.0075",
+      "units": "cm",
+      "label": "diameter of a D-larvae",
+      "bibkey": "{'Gals1964','GallMann1986','Carr2009'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "20.6",
+      "units": "cm",
+      "label": "ultimate shell height",
+      "bibkey": "Gals1964",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.035",
+      "units": "cm",
+      "label": "diameter of a settling larvae",
+      "bibkey": "{'Andr1979','Toma1981','Carr2009'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "shell height",
+      "bibkey": "{'Gals1964','HayeMenz1981','ObeiHeff1996','Carr2009'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.3e6",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'HoffPowe1992','ChoiLewi1993'}",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "1.5e-7",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "GallMann1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "35.8",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "Gals1964",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": "7.5e-6",
+      "units": "g",
+      "label": "dry weight at metamorphosis",
+      "bibkey": "LabaFern1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "data from Ostrea edulis"
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "0.12",
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "{'HayeMenz1981','ObeiHeff1996'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimated from length given by HayeMenz1981 and ObreHeff1996 (with W=L^3)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'Gals1964','Carr2009'}",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "aj",
+      "entity.value": "20",
+      "units": "d",
+      "label": "age at metamorphosis",
+      "bibkey": "{'Gals1964','Carr2009'}",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Gals1964",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "84",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "{'HayeMenz1981','ObeiHeff1996'}",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

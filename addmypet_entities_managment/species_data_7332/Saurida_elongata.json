@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Aulopiformes",
+    "family": "Synodontidae",
+    "genus": "Saurida",
+    "specie": "Saurida_elongata",
+    "specie_en": "Slender lizardfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.5e6/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.4)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Trachinocephalus_myops: 426200*(50/32.6)^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "YangChen2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm of Trachinocephalus_myops: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1e3",
+    "units": "g",
+    "label": "ultimate wet weight females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00550*Li^3.07, see F1, gives 904 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SakaYone2009",
+    "temp": "C2K(27.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

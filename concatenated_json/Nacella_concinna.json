@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Patellogastropoda",
+    "family": "Nacellidae",
+    "genus": "Nacella",
+    "specie": "Nacella_concinna",
+    "specie_en": "Antarctic limpet"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.0228",
+    "units": "cm",
+    "label": "length of the egg",
+    "bibkey": "Peck2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Aquarium experiment, length of the velliger at 236 hours (mouth appear)"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.8",
+    "units": "cm",
+    "label": "max observed shell length",
+    "bibkey": "Shab1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "['max size collected and found in the literature (Shabica, intertical collection, 600 individuals)"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.54",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "{'Morl2018','Pick1980'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "' intertidal, Rothera station"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "3.93",
+    "units": "g",
+    "label": "AFDW weight at max size",
+    "bibkey": "Morl2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "[used the relationship observed in Morl2018 data to get ADFW for a 65mm shell"
+  },
+  {
+    "entity": "Wdp",
+    "entity.value": "0.0992",
+    "units": "g",
+    "label": "AFDW weight at puberty",
+    "bibkey": "Shab1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "5.8e-6",
+    "units": "g",
+    "label": "wet weight of the egg",
+    "bibkey": "Peck2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 221 mum: pi/6*0.0221^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Peck2016",
+    "temp": "C2K(0.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Shab1976",
+    "temp": "C2K(-1.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "{'Shab1976', 'Pick1980'}",
+    "temp": "C2K(-1.5)",
+    "units.temp": "K",
+    "comment": "Shab1976: 4 years, Pick1980: 5 to 6 years"
+  }
+]

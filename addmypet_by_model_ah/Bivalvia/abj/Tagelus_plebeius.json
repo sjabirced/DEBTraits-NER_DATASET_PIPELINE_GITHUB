@@ -1,0 +1,70 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Cardiida",
+    "family": "Solecurtidae",
+    "species": "Tagelus_plebeius",
+    "species_en": "Razor clam"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "SilvCort2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8e7/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.93"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "2.5",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on L-Wd relationship of Abra segmentum"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5e-8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SilvCort2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 46 mum: pi/6*0.0046^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*30.5",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

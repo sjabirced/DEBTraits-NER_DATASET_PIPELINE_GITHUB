@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Hexanchiformes",
+    "family": "Chlamydoselachidae",
+    "genus": "Chlamydoselachus",
+    "specie": "Chlamydoselachus_anguineus",
+    "specie_en": "Frill shark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "TanaShio1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "135",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "10/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Wiki','ADW'}",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": "Wiki: 2-22 per clutch, each 2 yr ADW"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "380",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "TanaShio1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": "temps of all data are guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "60*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

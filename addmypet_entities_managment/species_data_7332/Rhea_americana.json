@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Rheiformes",
+    "family": "Rheidae",
+    "genus": "Rhea",
+    "specie": "Rhea_americana",
+    "specie_en": "Rhea"
+  },
+  {
+    "entity": "E0",
+    "entity.value": "3092e3",
+    "units": "J",
+    "label": "energy in egg",
+    "bibkey": "PrinDiet1997",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'typical in bird eggs: 4.7-23.5 kJ/g"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "150",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "nationalgeographic",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "nationalgeographic",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "575",
+    "units": "g",
+    "label": "egg wet weight",
+    "bibkey": "PrinDiet1997",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.75*575",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PrinDiet1997",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "23000",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "23750",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "40",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "PrinDiet1997",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "temperature from tJO data"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "nationalgeographic",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "426",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ValdCort2014",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": "juveniles are less than a year"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "150",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "ARKive",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

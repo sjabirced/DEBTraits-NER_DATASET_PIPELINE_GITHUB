@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Loligo",
+    "specie": "Loligo_forbesii",
+    "specie_en": "Veined squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.37,
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "PierHast2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 46.2,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "PierHast2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": 93.7,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "PierHast2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 19.0,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "PierHast2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": 22.5,
+      "units": "cm",
+      "label": "mantle length at puberty for males",
+      "bibkey": "PierHast2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 100000.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "ADW",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 2200.0,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "PierHast2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": 8300.0,
+      "units": "g",
+      "label": "wet weight at death for males",
+      "bibkey": "PierHast2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab12",
+      "entity.value": 60.0,
+      "units": "d",
+      "label": "age at hatching",
+      "bibkey": "PierHast2015",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab16",
+      "entity.value": 36.0,
+      "units": "d",
+      "label": "age at hatching",
+      "bibkey": "PierHast2015",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 550.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "RochGuer1999",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

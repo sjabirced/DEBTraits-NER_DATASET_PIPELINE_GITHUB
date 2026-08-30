@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Dorosomatidae",
+    "genus": "Nematalosa",
+    "specie": "Nematalosa_vlaminghi",
+    "specie_en": "Perth herring",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "36",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "16.2",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "RenjSanj2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value for Nematalosa nasus"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "50440/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ChubPott1984",
+      "temp": "C2K(27.4)",
+      "units.temp": "K",
+      "comment": "Fecundity applies to TL 28.9 cm"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.5e-4",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "ChubPott1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of  0.95 mm for Nematalosa nasus: pi/6*0.095^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "522",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Li^3.15, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(27.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

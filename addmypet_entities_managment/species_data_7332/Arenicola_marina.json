@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Annelida",
+    "class": "Polychaeta",
+    "order": "Capitellida",
+    "family": "Arenicolidae",
+    "genus": "Arenicola",
+    "specie": "Arenicola_marina",
+    "specie_en": "Lugworm"
+  },
+  {
+    "entity": "L0",
+    "entity.value": "0.02",
+    "units": "cm",
+    "label": "Egg diameter",
+    "bibkey": "{'DeCuLefe2018','WatsCadm1998'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.08",
+    "units": "cm",
+    "label": "total Length at birth",
+    "bibkey": "FarkBerg1979",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.89",
+    "units": "cm",
+    "label": "total length at metamorphosis",
+    "bibkey": "FarkBerg1979",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ltr",
+    "entity.value": "0.025",
+    "units": "cm",
+    "label": "total length of the Trochophore larva",
+    "bibkey": "FarkBerg1979",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "TLi",
+    "entity.value": "34",
+    "units": "cm",
+    "label": "Trunk maximum length",
+    "bibkey": "Gaud2019",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "TLp",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "Trunk length at puberty",
+    "bibkey": "DeCuLefe2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": "smallest mature individual"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "4.78e-6",
+    "units": "g",
+    "label": "wet weight at fertilization",
+    "bibkey": "DeCuLefe2019",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "30",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "FarkBerg1979",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "probably before, temperature varied between 8 and 13 C : beginning of the change of shape"
+  },
+  {
+    "entity": "aj",
+    "entity.value": "78",
+    "units": "d",
+    "label": "age at metamorphosis",
+    "bibkey": "{'FarkBerg1979'}",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "78 d minimum, temperature varying between 16 to 8 C, end of the change of shape"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BeukDeV1979",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": "probably highly underestimated"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "DeCuLefe2018",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "f and T are guessed"
+  },
+  {
+    "entity": "atr_10",
+    "entity.value": "7",
+    "units": "d",
+    "label": "age at trochophore larva stage",
+    "bibkey": "Gaud2019",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "age when trochophore larvae are first observed"
+  }
+]

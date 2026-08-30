@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Oxymycterus",
+    "specie": "Oxymycterus_roberti",
+    "specie_en": "Robert"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "91.02",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "knowyourmammals",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "'3 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Peromyscus_gossypinus: 2*83.5/46"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "83.5",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "GenoIsle2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "23",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "knowyourmammals",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "22-24 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "51",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "3.5*7",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

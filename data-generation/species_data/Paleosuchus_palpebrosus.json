@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Alligatoridae",
+    "genus": "Paleosuchus",
+    "specie": "Paleosuchus_palpebrosus",
+    "specie_en": "Cuvier",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "CampMahn2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "77",
+      "units": "cm",
+      "label": "ultimate SVL for female",
+      "bibkey": "CampMahn2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: max total length 120 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "91.5",
+      "units": "cm",
+      "label": "ultimate SVL for male",
+      "bibkey": "CampMahn2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: max total length 140 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "SVL at puberty for female",
+      "bibkey": "CampMahn2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2*17/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Wiki','ADW'}",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "10 to 25 eggs per clutch, 1 to 3 clutches per yr in captivity"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "50",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "crocodilian",
+      "temp": null,
+      "units.temp": null,
+      "comment": "46 to 55 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12e3",
+      "units": "g",
+      "label": "ultimate wet weight of female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "53*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "age at puberty for female",
+      "bibkey": "CampMahn2013",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "4-7 yrs"
+    }
+  ]
+}

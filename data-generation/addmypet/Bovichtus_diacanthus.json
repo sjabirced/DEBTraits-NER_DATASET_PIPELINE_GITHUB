@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Bovichtidae",
+    "genus": "Bovichtus",
+    "specie": "Bovichtus_diacanthus",
+    "specie_en": "Tristan klipfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "18.9",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "MesaCapu2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MesaCapu2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 1.5 mm: pi/6*0.15^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "86.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MesaEast2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00427*Li^3.16, see F1, gives 46.1 g"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "18",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "MesaEast2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW data"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "34",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(12.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MesaEast2012",
+      "temp": "C2K(12.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Hexanauplia",
+    "order": "Sessilia",
+    "family": "Archaeobalanidae",
+    "genus": "Notobalanus",
+    "specie": "Notobalanus_flosculus",
+    "specie_en": "Barnacle"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.623",
+    "units": "cm",
+    "label": "ultimate opercule diameter",
+    "bibkey": "VeneClac2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.05",
+    "units": "cm",
+    "label": "basal diameter at metam",
+    "bibkey": "VeneClac2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.284",
+    "units": "cm",
+    "label": "opercule diameter at puberty",
+    "bibkey": "VeneClac2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.7e6/ 365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.98"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "VeneClac2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 0.120 mm: pi/6*0.012^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2",
+    "units": "g",
+    "label": "ultimate soma wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on Amphibalanus_amphitrite"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

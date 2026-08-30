@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Ziphiidae",
+    "genus": "Ziphius",
+    "specie": "Ziphius_cavirostris",
+    "specie_en": "Cuvier"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "210",
+    "units": "cm",
+    "label": "length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "2-3 m"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "740",
+    "units": "cm",
+    "label": "ultimate length for females",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "AWD gives 7 m. Value based on Hyperoodon_ampullatus: (3.25/7.50)^(1/3)*980"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "650",
+    "units": "cm",
+    "label": "length at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "5.8-7 m"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Hyperoodon_ampullatus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.25e6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "2-3.5 ton"
+  },
+  {
+    "entity": "am",
+    "entity.value": "62*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "365",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "Temp taken from Monodon"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Hyperoodon_ampullatus"
+  }
+]

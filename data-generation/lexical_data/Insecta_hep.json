@@ -1,0 +1,232 @@
+{
+  "Insecta_hep_cycle_de_vie": {
+    "titre": "Life cycle of class Insecta — HEP (DEB model for hemimetabolic insects)",
+    "ordre": "Coleoptera / Diptera / Lepidoptera / Hymenoptera",
+    "classe": "Insecta",
+    "stades": [
+      {
+        "id": 1,
+        "label": "t0",
+        "nom": "Fertilisation",
+        "type": "transition",
+        "termes": [
+          "egg fertilisation",
+          "zygote formation",
+          "gamete fusion",
+          "syngamy",
+          "ovum activation",
+          "reproductive pairing",
+          "zygote stage onset",
+          "gametic union",
+          "fecundation",
+          "internal fertilisation",
+          "spermatophore transfer",
+          "spermatheca filling",
+          "copulation"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Egg / Incubation",
+        "nom": "Embryo under incubation",
+        "type": "stade",
+        "termes": [
+          "fertilised ovum",
+          "incubating egg",
+          "embryonated egg",
+          "yolk-dependent embryo",
+          "cleavage-stage embryo",
+          "blastula-stage embryo",
+          "gastrulating embryo",
+          "organogenesis stage",
+          "chorionate egg",
+          "desiccation-resistant egg",
+          "diapause egg"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "B",
+        "nom": "Larval hatching",
+        "type": "transition",
+        "termes": [
+          "first exogenous feeding",
+          "first feeding",
+          "yolk-sac resorption",
+          "mouth opening",
+          "first prey capture",
+          "exotrophic transition",
+          "trophic switch",
+          "active feeding onset",
+          "larval feeding commencement",
+          "yolk absorption completion",
+          "first instar feeding",
+          "larval host finding",
+          "plant feeding initiation",
+          "prey ingestion onset"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Larval stage",
+        "nom": "Feeding larval instar",
+        "type": "stade",
+        "termes": [
+          "free-swimming larva",
+          "planktonic larva",
+          "exogenously feeding larva",
+          "actively growing larva",
+          "pre-metamorphic larva",
+          "larval instar",
+          "caterpillar",
+          "grub",
+          "maggot",
+          "feeding larva",
+          "leaf-mining larva",
+          "soil larva",
+          "wood-boring larva"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "J",
+        "nom": "End of larval acceleration",
+        "type": "transition",
+        "termes": [
+          "larval metamorphosis",
+          "post-larval transformation",
+          "larval-juvenile transition",
+          "morphological transformation",
+          "allometric shift",
+          "body plan reorganisation",
+          "juvenile recruitment",
+          "metamorphic climax",
+          "final larval instar",
+          "imaginal disc activation",
+          "larval-adult tissue remodelling"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Late larva",
+        "nom": "Late larva (adult-phase)",
+        "type": "stade",
+        "termes": [
+          "late larva",
+          "final larval instar",
+          "adult-phase larva",
+          "pre-emergence larva",
+          "physiologically adult larva",
+          "final instar larva",
+          "wandering larva",
+          "last instar nymph",
+          "pre-imago larva",
+          "subimago precursor"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "P",
+        "nom": "Larval puberty",
+        "type": "transition",
+        "termes": [
+          "sexual maturation",
+          "reproductive maturity",
+          "first reproduction event",
+          "gonad maturation",
+          "puberty",
+          "gametogenesis onset",
+          "reproductive activation",
+          "age at first reproduction",
+          "adult reproductive activation",
+          "oocyte maturation",
+          "first egg laying",
+          "reproductive imaginal stage"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Pupal stage",
+        "nom": "Pupa",
+        "type": "stade",
+        "termes": [
+          "pupa",
+          "chrysalis",
+          "puparium",
+          "resting stage",
+          "holometabolic pupa",
+          "quiescent stage",
+          "non-feeding pupa",
+          "metamorphic resting stage",
+          "coarctate pupa",
+          "obtect pupa",
+          "exarate pupa",
+          "histolysis stage",
+          "imaginal disc expansion"
+        ],
+        "note": "The pupa is a non-feeding quiescent stage during which larval tissues are histolysed and adult structures (imaginal discs) differentiate; characteristic of holometabolous insects."
+      },
+      {
+        "id": 9,
+        "label": "E",
+        "nom": "Imago emergence",
+        "type": "transition",
+        "termes": [
+          "imago emergence",
+          "adult eclosion",
+          "imaginal eclosion",
+          "winged adult emergence",
+          "final moult",
+          "adult form emergence",
+          "reproductive adult appearance",
+          "post-pupal emergence",
+          "emergence from puparium",
+          "wing expansion",
+          "cuticle hardening",
+          "sclerotisation onset",
+          "teneral adult"
+        ]
+      },
+      {
+        "id": 10,
+        "label": "Winged adult (imago)",
+        "nom": "Imago (winged adult)",
+        "type": "stade",
+        "termes": [
+          "imago",
+          "winged adult",
+          "perfect insect",
+          "adult insect",
+          "post-emergence adult",
+          "reproductive imago",
+          "flying adult",
+          "mating adult",
+          "dispersing imago",
+          "swarming adult"
+        ]
+      },
+      {
+        "id": 11,
+        "label": "M",
+        "nom": "Natural death",
+        "type": "transition",
+        "termes": [
+          "natural mortality",
+          "senescence",
+          "age-related death",
+          "post-reproductive mortality",
+          "biological death",
+          "somatic death",
+          "lifespan completion",
+          "ecological mortality",
+          "organismal death",
+          "reproductive senescence",
+          "physiological death",
+          "imago death",
+          "post-mating death",
+          "senescent imago"
+        ]
+      }
+    ]
+  }
+}

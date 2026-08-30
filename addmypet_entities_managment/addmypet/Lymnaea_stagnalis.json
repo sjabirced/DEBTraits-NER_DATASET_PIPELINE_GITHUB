@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Lymnaeidae",
+    "genus": "Lymnaea",
+    "specie": "Lymnaea_stagnalis",
+    "specie_en": "Pond snail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "JO_1",
+      "entity.value": 3.5e-08,
+      "units": "L/h",
+      "label": "O2 consumption",
+      "bibkey": "Zimm2013",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "at birth, L = 0.147 cm"
+    },
+    {
+      "entity": "JO_27",
+      "entity.value": 0.000512,
+      "units": "L/h",
+      "label": "O2 consumption",
+      "bibkey": "Zimm2013",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "'L = 2.75 cm"
+    },
+    {
+      "entity": "Lb",
+      "entity.value": 0.147,
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "Zimm2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 4.024,
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "Zimm2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": 1.2,
+      "units": "cm",
+      "label": "shell length at metam",
+      "bibkey": "Zimm2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 2.3,
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "Zimm2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri_FLE",
+      "entity.value": 25.0,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Zimm2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "L = 3.2 cm"
+    },
+    {
+      "entity": "Wd0",
+      "entity.value": 0.00015,
+      "units": "g",
+      "label": "egg dry weight",
+      "bibkey": "Zimm2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": 0.000114,
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "Zimm2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": 0.699,
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "Zimm2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'excluding shell"
+    },
+    {
+      "entity": "ab_18",
+      "entity.value": 20.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Zimm2013",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab_20",
+      "entity.value": 13.5,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Zimm2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

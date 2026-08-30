@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Mysida",
+    "family": "Mysidae",
+    "genus": "Praunus",
+    "specie": "Praunus_flexuosus",
+    "specie_en": "Chameleon shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.3",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "WinkGrev2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "2.6",
+      "units": "cm",
+      "label": "ultimate length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "length at metam",
+      "bibkey": "WinkGrev2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on inflection point in tL curves"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.8",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "5.78e-5",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "WinkGrev2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lb/Li)^3*Wdi"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "3.76e-2",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Mysis mixta: (2.6/1.470)^3*6.8e-3"
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "1.25e-2",
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/Li)^3*Wdi"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "23",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "WinkGrev2002",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3.5*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "WinkGrev2002",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "15 till 16 moults"
+    }
+  ]
+}

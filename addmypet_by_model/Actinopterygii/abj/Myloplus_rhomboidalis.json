@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Characiformes",
+    "family": "Serrasalmidae",
+    "genus": "Myloplus",
+    "specie": "Myloplus_rhomboidalis",
+    "specie_en": "Coumarou"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40.5",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.12e5/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "BailMarg1989",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on 0.239*Li^3.232 and 3 spawnings per yr for Myleus ternetzi"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.15e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BailMarg1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.8 mm fpr Myleus ternetzi: pi/6*0.28^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "max published weight, based on 0.02089*Li^2.96, see F1, gives 1.2e3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "287",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02089*Lip^2.96, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "14",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LecoBouj1993",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

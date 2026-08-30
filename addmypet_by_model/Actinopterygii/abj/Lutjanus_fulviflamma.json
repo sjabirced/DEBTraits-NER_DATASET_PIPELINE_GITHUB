@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Lutjanus",
+    "specie": "Lutjanus_fulviflamma",
+    "specie_en": "Dory snapper"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.04",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "GranAbde2006",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18.7",
+    "units": "cm",
+    "label": "fork length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "16.7",
+    "units": "cm",
+    "label": "fork length at puberty for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HamaKuma1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.85 mm of L. stellatus: 4/3*pi*0.0425^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "736",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0239 * Li^2.906, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "119",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "GranAbde2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0239 * Lp^2.906, see F1"
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "85",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "GranAbde2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0239 * Lpm^2.906, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "23*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

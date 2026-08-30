@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Hexagrammidae",
+    "genus": "Hexagrammos",
+    "specie": "Hexagrammos_octogrammus",
+    "specie_en": "Masked Greenling",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "42",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ShesNaza2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "38.4e3/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(9.39)",
+      "units.temp": "K",
+      "comment": "based on Hexagrammos_stelleri"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ShesNaza2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.75 mm (1.5 to 3 mm): pi/6*0.175^3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "52.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "ShesNaza2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

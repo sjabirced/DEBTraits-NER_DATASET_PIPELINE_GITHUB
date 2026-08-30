@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "genus": "Unio",
+    "specie": "Unio_crassus",
+    "specie_en": "Thick shelled river mussel"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": ".02",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "unio",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "HelaValo2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Jans2017 gives 7 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "unio",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 4 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e5/365",
+    "units": "#/d",
+    "label": "maximum reproduction rate",
+    "bibkey": "unio",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "value for Unio species is not specified"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "unio",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HelaValo2016",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

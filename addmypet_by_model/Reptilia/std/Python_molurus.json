@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "genus": "Python",
+    "specie": "Python_molurus",
+    "specie_en": "Indian python"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "52",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "45 till 60 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "400",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Whit1974",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "max recorded 460 cm with weight 52 kg"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "40/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(29.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "75",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi*(Lb/Li)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "42.2e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'max recorded 460 cm with weight 52 kg"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "87",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "87 till 93 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "27.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(29.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "1095",
+    "units": "d",
+    "label": "age at puberty for female",
+    "bibkey": "AnAge",
+    "temp": "C2K(29.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Oncorhynchus",
+    "specie": "Oncorhynchus_kisutch",
+    "specie_en": "Coho salmon"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "108",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki gives 55 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "77",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length, compared to O. nerka: 108*60/84"
+  },
+  {
+    "entity": "NR",
+    "entity.value": "6906",
+    "units": "#",
+    "label": "eggs at the end of life",
+    "bibkey": "fishbase",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.3137",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BretShel1975",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15.2e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "10.8e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi*(Lp/Li)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "145.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "BretShel1975",
+    "temp": "C2K(4.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "fishbase",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

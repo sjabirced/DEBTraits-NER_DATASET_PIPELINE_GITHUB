@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Lotidae",
+    "genus": "Gaidropsarus",
+    "specie": "Gaidropsarus_guttatus",
+    "specie_en": "Spotted rockling",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "5",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "MoraAfon2003",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "32.6",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15.1",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "MoraAfon2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.1  mm: 4/3*pi*0.055^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "324",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.0108 * Li^2.959, see F3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "33",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.0108 * Lp^2.959, see F3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "0.8*365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "MoraAfon2003",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "Based on tL data for Lp"
+    }
+  ]
+}

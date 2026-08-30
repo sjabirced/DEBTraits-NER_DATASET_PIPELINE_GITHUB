@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Gadidae",
+    "genus": "Micromesistius",
+    "specie": "Micromesistius_australis",
+    "specie_en": "Southern blue whiting"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "25",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": "based on Merluccius_hubbsi"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "90",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "37",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "33 to 40 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 866 mum for Merluccius hubbsi: pi/6*0.0866^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1350",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "94",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/Li)^3*Wwi"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(9.1)",
+    "units.temp": "K",
+    "comment": "based on Merluccius hubbsi"
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ContArel2014",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "{'ContArel2014','fishbase'}",
+    "temp": "C2K(6)",
+    "units.temp": "K",
+    "comment": "based on interpolation of Lp in tL_f data"
+  }
+]

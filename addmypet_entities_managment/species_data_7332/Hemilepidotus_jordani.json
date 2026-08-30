@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Hemilepidotus",
+    "specie": "Hemilepidotus_jordani",
+    "specie_en": "Yellow Irish lord"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "65",
+    "units": "cm",
+    "label": "ultimate total length for",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "36",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "224508/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "TenBBuck2013",
+    "temp": "C2K(3.5)",
+    "units.temp": "K",
+    "comment": "based on rel fecundity of 266 #/g"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "baed on egg diameter of 1.63 mm for Cottus volki: pi/6*0.163^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.8e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00676*Li^3.17, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "580",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00676*Lp^3.17, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "30 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TenBBuck2013",
+    "temp": "C2K(3.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

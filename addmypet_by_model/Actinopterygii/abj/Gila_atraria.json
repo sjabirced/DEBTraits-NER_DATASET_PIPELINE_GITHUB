@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Gila",
+    "specie": "Gila_atraria",
+    "specie_en": "Utah chub"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "56",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "VarlLive1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on first spawning at SL 6.7"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.59 mm: pi/6*0.159^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.41e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00813*Li^3.13, F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "96",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','VarlLive1976'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00813*Lp^3.13, F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Neuh1954",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

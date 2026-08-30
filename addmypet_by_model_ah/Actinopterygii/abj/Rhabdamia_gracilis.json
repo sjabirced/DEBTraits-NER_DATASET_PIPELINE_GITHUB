@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Kurtiformes",
+    "family": "Apogonidae",
+    "genus": "Rhabdamia",
+    "specie": "Rhabdamia_gracilis",
+    "specie_en": "Luminous cardinalfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.4",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.6",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5000/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": "based on Apogon imberbis for L = 7.4 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.438e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter  650 mum of Apogon imberbis: pi/6*0.065^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01072*Li^3.09, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.56",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01072*Lp^3.09, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

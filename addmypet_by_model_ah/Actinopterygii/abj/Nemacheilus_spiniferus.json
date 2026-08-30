@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Nemacheilidae",
+    "genus": "Nemacheilus",
+    "specie": "Nemacheilus_spiniferus",
+    "specie_en": "Loach"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.7",
+    "units": "cm",
+    "label": " total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "based on Bartula bartula"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.1e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.6 mm of Bartula bartula: pi/6*0.06^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.2",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00708*Li^3.01, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.14",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00708*Lp^3.01, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

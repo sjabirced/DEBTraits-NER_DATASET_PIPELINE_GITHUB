@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Microhylidae",
+    "genus": "Dyscophus",
+    "specie": "Dyscophus_antongilii",
+    "specie_en": "Madagascar tomato frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10.5",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "{'Wiki','amphibiaweb'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "85 to 105 mm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "{'Wiki','amphibiaweb'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "60 to 65 mm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "{'ADW', 'TessGuar2007'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tp = 3 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1500/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "{'Wiki','amphibiaweb'}",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "Wiki gives 1000 till 15000 egges per clutch, amphibiaweb 1000 till 1500"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Hyla exima"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "230",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "41",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "68",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'ADW','TessGuar2007','Wiki'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lp/Li)^3 * Wwi"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "36/24",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

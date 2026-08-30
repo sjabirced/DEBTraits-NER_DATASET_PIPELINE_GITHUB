@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Polypteriformes",
+    "family": "Polypteridae",
+    "genus": "Erpetoichthys",
+    "specie": "Erpetoichthys_calabaricus",
+    "specie_en": "Reedfish"
+  },
+  {
+    "entity": "L152",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "total length at 5 month",
+    "bibkey": "fishkeeping",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishkeeping",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "37",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "for females"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "31.4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "for females"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1200/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "Wiki: 800-1200"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "60.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Baba2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed as 10^(3.04 * log10(37) - 2.9864), based on Baba2011"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "36.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Baba2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed as 10^(3.04 * log10(31.4) - 2.9864), based on Baba2011"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "19",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishkeeping",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ah",
+    "entity.value": "3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishkeeping",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "temps of all data are assumed to be what Wiki gives for optimum"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishkeeping",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "fishkeeping",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

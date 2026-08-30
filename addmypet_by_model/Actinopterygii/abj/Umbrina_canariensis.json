@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Umbrina",
+    "specie": "Umbrina_canariensis",
+    "specie_en": "Canary drum"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "80",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "23",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "HutcGrif2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "22 cm for male"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.2e6/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.86"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "8.25e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00871*Li^3.14, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "164",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','HutcGrif2006'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00871*Li^3.14, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "27*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HutcGrif2006",
+    "temp": "C2K(14.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

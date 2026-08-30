@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Schizothorax",
+    "specie": "Schizothorax_dulongensis",
+    "specie_en": "Snowtrout",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "24.6",
+      "units": "cm",
+      "label": "ultimate std length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "std length at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.25e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on Schizothorax_oconnori: 39343*129/2350"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Shodhganga",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value for Schizothorax richardsonii: based egg diameter of 1.7 mm: pi/6*0.17^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "129",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Li^3.02, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "50*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MaXie2010",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

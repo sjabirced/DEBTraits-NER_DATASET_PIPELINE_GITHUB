@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Zeiformes",
+    "family": "Oreosomatidae",
+    "genus": "Pseudocyttus",
+    "specie": "Pseudocyttus_maculatus",
+    "specie_en": "Smooth oreo dory"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "68",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "84000/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(4.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1/300",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ConrPank1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 300 eggs/g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.27e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01995*Li^3.00, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "45",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(4.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "100*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HornMcMi2019",
+    "temp": "C2K(4.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

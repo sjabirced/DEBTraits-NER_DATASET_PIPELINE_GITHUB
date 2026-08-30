@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Siphateles",
+    "specie": "Siphateles_bicolor",
+    "specie_en": "Tui Chub",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Bird1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "68933/365",
+      "units": "#/d",
+      "label": "ultimate reprod rate",
+      "bibkey": "Kuce1978",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "table, 2, eggs for 37.8cm female - temp is guessed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Bird1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1-2 mm: pi/6*0.12^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.25e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "0.00871 * Li^3.12, see F3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "168/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Bird1975",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "ArchBona2009",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fwspubs",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "guessed, report says several years"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2 * 365",
+      "units": "d",
+      "label": "time since birth at puberty (females)",
+      "bibkey": "fwspubs",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "temp is guessed"
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "1 * 365",
+      "units": "d",
+      "label": "time since birth at puberty (males)",
+      "bibkey": "fwspubs",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "temp is guessed"
+    }
+  ]
+}

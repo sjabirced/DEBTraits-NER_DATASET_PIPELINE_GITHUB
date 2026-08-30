@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Trichoptera",
+    "family": "Sericostomatidae",
+    "genus": "Sericostoma",
+    "specie": "Sericostoma_personatum",
+    "specie_en": "Bushtailed caddisfly",
+    "deb_model": "hax"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.0234",
+      "units": "cm",
+      "label": "head-capsule width at birth",
+      "bibkey": "Wagn1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.2",
+      "units": "cm",
+      "label": "maximum head-capsule width of 7th instar larvae before pupation",
+      "bibkey": "WallWall1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.2",
+      "units": "cm",
+      "label": "maximum larval length of 7th instar larvae before pupation",
+      "bibkey": "OttoSven1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "351",
+      "units": "#",
+      "label": "total number of eggs",
+      "bibkey": "Elli1969",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "oviposition of one female happened 2 times within 1 hour, first clutch: 162 eggs, second clutch: 189 eggs"
+    },
+    {
+      "entity": "V0",
+      "entity.value": "4/3 * pi * 0.175^3",
+      "units": "cm^3",
+      "label": "initial egg volume",
+      "bibkey": "Wagn1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "egg has a diameter of 3-4 mm - simple volume formula 4/3 * pi * 0.35/2 cm^3 "
+    },
+    {
+      "entity": "ab",
+      "entity.value": "36",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wagn1990",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "duration of hatching at 12 degrees is 36-39 days"
+    },
+    {
+      "entity": "am",
+      "entity.value": "21",
+      "units": "d",
+      "label": "life span as imago",
+      "bibkey": "wiki",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "wikipedia: lifespan imago: 2-4 weeks"
+    },
+    {
+      "entity": "tTj_10",
+      "entity.value": "370",
+      "units": "d",
+      "label": "time since birth at pupation",
+      "bibkey": "Wagn1990",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "larval development lasts 370 days at 10 C and 16/8 day/night rythm"
+    },
+    {
+      "entity": "tTj_6",
+      "entity.value": "452",
+      "units": "d",
+      "label": "time since birth at pupation",
+      "bibkey": "Wagn1990",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": "larval development lasts 452 days at 6 C and 16/8 day/night rythm"
+    },
+    {
+      "entity": "te",
+      "entity.value": "40",
+      "units": "d",
+      "label": "time since pupation at emergence",
+      "bibkey": "Wagn1990",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "pupa stage lasts 40+-5 days at 14 C and 16/8 day/night rythm"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "319",
+      "units": "d",
+      "label": "time since birth at pupation",
+      "bibkey": "Wagn1990",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "larval development lasts 319 days at 14 C and 16/8 day/night rythm"
+    }
+  ]
+}

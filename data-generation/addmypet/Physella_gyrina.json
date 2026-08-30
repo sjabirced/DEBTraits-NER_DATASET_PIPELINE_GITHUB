@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Physidae",
+    "genus": "Physella",
+    "specie": "Physella_gyrina",
+    "specie_en": "Tadpole physa",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.075",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "DeWi1954",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "1.40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "DeWi1954",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "DeWi1955",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "190/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.07",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Lymnaea stagnalis, with extra correction for shape difference, excluding shell: 0.699*(1.4/3)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "DeWi1955",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "22*30.5",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "DeWi1955",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'data from laboratory"
+    }
+  ]
+}

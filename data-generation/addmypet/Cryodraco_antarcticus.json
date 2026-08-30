@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Channichthyidae",
+    "genus": "Cryodraco",
+    "specie": "Cryodraco_antarcticus",
+    "specie_en": "long-fingered icefish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "79",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "MesaCali2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase: 48.7 cm"
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "53",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "MesaCali2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "44",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "MesaCali2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "37",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "MesaCali2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "24445/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MesaDona2023",
+      "temp": "C2K(-0.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0477",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MesaDona2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 4.5 mm: pi/6*0.45^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.9e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MesaCali2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW_f data (79/70)^3*2500"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "621",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "MesaCali2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW_f data (44/70)^3*2500"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "70",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(0)",
+      "units.temp": "K",
+      "comment": "based on Trematomus_bernacchii"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MesaCali2020",
+      "temp": "C2K(-0.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

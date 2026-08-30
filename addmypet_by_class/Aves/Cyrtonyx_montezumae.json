@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Odontophoridae",
+    "genus": "Cyrtonyx",
+    "specie": "Cyrtonyx_montezumae",
+    "specie_en": "Montezuma quail"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "11/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(41)",
+    "units.temp": "K",
+    "comment": "6-12 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LeopMcCa1957",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "230",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "StromMont2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "range 122-230 n = 23"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "25",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(37.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6.4 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "based on Colinus virginianus"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at first breeding",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "100",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "based on Colinus virginianus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "3",
+    "units": "d",
+    "label": "time since birth at fledge",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

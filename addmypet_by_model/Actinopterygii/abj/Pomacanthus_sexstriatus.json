@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pomacanthiformes",
+    "family": "Pomacanthidae",
+    "genus": "Pomacanthus",
+    "specie": "Pomacanthus_sexstriatus",
+    "specie_en": "Sixbar angelfish"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "46",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Sapo2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "FL 201-210 mm"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "22.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Sapo2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "FL 220-230 mm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "66",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.9e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length 2.5 mm and egg diameter (guessed) 1.5 mm: pi/6*0.25*0.15^2"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "2165",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwim = 0.03802*Lim^2.86, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "224",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','Sapo2005'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwp = 0.03802*Lp^2.86, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "58*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Sapo2005",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

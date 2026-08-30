@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Lethrinidae",
+    "genus": "Lethrinus",
+    "specie": "Lethrinus_obsoletus",
+    "specie_en": "Orange-striped emperor",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.13",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "Ebis2006",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "23.7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GomaSiju2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.7 mm of Lethrinus_lentjan: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2296",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01202*Li^2.97, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "145.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01202*Lp^2.97, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "22*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EbisOzaw2009",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

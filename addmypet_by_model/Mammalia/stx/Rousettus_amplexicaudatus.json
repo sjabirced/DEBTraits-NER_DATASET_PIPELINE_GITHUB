@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Pteropodidae",
+    "genus": "Rousettus",
+    "specie": "Rousettus_amplexicaudatus",
+    "specie_en": "Geoffroy"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "104.3",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "1 pup per litter, 2 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Rousettus_leschenaultii: 9.5*91.5/111.2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "91.5",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "GenoIsle2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "22.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "based on Rousettus aegyptiacus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "4*30.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "3.5-4,5 mnth"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "229",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "6-9 mnth"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "84",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "2.5-3 mnth"
+  }
+]

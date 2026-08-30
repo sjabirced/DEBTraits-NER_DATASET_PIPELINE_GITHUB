@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Homalopsidae",
+    "genus": "Cerberus",
+    "specie": "Cerberus_rynchops",
+    "specie_en": "New Guinea bockadam",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "14.5",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "ChimDion2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value for Cerberus schneiderii"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "110",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "reptileDB",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "33.6",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "ChimDion2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value for Cerberus schneiderii"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "39/365",
+      "units": "#/d",
+      "label": "max reprod rate at SVL 67 cm",
+      "bibkey": "JaynVori1988",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.96",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ChimDion2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "guess",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

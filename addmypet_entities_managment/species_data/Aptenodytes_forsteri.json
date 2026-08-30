@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Sphenisciformes",
+    "family": "Spheniscidae",
+    "genus": "Aptenodytes",
+    "specie": "Aptenodytes_forsteri",
+    "specie_en": "Emperor penguin",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "0.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(38.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "0.84*460",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "15.7 percent is egg shell"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "315",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "45e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "70",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temp from PTAG2005"
+    },
+    {
+      "entity": "am",
+      "entity.value": "50*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(38.2)",
+      "units.temp": "K",
+      "comment": "20 yrs in the field"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "4.5*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Wiki",
+      "temp": "C2K(38.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(38.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "170",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Ston1953",
+      "temp": "C2K(38.2)",
+      "units.temp": "K",
+      "comment": "150 d according to ADW"
+    }
+  ]
+}

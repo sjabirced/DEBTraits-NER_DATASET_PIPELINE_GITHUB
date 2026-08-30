@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Gadidae",
+    "genus": "Trisopterus",
+    "specie": "Trisopterus_esmarkii",
+    "specie_en": "Norway pout",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "35",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "384190/365",
+      "units": "#/d",
+      "label": "reprod rate at 26.5 cm",
+      "bibkey": "fishbase",
+      "temp": "C2K(7.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.82e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MunkNiel2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.19  mm: pi/6*0.119^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "324",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00589*Li^3.07, see F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "19.4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00589*Lp^3.07, see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(7.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

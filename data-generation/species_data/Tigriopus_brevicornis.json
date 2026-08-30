@@ -1,0 +1,54 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Hexanauplia",
+    "order": "Harpacticoida",
+    "family": "Harpacticidae",
+    "genus": "Tigriopus",
+    "specie": "Tigriopus_brevicornis",
+    "specie_en": "Copepod",
+    "deb_model": "sbp"
+  },
+  "data": [
+    {
+      "entity": "Wwb",
+      "entity.value": "0.253",
+      "units": "mug",
+      "label": "wet weight at birth",
+      "bibkey": "JageHeus2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "27.3",
+      "units": "mug",
+      "label": "ultimate wet weight",
+      "bibkey": "JageHeus2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "22.4",
+      "units": "mug",
+      "label": "wet weight at puberty",
+      "bibkey": "JageHeus2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2+12+23",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Harr1973",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on 2 d embryo guessed, 12 d juvenile from JageHeus2021 and 23 d adult from Harr1973"
+    }
+  ]
+}

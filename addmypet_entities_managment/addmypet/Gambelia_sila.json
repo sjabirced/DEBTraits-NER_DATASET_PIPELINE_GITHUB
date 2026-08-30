@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Crotaphytidae",
+    "genus": "Gambelia",
+    "specie": "Gambelia_sila",
+    "specie_en": "Blunt-nosed leopard lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "Toll1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "11.2",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "11.9",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.8",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "Toll1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "9.8",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "Toll1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tL_m data at tpm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.2*2.4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Toll1982",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "2.4 eggs per clutch, assumed: 1.2 clutches per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg legnth of 2.58 mm and diameter 1.56: pi/6*2.58*1.56^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "16.8",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Larcerta agilis: 12*1.12^3 g"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "20.2",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Larcerta agilis: 12*1.19^3 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "61",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "9*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Toll1982",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "9*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Toll1982",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

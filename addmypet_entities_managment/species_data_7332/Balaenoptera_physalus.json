@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Balaenopteridae",
+    "genus": "Balaenoptera",
+    "specie": "Balaenoptera_physalus",
+    "specie_en": "Fin whale"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "11.5e2",
+    "units": "cm",
+    "label": "length at birth",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "11-12 m"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20.5e2",
+    "units": "cm",
+    "label": "ultimate length for females",
+    "bibkey": "AguiLock1987",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "19.2e2",
+    "units": "cm",
+    "label": "ultimate length for males",
+    "bibkey": "AguiLock1987",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18.3e2",
+    "units": "cm",
+    "label": "length at puberty",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "17.7 till 19 m"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "114 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tg",
+    "entity.value": "342",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AguiLock1987",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "based on tL_f data for Lp"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2864",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "183",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "4-6 months"
+  }
+]

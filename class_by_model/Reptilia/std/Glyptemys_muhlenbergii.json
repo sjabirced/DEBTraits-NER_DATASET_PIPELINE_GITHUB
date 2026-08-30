@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Emydidae",
+    "genus": "Glyptemys",
+    "specie": "Glyptemys_muhlenbergii",
+    "specie_en": "Bog turtle"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "2.11-2.85 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.19",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "LoviErns1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "9.76",
+    "units": "cm",
+    "label": "ultimate carapace length for males",
+    "bibkey": "LoviErns1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "carapace length at puberty",
+    "bibkey": "LoviErns1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "3 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "247",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "55",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "45-65 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "40*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "LoviErns1998",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "based on tL and Lp data"
+  }
+]

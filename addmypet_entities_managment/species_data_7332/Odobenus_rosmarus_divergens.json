@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Odobenidae",
+    "genus": "Odobenus",
+    "specie": "Odobenus_rosmarus_divergens",
+    "specie_en": "Pacific walrus"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "Walruses breed once every 2 to 3 years."
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "56e3",
+    "units": "g",
+    "label": "wet weight at birth for males",
+    "bibkey": "KastKlas2003",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "850e3",
+    "units": "g",
+    "label": "ultimate wet weight fem.",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2000e3",
+    "units": "g",
+    "label": "ultimate wet weight male",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "250e3",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "KastKlas2003",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "40 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "In the wild, walrus have been estimated to live over 40 years"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "15*30",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "AnAge says 331 days"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "females, 5 to 7 years AWD"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "13*30.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "KastKlas2003",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "12 to 36 months AWD"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Argentiniformes",
+    "family": "Bathylagidae",
+    "genus": "Pseudobathylagus",
+    "specie": "Pseudobathylagus_milleri",
+    "specie_en": "Stout blacksmelt"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "21.6",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "14",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "ChilTayl1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4e3/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(1.8)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ChilTayl1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.2 mm: pi/6*0.12^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "88.4",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00776*Li^3.04, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "23.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','ChilTayl1980'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00776*Li^3.04, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ChilTayl1980",
+    "temp": "C2K(1.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Pectinida",
+    "family": "Pectinidae",
+    "genus": "Adamussium",
+    "specie": "Adamussium_colbecki",
+    "specie_en": "Antarctic scallop",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "55e-4",
+      "units": "cm",
+      "label": "larval shell at birth (trochophore stadium)",
+      "bibkey": "PeckPowe2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "9.2",
+      "units": "cm",
+      "label": "maximum measured size",
+      "bibkey": "Schi2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "344e-4",
+      "units": "cm",
+      "label": "larval shell at metamorphosis (PII)",
+      "bibkey": "BerkWall1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "size at puberty",
+      "bibkey": "ChiaCatt2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.7114e-08",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 55 mum: pi/6*0.0055^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "50",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Stoc1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "9",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Stoc1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": "rough estimate"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "177/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "PeckPowe2007",
+      "temp": "C2K(0.9)",
+      "units.temp": "K",
+      "comment": "experimental. Time to reach trochophore at 0.9 C and f=0.8"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ChiaCatt2001",
+      "temp": "C2K(-1.5)",
+      "units.temp": "K",
+      "comment": "'18 years is provided by a VBL model"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "6.5*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Catt1997",
+      "temp": "C2K(-1.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "90",
+      "units": "d",
+      "label": "age at metamorphosis since birth",
+      "bibkey": "TyleReev2003",
+      "temp": "C2K(-1.5)",
+      "units.temp": "K",
+      "comment": "able to feed at PII stadium, when metamorphosis occurs"
+    }
+  ]
+}

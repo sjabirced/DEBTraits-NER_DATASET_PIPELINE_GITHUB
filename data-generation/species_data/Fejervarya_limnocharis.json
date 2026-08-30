@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Dicroglossidae",
+    "genus": "Fejervarya",
+    "specie": "Fejervarya_limnocharis",
+    "specie_en": "Indian cricket frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "4.55",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "LalfVanl2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "3.37",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "LalfVanl2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "900/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "LalfVanl2019",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "488 to 1035 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.9e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "LalfVanl2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.53 mm: pi/6*0.153^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "1.4",
+      "units": "g",
+      "label": "wet weight at metam for female",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Euphlyctis_cyanophlyctis"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "PancDesh2003",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since metam at puberty for female at f_l",
+      "bibkey": "PancDesh2003",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

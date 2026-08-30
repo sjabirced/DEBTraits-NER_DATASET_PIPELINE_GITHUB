@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Saurischia",
+    "family": "Nemegtosauridae",
+    "genus": "Rapetosaurus",
+    "specie": "Rapetosaurus_krausei",
+    "specie_en": "Rapetosaurus",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "20/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "Very speculative"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.4e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "RogeWhit2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "16.684e6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "RogeWhit2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "100*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "guess based on Apatosaurus_spec"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "guess based on Apatosaurus_spec"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Hynobiidae",
+    "genus": "Hynobius",
+    "specie": "Hynobius_tokyoensis",
+    "specie_en": "Tokyo salamander"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "KusaUeda2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Spar2014: TL 13 cm, converting to SVL 6.45 cm using F2"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "KusaUeda2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "192/365",
+    "units": "#/d",
+    "label": "max reprduction rate",
+    "bibkey": "Spar2014",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "15-192 eggs per season"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.09e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Spar2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.5-3 mm: pi/6*0.275^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Salamandra salamandra of TL 250 mm, weighing 40 g (Wiki): (16/25)^3*40"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "40",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "21*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KusaUeda2006",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "KusaUeda2006",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

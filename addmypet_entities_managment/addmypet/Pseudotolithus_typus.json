@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Pseudotolithus",
+    "specie": "Pseudotolithus_typus",
+    "specie_en": "Longneck croaker",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "140",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "48.3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "140946/365",
+      "units": "#/d",
+      "label": "reprod rate at TL 36 cm",
+      "bibkey": "SyllTia2016",
+      "temp": "C2K(25.7)",
+      "units.temp": "K",
+      "comment": "based on Pseudotolithus_senegalensis"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.08e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "EkanAchi2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.59 mm: pi/6*0.059^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "24398",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00661*Li^3.06, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "940",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00661*Lp^3.06, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

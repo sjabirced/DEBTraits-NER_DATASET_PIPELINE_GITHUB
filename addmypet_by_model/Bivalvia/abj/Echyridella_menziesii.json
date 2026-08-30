@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Hyriidae",
+    "genus": "Echyridella",
+    "specie": "Echyridella_menziesii",
+    "specie_en": "New Zealand freshwater mussel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.4",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Jame1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.75",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "2.5 till 3 cm for Westralunio carteri"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1000",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(16.5)",
+    "units.temp": "K",
+    "comment": "Guessed based on value for kap"
+  },
+  {
+    "entity": "Wd55",
+    "entity.value": "0.637",
+    "units": "g",
+    "label": "dry weight at shell length 55 mm",
+    "bibkey": "Jame1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on Wd (in g) = 1.13e-5*(shell length in mm)^2.73"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "nzgeo",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Based on 0.3 mm glochidium length, but rather flat: 0.5*4/3*pi*0.015^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "50*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Klun2012",
+    "temp": "C2K(16.5)",
+    "units.temp": "K",
+    "comment": "Data for Westralunio carteri"
+  }
+]

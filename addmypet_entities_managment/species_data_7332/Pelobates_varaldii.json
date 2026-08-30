@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Pelobatidae",
+    "genus": "Pelobates",
+    "specie": "Pelobates_varaldii",
+    "specie_en": "Moroccan spadefoot"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.0",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "2.7",
+    "units": "cm",
+    "label": "SVL of frog at metam",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": "21-34 mm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1570/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "based on P. syriacus: 31.4/120*6000 per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter 1.15-2.0 mm: pi/6*0.18^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "39.6",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "GuarAndr2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 5.28 cm weighs 17 g: (7/5.28)^3*17"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "31.4",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "GuarAndr2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 5.17 cm weighs 15.8 g: (6.5/5.17)^3*15.8"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CogaRosi2014",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "temp 11-34 C"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since metam at puberty for females",
+    "bibkey": "GuarAndr2011",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since metam at puberty for males",
+    "bibkey": "GuarAndr2011",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

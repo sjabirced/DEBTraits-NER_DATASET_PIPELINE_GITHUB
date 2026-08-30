@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Psittaciformes",
+    "family": "Psittaculidae",
+    "genus": "Eunymphicus",
+    "specie": "Eunymphicus_cornutus",
+    "specie_en": "Horned parakeet",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": "2 to 4 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "RobiSala2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "egg length 2.71 cm, width 2.25 cm, weight: pi/6*2.71*2.25^2=7.2 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "120",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "RobiSala2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "asymptotic weight of nestling, adult weight lower: 125 g for (hbw)"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "140",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "RobiSala2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "asymptotic weight of nestling, adult weight lower: 167 g (hbw)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "21.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "19.7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "126",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "42",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "RobiSala2008",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

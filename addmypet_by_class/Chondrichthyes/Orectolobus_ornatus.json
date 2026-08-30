@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Orectolobiformes",
+    "family": "Orectolobidae",
+    "genus": "Orectolobus",
+    "specie": "Orectolobus_ornatus",
+    "specie_en": "Ornate wobbegong"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "HuveStea2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "290",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki gives 117 cm as max reported"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "94",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "78/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "44.5",
+    "units": "g",
+    "label": "weight at birth",
+    "bibkey": "{'HuveStea2013','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "187e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Lb^3.12, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "353",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HuveStea2013",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

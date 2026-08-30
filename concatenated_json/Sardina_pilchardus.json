@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Alosidae",
+    "genus": "Sardina",
+    "specie": "Sardina_pilchardus",
+    "specie_en": "European pilchard"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.5",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ReMene2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "23.8",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "SilvCarr2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SilvSant2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp2",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Dess2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Maturation observed in the experiment"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "45000*10/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'NuneSilv2011','ICES2012'}",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "season of 8-9 months, an average interval between spawning events of 13-14 days and a batch fecundity of ~ 45000 eggs, about 10 spawnings per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.5e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ReMene2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "112",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ReMene2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "20",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "ReMene2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp2",
+    "entity.value": "16.1",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Dess2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Maturation observed in the experiment"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ReMene2008",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "'average sea surface tempoff West Portuguese coast, Angelico, pers. comm.)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SilvCarr2008",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "average life span: 7-8 years, though max. age observed is 13 years old"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "SilvSant2006",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "first maturation between 1 and 2 years old"
+  },
+  {
+    "entity": "ap2",
+    "entity.value": "234",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "Dess2015",
+    "temp": "C2K(14.4)",
+    "units.temp": "K",
+    "comment": "Initial age determined from otoliths, maturation observed in the experiment"
+  }
+]

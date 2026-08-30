@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Larimichthys",
+    "specie": "Larimichthys_polyactis",
+    "specie_en": "Small yellow croaker"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.12",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "LimLe2010",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.46",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ZhanLou2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "{'MasuAmao1984','Fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "YanLiu2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.1e5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Shui2000",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "JianZhan2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.25 to 1.4 mm: pi/6*0.132^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.0158*data.Li^3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'LiShan2011','MaYan2017','YanLi2006'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.0158*data.Lp^3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'LiShan2011','MaYan2017','YanLi2006'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "51/24+4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ZhanLou2016",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "365*23",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "{'MasuAmao1984','Fishbase'}",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "250",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "LimLe2010",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

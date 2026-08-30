@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ariidae",
+    "genus": "Sciades",
+    "specie": "Sciades_proops",
+    "specie_en": "Crucifix sea catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.15",
+      "units": "g/g",
+      "label": "gonado somatic index for female",
+      "bibkey": "guess",
+      "temp": "C2K(27.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "100",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "36.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AzevCast2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "LecoMeun1989 give SL 51 cm"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.14",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 16 mm as typical for Sciades: pi/6*1.6^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'max published weight"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "545",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00603*Lp^3.17, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(27.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

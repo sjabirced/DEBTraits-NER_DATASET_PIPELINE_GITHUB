@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Lotidae",
+    "genus": "Lota",
+    "specie": "Lota_lota",
+    "specie_en": "Burbot",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.46",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "KuprTrab2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.42",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "KuprTrab2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "152",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.3e6/365",
+      "units": "#/d",
+      "label": "reprod rate ",
+      "bibkey": "fishbase",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: 4/3*pi*0.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "34000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "320",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW data for Lp"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "Wiki",
+      "temp": "C2K(3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tb",
+      "entity.value": "8",
+      "units": "d",
+      "label": "time since hatch at birth",
+      "bibkey": "KuprTrab2014",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since hatch at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Chydoridae",
+    "genus": "Coronatella",
+    "specie": "Coronatella_rectangula",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.0204",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "VitiOrlan2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.0468",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "VitiOrlan2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.0340",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "VitiOrlan2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.98/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "VitiOrlan2013",
+      "temp": "C2K(23.6)",
+      "units.temp": "K",
+      "comment": "1.98 eggs per brood, brood interval 2 d"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.1e-5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on length 0.047 cm, height 0.03 cm, width 0.0100 cm"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.68",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "VitiOrlan2013",
+      "temp": "C2K(23.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "46",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "VitiOrlan2013",
+      "temp": "C2K(23.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.48",
+      "units": "d",
+      "label": "time since birth at at puberty",
+      "bibkey": "VitiOrlan2013",
+      "temp": "C2K(23.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

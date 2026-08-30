@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Nototheniidae",
+    "genus": "Trematomus",
+    "specie": "Trematomus_bernacchii",
+    "specie_en": "Emerald rockcod "
+  },
+  {
+    "entity": "Li",
+    "entity.value": "33",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "MesaArne1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3123/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(-1.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.036",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 4.1 mm: pi/6*0.41^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "446.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','MesaArne1996'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00537*Li^3.24, see F1, F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "62.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00537*Lp^3.24, see F1, F2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "95",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(0)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "33*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MesaArne1996",
+    "temp": "C2K(-1.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

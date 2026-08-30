@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Hypoptychidae",
+    "genus": "Hypoptychus",
+    "specie": "Hypoptychus_dybowskii",
+    "specie_en": "Korean sandlance"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "standard length at birth",
+    "bibkey": "NariMune1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "NariMune1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "80/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(7.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.98",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on  0.00302*Lp^3.12, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.46",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "32",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "NariMune1999",
+    "temp": "C2K(7.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "1 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "NariMune1997",
+    "temp": "C2K(7.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

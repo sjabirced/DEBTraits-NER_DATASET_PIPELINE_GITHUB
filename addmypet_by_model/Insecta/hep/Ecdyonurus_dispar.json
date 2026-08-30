@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Ephemeroptera",
+    "family": "Heptageniidae",
+    "genus": "Ecdyonurus",
+    "specie": "Ecdyonurus_dispar",
+    "specie_en": "Autumn dun"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.5",
+    "units": "cm",
+    "label": "body length imago",
+    "bibkey": "MacaBenn2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.0",
+    "units": "cm",
+    "label": "max body length nymph",
+    "bibkey": "Hump1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": "2500",
+    "units": "#",
+    "label": "cumulative # of eggs",
+    "bibkey": "{'riverflies','MacaBenn2010'}",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wd0",
+    "entity.value": "1.5/2500",
+    "units": "mg",
+    "label": "initial dry weight",
+    "bibkey": "{'Wata1998', 'guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Wata1998 implies Ww0 = 8 mug, derived from egg volume of Ephoron shigae, using specific density of 1 g/cm^3"
+  },
+  {
+    "entity": "Wdj",
+    "entity.value": "2.0",
+    "units": "mg",
+    "label": "ultimate dry weight",
+    "bibkey": "Hump1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "last point of tW_20, with assumed 1.5 mg contibution from eggs"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "25",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Hump1984",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6",
+    "units": "d",
+    "label": "life span as imago",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "90",
+    "units": "d",
+    "label": "time since at birth at emergence",
+    "bibkey": "Hump1984",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

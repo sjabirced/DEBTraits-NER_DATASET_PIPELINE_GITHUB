@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Penaeidae",
+    "genus": "Fenneropenaeus",
+    "specie": "Fenneropenaeus_chinensis",
+    "specie_en": "Fleshy prawn",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "23.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "total length at  metam",
+      "bibkey": "{'DengYe1990','LiXiang2002'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "LiXiang2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "no difference between female and male before 7cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.5e6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Chen2001','Fan2013'}",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.15e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "DengYe1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.28 mm: 4/3*pi*0.014^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "91.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "DengYe1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "von bertalanffy curve"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "LuoKong2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'DengYe1990','LuoKong2014','LiXiang2002'}",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "365*2",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "76",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "{'LiXiang2002','DengYe1990'}",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

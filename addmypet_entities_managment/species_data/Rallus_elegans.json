@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Rallus",
+    "specie": "Rallus_elegans",
+    "specie_en": "King rail",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "9.9/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Mean1953",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": "10 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "19.5",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "Mean1953",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "14.7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Mean1953",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "340",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Mean1953",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "22",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Mean1953",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "22.3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": "based on Fulica americana"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "avibase",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "30",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "MeanMean1958",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

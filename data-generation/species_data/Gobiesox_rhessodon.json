@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiesociformes",
+    "family": "Gobiesocidae",
+    "genus": "Gobiesox",
+    "specie": "Gobiesox_rhessodon",
+    "specie_en": "California clingfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6.4",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Well1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Runy1961",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg legnth of 0.96 mm and width of  0.77 mm of Gobiesox strumosus: pi/6*0.096*0.077^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.23",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00933*Li^3.15, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "16",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

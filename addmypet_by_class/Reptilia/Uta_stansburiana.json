@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Phrynosomatidae",
+    "genus": "Uta",
+    "specie": "Uta_stansburiana",
+    "specie_en": "Common side-blotched lizard"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.2",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "Tink1967",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "4.6",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "Tink1967",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*4.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Tink1967",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "4.5 eggs per clutch, 3 clutches per yr assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.35",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Tink1967",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "70",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Tink1967",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "65-77 d, but mean temperature is unknown"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*465",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Scorpaenidae",
+    "genus": "Pontinus",
+    "specie": "Pontinus_kuhlii",
+    "specie_en": "Offshore rockfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "38.4",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "52",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "22.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "MendEsta1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "29.9",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "MendEsta1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6e5/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(13.9)",
+    "units.temp": "K",
+    "comment": "based on Sebastes auriculatus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based egg diameter of 0.8 mm of Sebastes auriculatus: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "732",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.01202*Li^3.02, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(13.9)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "18*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AbelSant2001",
+    "temp": "C2K(13.9)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

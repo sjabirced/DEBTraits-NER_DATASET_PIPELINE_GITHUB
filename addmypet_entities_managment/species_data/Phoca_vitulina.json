@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Phocidae",
+    "genus": "Phoca",
+    "specie": "Phoca_vitulina",
+    "specie_en": "Harbor seal",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "100",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "KovaLyde",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "140",
+      "units": "cm",
+      "label": "total length fem.",
+      "bibkey": "KovaLyde",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Svalbard"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "total length male",
+      "bibkey": "KovaLyde",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Svalbard"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "KovaLyde",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "12e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KovaLyde",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "83e3",
+      "units": "g",
+      "label": "ultimate wet weight fem.",
+      "bibkey": "KovaLyde",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Svalbard"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "104e3",
+      "units": "g",
+      "label": "ultimate wet weight male",
+      "bibkey": "KovaLyde",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Svalbard"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "22e3",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "KovaLavi1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "combined male and female from all subspecies in appendix"
+    },
+    {
+      "entity": "am",
+      "entity.value": "17374",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "329",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1095",
+      "units": "d",
+      "label": "time since birth at puberty (female)",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1460",
+      "units": "d",
+      "label": "time since birth at puberty (male)",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "30",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

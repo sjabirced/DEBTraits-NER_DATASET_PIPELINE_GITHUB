@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Lamniformes",
+    "family": "Pseudocarchariidae",
+    "genus": "Pseudocarcharias",
+    "specie": "Pseudocarcharias_kamoharai",
+    "specie_en": "Crocodile shark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "41",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "LessAndr2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "40 till 43 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "122",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "110",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "91.6",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "LessAndr2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "LessAndr2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(24.9)",
+      "units.temp": "K",
+      "comment": "4 pups per litter, assumed: 1 litter each 2 yrs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "418",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Lb^3.12,  see F2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12.6e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Li^3.12,  see F2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9.1e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Lim^3.12,  see F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "5.14e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Lp^3.12,  see F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.37e3",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00389*Lpm^3.12,  see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "LessAndr2016",
+      "temp": "C2K(24.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

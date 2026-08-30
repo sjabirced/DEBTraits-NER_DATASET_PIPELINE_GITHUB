@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Accipiter",
+    "specie": "Accipiter_fasciatus",
+    "specie_en": "Brown goshawk"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "OlseLsen1982",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "1 clutch per yr, 2-4 eggs/clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "14",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "OlseLsen1982",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "580",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "OlseLsen1982",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "350",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "OlseLsen1982",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "30",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "OlseLsen1982",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "based on other Accipiter species in AnAge"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1095",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "91.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "30.5",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "OlseLsen1982",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

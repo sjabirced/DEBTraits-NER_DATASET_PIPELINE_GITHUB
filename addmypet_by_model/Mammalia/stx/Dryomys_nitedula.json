@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Gliridae",
+    "genus": "Dryomys",
+    "specie": "Dryomys_nitedula",
+    "specie_en": "Forest dormouse"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.2*3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "1.2 litter per yr, 3 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.73",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "56",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Jusk2014e",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Jusk2014e gives 54.5 g for female, 57.7 g for male"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "28",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "30",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

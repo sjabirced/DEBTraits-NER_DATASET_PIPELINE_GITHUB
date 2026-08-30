@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Nototheniidae",
+    "genus": "Trematomus",
+    "specie": "Trematomus_eulepidotus",
+    "specie_en": "Blunt scalyhead"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "34.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12300/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(-0.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0042",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Ekau1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "505.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Li^3.26, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "116.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Lp^3.26, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "95",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(0)",
+    "units.temp": "K",
+    "comment": "based on Trematomus_bernacchii"
+  },
+  {
+    "entity": "am",
+    "entity.value": "19*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Ekau1988",
+    "temp": "C2K(-0.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

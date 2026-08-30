@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Urolophidae",
+    "genus": "Urolophus",
+    "specie": "Urolophus_paucimaculatus",
+    "specie_en": "Sparsely-spotted stingaree",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "disc width at birth",
+      "bibkey": "WhitPott2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "27.2",
+      "units": "cm",
+      "label": "ultimate disc width for females",
+      "bibkey": "WhitPott2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "25.6",
+      "units": "cm",
+      "label": "ultimate disc width for males",
+      "bibkey": "WhitPott2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "22.29",
+      "units": "cm",
+      "label": "disc width at puberty for females",
+      "bibkey": "WhitPott2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20.69",
+      "units": "cm",
+      "label": "disc width at puberty for males",
+      "bibkey": "WhitPott2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "WhitPott2005",
+      "temp": "C2K(16.3)",
+      "units.temp": "K",
+      "comment": "1 to 2 pups per litter"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "329",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "WhitPott2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 10^-5.20 *(10*Li)^3.17, see F1"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "340",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "WhitPott2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 10^-5.03 *(10*Lim)^3.14, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "11*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "WhitPott2005",
+      "temp": "C2K(16.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WhitPott2005",
+      "temp": "C2K(16.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

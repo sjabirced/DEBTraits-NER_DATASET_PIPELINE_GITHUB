@@ -1,0 +1,174 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Argyrosomus",
+    "specie": "Argyrosomus_regius",
+    "specie_en": "Meagre",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.05",
+      "units": "g/g",
+      "label": "gonado-somatic index",
+      "bibkey": "Papa2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "L0",
+      "entity.value": "0.1056",
+      "units": "cm",
+      "label": "egg diameter",
+      "bibkey": "KlimoPagou2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.362",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "LikaKooy2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.295",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "LikaKooy2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "230",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "3.2",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "PapaKent2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "0.718e-3",
+      "units": "g",
+      "label": "wet weight of egg",
+      "bibkey": "KlimoPagou2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.37e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "LikaKooy2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "103e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "5e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "LikaKooy2014",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "1",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "LikaKooy2014",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "aj",
+      "entity.value": "35",
+      "units": "d",
+      "label": "age at metam",
+      "bibkey": "LikaKooy2014",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "fins are formed and the animal looks like a minitiature version of the adult"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

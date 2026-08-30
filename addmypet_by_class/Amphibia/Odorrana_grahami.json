@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Odorrana",
+    "specie": "Odorrana_grahami",
+    "specie_en": "Diskless-fingered odorous frog"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.15",
+    "units": "g/g",
+    "label": "Gonado Somatic Index",
+    "bibkey": "guess",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": "based on Odorrana_swinhoana"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11.3",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "YuanZhon2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "8.8",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "YuanZhon2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "2.3",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Odorrana_swinhoana"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "YuanZhon2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data and tp"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "YuanZhon2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data and tp"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0141",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 3 mm of Odorrana_swinhoana: pi/6*0.3^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "132.6",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Odorrana_swinhoana: 67*(11.3/9)^3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "62.6",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Odorrana_swinhoana: 67*(8.8/9)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "45",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "YuanZhon2021",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "YuanZhon2021",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

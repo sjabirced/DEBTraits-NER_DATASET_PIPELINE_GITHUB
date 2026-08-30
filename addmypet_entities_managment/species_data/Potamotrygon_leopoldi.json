@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Potamotrygonidae",
+    "genus": "Potamotrygon",
+    "specie": "Potamotrygon_leopoldi",
+    "specie_en": "Xingu River ray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "14",
+      "units": "cm",
+      "label": "disc width at birth",
+      "bibkey": "CharSant2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "111",
+      "units": "cm",
+      "label": "ultimate disc width",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "44.5",
+      "units": "cm",
+      "label": "disc width at puberty",
+      "bibkey": "CharSant2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "43-46 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "35.5",
+      "units": "cm",
+      "label": "disc width at puberty for males",
+      "bibkey": "CharSant2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(26.7)",
+      "units.temp": "K",
+      "comment": "2 pups per litter, 1 litter per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "20e3",
+      "units": "g",
+      "label": "wet weight at disc width  75 cm",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5.5*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "CharSant2018",
+      "temp": "C2K(26.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CharSant2018",
+      "temp": "C2K(26.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

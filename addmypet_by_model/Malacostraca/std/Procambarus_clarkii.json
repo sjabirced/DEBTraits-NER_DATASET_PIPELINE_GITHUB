@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Cambaridae",
+    "genus": "Procambarus",
+    "specie": "Procambarus_clarkii",
+    "specie_en": "Red swamp crayfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11.1",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "WangYang2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in LW data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*600/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "JinaJacq2019",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": "600 eggs per clutch, 1 clutch per yr in Germany, 2 clutches in Portugal, more in USA"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "JinaJacq2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.2 mm: pi/6*0.22^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "72",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "WangYang2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in LW data"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "6.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/Lp)^3*Wwi"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*30.5",
+    "units": "d",
+    "label": "time since birth at puberty at 20 C",
+    "bibkey": "ADW",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

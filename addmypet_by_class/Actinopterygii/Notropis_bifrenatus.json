@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Notropis",
+    "specie": "Notropis_bifrenatus",
+    "specie_en": "Bridled shiner"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.8",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "Harr1948",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.3",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "Harr1948",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Harr1948",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.85 mm: pi/6*0.085^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.57",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','Harr1948'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00708*(Li/0.83)^3.08, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Harr1948",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

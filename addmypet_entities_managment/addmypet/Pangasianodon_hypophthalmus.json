@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Pangasiidae",
+    "genus": "Pangasianodon",
+    "specie": "Pangasianodon_hypophthalmus",
+    "specie_en": "Iridescent shark-catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.33",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "MukaTuza2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "130",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "150e3 * 44 * 12/ 365",
+      "units": "#/d",
+      "label": "reprod rate at Ww = 1.7 kg",
+      "bibkey": "LegeSuba1998",
+      "temp": "C2K(31)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'LegeSuba1998'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.1 mm: pi/6*.11^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "44e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "FAO",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "23/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "caribefish",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "aquariumlife",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "caribefish",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

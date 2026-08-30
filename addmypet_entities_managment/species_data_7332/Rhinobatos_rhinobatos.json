@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rhinopristiformes",
+    "family": "Rhinobatidae",
+    "genus": "Rhinobatos",
+    "specie": "Rhinobatos_rhinobatos",
+    "specie_en": "Common guitarfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "25.7",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "IsmeYigi2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "147",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "IsmeYigi2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "67",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "IsmeYigi2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "9/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "4 to 10 pups per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "48.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "IsmeYigi2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate based on Wwb = Wwi * (Lb/Li)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "IsmeYigi2007",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "4 to 9 mnth"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "IsmeYigi2007",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "IsmeYigi2007",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Hexanauplia",
+    "order": "Calanoida",
+    "family": "Temoridae",
+    "genus": "Temora",
+    "specie": "Temora_longicornis",
+    "specie_en": "Copepod"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.10545,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "SichKior2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Maximum length recorded in all of the data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.10545,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "BakkRijs1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Length at puberty calculated as seasonal average lenght of the last three copepodite stages and the adult stage"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 51.49,
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "MapsRung2005",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": 0.176,
+    "units": "mug",
+    "label": "dry weight at birth",
+    "bibkey": "DamLope2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 88.3 ng C/egg, w_E = 23.9 g/mol: 0.0883*23.9/12 mug"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 31.8601,
+    "units": "mug",
+    "label": "ultimate dry weight",
+    "bibkey": "BakkRijs1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Maximum weight recorded in all of the data"
+  },
+  {
+    "entity": "Wdp",
+    "entity.value": 31.8601,
+    "units": "mug",
+    "label": "dry weight at puberty",
+    "bibkey": "BakkRijs1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Weight at puberty calculated as seasonal average weight of last three copepodite stages and the adult stage"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 2.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "DamLope2003",
+    "temp": "C2K(15.5)",
+    "units.temp": "K",
+    "comment": ">90% hatching succes was observed after 48 hours. Temperature between 14 and 17 C"
+  },
+  {
+    "entity": "am",
+    "entity.value": 60.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SichKior2011",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "del_Lip",
+    "entity.value": 1.0,
+    "units": "-",
+    "label": "ratio between Li from abj and abp model",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Pseudo data point used only for estimation purposes"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 23.7,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "BakkRijs1976",
+    "temp": "C2K(12.5)",
+    "units.temp": "K",
+    "comment": "Average time it takes from hatching to first copepodite stage"
+  }
+]

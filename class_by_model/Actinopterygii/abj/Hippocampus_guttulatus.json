@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "genus": "Hippocampus",
+    "specie": "Hippocampus_guttulatus",
+    "specie_en": "Long-snouted seahorse"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.2",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "CurtVinc2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "21.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10.9",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "CurtVinc2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6*581/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(18.6)",
+    "units.temp": "K",
+    "comment": "based on 581 eggs per clutch, 6 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.39e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PlanQuin2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "25",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00302*Li^2.94, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00302*Lp^2.94, see F2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "21",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(18.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "CurtVinc2006",
+    "temp": "C2K(18.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "8*7",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "CurtVinc2006",
+    "temp": "C2K(18.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

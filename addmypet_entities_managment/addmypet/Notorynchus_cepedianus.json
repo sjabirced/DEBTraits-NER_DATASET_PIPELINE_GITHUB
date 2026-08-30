@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Hexanchiformes",
+    "family": "Hexanchidae",
+    "genus": "Notorynchus",
+    "specie": "Notorynchus_cepedianus",
+    "specie_en": "Broadnose sevengill shark",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "46",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "40-53 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "300",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "192",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "85/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(14.2)",
+      "units.temp": "K",
+      "comment": "82-95 pups per litter, 1 litter each 2 yrs"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "12*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(14.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "49*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(14.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

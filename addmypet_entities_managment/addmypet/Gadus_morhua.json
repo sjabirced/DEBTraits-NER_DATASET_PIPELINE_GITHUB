@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Gadidae",
+    "genus": "Gadus",
+    "specie": "Gadus_morhua",
+    "specie_en": "Atlantic cod",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "E0",
+      "entity.value": "2.1",
+      "units": "J",
+      "label": "initial egg energy",
+      "bibkey": "FinnFyhn1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "GSI",
+      "entity.value": "0.199",
+      "units": "g/g",
+      "label": "gonado-somatic index ",
+      "bibkey": "FinnFyhn1995",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.42",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "OtteNyha1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "KjesKlun1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.376",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "OtteNyha1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "78",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ThorWitt2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "50 percent maturation in Barents Sea (smaller in warmer regions, Thor2010)"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "43e6/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "KjesKlun1991",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "Temp has been increased from 3.2 to 10 C since allocation to reproduction is during a full year"
+    },
+    {
+      "entity": "Wwh",
+      "entity.value": "0.0016",
+      "units": "g",
+      "label": "wet weight at hatch",
+      "bibkey": "PaulKses2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.45 mm: pi/6*0.145^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "96e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "1.26e-3",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "OtteNyha1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "346/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "FinnHend1995",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "256/24",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "BuslSerg2010",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "aj",
+      "entity.value": "data.ah + 42",
+      "units": "d",
+      "label": "age at metam",
+      "bibkey": "OtteNyha1999",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "data.ah + 2628",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "ThorWitt2010",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": "for Barentz sea"
+    }
+  ]
+}

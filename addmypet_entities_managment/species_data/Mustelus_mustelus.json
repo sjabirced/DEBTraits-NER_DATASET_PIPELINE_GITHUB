@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Mustelus",
+    "specie": "Mustelus_mustelus",
+    "specie_en": "Common smooth-hound",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "36",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "GoosSmal1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "204",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "GoosSmal1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "153",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "GoosSmal1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "132",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "GoosSmal1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "98",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "GoosSmal1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "15/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(15.3)",
+      "units.temp": "K",
+      "comment": "20 pups per litter, 1 litter per 2 yr assumed"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "29.1e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'GoosSmal1997','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00191*Li^3.11, see F3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "11.9e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'GoosSmal1997','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00191*Li^3.11, see F3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.2*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(15.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "24*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(15.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

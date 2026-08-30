@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Percopsiformes",
+    "family": "Percopsidae",
+    "genus": "Percopsis",
+    "specie": "Percopsis_omiscomaycus",
+    "specie_en": "Trout-perch"
+  },
+  {
+    "entity": "L20",
+    "entity.value": "12.5",
+    "units": "cm",
+    "label": "total length at 20.56 g",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.8",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lh",
+    "entity.value": "0.53",
+    "units": "cm",
+    "label": "total length at hatch",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "wisc",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Spaff1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'for females"
+  },
+  {
+    "entity": "RL",
+    "entity.value": "1329/365",
+    "units": "#/d",
+    "label": "reprod rate at L = 14.6 cm",
+    "bibkey": "HousWell1973",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.4e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.87 mm: pi/6*0.187^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.01120 * data.Li^3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.01120 * data.Lp^3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "data.ah + 5.6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "wisc",
+    "temp": "C2K(21.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ah",
+    "entity.value": "6.5",
+    "units": "d",
+    "label": "age at hatch",
+    "bibkey": "wisc",
+    "temp": "C2K(21.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Kooy2014",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "temp is guessed, ap for females, 6 yr for males"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Megaleledonidae",
+    "genus": "Megaleledone",
+    "specie": "Megaleledone_setebos",
+    "specie_en": "Giant Antarctic octopus"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 10000.0,
+    "units": "#",
+    "label": "fecundity",
+    "bibkey": "guess",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.00038,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SchwHovi2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 1-2 mm and assumed width of 0.7 mm : pi/6*0.15*0.07^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 6200.0,
+    "units": "g",
+    "label": "wet weight at 910 d",
+    "bibkey": "SchwHovi2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "reports exist of 18.3 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 46.0,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "SchwHovi2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 910.0,
+    "units": "d",
+    "label": "life span for female",
+    "bibkey": "SchwHovi2019",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

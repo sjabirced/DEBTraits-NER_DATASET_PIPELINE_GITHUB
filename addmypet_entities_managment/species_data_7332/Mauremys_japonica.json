@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Geoemydidae",
+    "genus": "Mauremys",
+    "specie": "Mauremys_japonica",
+    "specie_en": "Japanese pond turtle"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "Yabe1989",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "ultimate carapace length for female",
+    "bibkey": "Yabe1989",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "ultimate carapace length for male",
+    "bibkey": "Yabe1989",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.43",
+    "units": "cm",
+    "label": "carapace length at puberty for female",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "guess based on same relative length, compared to Emys orbicularis: 12.7/20*18"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "carapace length at puberty for male",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "guess based on same relative length, compared to Emys orbicularis: 12.7/20*11"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "9/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "iucn",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "based on Mauremys reevesii, with which it hybridizes"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.65",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Yabe1989",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lb/Li)^3*Wwi and (Lb/Lim)^3*Wwim"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "750",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Yabe1989",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "180",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "Yabe1989",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "16.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ap",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "age at puberty for female",
+    "bibkey": "iucn",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "based on Mauremys reevesii, with which it hybridizes"
+  }
+]

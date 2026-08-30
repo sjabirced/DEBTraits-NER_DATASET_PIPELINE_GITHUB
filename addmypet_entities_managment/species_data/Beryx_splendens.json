@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Beryciformes",
+    "family": "Berycidae",
+    "genus": "Beryx",
+    "specie": "Beryx_splendens",
+    "specie_en": "Splendid alfonsino",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "70",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "33.2",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "675e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "LeisCars2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.1 mm: pi/6*0.11^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Length-weight of F1 gives 7.2 kg for 70 cm"
+    },
+    {
+      "entity": "am",
+      "entity.value": "23*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

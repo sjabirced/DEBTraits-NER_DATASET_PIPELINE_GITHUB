@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Ichthyosaura",
+    "specie": "Ichthyosaura_alpestris",
+    "specie_en": "Alpine newt"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.84",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "MiauGuye2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "5.05",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "MiauGuye2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.83",
+    "units": "cm",
+    "label": "SVL at metam for females",
+    "bibkey": "MiauGuye2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.9",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "MiauGuye2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "4.4",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "MiauGuye2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "300/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "based on Lissotriton_vulgaris"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.5e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Triturus cristatus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.16",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Triturus cristatus:(5.84/8.4)^3*9.4"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "2.04",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Triturus cristatus: (5.05/8.4)^3*9.4"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MiauGuye2000",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

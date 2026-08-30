@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Procellariiformes",
+    "family": "Procellariidae",
+    "genus": "Ardenna",
+    "specie": "Ardenna_gravis",
+    "specie_en": "Great shearwater",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "EoL",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "230",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Cuth2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1300",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Cuth2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Asymptotic mass prior to fledging, mean adult mass 860 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "53",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Cuth2005",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "52 till 58"
+    },
+    {
+      "entity": "am",
+      "entity.value": "50.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "value for Puffinus puffinus"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "value for Puffinus puffinus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "324",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "108",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Cuth2005",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

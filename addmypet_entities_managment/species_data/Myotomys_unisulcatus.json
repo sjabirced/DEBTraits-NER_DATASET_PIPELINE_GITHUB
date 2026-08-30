@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Myotomys",
+    "specie": "Myotomys_unisulcatus",
+    "specie_en": "Bush vlei rat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.5*6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": "'2-3 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Pill2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "6.1-9.6 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "135",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Pill2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "1.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "37",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Pill2001",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "35",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "Pill2001",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "8",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Pill2001",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Squalidae",
+    "genus": "Squalus",
+    "specie": "Squalus_blainville",
+    "specie_en": "Longnose spurdog"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "CannRizz1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "4 pups per litter, 1 ltter per 2 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "50",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "CannRizz1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "45 to 55 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "CannRizz1995",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5.1*365",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "CannRizz1995",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "3.3*365",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "CannRizz1995",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

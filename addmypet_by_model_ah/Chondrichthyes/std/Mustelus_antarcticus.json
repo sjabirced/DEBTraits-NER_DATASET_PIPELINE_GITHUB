@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Mustelus",
+    "specie": "Mustelus_antarcticus",
+    "specie_en": "Gummy shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "32.5",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "30-35 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "175",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "157",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "119.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "85-130 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "19/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "1 to 38 pups per litter, 1 litter per 2 yr assumed"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "24.7e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00224*Li^3.14, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "7.5e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00224*Li^3.14, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "365*11.5/12",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "gestation time 11-12 months"
+  },
+  {
+    "entity": "am",
+    "entity.value": "45*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MoulWalk1992",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "fishbase gives 16 yrs"
+  }
+]

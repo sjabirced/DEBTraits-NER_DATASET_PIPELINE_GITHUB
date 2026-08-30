@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Myida",
+    "family": "Myidae",
+    "genus": "Mya",
+    "specie": "Mya_arenaria",
+    "specie_en": "Soft-shell clam",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.0165,
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "HendDure2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'st 15C"
+    },
+    {
+      "entity": "Li",
+      "entity.value": 15.0,
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "Tebb1966",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 2.34,
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "CardWitt2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 8219.2,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "NeweHidu1986",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "Brou1978 gives 120000 eggs per year for a 6cm female at 10C"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": 22.3,
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "Card2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from AFDW (mg) = 5.489 * shell length^3(cm^3)"
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": 0.03,
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "Card2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 2.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "RoosRhod1980",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 10220.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MacDThom1980",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": "FreiCard2009 gives 8030 d for Norway at 7C"
+    },
+    {
+      "entity": "tj",
+      "entity.value": 291.0,
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Card2007",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

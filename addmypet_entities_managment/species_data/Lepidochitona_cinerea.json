@@ -1,0 +1,93 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Polyplacophora",
+    "order": "Chitonida",
+    "family": "Tonicellidae",
+    "species": "Lepidochitona_cinerea",
+    "species_en": "Common chiton",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "2.4",
+      "units": "cm",
+      "label": "ultimate length",
+      "bibkey": "marlin",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "RichGott1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1800/365",
+      "units": "#/d",
+      "label": "max reproduction rate at 14 mm",
+      "bibkey": "RichGott1974",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wd1",
+      "entity.value": "0.1",
+      "units": "g",
+      "label": "flesh dry weight at 10 mm",
+      "bibkey": "RichGott1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "RichGott1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 160-200 mum:  4/3*pi*0.01^3"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "4.3e-6",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "RichGott1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on settlement following a few hours after hatching"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FishFish1989",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "RichGott1974",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "based on tL data for Lp = 6 mm"
+    }
+  ]
+}

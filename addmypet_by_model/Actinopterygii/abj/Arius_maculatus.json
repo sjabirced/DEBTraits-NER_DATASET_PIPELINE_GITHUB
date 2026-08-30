@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ariidae",
+    "genus": "Arius",
+    "specie": "Arius_maculatus",
+    "specie_en": "Spotted catfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "98.95",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "JumaMeti2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "38",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "18/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(26.4)",
+    "units.temp": "K",
+    "comment": "based on Ariopsis_felis"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.145",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 16 mm for Ariopsis_felis: pi/6*1.6^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "8750",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "JumaMeti2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "614",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00933*Lp^3.05, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "JumaMeti2020",
+    "temp": "C2K(26.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

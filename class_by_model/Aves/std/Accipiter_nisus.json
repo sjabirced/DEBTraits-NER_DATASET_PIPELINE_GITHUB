@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Accipiter",
+    "specie": "Accipiter_nisus",
+    "specie_en": "Eurasian sparrowhawk"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "1 clutch per yr, 4 to 5  eggs/clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "16.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Moss1979",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "310",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Moss1979",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "185 to 342 g"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "180",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "Moss1979",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "110 to 196 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "33",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "20.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "72",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "24",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Moss1979",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

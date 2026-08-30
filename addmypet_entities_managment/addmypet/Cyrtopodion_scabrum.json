@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Gekkonidae",
+    "genus": "Cyrtopodion",
+    "specie": "Cyrtopodion_scabrum",
+    "specie_en": "Rough-tailed gecko",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.95",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "Ibra2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.2",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Ibra2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.4",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "Ibra2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Ibra2013",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "1, sometimes 2, eggs per clutch, 1 clutch each 1  yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.5",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Heteronotia_binoei: (5.2/5)^3*3.1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "based on Heteronotia_binoei"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Cuculiformes",
+    "family": "Cuculidae",
+    "genus": "Dromococcyx",
+    "specie": "Dromococcyx_pavoninus",
+    "specie_en": "Pavonine cuckoo",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "9/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": "1 egg per host nest"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SancDavi2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "egg length 1.99 cm, width 1.47 cm, weight: pi/6*1.99*1.47^2=2.25 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "46.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "SancDavi2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "11",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "69",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "23",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "SancDavi2017",
+      "temp": "C2K(41.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

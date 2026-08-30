@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Dasyatidae",
+    "genus": "Pteroplatytrygon",
+    "specie": "Pteroplatytrygon_violacea",
+    "specie_en": "Pelagic stingray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "15-25 cmdisc width"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "96",
+      "units": "cm",
+      "label": "disc width for females",
+      "bibkey": "MollEzcu2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "68",
+      "units": "cm",
+      "label": "disc width for males",
+      "bibkey": "MollEzcu2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "disc width at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "36/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(24.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "49e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "MollEzcu2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "disc width 96 cm"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "12e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "MollEzcu2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(24.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MollEzcu2002",
+      "temp": "C2K(24.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

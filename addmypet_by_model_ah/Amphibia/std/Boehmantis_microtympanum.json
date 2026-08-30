@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Mantellidae",
+    "genus": "Boehmantis",
+    "specie": "Boehmantis_microtympanum",
+    "specie_en": "Angel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10.0",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "GuarAndr1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "8.5",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "GuarAndr1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.6",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.0",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "7.8e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "based on Pelophylax_esculentus: 4000*(10/8)^3 eggs per clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2-2.5 mm: pi/6*0.225^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "107",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Pelophylax_esculentus: 55*(10/8)^3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "66",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Pelophylax_esculentus: 55*(8.5/8)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "GuarAndr1998",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "140",
+    "units": "d",
+    "label": "time birth at metam",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

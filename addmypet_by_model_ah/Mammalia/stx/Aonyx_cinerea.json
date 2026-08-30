@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Mustelidae",
+    "genus": "Aonyx",
+    "specie": "Aonyx_cinerea",
+    "specie_en": "Asian small-clawed otter"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*1.42/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": "1.42 pups per litter, 2 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "110",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ReedLomb2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "AnAge gives 57 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.7e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 2.7-5.4 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "23*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "63",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "18*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "HeapWrig2008",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": "'in captivety"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "80",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(38.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

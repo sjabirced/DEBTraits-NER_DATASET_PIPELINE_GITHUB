@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Scombridae",
+    "genus": "Thunnus",
+    "specie": "Thunnus_tonggol",
+    "specie_en": "Longtail tuna"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "145",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "60.7",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.9e6/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(26.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.06e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.05 mm for Thunnus obesus: pi/6*0.105^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "43e3",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01413*Li^3.00, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "19 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(26.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

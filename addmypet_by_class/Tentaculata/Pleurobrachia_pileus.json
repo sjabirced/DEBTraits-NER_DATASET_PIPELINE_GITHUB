@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Ctenophora",
+    "class": "Tentaculata",
+    "order": "Cydippida",
+    "family": "Pleurobrachiidae",
+    "genus": "Pleurobrachia",
+    "specie": "Pleurobrachia_pileus",
+    "specie_en": "Sea gooseberry"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.0226,
+    "units": "cm",
+    "label": "polar length at birth",
+    "bibkey": "Grev1975",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Grev1975: diameter at birth is 0.0125 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 3.1,
+    "units": "cm",
+    "label": "ultimate polar length",
+    "bibkey": "Walr2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.69,
+    "units": "cm",
+    "label": "polar length at puberty",
+    "bibkey": "Grev1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "RQ",
+    "entity.value": 0.74,
+    "units": "-",
+    "label": "repiratory quotient",
+    "bibkey": "MollCano2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 1196.0,
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Grev1972",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "Grev1972: 7075 #/d for a 15 mm individual"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 0.394,
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "MollCano2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "using MutlBing1999 equation for L = 3.1 cm: W = 0.682 L^2.522 Length (mm)- weight (mg), see MollCano2010"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 2.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Grev1972",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "Greve70 gives 1 d at 15 C, Greve72 2 d at 13 and 18 C"
+  },
+  {
+    "entity": "am",
+    "entity.value": 250.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Grev1971",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Cheloniidae",
+    "genus": "Caretta",
+    "specie": "Caretta_caretta",
+    "specie_en": "Loggerhead turtle, North Atlantic"
+  },
+  {
+    "entity": "E0",
+    "entity.value": "210e3",
+    "units": "J",
+    "label": "initial energy content of the egg",
+    "bibkey": "HaysSpea1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "range 165-260kJ"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "4.5",
+    "units": "cm",
+    "label": "SCL at birth",
+    "bibkey": "{'ReicBjor2008','StokWyne2006'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "according to BennTapl1986, length at hatch and emergence same approx.the same as L_b"
+  },
+  {
+    "entity": "Lh",
+    "entity.value": "data.Lb",
+    "units": "cm",
+    "label": "SCL at hatching",
+    "bibkey": "{'ReicBjor2008','StokWyne2006'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "105.26",
+    "units": "cm",
+    "label": "ultimate SCL",
+    "bibkey": "{'ByrdMurp2005', 'EhrhYode1978', 'Ston1980', 'Nort2005', 'TiwaBjor2000'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "SCL , mean of max in <ByrdMurph2005, EhrhYod1978, Ston1980, Nort2005, TiwaBjor2000>"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "80",
+    "units": "cm",
+    "label": "SCL at puberty",
+    "bibkey": "{'ByrdMurp2005', 'EhrhYode1978', 'Ston1980', 'Nort2005','TiwaBjor2000'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "SCL, mean of min in <ByrdMurph2005, EhrhYod1978, Ston1980, Nort2005, TiwaBjor2000>"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4 * 140/ (2 * 365)",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'MillLimp2003', 'Tuck2010', 'SCDNR', 'HawkBrod2005', 'TiwaBjor2000'}",
+    "temp": "C2K(21.8)",
+    "units.temp": "K",
+    "comment": "['calculated as number of nests per nesting season (4,{Tuck2010, HawkBrod2005})',...\n    'multiplied by number of eggs per clutch (140,{SCDNR,TiwaBjor2000})',...\n    'and divided by the interval between two nesting seasons (2 yr,{HawkBrod2005})', ...\n    'same value for Ri obtained with 5 clutches every 2.5 years']"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "19.41",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'ReicBjor2008','StokWyne2006'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "according to BennTapl1986, weight decrease between hatching and emergence / birth, then weight increase: drink water + feeding"
+  },
+  {
+    "entity": "Wwh",
+    "entity.value": "18.67",
+    "units": "g",
+    "label": "yolk-free wet weight at hatching",
+    "bibkey": "{'Acke1981gr'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'yolkfree hatchling"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "162.62e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'EhrhYode1978', 'Nort2005'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'mean of maxs in <EhrhYod1978"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "79e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'EhrhYode1978', 'Nort2005'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'mean of mins in <EhrhYod1978"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "55.4 + 2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Stok2014",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": "age at birth = age at emergence + relying on yolksac (2-3d)"
+  },
+  {
+    "entity": "ah",
+    "entity.value": "55.4 - 4.1",
+    "units": "d",
+    "label": "age at hatching",
+    "bibkey": "{'StokWyne2006','GodfMros1997'}",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "hatching (exit the egg) to emergence (exit the nest) interval estimated as 4.1days"
+  },
+  {
+    "entity": "am",
+    "entity.value": "67*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(21.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "18 * 365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "{'Spot2004', 'ZugWynn1986'}",
+    "temp": "C2K(21.8)",
+    "units.temp": "K",
+    "comment": "'28yrs in <Spot2004>, 13-15 yrs in <ZugWynn1986>"
+  }
+]

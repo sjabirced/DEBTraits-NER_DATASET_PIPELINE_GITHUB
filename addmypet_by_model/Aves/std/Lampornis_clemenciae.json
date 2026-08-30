@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Apodiformes",
+    "family": "Trochilidae",
+    "genus": "Lampornis",
+    "specie": "Lampornis_clemenciae",
+    "specie_en": "Blue-throated mountaingem"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "2 eggs per clutch, 2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Schu1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "egg weight 0.75 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "9.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Schu1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'asymptotic weight of nestling"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "18",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "75",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "25",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Schu1985",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Colubridae",
+    "genus": "Nerodia",
+    "specie": "Nerodia_harteri",
+    "specie_en": "Brazos watersnake"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "17.5",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "RossRoss2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "82.3",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "GreeDixo1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "65.8",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Nerodia_sipedon: (82.3/103)*82.3"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "46",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "GreeDixo1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "38",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "GreeDixo1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "RossRoss2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "380",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Nerodia_sipedon: (82.3/103)^3*745"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "79",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on Nerodia_sipedon: 122*17.5/26.8"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9.6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on Nerodia_sipedon"
+  },
+  {
+    "entity": "dLb",
+    "entity.value": "5/30.5",
+    "units": "cm/d",
+    "label": "change in SVL at birth",
+    "bibkey": "RossRoss2000",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

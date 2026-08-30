@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Thaliacea",
+    "order": "Salpida",
+    "family": "Salpidae",
+    "genus": "Pegea",
+    "specie": "Pegea_confoederata",
+    "specie_en": "Salp"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.35",
+    "units": "cm",
+    "label": "oozoid length at birth",
+    "bibkey": "MadiPurc1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "ultimate oozoid length",
+    "bibkey": "MadiPurc1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "oozoid length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Lp/Li relationship of Cyclosalpa_bakeri: 7*5/10"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "90000/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.95"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length-volume relationship of Cyclosalpa_bakeri: 44*(7/10)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1.7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "40",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

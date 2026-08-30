@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Saurischia",
+    "family": "Diplodocidae",
+    "genus": "Apatosaurus",
+    "specie": "Apatosaurus_spec",
+    "specie_en": "Apatosaurus",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "30/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "Very speculative"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "10e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "learning",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Very speculative"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "19e6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "GrieKlei2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Concerns individual of growth data"
+    },
+    {
+      "entity": "am",
+      "entity.value": "100*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "learning",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "GrieKlei2013",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

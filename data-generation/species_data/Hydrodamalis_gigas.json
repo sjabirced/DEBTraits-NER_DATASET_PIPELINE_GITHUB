@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Sirenia",
+    "family": "Dugongidae",
+    "genus": "Hydrodamalis",
+    "specie": "Hydrodamalis_gigas",
+    "specie_en": "Steller",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "318",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on (Wwb/Wwi)^(1/3)*Li"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "900",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(33.0)",
+      "units.temp": "K",
+      "comment": "Guess based on gestion of more than a yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "855e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'guess based on same relative weight, compared to Dugong"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "11.196e6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "100*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(33.0)",
+      "units.temp": "K",
+      "comment": "guess based on max age of much smaller Dugong"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "450",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "ADW",
+      "temp": "C2K(33.0)",
+      "units.temp": "K",
+      "comment": "Based on Steller''s estimate of more than a year"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(33.0)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "450",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(33.0)",
+      "units.temp": "K",
+      "comment": "guess based on observation that tx is similar to tg"
+    }
+  ]
+}

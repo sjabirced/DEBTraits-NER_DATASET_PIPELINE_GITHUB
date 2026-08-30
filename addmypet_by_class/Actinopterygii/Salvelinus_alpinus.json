@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Salvelinus",
+    "specie": "Salvelinus_alpinus",
+    "specie_en": "Arctic char"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "From Salmo trutta"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "107",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'fishbase'}",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  },
+  {
+    "entity": "Wwh",
+    "entity.value": "0.0044",
+    "units": "g",
+    "label": "wet weight at hatch",
+    "bibkey": "GrubWies1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "this value seems very small, given Lb, Li and Wi, even if Lh would be 1 mm"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "data.ah + 26.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "YaniHisa2002",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "ah + 25-28 d"
+  },
+  {
+    "entity": "ah",
+    "entity.value": "44",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "YaniHisa2002",
+    "temp": "C2K(8.5)",
+    "units.temp": "K",
+    "comment": "39-49 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "fishbase",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  }
+]

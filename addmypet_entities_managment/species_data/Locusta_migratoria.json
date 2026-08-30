@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Orthoptera",
+    "family": "Acrididae",
+    "genus": "Locusta",
+    "specie": "Locusta_migratoria",
+    "specie_en": "Migratory locust",
+    "deb_model": "abp"
+  },
+  "data": [
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 4-6 cm for gregarious form"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "7*80/47",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "TuZhan2012",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "TuZhan2012: 2 - 7 pods/female, and 44 - 99.5 eggs/pod, and one female laid 12 pods (Chen 1991)"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "0.012",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "Clar1957",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "1",
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "TuZhan2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "12.75",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Roon1936",
+      "temp": "C2K(33)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "63",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "TuZhan2012",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "21",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "TuZhan2012",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Stomiiformes",
+    "family": "Stomiidae",
+    "genus": "Tactostoma",
+    "specie": "Tactostoma_macropus",
+    "specie_en": "Longfin dragonfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "34.3",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "FiscPear1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "66000/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "fishbase",
+    "temp": "C2K(4.8)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.05 mm: pi/6*0.105^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "46.4",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00093*Li^3.06, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "32.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00093*Lp^3.06, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(4.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

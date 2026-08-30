@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Alectoris",
+    "specie": "Alectoris_rufa",
+    "specie_en": "Red-legged partridge",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1.5*11.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "McGoKirw2020",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": "11.5 eggs pers clutch, 1.5 clutches per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "16",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "McGoKirw2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "12-19 g"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "13.9",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GonzDiaz2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "430",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "McGoKirw2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "391–540 g"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "520",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "McGoKirw2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "480–547 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "McGoKirw2020",
+      "temp": "C2K(34)",
+      "units.temp": "K",
+      "comment": "23-25 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "12*7",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": "assuming it is grown at about 12 weeks"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "3",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "guess",
+      "temp": "C2K(40.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

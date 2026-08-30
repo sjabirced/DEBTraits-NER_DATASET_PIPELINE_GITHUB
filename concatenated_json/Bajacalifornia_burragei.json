@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Alepocephaliformes",
+    "family": "Alepocephalidae",
+    "genus": "Bajacalifornia",
+    "specie": "Bajacalifornia_burragei",
+    "specie_en": "Sharpchin slickhead"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18.1",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "17",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "ChilTayl1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6e3/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(6.2)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.24e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ChilTayl1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "34.8",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00339*Li^3.19, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "28.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','ChilTayl1980'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00339*Lp^3.19, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ChilTayl1980",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Darevskia",
+    "specie": "Darevskia_sapphirina",
+    "specie_en": "Van lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.13",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Darevskia_derjugini 2.25*5.9/6.23"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.9",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "ArakPetr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "8 eggs per clutch, 1 cluth per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.17",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Darevskia_derjugini: 0.26*4.34/6.6"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.35",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ArakPetr2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "ArakPetr2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

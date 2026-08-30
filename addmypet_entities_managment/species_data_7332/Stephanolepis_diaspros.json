@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Monacanthidae",
+    "species": "Stephanolepis_diaspros",
+    "species_en": "Reticulated leatherjacket"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "RimMoha2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate, derived from other species"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "218000/365",
+    "units": "#/d",
+    "label": "max reprod rate at TL 16.3",
+    "bibkey": "RimMoha2011",
+    "temp": "C2K(26.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.7e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.47 mm of Stephanolepis_hispidus: pi/6*0.057^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "210",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01738*Li^2.92, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "7.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01738*Lp^2.92, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ElGaSabr2008",
+    "temp": "C2K(26.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

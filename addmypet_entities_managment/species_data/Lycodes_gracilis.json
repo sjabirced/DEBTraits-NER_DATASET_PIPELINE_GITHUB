@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Zoarcidae",
+    "genus": "Lycodes",
+    "specie": "Lycodes_gracilis",
+    "specie_en": "Vahl",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "38.6",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "85/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0461",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AunePrim2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 4.45 mm: pi/6*0.445^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "181",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','AunePrim2014'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00141*Li^3.22, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "5.4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','AunePrim2014'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00141*Lp^3.22, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "169",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(3.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AunePrim2014",
+      "temp": "C2K(3.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

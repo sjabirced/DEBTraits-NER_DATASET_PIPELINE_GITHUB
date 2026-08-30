@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Acanthuridae",
+    "genus": "Acanthurus",
+    "specie": "Acanthurus_dussumieri",
+    "specie_en": "Eyestripe surgeonfish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.09",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": "based on Acanthurus nigrofuscus"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "54",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.7 mm of Acanthurus lineatus: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3743",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.03020*Li^2.94, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "389",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.03020*Lp^2.94, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

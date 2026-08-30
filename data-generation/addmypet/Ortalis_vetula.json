@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Cracidae",
+    "genus": "Ortalis",
+    "specie": "Ortalis_vetula",
+    "specie_en": "Plain chachalaca",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2*2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "avibase",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": "3 eggs per clutch, 2 clutches per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "55",
+      "units": "g",
+      "label": " intitial wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "53",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Mari1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "542",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "584",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "23",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(34)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "8.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4 * 30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Mari1977",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": "fig 2, age of adults"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "19",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "avibase",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": "14-21 d"
+    }
+  ]
+}

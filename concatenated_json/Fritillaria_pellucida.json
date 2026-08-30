@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Appendicularia",
+    "order": "Copelata",
+    "family": "Fritillariidae",
+    "genus": "Fritillaria",
+    "specie": "Fritillaria_pellucida",
+    "specie_en": "Sea-squirt"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.024,
+    "units": "cm",
+    "label": "trunc length at birth",
+    "bibkey": "Fena1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.15,
+    "units": "cm",
+    "label": "asymptotic trunc length",
+    "bibkey": "Fena1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.024,
+    "units": "cm",
+    "label": "trunc length at puberty",
+    "bibkey": "Fena1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on assumption that puberty coincides with birth, like in Oikopleura_dioica"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 28.0,
+    "units": "#",
+    "label": "number of eggs at death",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on weight-correct value for Oikopleura_dioica: 164*9.12/52.6"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": 3.2e-08,
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "Fena1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 9.12e-06,
+    "units": "g",
+    "label": "dry weight at death",
+    "bibkey": "Fena1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 7.23e-06,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Fena1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.024 cm: pi/6*0.024^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": 16.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Fena1976",
+    "temp": "C2K(13.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

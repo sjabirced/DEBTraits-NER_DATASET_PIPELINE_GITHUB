@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Somniosidae",
+    "genus": "Centroscymnus",
+    "specie": "Centroscymnus_coelolepis",
+    "specie_en": "Portuguese dogfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Veri2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "121",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "92",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "98.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Veri2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "85",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "13.2/365/3",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Veri2003",
+    "temp": "C2K(3.9)",
+    "units.temp": "K",
+    "comment": "13-29 pups per litter, mean, 13.2 pups/litter, assumed 1 litter per at 3 yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12.25e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Li^3.12, see F3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "5.2e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Lim^3.12, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "6.45e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','Veri2003'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Lp^3.12, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Mour2011",
+    "temp": "C2K(3.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(3.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

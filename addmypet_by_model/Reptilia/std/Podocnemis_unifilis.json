@@ -1,0 +1,151 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Podocnemididae",
+    "genus": "Podocnemis",
+    "specie": "Podocnemis_unifilis",
+    "specie_en": "Yellow-spotted river turtle"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "4.8",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "MeerRobi2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "52",
+    "units": "cm",
+    "label": "ultimate carapace length for females",
+    "bibkey": "arkive",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "39",
+    "units": "cm",
+    "label": "ultimate carapace length for males",
+    "bibkey": "arkive",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "31",
+    "units": "cm",
+    "label": "carapace length at puberty for females",
+    "bibkey": "MiorGiar2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "19",
+    "units": "cm",
+    "label": "carapace length at puberty for males",
+    "bibkey": "MiorGiar2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "40/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "4 till 35 eggs per clutch, 2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "21.9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MeerRobi2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lb/Li)^3*Wwi"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11600",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "arkive",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "4500",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "arkive",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2458",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "MiorGiar2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/Li)^3*Wwi"
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "520",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "MiorGiar2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/Li)^3*Wwi"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "60",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(30.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "70*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "'value is unverified"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "fao",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "guess based on longest period from which [p_M] > 3"
+  }
+]

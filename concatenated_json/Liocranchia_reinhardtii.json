@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Cranchiidae",
+    "genus": "Liocranchia",
+    "specie": "Liocranchia_reinhardtii",
+    "specie_en": "Glass squid"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": 0.15,
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.2,
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 23.0,
+    "units": "cm",
+    "label": "mantle length at death for female",
+    "bibkey": "Arkh1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 10.0,
+    "units": "cm",
+    "label": "mantle length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 226.9,
+    "units": "g",
+    "label": "wet weight at death",
+    "bibkey": "QuetAlem2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Cranchia_scabra: 26*(21/10.2)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span for female",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

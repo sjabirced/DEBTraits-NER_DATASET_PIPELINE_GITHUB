@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Squalidae",
+    "genus": "Squalus",
+    "specie": "Squalus_suckleyi",
+    "specie_en": "Pacific spiny dogfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Trib2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "140",
+      "units": "cm",
+      "label": "ultimate total length  for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "121",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "90",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "TL 80-100 cm"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "75",
+      "units": "cm",
+      "label": "total length at puberty of males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "TL 70-80 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(10.2)",
+      "units.temp": "K",
+      "comment": "8 pups per litter, 1 litter each 2 yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "950",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00933*Li^3.02, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "950",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00933*Lp^3.02, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "23*30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(10.2)",
+      "units.temp": "K",
+      "comment": "based on squalus acanthias"
+    },
+    {
+      "entity": "am",
+      "entity.value": "50*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Trib2010",
+      "temp": "C2K(10.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

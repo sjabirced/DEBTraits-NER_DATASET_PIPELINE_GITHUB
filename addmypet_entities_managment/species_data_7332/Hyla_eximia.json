@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Hylidae",
+    "genus": "Hyla",
+    "specie": "Hyla_eximia",
+    "specie_en": "Mountain tree frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.75",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "HernRami2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.27",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "HernRami2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.3",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "Gros1994",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Hyla arborea"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1476/365",
+    "units": "#/d",
+    "label": "reprod rate at 4.5 cm SVL",
+    "bibkey": "HernRami2018",
+    "temp": "C2K(20.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HernRami2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on clutch mass 1.44 g, clutch size 1476"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.4",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "HernRami2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.5",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "HernRami2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.0",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'HernRami2018','Gros1994'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lp/Li)^3 * Wwi"
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": "based on Hyla arborea"
+  }
+]

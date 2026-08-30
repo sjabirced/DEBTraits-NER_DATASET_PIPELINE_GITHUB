@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Geoemydidae",
+    "genus": "Mauremys",
+    "specie": "Mauremys_reevesii",
+    "specie_en": "Chinese pond turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "5.1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "5.1 eggs er clutch, 1 clutche per yr assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "DuShen2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1753",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "1553",
+      "units": "g",
+      "label": "ultimate wet weight of males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on \"males are somewhat smaller than females\""
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "70",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "DuShen2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "63",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "DuShen2009",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "70-144 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "24.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

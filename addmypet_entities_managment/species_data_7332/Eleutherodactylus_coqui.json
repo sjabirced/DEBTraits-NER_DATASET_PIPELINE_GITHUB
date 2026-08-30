@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Eleutherodactylidae",
+    "genus": "Eleutherodactylus",
+    "specie": "Eleutherodactylus_coqui",
+    "specie_en": "Common coqui"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ONeiBear2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.2",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "BearAlCh2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "30*5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(20.5)",
+    "units.temp": "K",
+    "comment": "16 to 40 eggs per clutch, 4 to 6 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.54e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ONeiBear2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 5 mm: pi/6*0.5^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "22",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on size-corrected Pelobates fuscus: (5.2/6)^3*34"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "22",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(20.5)",
+    "units.temp": "K",
+    "comment": "17 to 26 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(20.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "8*30.5",
+    "units": "d",
+    "label": "time since metam at puberty for females",
+    "bibkey": "Wiki",
+    "temp": "C2K(20.5)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

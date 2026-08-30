@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Phrynosomatidae",
+    "genus": "Sceloporus",
+    "specie": "Sceloporus_undulatus",
+    "specie_en": "Eastern fence lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.5",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "{'Tink1972','TinkBall1972'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "{'Tink1972','TinkBall1972'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.8",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "{'Tink1972','TinkBall1972'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "40.077/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Tink1972','TinkBall1972'}",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.56",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'Tink1972','TinkBall1972'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "18",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Tink1972','TinkBall1972'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "6.9",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'Tink1972','TinkBall1972'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "52+10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'AndrMath2000', 'ParkAndr2004'}",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "52 d (AndrMath2000) plus 10 d at 28 to get to roughly the stage at oviposition (ParkAndr2004)"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*465",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AndrMath2000",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "5*30.5",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "{'FergTale1993','AndrMath2000'}",
+      "temp": "C2K(28.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

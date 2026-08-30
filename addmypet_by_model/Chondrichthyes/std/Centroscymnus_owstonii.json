@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Somniosidae",
+    "genus": "Centroscymnus",
+    "specie": "Centroscymnus_owstonii",
+    "specie_en": "Roughskin dogfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "28",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "FranJone2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "25-30 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "162",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "FranJone2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "132",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "FranJone2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "FranJone2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "117-159 cm, but 96 cm is also reported"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "72",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "FranJone2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "77-121 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "FranJone2018",
+    "temp": "C2K(6.4)",
+    "units.temp": "K",
+    "comment": "8-19 pups per litter, 1 litter per at least 2 yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "49.7e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','FranJone2018'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01170*Li^3.00, see F3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "26.9e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "{'fishbase','FranJone2018'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01170*Lim^3.00, see F3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "FranJone2018",
+    "temp": "C2K(6.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FranJone2018",
+    "temp": "C2K(6.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

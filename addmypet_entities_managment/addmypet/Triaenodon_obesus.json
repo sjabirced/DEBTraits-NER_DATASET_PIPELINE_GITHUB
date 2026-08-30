@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Triaenodon",
+    "specie": "Triaenodon_obesus",
+    "specie_en": "Whitetip reef shark",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Robb2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "213",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "118",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Robb2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "114-122 cm"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "114",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Robb2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "112-116 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Robb2006",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": "1-4 pups per litter, 1 litter each 2 yrs"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Robb2006",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": "10-12 mnth"
+    },
+    {
+      "entity": "am",
+      "entity.value": "19*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Robb2006",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

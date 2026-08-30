@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "genus": "Plestiodon",
+    "specie": "Plestiodon_egregius",
+    "specie_en": "Mole skink"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.28",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "Moun1963",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Moun1963",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.6",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Moun1963",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.9",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "Moun1963",
+    "temp": null,
+    "units.temp": null,
+    "comment": "3.6-4.2 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.6",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "Moun1963",
+    "temp": null,
+    "units.temp": null,
+    "comment": "3.4-3.8 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Moun1963",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "6 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.84",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Li and LW of Oligosoma_zelandicum: (6.5/6.810)^3*6.712"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "31",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Moun1963",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "for eggs laig on 13 june, 51 d for eggs laid on 4 april"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "based on values for other scincidae as given in AnAge"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "130",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Moun1963",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "based on value for Plestiodon egregius"
+  }
+]

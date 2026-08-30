@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Menticirrhus",
+    "specie": "Menticirrhus_saxatilis",
+    "specie_en": "Northern kingfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "46",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "900*509.5/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "ClarBrow2014",
+    "temp": "C2K(23.8)",
+    "units.temp": "K",
+    "comment": "based on bacth fecundity of 509.5 eggs/g for Menticirrhus americanus, assuming 1 batch per season"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.37e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on  Argyrosomus_regius"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "900.7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00794*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "151.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00794*Lp^3.04, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

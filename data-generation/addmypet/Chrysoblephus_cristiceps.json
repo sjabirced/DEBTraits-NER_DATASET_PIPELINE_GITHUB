@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Chrysoblephus",
+    "specie": "Chrysoblephus_cristiceps",
+    "specie_en": "Daggerhead seabream",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.05",
+      "units": "g/g",
+      "label": "gonado-somatic index",
+      "bibkey": "Buxt1990",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "75",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "36.5",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 750 mum of Acanthopagrus_berda: pi/6*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01738*Li^2.99, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "815",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01738*Lp^2.99, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "23*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Buxt1993",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

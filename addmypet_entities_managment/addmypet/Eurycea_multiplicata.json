@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Eurycea",
+    "specie": "Eurycea_multiplicata",
+    "specie_en": "Many-ribbed salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.95",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "Irel1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "TL = 7.8 cm based on F1"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "3.3",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "Irel1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.4",
+      "units": "cm",
+      "label": "total length at puberty ",
+      "bibkey": "Irel1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.0",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Eurycea lucifuga: 2.6*(4.2/4.56)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Irel1976",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "9.1*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "based on Eurycea lucifuga"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastes",
+    "specie": "Sebastes_ensifer",
+    "specie_en": "Swordspine rockfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "LoveMcCr2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Sebastes_entomelas"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm (but viviparous): pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "383",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Li^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "43.8",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','LoveMcCr2018'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Lp^3.13, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "38*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LoveMcCr2018",
+    "temp": "C2K(9.2)",
+    "units.temp": "K",
+    "comment": "based on tL data"
+  }
+]

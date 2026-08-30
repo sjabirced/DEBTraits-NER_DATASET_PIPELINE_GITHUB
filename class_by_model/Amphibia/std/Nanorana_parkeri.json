@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Dicroglossidae",
+    "genus": "Nanorana",
+    "specie": "Nanorana_parkeri",
+    "specie_en": "High Himalaya frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.8",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "5.1",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "3.9-5.8 cm"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.8",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.8",
+    "units": "cm",
+    "label": "SVL at puberty for female",
+    "bibkey": "MaLu2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "189/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "LuMa2016",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": "189 eggs per clutch, 1, poosibly 2, clutches per yr assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MaLu2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.2 mm: pi/6*0.22^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "14.7",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length-weight of Euphlyctis_cyanophlyctis: 12.5*(1.8/5.5)^3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "10.0",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length-weight of Euphlyctis_cyanophlyctis: 12.5*(5.1/5.5)^3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.44",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "16.4",
+    "units": "d",
+    "label": "age at birth=",
+    "bibkey": "LuMa2016",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LuMa2016",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

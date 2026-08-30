@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Physeteridae",
+    "genus": "Physeter",
+    "specie": "Physeter_macrocephalus",
+    "specie_en": "Sperm whale"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "400",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1100",
+    "units": "cm",
+    "label": "ultimate length of female",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "2050",
+    "units": "cm",
+    "label": "ultimate length of male",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": ".2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'AnAge'}",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "1 calf each 2.5 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1e6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "14e6",
+    "units": "g",
+    "label": "ultimate wet weight females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "57e6",
+    "units": "g",
+    "label": "ultimate wet weight males",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "77*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tg",
+    "entity.value": "502",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "Body temp from Orca"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2922",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3650",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "560",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

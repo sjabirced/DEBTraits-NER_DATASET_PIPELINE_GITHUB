@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Mytiloida",
+    "family": "Mytilidae",
+    "genus": "Mytilus",
+    "specie": "Mytilus_edulis",
+    "specie_en": "Blue mussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.2",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "CardDekk2007",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.009",
+      "units": "cm",
+      "label": "shell height at birth",
+      "bibkey": "Newe1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "shell height is from umbo to ventral margin"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate shell height",
+      "bibkey": "VeerCard2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.2",
+      "units": "cm",
+      "label": "shell height at puberty",
+      "bibkey": "VeerCard2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e6/354",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "HonkMeer1998",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.69e-8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on .03693*Lb^3 from HareKooy1993"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "124.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on .03693*Li^3 from HareKooy1993"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "6.38e-2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on .03693*Lp^3 from HareKooy1993"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "0.2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Newe1989",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "24*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "RodhRode1984",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Newe1989",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

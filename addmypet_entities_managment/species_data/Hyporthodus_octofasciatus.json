@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Hyporthodus",
+    "specie": "Hyporthodus_octofasciatus",
+    "specie_en": "Eightbar grouper",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.025",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "WakeNewm2013",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "174",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "WakeWill2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'for Pacific populations"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "56",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "WakeWill2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.13e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.6 mm: pi/6*0.06^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "89.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01380*Li^3.04, see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "70 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WakeWill2015",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

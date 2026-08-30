@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sphyraeniformes",
+    "family": "Sphyraenidae",
+    "genus": "Sphyraena",
+    "specie": "Sphyraena_barracuda",
+    "specie_en": "Great barracuda",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.017",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "KadiAles2010",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "84.7",
+      "units": "cm",
+      "label": "fork length at puberty of females",
+      "bibkey": "KadiAles2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "71.6",
+      "units": "cm",
+      "label": "fork length at puberty of males",
+      "bibkey": "KadiAles2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.5e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "sms",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.78 mm: 4/3*pi*0.039^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "56800",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.0071*Li^3, read from LW data"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4314",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "KadiAles2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.0071*Lp^3, read from LW data"
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "2606",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "KadiAles2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.0071*Lpm^3, read from LW data"
+    },
+    {
+      "entity": "am",
+      "entity.value": "17*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KadiAles2010",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.4*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "KadiAles2010",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "KadiAles2010",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

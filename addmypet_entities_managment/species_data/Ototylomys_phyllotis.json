@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Ototylomys",
+    "specie": "Ototylomys_phyllotis",
+    "specie_en": "Big-eared climbing rat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Helm1975",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": "'2.4 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "10",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Helm1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "65",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Helm1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 218–790 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5.4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guss",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": "based on Tylomys_nudicaudus"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "52.8",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Helm1975",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "38",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "Helm1975",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": "based on Proechimys_semispinosus"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "30",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Helm1975",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": "based on Proechimys_semispinosus"
+    }
+  ]
+}

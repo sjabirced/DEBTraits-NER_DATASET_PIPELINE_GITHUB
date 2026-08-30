@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Thaliacea",
+    "order": "Salpida",
+    "family": "Salpidae",
+    "genus": "Salpa",
+    "specie": "Salpa_thompsoni",
+    "specie_en": "Salp"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.3,
+    "units": "cm",
+    "label": "blastozooid length at birth",
+    "bibkey": "LuskPakh2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "from tL data"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 4.0,
+    "units": "cm",
+    "label": "ultimate blastozooid length",
+    "bibkey": "LuskPakh2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "corrected for growth at 3.4 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 2.0,
+    "units": "cm",
+    "label": "blastozooid length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Lp/Li ratio of Cyclosalpa bakeri"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 5.0,
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": "based on kap=0.05"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 2.8,
+    "units": "g",
+    "label": "ultimate wet weight of blastozooid",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on weight-length relationship of Cyclosalpa bakeri: 44*(4/10)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 4.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 40.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

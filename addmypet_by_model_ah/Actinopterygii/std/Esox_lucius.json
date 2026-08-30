@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Esociformes",
+    "family": "Esocidae",
+    "genus": "Esox",
+    "specie": "Esox_lucius",
+    "specie_en": "Northern pike"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.875",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "BregKenn1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "7.5 till 10 mm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "150",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "50.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "23 till 20 inches"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "2.75 mm egg diameter, 1.375 mm egg radius gives: 4/3 * pi * (0.1375)^3 = 0.0109 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "24.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "908",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "AndeNeum1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "At 20 inches, it would be 2 pounds = 907 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "BregKenn1980",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": "3 degrees C is actually temperature upon spawning"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BregKenn1980",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "BregKenn1980",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  }
+]

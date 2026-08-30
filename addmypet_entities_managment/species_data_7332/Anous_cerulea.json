@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Anous",
+    "specie": "Anous_cerulea",
+    "specie_en": "Blue noddy"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "14.4",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "RauzHarr1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "avibase gives 12 g"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.0",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "RauzHarr1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "57.9",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "RauzHarr1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "34",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "'32 to 35 d. Temperature is guessed based on being the optimal temperature for artificial incubation for several species"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "147",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "49",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "RauzHarr1984",
+    "temp": "C2K(40.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

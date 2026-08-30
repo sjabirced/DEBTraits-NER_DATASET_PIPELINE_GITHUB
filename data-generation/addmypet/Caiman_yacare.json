@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Alligatoridae",
+    "genus": "Caiman",
+    "specie": "Caiman_yacare",
+    "specie_en": "Yacare caiman",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "31.22",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "CampMour2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SVL 12.49 cm, converted from SVL using TL = SVL*200/80"
+    },
+    {
+      "entity": "Lbm",
+      "entity.value": "32.10",
+      "units": "cm",
+      "label": "total length at birth for males",
+      "bibkey": "CampMour2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "140",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "300",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "125",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SVL 50 cm, converted from SVL using TL = SVL*200/80"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "125",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SVL 50 cm, converted from SVL using TL = SVL*200/80"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "44/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "22-35 eggs per clutch is more common, 1 clutch per yr assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "30",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on C. latirostris"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "23e3",
+      "units": "g",
+      "label": "ultimate wet weight of female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "58e3",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "50*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "12.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "10-15 yrs"
+    }
+  ]
+}

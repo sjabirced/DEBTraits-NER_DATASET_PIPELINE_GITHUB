@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Myida",
+    "family": "Mytilidae",
+    "genus": "Modiolus",
+    "specie": "Modiolus_modiolus",
+    "specie_en": "Northern horsemussel"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SeedBrow1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.7e6/365",
+    "units": "#/d",
+    "label": "reproduction rate at SL 8.1 cm",
+    "bibkey": "WongArsh2013",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "value for Modiolus philippinarum"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.8e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "WongArsh2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 81 mum: pi/6*0.0081^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "897",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "sealifebase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 10^(-3.716 + 2.847*log10(10*Li)), see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "50*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "marlin",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "max age exceeds 50 yr"
+  }
+]

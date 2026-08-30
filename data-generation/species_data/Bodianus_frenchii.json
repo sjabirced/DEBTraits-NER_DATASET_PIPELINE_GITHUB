@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Labridae",
+    "genus": "Bodianus",
+    "specie": "Bodianus_frenchii",
+    "specie_en": "Foxfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "24.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "CossHesp2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.7e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CossHesp2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 570 mumm: pi/6*0.057^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.3e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'CossHesp2010','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01202*Li^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "207",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'CossHesp2010','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01202*Lp^3.05, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "80*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CossHesp2010",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

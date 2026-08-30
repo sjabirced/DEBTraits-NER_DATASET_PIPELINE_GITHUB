@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Characiformes",
+    "family": "Alestidae",
+    "genus": "Alestes",
+    "specie": "Alestes_macrophthalmus",
+    "specie_en": "Torpedo robber",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Bowm1969",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm of Alestes_baremoze: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2974",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01122*Li^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "28",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'Bowm1969','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01122*Lp^3.05, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3.2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

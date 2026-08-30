@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Scaphirhynchus",
+    "specie": "Scaphirhynchus_albus",
+    "specie_en": "Pallid sturgeon"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "163.8",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "Shum2006",
+    "temp": null,
+    "units.temp": null,
+    "comment": "The largest pallid sturgeon captured in sampling records and angler catches"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "170000/365/2",
+    "units": "#/d",
+    "label": "maximum reproduction rate",
+    "bibkey": "Keen1992",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "Divided by 2 to account for 2 year spawning periodicity, max fecundity used from Keen1992"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0239",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "DeLo2016",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Birth is interpreted as the beginning of exogenous feeding, which occurs at 13d post-hatch in pallid sturgeon - temp was 16.5C"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "USFWS2019",
+    "temp": null,
+    "units.temp": null,
+    "comment": "The largest pallid sturgeon captured in sampling records"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "18.2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Choj2022",
+    "temp": "C2K(17.8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "100*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Hame2020",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "Temperature is the estimated yearly average of the Missouri River"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "15 * 365",
+    "units": "d",
+    "label": "age at puberty female",
+    "bibkey": "{'Holm2018','Cox2022'}",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "'estimated by subtracting average age at reproductive readiness by spawning periodicity"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "12 * 365",
+    "units": "d",
+    "label": "age at puberty male",
+    "bibkey": "{'Holm2018','Cox2022'}",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "'estimated by subtracting average of age at reproductive readiness by spawning periodicity"
+  }
+]

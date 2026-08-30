@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Ophidiiformes",
+    "family": "Carapidae",
+    "genus": "Carapus",
+    "specie": "Carapus_bermudensis",
+    "specie_en": "Atlantic pearlfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.1",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20.8",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SmitTyle1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'SmitTyle1981 gives maturity for C.bermudensis at 90% of max headlength"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "GlynEnoc2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (20.8/9.7)^3 * 1.534 for C.mourlani: GlynEnoc2008 gives 1.534 g for a 9.7 cm fish (total length)"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

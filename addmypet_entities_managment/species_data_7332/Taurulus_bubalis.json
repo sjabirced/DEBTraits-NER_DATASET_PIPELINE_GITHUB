@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Taurulus",
+    "specie": "Taurulus_bubalis",
+    "specie_en": "Longspined bullhead"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "17.5",
+    "units": "cm",
+    "label": "ultimate total length for",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Lamp1965",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Lamp1965",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "baed on egg diameter of 1.4-1.6 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "87",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Lamp1965",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase: based on 0.00794*Li^3.12, see F1, gives 60 g"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "31",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Lamp1965",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase: based on 0.00794*Lp^3.12, see F1, gives 14 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Lamp1965",
+    "temp": "C2K(9.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

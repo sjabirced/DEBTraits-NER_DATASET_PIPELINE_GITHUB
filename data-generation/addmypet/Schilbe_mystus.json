@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Schilbeidae",
+    "genus": "Schilbe",
+    "specie": "Schilbe_mystus",
+    "specie_en": "African butter catfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "35",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Ayoa2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "12.2",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Ayoa2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.5e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Ayoa2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.66 mm: pi/6*0.066^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "357",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "base on 0.00832*Li^3, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "25.9",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','Ayoa2009'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00832*Lp^3, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

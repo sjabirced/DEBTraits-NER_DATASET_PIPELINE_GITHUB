@@ -1,0 +1,183 @@
+{
+  "Gastropoda_abj_cycle_de_vie": {
+    "titre": "Life cycle of class Gastropoda — ABJ (std with type M metabolic acceleration)",
+    "ordre": "Caenogastropoda / Vetigastropoda / Pulmonata",
+    "classe": "Gastropoda",
+    "stades": [
+      {
+        "id": 1,
+        "label": "t0",
+        "nom": "Fertilisation",
+        "type": "transition",
+        "termes": [
+          "egg fertilisation",
+          "zygote formation",
+          "gamete fusion",
+          "syngamy",
+          "ovum activation",
+          "reproductive pairing",
+          "zygote stage onset",
+          "gametic union",
+          "fecundation",
+          "external fertilisation",
+          "copulation",
+          "sperm transfer",
+          "cross-fertilisation"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Egg / Incubation",
+        "nom": "Embryo under incubation",
+        "type": "stade",
+        "termes": [
+          "fertilised ovum",
+          "incubating egg",
+          "embryonated egg",
+          "yolk-dependent embryo",
+          "cleavage-stage embryo",
+          "blastula-stage embryo",
+          "gastrulating embryo",
+          "organogenesis stage"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "B",
+        "nom": "Onset of exogenous feeding",
+        "type": "transition",
+        "termes": [
+          "first exogenous feeding",
+          "first feeding",
+          "yolk-sac resorption",
+          "mouth opening",
+          "first prey capture",
+          "exotrophic transition",
+          "trophic switch",
+          "active feeding onset",
+          "larval feeding commencement",
+          "yolk absorption completion",
+          "veliger feeding",
+          "planktotrophic feeding onset",
+          "phytoplankton ingestion",
+          "cilia-driven feeding"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Larval stage",
+        "nom": "Veliger larva",
+        "type": "stade",
+        "termes": [
+          "free-swimming larva",
+          "planktonic larva",
+          "exogenously feeding larva",
+          "actively growing larva",
+          "pre-metamorphic larva",
+          "veliger larva",
+          "trochophore larva",
+          "pediveliger",
+          "planktotrophic larva",
+          "glochidium",
+          "prodissoconch stage"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "J",
+        "nom": "Larval metamorphosis",
+        "type": "transition",
+        "termes": [
+          "larval metamorphosis",
+          "post-larval transformation",
+          "larval-juvenile transition",
+          "morphological transformation",
+          "allometric shift",
+          "body plan reorganisation",
+          "juvenile recruitment",
+          "metamorphic climax",
+          "larval settlement",
+          "substratum attachment",
+          "metamorphic competence",
+          "velum loss",
+          "gill development"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Post-metamorphosis juv.",
+        "nom": "Post-metamorphic juvenile",
+        "type": "stade",
+        "termes": [
+          "post-metamorphic juvenile",
+          "juvenile",
+          "sub-adult",
+          "immature post-metamorphic",
+          "recruits",
+          "recently metamorphosed juvenile",
+          "growing juvenile",
+          "spat",
+          "post-larval mollusc",
+          "juvenile bivalve",
+          "juvenile gastropod"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "P",
+        "nom": "Sexual maturation",
+        "type": "transition",
+        "termes": [
+          "sexual maturation",
+          "reproductive maturity",
+          "first reproduction event",
+          "gonad maturation",
+          "puberty",
+          "gametogenesis onset",
+          "reproductive activation",
+          "age at first reproduction",
+          "first spawning",
+          "first egg mass deposition",
+          "reproductive season onset"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Breeding adult",
+        "nom": "Reproductively active adult",
+        "type": "stade",
+        "termes": [
+          "sexually mature adult",
+          "reproductively active adult",
+          "breeding individual",
+          "gravid individual",
+          "post-pubertal adult",
+          "reproductively viable organism",
+          "spawning mollusc",
+          "egg-laying adult",
+          "gravid mollusc",
+          "brooding adult"
+        ]
+      },
+      {
+        "id": 9,
+        "label": "M",
+        "nom": "Natural death",
+        "type": "transition",
+        "termes": [
+          "natural mortality",
+          "senescence",
+          "age-related death",
+          "post-reproductive mortality",
+          "biological death",
+          "somatic death",
+          "lifespan completion",
+          "ecological mortality",
+          "organismal death",
+          "reproductive senescence",
+          "physiological death"
+        ]
+      }
+    ]
+  }
+}

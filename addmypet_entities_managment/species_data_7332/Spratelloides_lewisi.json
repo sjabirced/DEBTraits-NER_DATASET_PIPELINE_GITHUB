@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Spratelloididae",
+    "genus": "Spratelloides",
+    "specie": "Spratelloides_lewisi",
+    "specie_en": "Lewis"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.3",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same realtive length, compared to Spratelloides_gracilis: 4/10.5*6 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1230*1.43/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.8e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ShirWata2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of  0.45 mm of Spratelloides_gracilis: pi/6*0.045^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.43",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00513*Li^3.14, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*30.5",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MiltBlab1991",
+    "temp": "C2K(28.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

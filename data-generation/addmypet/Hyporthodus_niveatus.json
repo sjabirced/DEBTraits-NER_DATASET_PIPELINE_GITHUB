@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Hyporthodus",
+    "specie": "Hyporthodus_niveatus",
+    "specie_en": "Snowy grouper",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "122",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "54",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "293382/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": "based on kap=0.97"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.13e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.6 mm: pi/6*0.06^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "34.9e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01585*Li^3.04, see F1, give 1.66 kg"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.9e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01585*Lp^3.04, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "55 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CostBrag2011",
+      "temp": "C2K(19.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

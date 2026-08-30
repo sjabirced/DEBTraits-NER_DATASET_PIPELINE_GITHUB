@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Rana",
+    "specie": "Rana_dalmatina",
+    "specie_en": "Agile frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1100/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "450-1800 eggs per clutch, assumed: 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0031",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": "besed on egg diameter of 1.5–2.1 mm: pi/6*0.18^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "123",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "guess based on length-weight of Rana muscosa: 76*(8/ 6.8)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "66",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "guess based on length-weight of Rana muscosa: 76*(6.5/ 6.8)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "40",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "3*30.5",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Wiki",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

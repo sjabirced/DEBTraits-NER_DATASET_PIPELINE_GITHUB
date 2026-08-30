@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Phycidae",
+    "genus": "Urophycis",
+    "specie": "Urophycis_tenuis",
+    "specie_en": "White hake",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "135",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "133",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "43",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "ChanMors1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "ChanMors1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "15e6/365",
+      "units": "#/d",
+      "label": "max reoduction rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(4.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ChanMors1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.75 mm: pi/6*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "21e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'max published weight 21 kg"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "578",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00398*Lp^3.16, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "hatch 3-7 d at 7-20 C"
+    },
+    {
+      "entity": "am",
+      "entity.value": "23*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(4.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

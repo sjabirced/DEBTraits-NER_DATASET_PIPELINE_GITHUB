@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Bucerotiformes",
+    "family": "Bucorvidae",
+    "genus": "Bucorvus",
+    "specie": "Bucorvus_leadbeateri",
+    "specie_en": "Southern ground hornbill",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "109.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "ALR2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Msim2004','Mabu2012'}",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "55",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GunnGunn2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3324",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "4000",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "avibase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "42",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "GunnGunn2012",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temps from GunnGunn2012"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25550",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SpeaMorr2005",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "SpeaMorr2005",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "258",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "86",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Msim2004",
+      "temp": "C2K(40)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

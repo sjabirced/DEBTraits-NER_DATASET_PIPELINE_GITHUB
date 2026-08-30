@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gymnotiformes",
+    "family": "Apteronotidae",
+    "genus": "Apteronotus",
+    "specie": "Apteronotus_leptorhynchus",
+    "specie_en": "Brown ghost knifefish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.2/15",
+      "units": "g/g",
+      "label": "gonado domatic index",
+      "bibkey": "IlieSirb2014",
+      "temp": "C2K(26.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "20.2",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "IlieSirb2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "26.8",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "IlieSirb2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "IlieSirb2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "13.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "IlieSirb2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.41e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'KirsSchu2002','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3 mm, which is typical for species of this group: pi/6*0.3^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "11",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(26.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "IlieSirb2014",
+      "temp": "C2K(26.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

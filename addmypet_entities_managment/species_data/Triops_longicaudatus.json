@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Notostraca",
+    "family": "Triopsidae",
+    "genus": "Triops",
+    "specie": "Triops_longicaudatus",
+    "specie_en": "Longtail tadpole shrimp",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.0944",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Aris2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.25",
+      "units": "cm",
+      "label": "carinal length at birth",
+      "bibkey": "SuMull2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "3.1",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "carinal length at puberty",
+      "bibkey": "SuMull2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "N1",
+      "entity.value": "50",
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "SuMull2001",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "Corresponds to tL_1 data"
+    },
+    {
+      "entity": "N7",
+      "entity.value": "1100",
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "SuMull2001",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "Corresponds to tL_7 data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "22",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "killipark",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.555",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "0.8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Aris2013",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "40",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SuMull2001",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "Wiki gives 90 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "7.5-0.8",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "SuMull2001",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

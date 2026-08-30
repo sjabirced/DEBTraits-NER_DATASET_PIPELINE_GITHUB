@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Acanthocephala",
+    "class": "Archiacanthocephala",
+    "order": "Moniliformida",
+    "family": "Moniliformidae",
+    "genus": "Moniliformis",
+    "specie": "Moniliformis_dubius",
+    "specie_en": "Worm"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": 0.28,
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Crom1972",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "accumulation time is unknown"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 20.0,
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "Olse1974",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": 8.0,
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "Olse1974",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 2.4e-07,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg length 90-125 mum, width 65 mum: pi/6*0.011*0.0065^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 3.9,
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Olse1974",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on pi del^2 Li^3/ 4 with del = 0.025 from plate 105 of Olse1974"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 0.25,
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Olse1974",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on pi del^2 Li^3/ 4 with del = 0.025 from plate 105 of Olse1974"
+  },
+  {
+    "entity": "am",
+    "entity.value": 150.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Crom1972",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "Largest age mentioned in Crom1972, but its significance is unknown"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 21.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Crom1972",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "temp is that of the host: rat"
+  }
+]

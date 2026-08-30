@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Squalidae",
+    "genus": "Squalus",
+    "specie": "Squalus_acanthias",
+    "specie_en": "Spurdog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "24",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "JoneGeen1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": "consistent with Avsa2001, YigiIsme2013 - smaller size at birth must exist because 17 cm long ind. observed in YigiIsme2013, YigiIsme2016"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "136",
+      "units": "cm",
+      "label": "ultimate total length (fem.)",
+      "bibkey": "Avsa2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "max. observed length of fem. in SE Black sea -  it is NOT the L_inf estimated by pooling male and female data"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "121",
+      "units": "cm",
+      "label": "ultimate total length (males)",
+      "bibkey": "Avsa2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "max. observed length of males. in SE Black sea - NOT the L_inf estimated by pooling male and female data"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "72",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Avsa2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Avsa2001: 82 for males, 88 cm for females is the 50% length at maturation, here we take the smallest size female with embryos"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "35",
+      "units": "g",
+      "label": "wet weight at start (egg)",
+      "bibkey": "YigiIsme2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fig. 7 - the numbers are consistent with volume of egg in JoneGeen1977"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "950",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Avsa2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "the weigth of 72 cm female is stated in the text"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "23*30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "JoneGeen1977",
+      "temp": "C2K(9)",
+      "units.temp": "K",
+      "comment": "'temps of all data are guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "80*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Steh2007",
+      "temp": "C2K(9)",
+      "units.temp": "K",
+      "comment": "JoneGeen1977 sample females up to 70 years old - AnDiv: 25-30 yr"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Avsa2001",
+      "temp": "C2K(9)",
+      "units.temp": "K",
+      "comment": "'from text: males and females are sexually mature in their 5th year of life"
+    }
+  ]
+}

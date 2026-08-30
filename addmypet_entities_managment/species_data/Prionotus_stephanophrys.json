@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Triglidae",
+    "genus": "Prionotus",
+    "specie": "Prionotus_stephanophrys",
+    "specie_en": "Lumptail searobin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "43",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "22.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e5/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(24.2)",
+      "units.temp": "K",
+      "comment": "based on P. evolans for TL 43 cm"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.0e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Yusc1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.05-1.25 mm of Prionotus evolans: pi/6*0.115^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "767.5",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01122*Li^2.96, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "114.3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01122*Lp^2.96, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "9",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(24.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SchmCast1994",
+      "temp": "C2K(24.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

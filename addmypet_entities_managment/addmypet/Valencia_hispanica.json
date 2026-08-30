@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Valenciidae",
+    "genus": "Valencia",
+    "specie": "Valencia_hispanica",
+    "specie_en": "Valencia toothcarp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.9",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "CaioVerg2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on the remark that no 0+ fish was mature"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "300/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CaioVerg2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.6 mm: pi/6*0.16^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6.24",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01122*Li^3.04, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.70",
+      "units": "g",
+      "label": "wet weight at pubert",
+      "bibkey": "{'fishbase','CaioVerg2001'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01122*Lp^3.04, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "CaioVerg2001",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

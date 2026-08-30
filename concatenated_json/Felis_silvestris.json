@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Felis",
+    "specie": "Felis_silvestris",
+    "specie_en": "Wild cat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.3*3.7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "2.3  per litter, 3.7 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "100",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Volf1968",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "3 to 5 kg, but taken a bit higher in view of tW data"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "7e3",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "Volf1968",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "5 to 8 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "19*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "64",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "304",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "304",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "87",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "30 till 35 d"
+  }
+]

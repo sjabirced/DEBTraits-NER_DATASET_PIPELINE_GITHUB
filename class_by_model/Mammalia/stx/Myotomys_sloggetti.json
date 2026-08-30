@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Myotomys",
+    "specie": "Myotomys_sloggetti",
+    "specie_en": "Sloggett"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "134",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4*4.5/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "gbif",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "'2.5 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Myotomys_unisulcatus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "113.3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "GenoIsle2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Myotomys_unisulcatus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "38",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Myotomys_unisulcatus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "38",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Myotomys_unisulcatus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "8",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "gbif",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Myotomys_unisulcatus"
+  }
+]

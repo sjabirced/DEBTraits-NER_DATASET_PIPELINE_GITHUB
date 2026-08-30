@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Rhinella",
+    "specie": "Rhinella_arenarum",
+    "specie_en": "Argentine toad",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "13.1",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "BionBabi2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "maximum estimated asymtotic length, table 3"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "2.4",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "BabiBion2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fig 1, lab"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11.2",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "BionBabi2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "table2, largest Lp for females reported"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "34535/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "BabiBion2018",
+      "temp": "C2K(22.3)",
+      "units.temp": "K",
+      "comment": "assuming 1 clutch/year, table 2, site C2 (maximum across all sites), the temp is the mean recorded at that site."
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "612/34535",
+      "units": "g",
+      "label": "wet weight of egg",
+      "bibkey": "BabiBion2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "oviposition mass divided by number of eggs site C2, table 2. There is some biasis due to the gelatinous stuff that holds the string together."
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "250",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "BrodSass2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "max weight of adults sampled in this study."
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.2",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "BrodSass2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "216/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "CandNata2010",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BionBabi2018",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "max longevity recorded in table 2"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "BrodSass2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'first individuals to complete metamorphose fig 3a"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since brith at puberty",
+      "bibkey": "BionBabi2018",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

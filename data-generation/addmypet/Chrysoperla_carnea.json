@@ -1,0 +1,304 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Neuroptera",
+    "family": "Chrysopidae",
+    "genus": "Chrysoperla",
+    "specie": "Chrysoperla_carnea",
+    "specie_en": "Common green lacewing",
+    "deb_model": "abp"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.24",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "ChakKora2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Le",
+      "entity.value": "0.724",
+      "units": "cm",
+      "label": "length at emergence",
+      "bibkey": "ChakKora2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.71",
+      "units": "cm",
+      "label": "length at pupation",
+      "bibkey": "ChakKora2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri_1",
+      "entity.value": "1264/45.6",
+      "units": "#/d",
+      "label": "reproduction rate",
+      "bibkey": "AmarShea2013a",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri_2",
+      "entity.value": "694.4/48.3",
+      "units": "#/d",
+      "label": "reproduction rate",
+      "bibkey": "AmarShea2013b",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri_3",
+      "entity.value": "15.67",
+      "units": "#/d",
+      "label": "reproduction rate",
+      "bibkey": "JokaZara2012",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri_4",
+      "entity.value": "8.67",
+      "units": "#/d",
+      "label": "reproduction rate",
+      "bibkey": "SharAli2023",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri_5",
+      "entity.value": "247.44/9.04",
+      "units": "#/d",
+      "label": "reproduction rate",
+      "bibkey": "ChakKora2010",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wde",
+      "entity.value": "0.003107",
+      "units": "g",
+      "label": "Imago dry weight",
+      "bibkey": "LawoRome2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ww_asym",
+      "entity.value": "8e-2",
+      "units": "g",
+      "label": "asymptotic wet  weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "hypothetical ultimate weight if growth would not cease at emergence"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0001",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BaumGuti1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwe_1",
+      "entity.value": "8.96e-3",
+      "units": "g",
+      "label": "wet weight at emergence",
+      "bibkey": "Baye2024",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwe_2",
+      "entity.value": "1.16e-2",
+      "units": "g",
+      "label": "wet weight at emergence",
+      "bibkey": "Baye2024",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi_1",
+      "entity.value": "2.97e-2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Baye2024",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi_2",
+      "entity.value": "2.96e-2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Baye2024",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj_1",
+      "entity.value": "0.0083",
+      "units": "g",
+      "label": "wet weight of pupa",
+      "bibkey": "SyedAshf2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj_aphid",
+      "entity.value": "7.08E-3",
+      "units": "g",
+      "label": "wet weight of pupa",
+      "bibkey": "JokaZara2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj_artificial",
+      "entity.value": "9.46E-3",
+      "units": "g",
+      "label": "wet weight of pupa",
+      "bibkey": "JokaZara2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj_whitefly",
+      "entity.value": "8.4E-3",
+      "units": "g",
+      "label": "wet weight of pupa",
+      "bibkey": "JokaZara2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5.1",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AmarShea2013a",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "te_23",
+      "entity.value": "17.9",
+      "units": "d",
+      "label": "time since birth at emergence",
+      "bibkey": "AmarShea2013b",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tei",
+      "entity.value": "51.7",
+      "units": "d",
+      "label": "life span since emergence",
+      "bibkey": "AmarShea2013a",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "teia",
+      "entity.value": "48.3",
+      "units": "d",
+      "label": "life span since emergence",
+      "bibkey": "AmarShea2013b",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tep_23",
+      "entity.value": "4.2",
+      "units": "d",
+      "label": "time since emergence at first egg release",
+      "bibkey": "AmarShea2013a",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj_23",
+      "entity.value": "11",
+      "units": "d",
+      "label": "time since birth at pupation at 23 C",
+      "bibkey": "AmarShea2013a",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj_25",
+      "entity.value": "8",
+      "units": "d",
+      "label": "time since birth at pupation at 25 C",
+      "bibkey": "Baye2024",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj_25a",
+      "entity.value": "7",
+      "units": "d",
+      "label": "time since birth at pupation",
+      "bibkey": "Baye2024",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tje_23",
+      "entity.value": "11.5",
+      "units": "d",
+      "label": "time since pupation at emergence at 23 C",
+      "bibkey": "AmarShea2013a",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tje_25",
+      "entity.value": "9",
+      "units": "d",
+      "label": "time since pupation at emergence at 25 C",
+      "bibkey": "Baye2024",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

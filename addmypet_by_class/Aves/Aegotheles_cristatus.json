@@ -1,0 +1,110 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Aegotheliformes",
+    "family": "Aegothelidae",
+    "species": "Aegotheles_cristatus",
+    "species_en": "Australian owlet-nightjar"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Holy2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "21-25"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Holy2001",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": "2-5 eggs, usually 3-4, one brood per year"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "8",
+    "units": "g",
+    "label": "egg wet weight",
+    "bibkey": "Holy2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Computed as pi*L0*L0w^2/6"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "0.8*W0 to account for water and energy loss"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "60",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Holy2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "males 43-60 g, females 42-62 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "26",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Holy2001",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "'25-27 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "biokids",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": "Value for Caprimulgus vociferus, which is related and equal Wwi"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "340",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "84",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": "'21-29 (32) d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "28",
+    "units": "d",
+    "label": "time since birth at fledge",
+    "bibkey": "Holy2001",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": "'21-29 (32) d"
+  }
+]

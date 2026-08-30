@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Lamniformes",
+    "family": "Lamnidae",
+    "genus": "Lamna",
+    "specie": "Lamna_nasus",
+    "specie_en": "Porbeagle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "61.6",
+      "units": "cm",
+      "label": "fork length at birth",
+      "bibkey": "FranStev2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'TL 60-80 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "321",
+      "units": "cm",
+      "label": "ultimate fork length for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 365 cm and F2"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "272",
+      "units": "cm",
+      "label": "ultimate fork length for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 365 cm and F2"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "185",
+      "units": "cm",
+      "label": "fork length at puberty for females",
+      "bibkey": "FranStev2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "FL 165-180 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "175",
+      "units": "cm",
+      "label": "fork length at puberty for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(12.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.53e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.0089125*Lb^3.128, see F1"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "617.1e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.0089125*Li^3.128, see F1"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "367.6e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.0089125*Lim^3.128, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "110e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on0.0089125*Lp^3.128, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "92.5e3",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.0089125*Lpm^3.128, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8.5*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'FranStev2000','elasmo'}",
+      "temp": "C2K(11+12.9)",
+      "units.temp": "K",
+      "comment": "uterus temperatury during incubation is assumed to exceed the evironmental temperature by 11 C"
+    },
+    {
+      "entity": "am",
+      "entity.value": "45.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "NataMell2002",
+      "temp": "C2K(12.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

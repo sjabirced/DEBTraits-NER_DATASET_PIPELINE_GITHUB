@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Histioteuthidae",
+    "genus": "Histioteuthis",
+    "specie": "Histioteuthis_bonnellii",
+    "specie_en": "Umbrella squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 23.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "MereStac2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": 19.8,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "MereStac2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 11.0,
+      "units": "cm",
+      "label": "mantle length at puberty for female",
+      "bibkey": "MereStac2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": 5.5,
+      "units": "cm",
+      "label": "mantle length at puberty for male",
+      "bibkey": "MereStac2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 275000.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "Lapt2001",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "based on kap=0.7"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 2.4e-05,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Lapt2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 0.5 mm and egg width of 0.3 mm: pi/6*0.05*0.03^2"
+    },
+    {
+      "entity": "am",
+      "entity.value": 450.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "MereStac2011",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Leptosomiformes",
+    "family": "Leptosomidae",
+    "genus": "Leptosomus",
+    "specie": "Leptosomus_discolor",
+    "specie_en": "Cuckoo roller",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Twea2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Twea2012",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CramSimm1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value for Asio otus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "225",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "RavoWilm2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "20",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Twea2012",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temp from HollRome2012"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10147",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "TacuCrai2013",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Twea2012",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": "temps from KeslHaig2004"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "30",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Twea2012",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": "temps from KeslHaig2004"
+    }
+  ]
+}

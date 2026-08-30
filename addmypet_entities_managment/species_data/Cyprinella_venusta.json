@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Cyprinella",
+    "specie": "Cyprinella_venusta",
+    "specie_en": "Blacktail shiner",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15.2",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.2",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "459/365",
+      "units": "#/d",
+      "label": "max reprod rate at SL 7.2 cm",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.15 mm: pi/6*0.115^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "41.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00589*(Li/0.83)^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.83",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00589*(Lp/0.83)^3.05, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Lampanyctus",
+    "specie": "Lampanyctus_macdonaldi",
+    "specie_en": "Rakery beaconlamp"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8",
+    "units": "cm",
+    "label": "standard length fat puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "152e3/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(5.2)",
+    "units.temp": "K",
+    "comment": "based on kap=0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.3 mm of Lampanyctus_ritteri: pi/6*0.03^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00479*Lp^3.16, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(5.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

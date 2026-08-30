@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Piciformes",
+    "family": "Ramphastidae",
+    "genus": "Selenidera",
+    "specie": "Selenidera_piperivora",
+    "specie_en": "Guianan toucanet"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(41.8)",
+    "units.temp": "K",
+    "comment": "2-4 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LegeVinc2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "140",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "LegeVinc2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki gives 110-165 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "16",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "LegeVinc2012",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "15-18 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "16.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(41.8)",
+    "units.temp": "K",
+    "comment": "based on Ramphastos toco"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1095",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "126",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "6*7",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "LegeVinc2012",
+    "temp": "C2K(41.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

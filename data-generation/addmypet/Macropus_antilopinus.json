@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Macropodidae",
+    "genus": "Macropus",
+    "specie": "Macropus_antilopinus",
+    "specie_en": "Antilopine wallaby",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "365/270/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Cala1995",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.703",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "RussRich1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "17500",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Cala1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "12500",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Hirs2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "7500",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "Hirs2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "RussRich1971",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "pL",
+      "entity.value": ".1*2.08e7/365*data.Wwi/1000",
+      "units": "J/d",
+      "label": "average yearly milk production",
+      "bibkey": "CorkDove1989",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "34",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Cala1995",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "temp from DawsDenn1969"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "639",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "RussRich1971",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "Hirs2006: 475 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "426",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "PoolMerc1987",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

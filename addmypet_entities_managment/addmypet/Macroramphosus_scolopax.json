@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Centriscidae",
+    "genus": "Macroramphosus",
+    "specie": "Macroramphosus_scolopax",
+    "specie_en": "Longspine snipefish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "16.8",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "Borg2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.4",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "35",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "guess based on kappa = 0.85"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "saiab",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 865-985 mum: 0.0450^3 * pi* 4/ 3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "27.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Borg2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as 0.00401 * Li^3.127"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.1",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as 0.00401 * Lp^3.127"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EOL",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "547",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

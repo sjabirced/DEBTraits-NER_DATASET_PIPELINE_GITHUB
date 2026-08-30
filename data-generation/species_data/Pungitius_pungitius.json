@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Gasterosteidae",
+    "genus": "Pungitius",
+    "specie": "Pungitius_pungitius",
+    "specie_en": "Ten-spined stickleback",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.63",
+      "units": "cm",
+      "label": "standard length at birth",
+      "bibkey": "WrigWoot2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Taken from from Gasterosteus aculeatus"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "7.40",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "Paep1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.70",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "80/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.01102 * data.Lb^3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as 0.01102 * Lb^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.01102 * data.Li^3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as 0.01102 * Li^3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.01102 * data.Lp^3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as 0.01102 * Lp^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "547",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

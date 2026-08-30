@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Rivulidae",
+    "genus": "Cynopoecilus",
+    "specie": "Cynopoecilus_melanotaenia",
+    "specie_en": "Killifish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.469",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "ArenPere2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "2.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "ArenPere2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "ArenPere2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.855",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ArenCarv1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "219",
+      "units": "#",
+      "label": "cum # eggs at 189 d",
+      "bibkey": "ArenCarv1999",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ArenCarv1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.15 mm : pi/6*0.115^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.106",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'ArenPere2001','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00617*Li^3.10, see F1"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "0.30",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "{'ArenPere2001','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00617*Lp^3.10, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.042",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'ArenPere2001','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "0.9*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "ArenPere2001",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

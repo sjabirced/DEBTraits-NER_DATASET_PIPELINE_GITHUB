@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Afrosoricida",
+    "family": "Tenrecidae",
+    "genus": "Microgale",
+    "specie": "Microgale_drouhardi",
+    "specie_en": "Drouhard"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "28.39",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "based on Microgale_talazaci: 2 pups per litter, 3 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Microgale_talazaci: 6.3*14/50"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "14",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "8-14 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "based on Microgale_talazaci"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "61",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "based on Microgale_talazaci"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "639",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "based on Microgale_talazaci"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "29",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35)",
+    "units.temp": "K",
+    "comment": "based on Microgale_talazaci"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Leptodactylidae",
+    "genus": "Engystomops",
+    "specie": "Engystomops_pustulosus",
+    "specie_en": "Tungara frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.0",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "EoL",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.0",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "100/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.24e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 3.5 mm: pi/6*0.35^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.71",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "EoL",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

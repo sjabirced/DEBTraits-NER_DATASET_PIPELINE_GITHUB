@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "genus": "Parus",
+    "specie": "Parus_major",
+    "specie_en": "Great tit"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "16.8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "CramSimm2004",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "Wiki upto 18 eggs/clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'CramSimm2004','Mert1977','Mert1987'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "17.9",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "19.05",
+    "units": "g",
+    "label": "ultimate wet weight for male",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13.8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "CramSimm2004",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "temp from Rahn1991"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5475",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Rydz1978",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "TacuCrai2013",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "57",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "temp from Bale1973, CareOers2004"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "19",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "SnowPerr1998",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "temp from Bale1973, CareOers2004"
+  }
+]

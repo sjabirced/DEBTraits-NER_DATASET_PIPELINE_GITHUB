@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Hynobiidae",
+    "genus": "Hynobius",
+    "specie": "Hynobius_quelpaertensis",
+    "specie_en": "Jeju salamander"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.11",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on TL 11 cm, converted to SVL"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "7.78",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on TL 14 cm, converted to SVL"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*55/365",
+    "units": "#/d",
+    "label": "max reprduction rate",
+    "bibkey": "Spar2014",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "30-75 eggs per bag, 2 bags"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.11e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.77 mm for Hynobius_yangi: pi/6*0.277^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.41",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on Onychodactylus_japonicus: 9.65*(6.11/9.7)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5*7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Spar2014",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "49",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Spar2014",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Spar2014",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

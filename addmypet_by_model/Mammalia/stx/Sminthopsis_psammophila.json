@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Dasyuromorphia",
+    "family": "Dasyuridae",
+    "genus": "Sminthopsis",
+    "specie": "Sminthopsis_psammophila",
+    "specie_en": "Sandhill dunnart"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "34.70",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(36.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "9/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(36.9)",
+    "units.temp": "K",
+    "comment": "8-10 pups per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.1",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on other Sminthopsis species"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "55",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(36.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "17.",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(36.9)",
+    "units.temp": "K",
+    "comment": "16-19 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "300",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "gbif",
+    "temp": "C2K(36.9)",
+    "units.temp": "K",
+    "comment": "8-11 mnth"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "62.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(36.9)",
+    "units.temp": "K",
+    "comment": "based on Sminthopsis_murina"
+  }
+]

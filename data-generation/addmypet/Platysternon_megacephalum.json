@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Platysternidae",
+    "genus": "Platysternon",
+    "specie": "Platysternon_megacephalum",
+    "specie_en": "Big-headed turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate carapace length for females",
+      "bibkey": "SungHau2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "20.1",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "arkive",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "carapace length at puberty for females",
+      "bibkey": "SungHau2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "carapace length at puberty for males",
+      "bibkey": "SungHau2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "SungHau2014",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 37 mm and width 22 mm: pi/6*2.2^2*3.7"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "107",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "SungHau2014",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "27*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "all temps based on EoL"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "SungHau2015",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "SungHau2015",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

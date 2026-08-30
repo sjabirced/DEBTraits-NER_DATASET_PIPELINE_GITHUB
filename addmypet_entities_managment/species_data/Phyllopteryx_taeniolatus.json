@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "genus": "Phyllopteryx",
+    "specie": "Phyllopteryx_taeniolatus",
+    "specie_en": "Common seadragon",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "46",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "31",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "250*2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "SancBoot2005",
+      "temp": "C2K(17.2)",
+      "units.temp": "K",
+      "comment": "250 eggs per brood, 2 broods per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ForsLowe2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.8 mm: pi/6*0.18^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1134",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01000*Li^3.04, see F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "342",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01000*Li^3.04, see F2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "34",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(17.2)",
+      "units.temp": "K",
+      "comment": "30 till 38 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ForsLowe2006",
+      "temp": "C2K(17.2)",
+      "units.temp": "K",
+      "comment": "survived 3.5 yr in lab"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "species": "Xyrauchen_texanus",
+    "species_en": "Razorback sucker"
+  },
+  {
+    "entity": "Lh",
+    "entity.value": "0.8",
+    "units": "cm",
+    "label": "total length at hatch",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "91",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "90",
+    "units": "cm",
+    "label": "ultimate total length for  males",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on males being 10% smaller in length than females"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "54",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on same relative length, compared to Catostomus_catostomus"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "103000/365",
+    "units": "#/d",
+    "label": "Reprod rate at TL = 35.6 cm",
+    "bibkey": "fws",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "temp is guessed."
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Bail1969",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 2.2 mm of Catostomus_catostomus: pi/6*0.22^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "50*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "guessed temp, both males and females."
+  }
+]

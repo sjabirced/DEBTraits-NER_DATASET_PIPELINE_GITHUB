@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "genus": "Stigmochelys",
+    "specie": "Stigmochelys_pardalis",
+    "specie_en": "Leopard tortoise"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "ultimate carapace length for female",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "20/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "99.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 57.5 mm: pi/6*5.75^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "54000",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "320",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "9 till 12 mnth"
+  },
+  {
+    "entity": "am",
+    "entity.value": "75*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "iucn",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "iucn",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "12 till 15 yr"
+  }
+]

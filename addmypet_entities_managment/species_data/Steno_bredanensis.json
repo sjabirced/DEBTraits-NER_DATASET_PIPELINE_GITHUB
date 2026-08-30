@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Delphinidae",
+    "genus": "Steno",
+    "specie": "Steno_bredanensis",
+    "specie_en": "Rough-toothed dolphin",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "100",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "247",
+      "units": "cm",
+      "label": "ultimate length for females",
+      "bibkey": "SiciRamo2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "253",
+      "units": "cm",
+      "label": "ultimate length for females",
+      "bibkey": "SiciRamo2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "214.5",
+      "units": "cm",
+      "label": "length at puberty for females",
+      "bibkey": "West2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "229",
+      "units": "cm",
+      "label": "length at puberty for males",
+      "bibkey": "West2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "32*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "9.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "West2002",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "West2002",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "between 5 and 14 yr"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "150",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastes",
+    "specie": "Sebastes_aurora",
+    "specie_en": "Aurora rockfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "41",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "28",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.6e5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(5.4)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Sebastes_entomelas: 1.1e6*419/2.8e3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm (but viviparous): pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "419",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Li^3.12, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "127.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Lp^3.12, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "120*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ThomHann2010",
+    "temp": "C2K(5.4)",
+    "units.temp": "K",
+    "comment": "fishbase gives 75 yrs"
+  }
+]

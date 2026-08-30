@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Myida",
+    "family": "Pholadidae",
+    "genus": "Penitella",
+    "specie": "Penitella_penita",
+    "specie_en": "Flap-tip piddock"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.2",
+    "units": "cm",
+    "label": "ultimate shell depth",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.131e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 60 mum: pi/6*(0.006)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "103",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on photo: SL*SD^2*pi/4 with SL=7.8cm, SD=4.1 cm"
+  },
+  {
+    "entity": "am",
+    "entity.value": "21*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "sealifebase",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "9",
+    "units": "d",
+    "label": "time since birth at metamorphosis",
+    "bibkey": "guess",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Evan1966",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

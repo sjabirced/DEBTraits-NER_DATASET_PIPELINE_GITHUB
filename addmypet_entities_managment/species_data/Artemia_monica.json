@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anostraca",
+    "family": "Artemiidae",
+    "genus": "Artemia",
+    "specie": "Artemia_monica",
+    "specie_en": "Brine shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "186/7",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "OgatWurt2017",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "'186 eggs per brood, probably 7 d per brood"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "2.3e-6",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "EvjeOlse1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "1.273e-3",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "OgatWurt2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.547e-3",
+      "units": "g",
+      "label": "ultimate dry weight for males",
+      "bibkey": "OgatWurt2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "90",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "7",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "EvjeOlse1999",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

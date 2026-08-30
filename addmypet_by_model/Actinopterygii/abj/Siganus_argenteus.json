@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siganiformes",
+    "family": "Siganidae",
+    "genus": "Siganus",
+    "specie": "Siganus_argenteus",
+    "specie_en": "Streamlined spinefoot"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "2*0.05",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "TaylGour2016",
+    "temp": "C2K(27.8)",
+    "units.temp": "K",
+    "comment": "based on 2 spawings per yr"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "TaylGour2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.65 mm: pi/6*0.065^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "871.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01413*Li^2.99, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "146",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01413*Lp^2.99, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

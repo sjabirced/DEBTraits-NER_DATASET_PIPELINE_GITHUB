@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Arhynchobatidae",
+    "genus": "Bathyraja",
+    "specie": "Bathyraja_spinicauda",
+    "specie_en": "Spinytail skate"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "28",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Bathyraja aleutica"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "165",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "AunePrim2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "118",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "AunePrim2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "47/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AunePrim2014",
+    "temp": "C2K(2.5)",
+    "units.temp": "K",
+    "comment": "fecundity is 47 eggs, assumed 1 clutch each 2 yrs"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "186",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AunePrim2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00550*Lb^3.13, see F1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "47983",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "16802",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'fishbase','AunePrim2014'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00550*Lp^3.13, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1.9*365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(2.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "50*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HaasEber2016",
+    "temp": "C2K(2.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AunePrim2014",
+    "temp": "C2K(2.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

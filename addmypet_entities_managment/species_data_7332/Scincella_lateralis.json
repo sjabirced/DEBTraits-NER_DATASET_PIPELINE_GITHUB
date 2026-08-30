@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "genus": "Scincella",
+    "specie": "Scincella_lateralis",
+    "specie_en": "Little brown skink"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.9",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "Broo1967",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.7",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "John1953",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.2",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "John1953",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.2",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "Broo1967",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "Broo1967",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*2.8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Broo1967",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "2.8 eggs per clutch, 2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.1",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.2",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Ctenotus_pantherinus: 54*(4.7/11)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.1",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Ctenotus_pantherinus: 15*(1.9/10)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "50",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Broo1967",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Atheriniformes",
+    "family": "Melanotaeniidae",
+    "genus": "Melanotaenia",
+    "specie": "Melanotaenia_fluviatilis",
+    "specie_en": "Crimson-spotted rainbowfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "ultimate std length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on typical max length of 7 and 8.5 cm for female and male: 11*7/8.5"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "ultimate std length for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.2",
+      "units": "cm",
+      "label": "std length at puberty",
+      "bibkey": "PollGeor2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on lower end of size-range of adults"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "25",
+      "units": "#/d",
+      "label": "reprod  at 4 cm",
+      "bibkey": "PollGeor2009",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "length 3.3-5.3 cm"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.56e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ReidHold1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.98-1.07 mm: pi/6*0.102^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ReidHold1995",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "hatch at 4 d but variation is large"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

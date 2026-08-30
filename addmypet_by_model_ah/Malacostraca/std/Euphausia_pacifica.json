@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Euphausiacea",
+    "family": "Euphausiidae",
+    "species": "Euphausia_pacifica",
+    "species_en": "North Pacific krill"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 19.0,
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "DormSyde2015",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "WCb",
+    "entity.value": 2.58,
+    "units": "mug C",
+    "label": "C weight at birth",
+    "bibkey": "RossDaly1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "WCi",
+    "entity.value": 6000.0,
+    "units": "mug",
+    "label": "ultimate C weight",
+    "bibkey": "DormSyde2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "WCp",
+    "entity.value": 670.0,
+    "units": "mug C",
+    "label": "C weight at puberty",
+    "bibkey": "Ross1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "655-685 mug C"
+  },
+  {
+    "entity": "WNb",
+    "entity.value": 0.5,
+    "units": "mug N",
+    "label": "N weight at birth",
+    "bibkey": "RossDaly1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 7.4e-05,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SuhSoh1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.52 mm: pi/6*0.052^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Ross1982",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

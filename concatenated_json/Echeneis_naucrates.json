@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Carangiformes",
+    "family": "Echeneidae",
+    "genus": "Echeneis",
+    "specie": "Echeneis_naucrates",
+    "specie_en": "Live sharksucker"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "110",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on ap of 3 to 5 yrs and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "BachKrau2018",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": "10192 to 42151 eggs per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BachKrau2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1040 and 1623 ?m: pi/6*0.13^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BachKrau2018",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

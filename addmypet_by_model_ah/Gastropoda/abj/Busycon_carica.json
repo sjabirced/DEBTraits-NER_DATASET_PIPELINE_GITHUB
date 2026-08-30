@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Neogastropoda",
+    "family": "Buccinidae",
+    "genus": "Busycon",
+    "specie": "Busycon_carica",
+    "specie_en": "Knobbed whelk"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "PoweSwee2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "24.9",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "sealifebase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "shell length at puberty for female",
+    "bibkey": "sealifebase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1033/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "PoweSwee2016",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "40-160 egg capsules, each with 30-50 embryos, twice per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "100*40*2/365",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "sealifebase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.1503*Li^2.805, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "90*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "EverAnde2008",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

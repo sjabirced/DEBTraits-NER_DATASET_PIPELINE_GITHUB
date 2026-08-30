@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Mytiloida",
+    "family": "Mytilidae",
+    "species": "Lithophaga_lithophaga",
+    "species_en": "Date mussel"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.12",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "KefiBoub2014",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "PehaPulj2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "KefiBoub2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "2.42",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "{'KefiBoub2014','PehaPulj2015'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 10^(-4.780)*(10*Lp)^2.611, see F1"
+  },
+  {
+    "entity": "Wdp",
+    "entity.value": "0.25",
+    "units": "g",
+    "label": "dry weight at puberty",
+    "bibkey": "{'KefiBoub2014','PehaPulj2015'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.7e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "KefiBoub2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 123 mum: pi/6*0.0123^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "55*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KefiBoub2014",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

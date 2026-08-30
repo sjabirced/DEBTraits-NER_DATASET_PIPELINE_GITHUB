@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scatophagiformes",
+    "family": "Scatophagidae",
+    "genus": "Scatophagus",
+    "specie": "Scatophagus_argus",
+    "specie_en": "Spotted scat"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "38",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "14.5",
+    "units": "cm",
+    "label": "total length at puberty in females",
+    "bibkey": "Gupt2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "12.5",
+    "units": "cm",
+    "label": "total length at puberty in males",
+    "bibkey": "Gupt2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.75 mm: 4/3*pi*0.0375^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1558",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0377 * Li^2.922, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "93",
+    "units": "g",
+    "label": "wet weight at puberty of female",
+    "bibkey": "Gupt2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0377 * Lp^2.922, see F1"
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "60.5",
+    "units": "g",
+    "label": "wet weight at puberty of male",
+    "bibkey": "Gupt2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0377 * Lpm^2.922, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

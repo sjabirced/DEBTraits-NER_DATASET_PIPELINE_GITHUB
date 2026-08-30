@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Ascidiacea",
+    "order": "Stolidobranchia",
+    "family": "Pyuridae",
+    "genus": "Boltenia",
+    "specie": "Boltenia_echinata",
+    "specie_en": "Cactus sea squirt"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.6",
+    "units": "cm",
+    "label": "ultimate body length",
+    "bibkey": "seawater",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Mill1970 gives 2 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "body length at puberty",
+    "bibkey": "SvanLund1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3500/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SvanLund1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on diameter 2 mm: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "51",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on sphere with diameter 4.6 cm: pi/6*4.6^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "15",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SvanLund1982",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

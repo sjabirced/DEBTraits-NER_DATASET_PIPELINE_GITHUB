@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Tetraodontidae",
+    "genus": "Sphoeroides",
+    "specie": "Sphoeroides_testudineus",
+    "specie_en": "Checkered puffer",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "38.8",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10.8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LN data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1146*944.5/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "sta",
+      "temp": "C2K(25.6)",
+      "units.temp": "K",
+      "comment": "based on specific fecundity 1146 eggs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.6e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MerrLaro1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.85 - 0.91 mm of Sphoeroides_maculatus: pi/6*0.088^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "944.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.02089*Li^2.93, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "22.3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02089*Lp^2.9, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "PaulYane2012",
+      "temp": "C2K(25.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

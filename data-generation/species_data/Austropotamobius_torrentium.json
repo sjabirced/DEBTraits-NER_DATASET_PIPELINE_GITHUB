@@ -1,0 +1,143 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Astacidae",
+    "species": "Austropotamobius_torrentium",
+    "species_en": "Stone crayfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "E0",
+      "entity.value": "55.56 * 2.8/2.22",
+      "units": "J",
+      "label": "initial energy content of the egg",
+      "bibkey": "{'RodrGarc2006','MaguKlob2005'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on Redclaw crayfish (RodrGarc2006): egg diameter (2.22 mm) and energy (55.56 J/egg), egg diameter avg 2.8mm (2.4 to 3.4mm) (MaguKlob2005)"
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.34",
+      "units": "cm",
+      "label": "carapace length at hatching",
+      "bibkey": "HubeSchu2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Egg diameter is 3mm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "9.7",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "{'MaguErbe2002', 'VlacVald2015', 'DakiMagu2016'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Longest female on Medvednica (Croatia) 9.3cm (MaguErbe2002)"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "{'MaguErbe2002', 'VlacVald2015', 'DakiMagu2016'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Longest male on Medvednica (Croatia) 10.3 cm (MaguErbe2002)"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.0",
+      "units": "cm",
+      "label": "total length at puberty females",
+      "bibkey": "{'MaguErbe2002', 'DakiMagu2016'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": " Length at sexual maturity 3.5-5 cm, Parvulescu (2010) on Wiki, 5.8cm - 6.30cm on Medvednica (Croatia)  [MaguErbe2002], The smallest egg-bearing female was 6.42 cm long in DakiMagu2016 "
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.6",
+      "units": "cm",
+      "label": "carapace length at puberty females",
+      "bibkey": "HubeSchu2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "puberty moult at a carapace length of about 26 mm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "80/(2*365)",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "{'EoL', 'MaguErbe2002'}",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "['Reproduction in Sep/Oct, eggs of 3mm diameter, 50-100 per brood (EoL)"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "40",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'MaguErbe2002', 'DakiMagu2016' }",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Max wet weight of females on Medvednica (Croatia) 38g in MaguErbe2002, 43g in DakiMagu2016"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "70",
+      "units": "g",
+      "label": "ultimate wet weight males",
+      "bibkey": "{'MaguErbe2002', 'DakiMagu2016' }",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Max wet weight of males on Medvednica (Croatia) 55g in MaguErbe2002, 72g in DakiMagu2016,  but the reported max wet weight on EoL is 100g (and similar length)!"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "data.ah+10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MaguErbe2002",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "After molting, feed on live invertebrates"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "7*30",
+      "units": "d",
+      "label": "age at hatching",
+      "bibkey": "MaguErbe2002",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "['Incubation from Oct/Nov to spring, females found carrying eggs latest in May.'...\n    'Crayfish hatch in spring and stay attached to mother for a few molts.']"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Hold2002",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "Data for other freshwater crayfish"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "Sexual maturity is reached after 3 to 5 years, Parvulescu (2010) on Wiki"
+    }
+  ]
+}

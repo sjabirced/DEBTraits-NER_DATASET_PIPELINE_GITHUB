@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Acropomatidae",
+    "genus": "Doederleinia",
+    "specie": "Doederleinia_berycoides",
+    "specie_en": "Blackthroat seaperch"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "27.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ChaKang2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ChaKang2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.75 mm: pi/6*0.075^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ChaKang2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase: based on 0.01148*Li^2.98, see F1, gives 682 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

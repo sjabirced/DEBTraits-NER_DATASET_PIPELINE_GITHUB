@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Spirulida",
+    "family": "Spirulidae",
+    "genus": "Spirula",
+    "specie": "Spirula_spirula",
+    "specie_en": "Ram",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": 0.15,
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": 0.2,
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 4.6,
+      "units": "cm",
+      "label": "mantle length at death",
+      "bibkey": "Clar1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 2.0,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "Clar1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 5.0,
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on cylinder-shape of diameter 0.3 of length: 4.6*pi*0.7^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": 500.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Rana",
+    "specie": "Rana_tagoi",
+    "specie_en": "Tago",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "4.42",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "KusaFuku1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "4.22",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "KusaFuku1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.74",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "KusaFuku1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "200/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "based on Rana muscosa"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0042",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on Anaxyrus americanus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "20.9",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Rana muscosa: (4.42/6.8)^3*76"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "18.2",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "20",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": "based on Rana muscosa"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "0.4*365",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "KusaFuku1995",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.9*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "KusaFuku1995",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "2.7*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "KusaFuku1995",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

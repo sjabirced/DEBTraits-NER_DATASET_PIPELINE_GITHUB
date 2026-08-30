@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Antilocapridae",
+    "genus": "Antilocapra",
+    "specie": "Antilocapra_americana",
+    "specie_en": "Pronghorn"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": "2 calves per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3000",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "45e3",
+    "units": "g",
+    "label": "ultimate wet weight females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "34 till 48 kg "
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "60e3",
+    "units": "g",
+    "label": "ultimate wet weight males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "40 till 65 kg"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "8900",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "235",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "547",
+    "units": "d",
+    "label": "time since birth at puberty of females",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "547",
+    "units": "d",
+    "label": "time since birth at puberty of males",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "91",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

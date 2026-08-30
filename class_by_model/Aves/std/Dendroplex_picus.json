@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Furnariidae",
+    "genus": "Dendroplex",
+    "specie": "Dendroplex_picus",
+    "specie_en": "Straight-billed woodcreeper"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "MajeOtey2013",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "2 to 3 eggs per clutch, 1 clutch per year assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MajeOtey2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "53",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "MajeOtey2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'asymptotic weight of nestling"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "MajeOtey2013",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "MajeOtey2013",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "52.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "16-23 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "17.5",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "MajeOtey2013",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "16-23 d"
+  }
+]

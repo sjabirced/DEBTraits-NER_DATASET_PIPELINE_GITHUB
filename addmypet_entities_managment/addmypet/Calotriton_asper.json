@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Calotriton",
+    "specie": "Calotriton_asper",
+    "specie_en": "Pyrenean brook salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Mont1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "7.7",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "Mont1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.13",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "converted from TL 20 to 35 mm, using F1"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.8",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "{'amphibiaweb','Mont1990'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based no tL_f data at tj"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "25/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "20-30 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0402",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.5-5 mm: pi/6*0.425^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14.0",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Euproctus_platycephalus"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "15.2",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Euproctus_platycephalus 5.1*(7.7/5.35)^3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.67",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/Li)^3*Wwi: 14*(4.8/7.5)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "37.6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "26*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "415",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "2 yrs at 1000 m alt at 17.5 C"
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "2.75*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "2.5-3 yr"
+    }
+  ]
+}

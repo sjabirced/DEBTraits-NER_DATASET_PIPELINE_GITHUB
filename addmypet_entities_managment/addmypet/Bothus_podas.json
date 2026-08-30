@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Bothidae",
+    "genus": "Bothus",
+    "specie": "Bothus_podas",
+    "specie_en": "Wide-eyed flounder",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.057",
+      "units": "g/g",
+      "label": "gonadosomatic index",
+      "bibkey": "MoraAfon2007",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "length at metam",
+      "bibkey": "photomazza",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14.1",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "MoraAfon2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "eol",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on GSI*Wwi/2.5e6, where 2.5e6 is fecundity of B. mancus, see F3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "875",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.0096*Li^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "15",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "eol",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": "Data for B. mancus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MoraAfon2007",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1.67*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "MoraAfon2007",
+      "temp": "C2K(17.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

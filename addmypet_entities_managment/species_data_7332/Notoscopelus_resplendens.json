@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Notoscopelus",
+    "specie": "Notoscopelus_resplendens",
+    "specie_en": "Patchwork lampfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.2",
+    "units": "cm",
+    "label": "ultimate standard length for females",
+    "bibkey": "SarmTria2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.4",
+    "units": "cm",
+    "label": "ultimate standard length for males",
+    "bibkey": "SarmTria2018",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6e3/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(4.2)",
+    "units.temp": "K",
+    "comment": "based on kap=0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.95e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg length of 0.784 mm and egg width of 0.688 mm of Lampanyctodes hectoris: 4/3*pi*0.0392*0.0344^2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SarmTria2018",
+    "temp": "C2K(4.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2.05*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "SarmTria2018",
+    "temp": "C2K(4.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1.7*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "SarmTria2018",
+    "temp": "C2K(4.2)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

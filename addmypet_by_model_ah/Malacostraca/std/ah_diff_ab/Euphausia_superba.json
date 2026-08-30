@@ -1,0 +1,140 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Euphausiacea",
+    "family": "Euphausiidae",
+    "species": "Euphausia_superba",
+    "species_en": "Antarctic krill"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.1",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "JageRava2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.1",
+    "units": "cm",
+    "label": "total length at metam",
+    "bibkey": "JageRava2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "JageRava2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "65",
+    "units": "mug",
+    "label": "initial wet weight",
+    "bibkey": "JiaVirt2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from egg diameter 0.5 mm assuming specific density 1 g/cm^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.125",
+    "units": "mg",
+    "label": "wet weight at birth",
+    "bibkey": "JageRava2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on fig 2, which gives a volumetric length 0.5 mm, and specific density 1 g/cm^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.654",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'JageRava2015','Farb1994'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed from Li, using F3"
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "2.700",
+    "units": "mg",
+    "label": "wet weight at metam",
+    "bibkey": "JageRava2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on fig 2, which gives a volumetric length 0.5 mm, and specific density 1 g/cm^3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.590",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'JageRava2015','Farb1994'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed from Lp, using F3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "31",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "JageRava2015",
+    "temp": "C2K(0)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ah",
+    "entity.value": "6",
+    "units": "d",
+    "label": "age at hatch",
+    "bibkey": "JiaVirt2014",
+    "temp": "C2K(0.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "32",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "JageRava2015",
+    "temp": "C2K(0)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since hatch at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": "Read from tL-data for Lp"
+  }
+]

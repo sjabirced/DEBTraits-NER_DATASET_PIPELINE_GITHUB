@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Catostomus",
+    "specie": "Catostomus_warnerensis",
+    "specie_en": "Warner sucker"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "47",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Daub1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase gives TL 35 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "17",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ScheJac02011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on FL 16 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4e4/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Daub1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.1 - 3  mm of Catostomus columbianus: pi/6*0.25^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "748",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "32",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','ScheJac02011'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Lp^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "18*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

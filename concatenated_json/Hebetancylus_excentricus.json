@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Planorbidae",
+    "genus": "Hebetancylus",
+    "specie": "Hebetancylus_excentricus",
+    "specie_en": "Freshwater limpet"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.05,
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "McMa1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.5,
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "McMa1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.25,
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "McMa1976",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 10.0,
+    "units": "#",
+    "label": "lifetime reprod output",
+    "bibkey": "McMa1976",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "5 eggs per capsule, 2 capsule per yr"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 0.000236,
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Ancylus_fluviatilis: 3.4e-3 * (0.3/0.73)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on Ancylus_fluviatilis"
+  }
+]

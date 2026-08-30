@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anostraca",
+    "family": "Streptocephalidae",
+    "genus": "Streptocephalus",
+    "specie": "Streptocephalus_vitreus",
+    "specie_en": "Fairy shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4*42/16",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Hild1985",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "42 eggs per brood, 4 broods assumed in 14 d"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "1e-6",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "Hild1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.23 mm: pi/6*0.023^3*0.17"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.0013",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "Hild1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "440e-6",
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "Hild1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "30",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Hild1985",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "14",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Hild1985",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

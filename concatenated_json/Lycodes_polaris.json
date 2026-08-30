@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Zoarcidae",
+    "genus": "Lycodes",
+    "specie": "Lycodes_polaris",
+    "specie_en": "Canadian eelpout"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "AunePrim2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "AunePrim2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "150/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AunePrim2014",
+    "temp": "C2K(-0.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0477",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AunePrim2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "baed on egg diameter of 4.5 mm: pi/6*0.45^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "136.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00269*Li^3.17, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "17.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00269*Lp^3.17, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "235",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(-0.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AunePrim2014",
+    "temp": "C2K(-0.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

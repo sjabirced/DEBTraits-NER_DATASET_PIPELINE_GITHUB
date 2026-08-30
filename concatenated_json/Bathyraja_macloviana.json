@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Arhynchobatidae",
+    "genus": "Bathyraja",
+    "specie": "Bathyraja_macloviana",
+    "specie_en": "Patagonian skate"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "13.9",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.18*Li, as typical for Bathyraja"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "77",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Buck2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "53.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Buck2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "52-55 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "16/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(5.4)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.65, as is typical for Bathyraja"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.9e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Li^3.13, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1*365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(5.4)",
+    "units.temp": "K",
+    "comment": "based on v = 0.032 cm/d, as is typical for Bathyraja"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Buck2006",
+    "temp": "C2K(5.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

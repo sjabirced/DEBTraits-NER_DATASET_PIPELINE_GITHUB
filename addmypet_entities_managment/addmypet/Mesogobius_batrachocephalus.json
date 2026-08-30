@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Gobiidae",
+    "genus": "Mesogobius",
+    "specie": "Mesogobius_batrachocephalus",
+    "specie_en": "Knout goby",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.21",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "Aydi2021",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "35",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Aydi2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on the same relative length, compared to Gobio gobio: 13*8.5/21"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.01",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Aydi2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 2.7 mm: pi/6*0.27^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "371",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01072*Li^2.94, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "52.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'Aydi2021','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01072*Lp^2.94, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(11)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Oryx",
+    "specie": "Oryx_leucoryx",
+    "specie_en": "Arabian oryx"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": "1 calf per litter, 1.3 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5e3",
+    "units": "g",
+    "label": "wet weight at birth for female",
+    "bibkey": "FlamDelh1994",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "150e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": "ADW: 100 till 210 kg"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "150e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": "ADW: 100 till 210 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tg",
+    "entity.value": "243",
+    "units": "d",
+    "label": "gestation time for female calves",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "794",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "137",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.5)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Sirenia",
+    "family": "Dugongidae",
+    "genus": "Dugong",
+    "specie": "Dugong_dugon",
+    "specie_en": "Dugong",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "110",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Hein1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "305",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Hein1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "270",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "Hein1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "239",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Hein1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "240",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Hein1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(33.0)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "27.5e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "519e3",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on (Li/Lim)^3*Wwim"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "360e3",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "{'Hein1972','AnAge'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "73*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(33.0)",
+      "units.temp": "K",
+      "comment": "'1 calf per litter, 0.2 litters per yr"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "374",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(33.0)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3470",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(33.0)",
+      "units.temp": "K",
+      "comment": "Hein1972: 2 yr"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "548",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(33.0)",
+      "units.temp": "K",
+      "comment": "Hein1972: oldest calf netted with mother was 1 yr"
+    }
+  ]
+}

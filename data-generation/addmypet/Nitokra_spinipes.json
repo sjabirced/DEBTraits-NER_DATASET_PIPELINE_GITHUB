@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Hexanauplia",
+    "order": "Harpacticoida",
+    "family": "Ameiridae",
+    "genus": "Nitokra",
+    "specie": "Nitokra_spinipes",
+    "specie_en": "Copepod",
+    "deb_model": "abp"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "mean([10.05 11.75 10.50 8.97])",
+      "units": "nL/h/mug",
+      "label": "ultimate specific O2 consumption",
+      "bibkey": "HermHeip1983",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "specific O2 consumption of four brackish water harpacticoida at ultimate length"
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.0078",
+      "units": "cm",
+      "label": "isometric length at hatch",
+      "bibkey": "Koch2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.0283",
+      "units": "cm",
+      "label": "ultimate isometric length",
+      "bibkey": "Koch2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "same as length at puberty"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.0150",
+      "units": "cm",
+      "label": "isometric length at metam",
+      "bibkey": "Koch2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.0283",
+      "units": "cm",
+      "label": "isometric length at puberty",
+      "bibkey": "Koch2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "24/ 3.17",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "KochBui2017",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "'brood size/ inter-brood time"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "14.01 * 0.637 - 5.69",
+      "units": "mug",
+      "label": "ultimate dry weight",
+      "bibkey": "Good1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "linear regression of dry weight (mug) and total body length (mm) for adult harpacticoida"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "3.17",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "KochBui2017",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "life span/ develop time of Calanus sinicus (Uye1988) * develop time of N. spinipes (KochBui2017) at 22 degC"
+    },
+    {
+      "entity": "am",
+      "entity.value": "91/ 14 * 16.75",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "{'Uye1988', 'KochBui2017'}",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "7.75",
+      "units": "d",
+      "label": "time since hatch at metam",
+      "bibkey": "KochBui2017",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "mean of multiple control datasets"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "9.00",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "KochBui2017",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "mean of multiple control datasets"
+    }
+  ]
+}

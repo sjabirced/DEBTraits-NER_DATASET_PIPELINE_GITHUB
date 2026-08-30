@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Rutilus",
+    "specie": "Rutilus_rutilus",
+    "specie_en": "Common roach"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "44",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Laak2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12.1",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Laak2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from fork length 10.7 cm: (FL + 0.21208)/ 0.9023"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "9.3",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Laak2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "R14",
+    "entity.value": "5.2e3/365",
+    "units": "g",
+    "label": "Reprod rate at TL 14 cm",
+    "bibkey": "Laak2010",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "R22",
+    "entity.value": "30e3/365",
+    "units": "g",
+    "label": "Reprod rate at TL 22 cm",
+    "bibkey": "Laak2010",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Laak2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 1.2 mm: 4/3*pi*0.06^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.435e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Laak2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "17.1",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "Laak2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00387*Lp^3.366"
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "7.0",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "Laak2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00387*Lp^3.366"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Laak2010",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "hatch at 4 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Laak2010",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "age at puberty for females",
+    "bibkey": "Laak2010",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "age at puberty for males",
+    "bibkey": "Laak2010",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

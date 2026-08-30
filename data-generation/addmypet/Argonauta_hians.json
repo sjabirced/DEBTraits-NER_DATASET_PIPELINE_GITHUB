@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Argonautidae",
+    "genus": "Argonauta",
+    "specie": "Argonauta_hians",
+    "specie_en": "Brown paper nautilus",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5.3",
+      "units": "cm",
+      "label": "ultimate mantle length",
+      "bibkey": "SukhMeks2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "2.0",
+      "units": "cm",
+      "label": "ultimate mantle length for males",
+      "bibkey": "SukhMeks2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.01",
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "SukhMeks2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "1.2",
+      "units": "cm",
+      "label": "mantle length at puberty for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.3e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SukhMeks2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 0.77-1.46 mm, width 0.05 mm from photo: pi/6*0.1*0.05^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "18.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "SukhMeks2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "octolab gives 1 yr"
+    }
+  ]
+}

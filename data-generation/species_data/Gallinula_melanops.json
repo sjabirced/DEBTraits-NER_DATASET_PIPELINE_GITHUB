@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Gallinula",
+    "specie": "Gallinula_melanops",
+    "specie_en": "Spot-flanked gallinule",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "5.7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "avibase",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": "CastRoss2020: 3-6 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "10.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CastRoss2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "140",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "CastRoss2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "190",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "CastRoss2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "19",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "CastRoss2020",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "18-20 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18.6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": "based on Gallinula chloropus of AnAge"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "180",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "CastRoss2020",
+      "temp": "C2K(40.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Furgaleus",
+    "specie": "Furgaleus_macki",
+    "specie_en": "Whiskery shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "22.5",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "TL 20-25 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "160",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "136",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SimpChid2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 4.5 yr and tL data"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "126",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "SimpChid2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 4.5 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "18/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "4-24 pups per litter, 1 litter per 2 yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "20e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00417*Li^3.07, see F3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "7-9 mnth"
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SimpChid2000",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

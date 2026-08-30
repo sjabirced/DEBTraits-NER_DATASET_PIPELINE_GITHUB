@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Polynemiformes",
+    "family": "Polynemidae",
+    "genus": "Galeoides",
+    "specie": "Galeoides_decadactylus",
+    "specie_en": "Lesser African threadfin"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.096",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "WehyAmpo2017",
+    "temp": "C2K(25.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.775 mm as typical for Polydactylus: pi/6*0.0775^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1467",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on  0.00794*Li^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "WehyAmpo2017",
+    "temp": "C2K(25.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

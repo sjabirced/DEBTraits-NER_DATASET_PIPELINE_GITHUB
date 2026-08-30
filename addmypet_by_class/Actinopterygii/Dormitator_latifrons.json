@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Eleotridae",
+    "genus": "Dormitator",
+    "specie": "Dormitator_latifrons",
+    "specie_en": "Pacific fat sleeper"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.19",
+    "units": "g/g",
+    "label": "gonado somatic index for female",
+    "bibkey": "ChanNava1984",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "39",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "ChanNava1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "41",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "ChanNava1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ChanNava1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.7e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ChanNava1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on # of egg per gram of gonad: 1.3e5 eggs/g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.05e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ChanNava1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 1.3e3 g of which a fraction 0.19 is gonad"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "1.2e3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "ChanNava1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01023*Lim^3.07, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "dWw",
+    "entity.value": "263.4/90",
+    "units": "g/d",
+    "label": "change in wet weight at 15 g",
+    "bibkey": "BastRodr2019",
+    "temp": "C2K(31)",
+    "units.temp": "K",
+    "comment": "measured over 90 d"
+  }
+]

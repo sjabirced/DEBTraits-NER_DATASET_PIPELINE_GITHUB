@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Pandalidae",
+    "genus": "Dichelopandalus",
+    "specie": "Dichelopandalus_bonnieri",
+    "specie_en": "Whip shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "2.0",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "AlAdBowe1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "carapace length at metam",
+      "bibkey": "AlAdBowe1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.4",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "AlAdBowe1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "1.1",
+      "units": "cm",
+      "label": "carapace length at puberty for males",
+      "bibkey": "AlAdBowe1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on egg diameter of 1.1 mm of Pandalus borealis: 4/3 * pi * 0.055^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5*30.5",
+      "units": "d",
+      "label": "time since birth at birth",
+      "bibkey": "AlAdBowe1977",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "4*30.5",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "AlAdBowe1977",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "480",
+      "units": "d",
+      "label": "time since metam at puberty for females",
+      "bibkey": "AlAdBowe1977",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "300",
+      "units": "d",
+      "label": "time since metam at puberty for males",
+      "bibkey": "AlAdBowe1977",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

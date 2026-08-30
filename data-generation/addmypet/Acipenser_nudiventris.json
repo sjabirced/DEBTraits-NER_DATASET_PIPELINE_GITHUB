@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Acipenser",
+    "specie": "Acipenser_nudiventris",
+    "specie_en": "Fringebarbel Sturgeon",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 1.5,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "MikhElen2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": 0.4,
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "SiddCoss2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 211.0,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "MousGhaf2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 1187.2,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "SiddCoss2014",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 80000.0,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "RochWill1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 10.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MikhElen2013",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": 5.0,
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "guess",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "guess on the basis of Acipenser_sturio data with ah = 3 and ab = 16"
+    },
+    {
+      "entity": "am",
+      "entity.value": 13140.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Coad2018",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": 5475.0,
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "KottFrey2007",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

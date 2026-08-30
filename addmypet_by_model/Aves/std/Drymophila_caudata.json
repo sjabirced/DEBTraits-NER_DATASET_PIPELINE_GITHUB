@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Thamnophilidae",
+    "genus": "Drymophila",
+    "specie": "Drymophila_caudata",
+    "specie_en": "East Andean antbird"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "25.45",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "2.1",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "bow",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Hypocnemis_subflava"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11.9",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "bow",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 11-13 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "12",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(38)",
+    "units.temp": "K",
+    "comment": "based on Hypocnemis_subflava"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1.1*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "avibase",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "37.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "11",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "guess",
+    "temp": "C2K(40.2)",
+    "units.temp": "K",
+    "comment": "based on Hypocnemis_subflava"
+  }
+]

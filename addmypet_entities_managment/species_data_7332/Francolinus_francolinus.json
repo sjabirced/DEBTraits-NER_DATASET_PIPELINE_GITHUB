@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Francolinus",
+    "specie": "Francolinus_francolinus",
+    "specie_en": "Black francolin"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40.7)",
+    "units.temp": "K",
+    "comment": "7 eggs per clutch, 2 clutches per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "23.5",
+    "units": "g",
+    "label": " intitial wet weight",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "12.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "425",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "487.5",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "19",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "avibase",
+    "temp": "C2K(37)",
+    "units.temp": "K",
+    "comment": "21-24 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.7)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "avibase",
+    "temp": "C2K(40.7)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "100",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.7)",
+    "units.temp": "K",
+    "comment": "guessed when adult size was close to being reached"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "9",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "avibase",
+    "temp": "C2K(40.7)",
+    "units.temp": "K",
+    "comment": "7-10 d"
+  }
+]

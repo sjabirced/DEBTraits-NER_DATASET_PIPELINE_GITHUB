@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Dermoptera",
+    "family": "Cynocephaldae",
+    "genus": "Galeopterus",
+    "specie": "Galeopterus_variegatus",
+    "specie_en": "Sunda flying lemur",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "37.5",
+      "units": "cm",
+      "label": "ultimate haed-body length",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "33-42 cm head-trunk length"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/65",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'ADW','Wiki'}",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "35",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1750",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW: 900-2000 g"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1300",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "17.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "90",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "temp is wild guess"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "'for females"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "6*30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ADW",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

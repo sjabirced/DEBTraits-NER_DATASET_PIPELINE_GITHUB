@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lamprophiidae",
+    "genus": "Psammophis",
+    "specie": "Psammophis_sibilans",
+    "specie_en": "African sand snake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "19.05",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "KhanZahr2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "91.6",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Bran1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL of 135 cm, converted to SVL using F1"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "73.3",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lp/Li of Boaedon_fuliginosus: 91.6*72/90"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "30/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Bran1992",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "4 to 15 eggs per clutch, 2 clutch per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "14.15",
+      "units": "g",
+      "label": "initial egg weight",
+      "bibkey": "KhanZahr2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 38.5 mm, width 26.5 mm: pi/6*3.85*2.65^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2381.51",
+      "units": "g",
+      "label": "ultimate weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "50",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "KhanZahr2016",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "value for Psammophis subtaeniatus"
+    }
+  ]
+}

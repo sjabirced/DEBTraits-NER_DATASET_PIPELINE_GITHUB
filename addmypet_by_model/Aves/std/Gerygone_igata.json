@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Acanthizidae",
+    "genus": "Gerygone",
+    "specie": "Gerygone_igata",
+    "specie_en": "Grey warbler"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "(3.93*2)/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": "3 to 5 eggs per clutch, 2 clutches per year with an average of 3.93 eggs each"
+  },
+  {
+    "entity": "V0",
+    "entity.value": "1.8452",
+    "units": "ml",
+    "label": "Volume at start of development",
+    "bibkey": "Gill1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Calculated with the formula for an oblate spheroid using the length and breath of the egg"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "1.49",
+    "units": "g",
+    "label": "egg wet weight",
+    "bibkey": "Gill1982",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.18",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Gill1982",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Gill1982",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": "['Gill1982 and Gill1983 report average maximum mass = of 7.8 g (6.7 to 8.9 g), '...\n  'but average ultimate mass at fledging of 6.45 g (5.7 to 7.2 g)']"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "19.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Gill1982",
+    "temp": "C2K(36.2)",
+    "units.temp": "K",
+    "comment": "'The incubation phase is between 17 to 21 days"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Gill1982",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "51.6",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "17.2",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Gill1982",
+    "temp": "C2K(39.5)",
+    "units.temp": "K",
+    "comment": "The nestling phase is between 15.0 to 18.5 days"
+  }
+]

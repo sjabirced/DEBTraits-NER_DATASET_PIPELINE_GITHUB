@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Hyporthodus",
+    "specie": "Hyporthodus_quernus",
+    "specie_en": "Hawaiian grouper"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.015",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "DeMaEver2010",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "122",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "58",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "DeMaEver2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.9e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "DeMaEver2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.533 mm: pi/6*0.0533^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "33.3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01445*Li^3.05, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.5e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'DeMaEver2010','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01445*Lp^3.05, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "35 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "DeMaEver2010",
+    "temp": "C2K(15.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Hyperoliidae",
+    "genus": "Hyperolius",
+    "specie": "Hyperolius_viridiflavus",
+    "specie_en": "Common reed frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "3.3",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.1",
+      "units": "cm",
+      "label": "SVL of frog at metam",
+      "bibkey": "Schm1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.0",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "Schm1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tL data for tp"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*330/365",
+      "units": "#/d",
+      "label": "reprod rate at 4.5 cm SVL",
+      "bibkey": "ADW",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "max 330 eggs per clutch, but multiple clutches per season"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Schm1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LWw for Li: (3.3/1.678)^3*0.4586"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.13",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "Schm1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LWw for Lj: (1.1/1.678)^3*0.4586"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.78",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Schm1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LWw for Lp: (2/1.678)^3*0.4586"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "22*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "guess based on Hyla arborea"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "8*7",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "ADW",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*30.5",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "3 - 12 months"
+    }
+  ]
+}

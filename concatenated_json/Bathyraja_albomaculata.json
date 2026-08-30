@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Arhynchobatidae",
+    "genus": "Bathyraja",
+    "specie": "Bathyraja_albomaculata",
+    "specie_en": "White-dotted skate"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "17.8",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.18*Li, as typical for Bathyraja"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "99",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Buck2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "65",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "{'fishbase','Buck2006'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 10 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "13/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(5.7)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.65, as is typical for Bathyraja"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "8.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Li^3.13, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "22*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(5.7)",
+    "units.temp": "K",
+    "comment": "based on v = 0.032 cm/d, as is typical for Bathyraja"
+  },
+  {
+    "entity": "am",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(5.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

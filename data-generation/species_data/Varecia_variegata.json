@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Lemuridae",
+    "genus": "Varecia",
+    "specie": "Varecia_variegata",
+    "specie_en": "Black-and-white ruffed lemur",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "110",
+      "units": "cm",
+      "label": "ultimate body length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "100-120 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.9/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "1.9 pups per litter, 1 litter per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "80",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BeniMill1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW: 87.2 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3482",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW: 2.5 to 4.8 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "40*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "98",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "ADW gives 117 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "605",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "649",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "7.5*30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ADW",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

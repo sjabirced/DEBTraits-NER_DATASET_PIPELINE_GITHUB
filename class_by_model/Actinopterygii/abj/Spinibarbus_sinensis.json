@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Spinibarbus",
+    "specie": "Spinibarbus_sinensis",
+    "specie_en": "Quingbo"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "61",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "based on Barbus barbus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.0e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from egg diameter of 1.25 mm of Barbus barbus: 4/3*pi*0.062^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.8e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Weim2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00912*Li^3.15, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "410",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'fishbase','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Lp^3.15, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "18",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "sgr",
+    "entity.value": "0.0083",
+    "units": "1/d",
+    "label": "specific growth rate at  Ww = 9.76 g, TL = 7.92 cm",
+    "bibkey": "ZengWang2017",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

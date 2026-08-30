@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Triglidae",
+    "genus": "Bellator",
+    "specie": "Bellator_gymnostethus",
+    "specie_en": "Naked-belly searobin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "30e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(20.1)",
+    "units.temp": "K",
+    "comment": "based on P. evolans for TL 15 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.0e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Yusc1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.05-1.25 mm of Prionotus evolans: pi/6*0.115^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "49.9",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01479*Li^3.00, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01479*Lp^3.00, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SchmCast1994",
+    "temp": "C2K(20.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

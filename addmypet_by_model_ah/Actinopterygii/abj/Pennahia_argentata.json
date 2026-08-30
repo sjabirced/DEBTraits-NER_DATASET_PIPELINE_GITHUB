@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Pennahia",
+    "specie": "Pennahia_argentata",
+    "specie_en": "Silver croaker"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "14",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SilbGray2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "17e5/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "YamaTodo2006",
+    "temp": "C2K(20.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.37e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LikaKooy2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Value for Argyrosomus_regius"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "732",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Li^3.08, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "28.8",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Lp^3.087, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(20.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

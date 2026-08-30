@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Labridae",
+    "genus": "Symphodus",
+    "specie": "Symphodus_roissali",
+    "specie_en": "Five-spotted wrasse",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 17 cm TL and SL= 0.85*TL from photo"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 5 to 7 cm SL and SL= 0.85*TL from photo"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "JirsDraw2007",
+      "temp": "C2K(18.7)",
+      "units.temp": "K",
+      "comment": "1.94e6 eggs per kg per yr for Semicossyphus pulcher: 1.94e6*0.104/365"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.4e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "RavePlan2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.77 mm for Labrus meruls: pi/6*0.077^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "104",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','GordMoli2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.035*Li^2.670, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "6.3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','GordMoli2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.035*Lp^2.670, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(18.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

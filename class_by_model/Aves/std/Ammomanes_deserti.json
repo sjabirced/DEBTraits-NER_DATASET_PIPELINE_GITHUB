@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Alaudidae",
+    "genus": "Ammomanes",
+    "specie": "Ammomanes_deserti",
+    "specie_en": "Desert lark"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2 * 3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ShkeSafr1992",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "2 to 4 eggs per clutch, 2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ShkeSafr1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Harr1975: egg length 2.33 cm, width 1.65 cm, weight pi/6*2.33*1.65^2=3.32 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "22",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ShkeSafr1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 37 to 55 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11.6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "30.3",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "Wiki: 18 to 20 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "10.1",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "ShkeSafr1992",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "Wiki: 18 to 20 d"
+  }
+]

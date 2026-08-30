@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Golunda",
+    "specie": "Golunda_ellioti",
+    "specie_en": "Indian bush rat"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "60.7",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6*3/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "gbif",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "'1-11 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Aethomys_kaiseri"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "112",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "63-112 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "based on Aethomys_kaiseri"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "27",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "knowyourmammals",
+    "temp": "C2K(35.3)",
+    "units.temp": "K",
+    "comment": "25-30 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "190",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "based on Aethomys_kaiseri"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "27",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "based on tg"
+  }
+]

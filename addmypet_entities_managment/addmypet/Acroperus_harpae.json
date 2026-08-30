@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Chydoridae",
+    "genus": "Acroperus",
+    "specie": "Acroperus_harpae",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.034",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.13",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "nina",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "0.09",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "nina",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.080",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "{'Bott1975','KlemAase2020'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.5/7",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Bott1975",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "based on 1.5 egg per brood, 7 d per moult (9 d at 10 C, 5.12 d at 15 C)"
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "3.29e-6",
+      "units": "g",
+      "label": "dry weight at puberty",
+      "bibkey": "Bott1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Bott1975",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "based on moult interval of 7 d"
+    }
+  ]
+}

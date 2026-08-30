@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Cranchiidae",
+    "genus": "Cranchia",
+    "specie": "Cranchia_scabra",
+    "specie_en": "Rough cranch squid "
+  },
+  {
+    "entity": "GSI",
+    "entity.value": 0.15,
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.2,
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 15.0,
+    "units": "cm",
+    "label": "mantle length at death for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 7.0,
+    "units": "cm",
+    "label": "mantle length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 82.7,
+    "units": "g",
+    "label": "wet weight at death",
+    "bibkey": "QuetAlem2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on ML 10.2 cm weighs 26 g: 26*(15/10.2)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span for female",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

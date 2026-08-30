@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Lethrinidae",
+    "genus": "Gymnocranius",
+    "specie": "Gymnocranius_audleyi",
+    "specie_en": "Collared large-eye bream",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "77e3/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "CarpAlle1989",
+      "temp": "C2K(26.1)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Lethrinus lentjan"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CarpAlle1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1225",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02138*Li^2.97, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "LaurRuss1999",
+      "temp": "C2K(26.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

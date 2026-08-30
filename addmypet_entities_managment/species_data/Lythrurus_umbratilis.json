@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Lythrurus",
+    "specie": "Lythrurus_umbratilis",
+    "specie_en": "Redfin shiner",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8.8",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.75",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 3 cm and F2"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "887/365",
+      "units": "#/d",
+      "label": "max reprod rate at SL 5.2 cm, TL 6.5 cm",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Cobu1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.7 mm: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.74",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishesoftexas','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*Lp^3.08, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.415",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishesoftexas','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

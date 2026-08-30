@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Vetigastropoda",
+    "family": "Haliotidae",
+    "genus": "Haliotis",
+    "specie": "Haliotis_rubra",
+    "specie_en": "Blacklip abalone"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "ultimate shell width",
+    "bibkey": "sealifebase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.7",
+    "units": "cm",
+    "label": "shell width at puberty for female",
+    "bibkey": "HeliHadd2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "3 to 9 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "7.5e6/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "sealifebase",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02 mm egg diameter: pi/6*0.02^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.3e3/3",
+    "units": "g",
+    "label": "shell-free wet weight",
+    "bibkey": "sealifebase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on data Haliotis tuberculata, which gives a (total?) weight of 1.3 kg at shell length"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

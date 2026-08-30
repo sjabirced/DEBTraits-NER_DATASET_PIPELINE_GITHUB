@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Pelobatidae",
+    "genus": "Sylvirana",
+    "specie": "Sylvirana_nigrovittata",
+    "specie_en": "Black-striped frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "KhonMats2000",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tL_f data"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "KhonMats2000",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tL_m data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "553/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Shah2016",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Shah2016",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter 0.9-1.1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15.65",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Pelophylax lessonae: (5.5/7.6)^3*41.3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "25.8",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Pelophylax lessonae: (6.5/7.6)^3*41.3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KhonMats2000",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "temp 11-34 C"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since metam at puberty for females",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Planorbidae",
+    "genus": "Dilatata",
+    "specie": "Dilatata_dilatata",
+    "specie_en": "Trumpet ramshorn",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.038",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "FrieGood1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.9",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.18",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "FrieGood1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp = 50 d in tL data (but ulitmate length is much smaller than the Wiki-value"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/4",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FrieGood1963",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.53",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Planorbarius corneus: 1.6*(0.9/1.3)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "FrieGood1963",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "6-9 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "150",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FrieGood1963",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

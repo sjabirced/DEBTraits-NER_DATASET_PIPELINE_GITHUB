@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Acipenser",
+    "specie": "Acipenser_transmontanus",
+    "specie_en": "White sturgeon"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.2",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ParsKofo2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "610",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'common total length 210 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "160",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "200000/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "pices",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "'temperature is guessed, 200000 eggs estimated in 1.5m indivdual"
+  },
+  {
+    "entity": "Ww290",
+    "entity.value": "225e3",
+    "units": "g",
+    "label": "wet weight at TL 290 cm",
+    "bibkey": "pices",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.24e-2",
+    "units": "g",
+    "label": "wet weight birth",
+    "bibkey": "CherClar1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 3.5 mm: pi/6*0.35^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "816e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "data.ah + 7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "pices",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "temp is guessed, birth taken as first feeding which this ref says happens at yolk sac depletion 7-10d after hatch"
+  },
+  {
+    "entity": "ah",
+    "entity.value": "210/24",
+    "units": "d",
+    "label": "age at hatch",
+    "bibkey": "ParsKofo2013",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "temp is variable see fig. 6, also authors explored effect of different substrates on hatching"
+  },
+  {
+    "entity": "am",
+    "entity.value": "108*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "temperature is guessed"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "temp is guessed- wiki says between 11 and 34 years"
+  }
+]

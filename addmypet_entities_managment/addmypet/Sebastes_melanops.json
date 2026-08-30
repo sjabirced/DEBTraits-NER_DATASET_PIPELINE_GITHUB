@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastes",
+    "specie": "Sebastes_melanops",
+    "specie_en": "Black rockfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "63",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "40.3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "LoveMorr1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.2e6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(5.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.68e-4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm (but viviparous): pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.6e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01000*Li^3.09, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "913",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','LoveMorr1990'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01000*Lp^3.09, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "50*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(5.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

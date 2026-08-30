@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Moxostoma",
+    "specie": "Moxostoma_cervinum",
+    "specie_en": "Blacktip jumprock"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "19",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ThomBent2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": " based on SL 9.33 cm and F2"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "15441/365",
+    "units": "#/d",
+    "label": "max Reprod rate",
+    "bibkey": "ThomBent2015",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Moxostoma valenciennesi "
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.9e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ThomBent2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.54 mm : pi/6*0.154^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "45.1",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "8.3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','ThomBent2015'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Lp^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2500",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ThomBent2015",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

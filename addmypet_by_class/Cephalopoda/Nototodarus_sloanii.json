@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Ommastrephidae",
+    "genus": "Nototodarus",
+    "specie": "Nototodarus_sloanii",
+    "specie_en": "New Zealand arrow squid"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 42.0,
+    "units": "cm",
+    "label": "mantle length at death",
+    "bibkey": "sealifebase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 10.0,
+    "units": "cm",
+    "label": "mantle length at puberty",
+    "bibkey": "UozuOhar1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "195 to 330 mm"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 300000.0,
+    "units": "#",
+    "label": "cum reprod at death",
+    "bibkey": "guess",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95, as found for Sthenoteuthis_pteropus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.00027,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 1800.0,
+    "units": "g",
+    "label": "wet weight at death",
+    "bibkey": "sealifebase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span for female",
+    "bibkey": "UozuOhar1993",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

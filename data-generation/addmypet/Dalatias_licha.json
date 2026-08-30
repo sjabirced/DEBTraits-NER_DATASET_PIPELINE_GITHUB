@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Dalatiidae",
+    "genus": "Dalatias",
+    "specie": "Dalatias_licha",
+    "specie_en": "Kitefin shark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "36",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "30-42 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "162",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "132",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "117-159 cm, but 96 cm is also reported"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "90",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "77-121 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FranJone2018",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "10-14 pups per litter, 1 litter per 2 yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "268",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 7-9 cm: pi/6*8^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "49.7e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','FranJone2018'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01170*Li^3.00, see F3"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "26.9e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "{'fishbase','FranJone2018'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01170*Lim^3.00, see F3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "FranJone2018",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FranJone2018",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

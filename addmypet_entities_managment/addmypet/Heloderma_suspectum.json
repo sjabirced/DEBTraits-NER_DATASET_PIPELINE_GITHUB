@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Helodermatidae",
+    "genus": "Heloderma",
+    "specie": "Heloderma_suspectum",
+    "specie_en": "Gila monster",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "SmitAmar2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "36",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "23.9",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "SmitAmar2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "9/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "1 to 12 young per clutch,1 clutch per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "700",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "the very largest individual was 2300 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "28.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

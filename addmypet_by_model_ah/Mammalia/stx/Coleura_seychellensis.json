@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Emballonuridae",
+    "genus": "Coleura",
+    "specie": "Coleura_seychellensis",
+    "specie_en": "Seychelles sheath-tailed bat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "'1 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.38",
+    "units": "g",
+    "label": "wet weight at birth for female",
+    "bibkey": "Gerl2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on l_b^3*Wwi= 10.5/27"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10.5",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "10-11 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "90",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "ADW gives 8-10 mnth, but also that Wwb = 2.1 g"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "650",
+    "units": "d",
+    "label": "time since birth at first litter female",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "120",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Gerl2009",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,177 @@
+{
+  "Reptilia_std_cycle_de_vie": {
+    "titre": "Life cycle of class Reptilia — STD (Standard DEB model)",
+    "ordre": "Squamata / Testudines / Crocodilia",
+    "classe": "Reptilia",
+    "stades": [
+      {
+        "id": 1,
+        "label": "t0",
+        "nom": "Fertilisation",
+        "type": "transition",
+        "termes": [
+          "egg fertilisation",
+          "zygote formation",
+          "gamete fusion",
+          "syngamy",
+          "ovum activation",
+          "reproductive pairing",
+          "zygote stage onset",
+          "gametic union",
+          "fecundation",
+          "internal fertilisation",
+          "cloacal copulation",
+          "sperm storage"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Egg",
+        "nom": "Leathery-shelled egg",
+        "type": "stade",
+        "termes": [
+          "fertilised ovum",
+          "embryonated egg",
+          "incubating egg",
+          "yolk-laden egg",
+          "chorionate embryo",
+          "cleavage-stage embryo",
+          "blastula-stage embryo",
+          "gastrulating embryo",
+          "yolk-dependent embryo",
+          "leathery-shelled egg",
+          "amniote egg",
+          "parchment-shelled egg",
+          "cleidoic egg"
+        ],
+        "note": "Reptile eggs typically have a leathery or calcified shell; embryonic development is temperature-sensitive."
+      },
+      {
+        "id": 3,
+        "label": "H",
+        "nom": "Shell pipping",
+        "type": "transition",
+        "termes": [
+          "eclosion",
+          "egg hatching",
+          "chorion rupture",
+          "eggshell hatching",
+          "embryo emergence",
+          "hatching event",
+          "shell breaking",
+          "larval eclosion",
+          "egg tooth use",
+          "shell pipping",
+          "egg caruncle action",
+          "nest emergence"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Pre-feeding larva",
+        "nom": "Yolk-sac larva",
+        "type": "stade",
+        "termes": [
+          "yolk-sac larva",
+          "endotrophic larva",
+          "lecithotrophic larva",
+          "yolk-dependent larva",
+          "non-feeding larva",
+          "yolk absorption stage"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "B",
+        "nom": "Onset of exogenous feeding",
+        "type": "transition",
+        "termes": [
+          "first exogenous feeding",
+          "first feeding",
+          "yolk-sac resorption",
+          "mouth opening",
+          "first prey capture",
+          "exotrophic transition",
+          "trophic switch",
+          "active feeding onset",
+          "larval feeding commencement",
+          "yolk absorption completion"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Juvenile",
+        "nom": "Juvenile",
+        "type": "stade",
+        "termes": [
+          "juvenile",
+          "sub-adult",
+          "immature individual",
+          "young individual",
+          "pre-reproductive juvenile",
+          "growing juvenile",
+          "immature organism",
+          "hatchling",
+          "juvenile reptile",
+          "young-of-year reptile"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "P",
+        "nom": "Sexual maturation",
+        "type": "transition",
+        "termes": [
+          "sexual maturation",
+          "reproductive maturity",
+          "first reproduction event",
+          "gonad maturation",
+          "puberty",
+          "gametogenesis onset",
+          "reproductive activation",
+          "age at first reproduction",
+          "first egg clutch",
+          "gonadal activation",
+          "first copulation"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Breeding adult",
+        "nom": "Reproductively active adult",
+        "type": "stade",
+        "termes": [
+          "sexually mature adult",
+          "reproductively active adult",
+          "breeding individual",
+          "gravid individual",
+          "post-pubertal adult",
+          "reproductively viable organism",
+          "gravid female reptile",
+          "egg-laying adult",
+          "nesting female",
+          "oviparous adult"
+        ]
+      },
+      {
+        "id": 9,
+        "label": "M",
+        "nom": "Natural death",
+        "type": "transition",
+        "termes": [
+          "natural mortality",
+          "senescence",
+          "age-related death",
+          "post-reproductive mortality",
+          "biological death",
+          "somatic death",
+          "lifespan completion",
+          "ecological mortality",
+          "organismal death",
+          "reproductive senescence",
+          "physiological death"
+        ]
+      }
+    ]
+  }
+}

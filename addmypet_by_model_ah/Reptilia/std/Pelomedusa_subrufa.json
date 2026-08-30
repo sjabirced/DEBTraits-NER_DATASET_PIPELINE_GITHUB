@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Pelomedusidae",
+    "genus": "Pelomedusa",
+    "specie": "Pelomedusa_subrufa",
+    "specie_en": "African helmeted turtle"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "3.75",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "pelomedusa",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "32.5",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "carapace length at puberty",
+    "bibkey": "pelomedusa",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.84",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'pelomedusa', 'field_guide'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lb/Li)^3*Wwi"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2500",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "field_guide",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "126",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'pelomedusa', 'field_guide'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "55",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "pelomedusa",
+    "temp": "C2K(31)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "20.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "guess based on longest period from which [p_M] > 3 J/d.cm^3 at 20 C"
+  }
+]

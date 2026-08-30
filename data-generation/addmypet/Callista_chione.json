@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Venerida",
+    "family": "Veneridae",
+    "genus": "Callista",
+    "specie": "Callista_chione",
+    "specie_en": "Smooth clam",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "EzgePeha2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.1",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "EzgePeha2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.85"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-07",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "PereDelg2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed from guessed egg diameter of 90 mum: pi/6*0.009^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "122.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as 0.0002*(Li*10)^3.041, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "52/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "PereDelg2011",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "45*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EzgePeha2011",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Sirenidae",
+    "genus": "Siren",
+    "specie": "Siren_lacertina",
+    "specie_en": "Greater siren",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.6",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Luhr2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "1.3 cm SVL"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "97",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Luhr2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "23.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Luhr2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "22 till 25 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1400/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Luhr2008",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Luhr2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "14.2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Luhr2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from Wwi*(Lp/Li)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since birth at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "all temps are guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

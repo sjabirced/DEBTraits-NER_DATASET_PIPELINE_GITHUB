@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Telestes",
+    "specie": "Telestes_karsticus",
+    "specie_en": "Karstic dace"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12.7",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "MarcMilk2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3188/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "MarcMilk2021",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.5e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MarcMilk2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.22 mm: pi/6*0.122^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "37",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "MarcKoml2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase: based on 0.00813*Li^3.10, see F1, gives 21.5 g"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on Wwi*(Lp/Li)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Heteromyidae",
+    "genus": "Liomys",
+    "specie": "Liomys_irroratus",
+    "specie_en": "Mexican spiny pocket mouse"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "53.9",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "'2-8 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Heteromys_salvini"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "50",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "35-50 g"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "60",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "50-60 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "27",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35.3)",
+    "units.temp": "K",
+    "comment": "based on Heteromys_salvini"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "50",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "gbif",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "29",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "based on Heteromys_salvini"
+  }
+]

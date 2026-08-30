@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Diaphus",
+    "specie": "Diaphus_watasei",
+    "specie_en": "Watases lanternfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "17",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10.1",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "SebaBine2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in Diaphus_dumerilii: 2.5*7.3/6.5"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "39.5*850/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "SebaBine2013",
+    "temp": "C2K(7.9)",
+    "units.temp": "K",
+    "comment": "based on relative fecundity of 850 eggs/g"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.5e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.5 mm of Diaphus_dumerilii: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "39.5",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00759*Li^3.02, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "8.2",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'SebaBine2013','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00759*Lp^3.02, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SebaBine2013",
+    "temp": "C2K(7.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

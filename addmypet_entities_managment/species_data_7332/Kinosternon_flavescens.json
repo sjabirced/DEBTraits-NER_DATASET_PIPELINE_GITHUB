@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Kinosternidae",
+    "genus": "Kinosternon",
+    "specie": "Kinosternon_flavescens",
+    "specie_en": "Yellow mud turtle"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "plastron length at birth",
+    "bibkey": "Iver1991",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11.3",
+    "units": "cm",
+    "label": "ultimate carapace length for females",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "14",
+    "units": "cm",
+    "label": "ultimate carapace length for males",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.0",
+    "units": "cm",
+    "label": "carapace length fat puberty",
+    "bibkey": "Iver1991",
+    "temp": null,
+    "units.temp": null,
+    "comment": "9.5-10 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "1-9 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "391",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "40*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Iver1991",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "ADW gives 5-8 yrs"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5.5*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "ADW",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "4-7 yrs"
+  }
+]

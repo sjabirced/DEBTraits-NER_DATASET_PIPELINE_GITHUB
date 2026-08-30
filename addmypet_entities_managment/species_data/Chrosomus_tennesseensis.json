@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Chrosomus",
+    "specie": "Chrosomus_tennesseensis",
+    "specie_en": "Tennessee dace",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.64",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "HameAlso2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 1 yr and tL data, giving SL 3.9 cm and F2"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HameAlso2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.74",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00891*Li^3.06, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.95",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','HameAlso2009'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00891*Lp^3.06, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HameAlso2009",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

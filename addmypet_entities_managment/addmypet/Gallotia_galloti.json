@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Gallotia",
+    "specie": "Gallotia_galloti",
+    "specie_en": "Gallot",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "CastBaez1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10.2",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "MoliRodr2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "12.2",
+      "units": "cm",
+      "label": "ultimate SVL males",
+      "bibkey": "MoliRodr2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7.7",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "MoliRodr2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "8.1",
+      "units": "cm",
+      "label": "SVL at puberty males",
+      "bibkey": "MoliRodr2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.95/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MoliRodr2004",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "one clutch per year"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "1.63",
+      "units": "g",
+      "label": "wet weight of egg",
+      "bibkey": "MoliRodr2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "data for G. galloti eisentrauti"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.16",
+      "units": "g",
+      "label": "wet weight of hatchlings",
+      "bibkey": "MoliRodr2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "data for G. galloti galloti"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "20.72",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Vern1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Mean body mass of females in May-June"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "34.43",
+      "units": "g",
+      "label": "ultimate wet weight of males",
+      "bibkey": "Vern1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Mean body mass of males in May-June"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "56",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "based on Lacerta agilis"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CastBaez1988",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "CastBaez1988",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

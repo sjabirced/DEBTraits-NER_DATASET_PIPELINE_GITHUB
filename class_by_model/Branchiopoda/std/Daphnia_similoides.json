@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Daphniidae",
+    "genus": "Daphnia",
+    "specie": "Daphnia_similoides",
+    "specie_en": "Waterflea"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.06,
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "RichZhan2023",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.5,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "RichZhan2023",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.2,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "RichZhan2023",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 4.2,
+    "units": "mg",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in Daphnia magna: 600*(710/370)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 1.62,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 36.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "RichZhan2023",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

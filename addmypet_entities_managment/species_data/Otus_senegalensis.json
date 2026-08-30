@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Otus",
+    "specie": "Otus_senegalensis",
+    "specie_en": "African scops owl",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BrowRiek1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Otus scops: egg length 3.13 cm, width 2.7 cm, weight: pi/6*3.13*2.7^2=11.95 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "89",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "BrowRiek1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "22",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BrowRiek1987",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "AnAge gives 6.8 yr for Otus scops and 8.1 yr for Otus flammeolus, but that seems very short"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "78",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "25 to 28 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "26",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "BrowRiek1987",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "25 to 28 d"
+    }
+  ]
+}

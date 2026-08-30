@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Icteridae",
+    "genus": "Pseudoleistes",
+    "specie": "Pseudoleistes_virescens",
+    "specie_en": "Brown-and-yellow marshbird"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "MermRebo2003",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "4-5 eggs per clutch, assumed: 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MermRebo2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "79.95",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "17*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "39",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "13",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "MermRebo2003",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

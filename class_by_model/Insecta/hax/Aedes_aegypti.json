@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Diptera",
+    "family": "Culicidae",
+    "genus": "Aedes",
+    "specie": "Aedes_aegypti",
+    "specie_en": "Yellow fever mosquito"
+  },
+  {
+    "entity": "E0",
+    "entity.value": "0.0182*4.184",
+    "units": "J",
+    "label": "initial energy content",
+    "bibkey": "Brie1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "0.018 cal per egg"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": "400",
+    "units": "#",
+    "label": "total number of eggs",
+    "bibkey": "Chri1960",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "0.0137e-3",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "Chri1960",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'actually 0.01 mg  in Chris1960 but this is less than tW(1,2)"
+  },
+  {
+    "entity": "Wwe",
+    "entity.value": "3.04e-3",
+    "units": "g",
+    "label": "wet weight of imago",
+    "bibkey": "Chri1960",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "4.752e-3",
+    "units": "g",
+    "label": "wet weight of pupa",
+    "bibkey": "Chri1960",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3.083",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Chri1960",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "21",
+    "units": "d",
+    "label": "life span as imago",
+    "bibkey": "Chri1960",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "te",
+    "entity.value": "2",
+    "units": "d",
+    "label": "time since pupation at emergence",
+    "bibkey": "Chri1960",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "6",
+    "units": "d",
+    "label": "time since birth at pupation",
+    "bibkey": "Chri1960",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

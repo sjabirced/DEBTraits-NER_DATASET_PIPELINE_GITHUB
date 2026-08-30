@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Zootoca",
+    "specie": "Zootoca_vivipara",
+    "specie_en": "Common lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.1",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "Dupo2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "Dupo2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "Dupo2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "14/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Dupo2018",
+      "temp": "C2K(13.7)",
+      "units.temp": "K",
+      "comment": "maximal observed reproductive investment"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.19",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Dupo2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Dupo2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Dupo2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "45",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Dupo2018",
+      "temp": "C2K(21.5)",
+      "units.temp": "K",
+      "comment": "29 C for 9h, 17 C for 15 h"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365+45",
+      "units": "d",
+      "label": "lifespan",
+      "bibkey": "Dupo2018",
+      "temp": "C2K(13.7)",
+      "units.temp": "K",
+      "comment": "temperature estimated on NicheMapR"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "14*30+45",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Dupo2018",
+      "temp": "C2K(13.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

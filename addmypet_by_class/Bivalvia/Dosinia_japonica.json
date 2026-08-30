@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Venerida",
+    "family": "Veneridae",
+    "genus": "Dosinia",
+    "specie": "Dosinia_japonica",
+    "specie_en": "Pacific dosinia"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.12",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Sato1994",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "the value 0.42 is given, but based on tissue weights, while wet weight in Wwi includes shell"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.5",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Sato1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.05",
+    "units": "cm",
+    "label": "total length at settlement",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Sato1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.4e-08",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Sato1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from guessed egg diameter of 40 mum: pi/6*0.004^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "65.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'GaspSant2001','Sato1994'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.07*Li^3.398 for D. exoleta, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Sato1994",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

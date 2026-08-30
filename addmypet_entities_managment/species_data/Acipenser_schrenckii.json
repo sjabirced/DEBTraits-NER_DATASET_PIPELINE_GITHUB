@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Acipenser",
+    "specie": "Acipenser_schrenckii",
+    "specie_en": "Amur sturgeon",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "346",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "133",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "KrykSvir1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "125-143 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.3e6/365/4",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "KrykSvir1997: spawning year 4 yrs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.56e-2",
+      "units": "g",
+      "label": "wet weight birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.7–3.4 mm: pi/6*0.31^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "190e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "KrykSvir1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00324*Li^3.17, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "13.3e3",
+      "units": "g",
+      "label": "uwet weight at puberty",
+      "bibkey": "KrykSvir1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "8.3-16.4 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "60*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KrykSvir1997",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "KrykSvir1997",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

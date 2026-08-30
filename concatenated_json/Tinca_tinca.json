@@ -1,0 +1,151 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Tincidae",
+    "genus": "Tinca",
+    "specie": "Tinca_tinca",
+    "specie_en": "Tench"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.53",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Beel2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lh",
+    "entity.value": "0.45",
+    "units": "cm",
+    "label": "total length at hatch",
+    "bibkey": "Beel2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "84",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Beel2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "24",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Beel2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "18 to 30 cm"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "15.5",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Beel2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "11 to 20 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Beel2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from egg diameter of 0.8 mm (range 0.29 to 1.14 mm): 4/3*pi*0.04^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "9.95e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Beel2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from 0.018654 * Li^2.9762, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "239",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "Beel2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed as 0.018654 * Lp^2.9762, see F1"
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "65",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "Beel2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed as 0.018654 * Lpm^2.9762, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "13",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Beel2008",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "6 to 10 d"
+  },
+  {
+    "entity": "ah",
+    "entity.value": "5.5",
+    "units": "d",
+    "label": "age at hatch",
+    "bibkey": "Beel2008",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Beel2008",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3.5*365",
+    "units": "d",
+    "label": "age at puberty for females",
+    "bibkey": "Beel2008",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "age at puberty for males",
+    "bibkey": "Beel2008",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

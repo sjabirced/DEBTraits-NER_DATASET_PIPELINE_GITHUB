@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Myoxocephalus",
+    "specie": "Myoxocephalus_scorpius",
+    "specie_en": "Shorthorn sculpin"
+  },
+  {
+    "entity": "Lh",
+    "entity.value": "0.82",
+    "units": "cm",
+    "label": "total length at hatch",
+    "bibkey": "LuksPede2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "2.2",
+    "units": "cm",
+    "label": "total length at metam",
+    "bibkey": "LuksPede2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Start bentic life"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "14",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "LuksPede2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Lamp1965",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diamter of 2.4 mm: pi/6*0.24^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3736",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "LuksPede2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from (Li/30)^3 * 467 based on largest fish in LuksPede2004"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "37",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "LuksPede2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ah",
+    "entity.value": "49",
+    "units": "d",
+    "label": "age at hatch",
+    "bibkey": "LuksPede2004",
+    "temp": "C2K(3.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "polarlife",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "temp is guessed: aquarium"
+  },
+  {
+    "entity": "tb",
+    "entity.value": "90",
+    "units": "d",
+    "label": "time since hatch at birth",
+    "bibkey": "LuksPede2004",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

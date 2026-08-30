@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cyclopteridae",
+    "genus": "Cyclopterus",
+    "specie": "Cyclopterus_lumpus",
+    "specie_en": "Lumpfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.4",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Nytr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "61",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "35",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "Nytr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "28",
+      "units": "cm",
+      "label": "total length at puberty for male",
+      "bibkey": "Nytr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "17-38 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.5e5/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9500",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "15",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "Nytr2013",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "190-220 day degrees"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tb",
+      "entity.value": "7",
+      "units": "d",
+      "label": "time since hatch at birth",
+      "bibkey": "Nytr2013",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

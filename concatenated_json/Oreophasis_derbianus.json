@@ -1,0 +1,100 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Cracidae",
+    "species": "Oreophasis_derbianus",
+    "species_en": "Horned guan"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Corn2009",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "107.7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Corn2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1940",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Corn2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "2212",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "Corn2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "35",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "HoyoKirw2020",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": "34-36 days"
+  },
+  {
+    "entity": "am",
+    "entity.value": "19*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Gonz1995",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "max reproductive age"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "HoyoKirw2020",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "HoyoKirw2020",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "about the time bird reaches adult size."
+  },
+  {
+    "entity": "tx",
+    "entity.value": "mean([3",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "chicks leave nest at 3-6 days"
+  }
+]

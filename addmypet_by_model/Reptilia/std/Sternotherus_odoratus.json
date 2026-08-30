@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Kinosternidae",
+    "genus": "Sternotherus",
+    "specie": "Sternotherus_odoratus",
+    "specie_en": "Common musk turtle"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.3",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "Erns1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "14",
+    "units": "cm",
+    "label": "ultimate carapace length for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "ultimate carapace length for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on \"males are somewhat smaller than fe,males\" (Wiki)"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'Wiki','ADW'}",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": "2-9  eggs per clutch, 2 or more clutch per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "472",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "67",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "60-84 dWiki: 100-150 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "54.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "{'ADW','AnAge'}",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

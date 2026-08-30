@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sphyraeniformes",
+    "family": "Sphyraenidae",
+    "genus": "Sphyraena",
+    "specie": "Sphyraena_obtusata",
+    "specie_en": "Obtuse barracuda",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Sphyraena_barracuda: 84.7*150/200"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(28.4)",
+      "units.temp": "K",
+      "comment": "based on Sphyraena_flavicauda"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 1.45 mm: pi/6*0.145^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "803",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.00692*Li^2.91, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "81",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.00692*Lp^2.91, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "28*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KasiBala1990",
+      "temp": "C2K(28.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Characiformes",
+    "family": "Prochilodontidae",
+    "genus": "Semaprochilodus",
+    "specie": "Semaprochilodus_insignis",
+    "specie_en": "Kissing prochilodus"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "27.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on smae relative length as Prochilodus nigricans: 27.5*19/45"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "411/4900*8100/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "based on same rate per gram, compard with Brycon moorei"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "411",
+    "units": "g",
+    "label": "max wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.02042*27.5^2.99, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1.7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "based on Brycon_moorei"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Daphniidae",
+    "genus": "Ceriodaphnia",
+    "specie": "Ceriodaphnia_lacustris",
+    "specie_en": "Waterflea"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/2",
+    "units": "#/d",
+    "label": "ultimate reproduction rate",
+    "bibkey": "Thre2005",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "2 eggs per clutch/ 1 clutch  per instar"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": "0.49",
+    "units": "mug",
+    "label": "dry weight at birth",
+    "bibkey": "DudyLync2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "4.70",
+    "units": "mug",
+    "label": "ultimate dry weight",
+    "bibkey": "DudyLync2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdp",
+    "entity.value": "1.63",
+    "units": "mug",
+    "label": "dry weight at puberty",
+    "bibkey": "DudyLync2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "DudyLync2005",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on instar duration"
+  },
+  {
+    "entity": "am",
+    "entity.value": "93",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "DudyLync2005",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "4",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "DudyLync2005",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Viperidae",
+    "genus": "Crotalus",
+    "specie": "Crotalus_oreganus",
+    "specie_en": "Western rattlesnake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "27.4",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "DillWall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "68.3",
+      "units": "cm",
+      "label": "ultimate SVL of females",
+      "bibkey": "DillWall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "75.1",
+      "units": "cm",
+      "label": "ultimate SVL of males",
+      "bibkey": "DillWall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "58.8",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "DillWall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "51.8",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "DillWall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365/1.5",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "DillWall2002",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "3 to 8 young per clutch, mostly 1 clutch each 2 yrs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "14.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "DillWall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "10 to 21 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "226.9",
+      "units": "g",
+      "label": "ultimate wet weight of females",
+      "bibkey": "DillWall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "279.3",
+      "units": "g",
+      "label": "ultimate wet weight of males",
+      "bibkey": "DillWall2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "70",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "'27 to 32 C"
+    },
+    {
+      "entity": "am",
+      "entity.value": "24*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "DillWall2002",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "DillWall2002",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

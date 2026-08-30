@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Procellariiformes",
+    "family": "Procellariidae",
+    "genus": "Pterodroma",
+    "specie": "Pterodroma_leucoptera",
+    "specie_en": "Gould",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ODwy2004",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "32",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ODwy2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "550",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ODwy2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'asymptote for nestling"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "48",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ODwy2004",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "42 t0 64 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "270",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ODwy2004",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

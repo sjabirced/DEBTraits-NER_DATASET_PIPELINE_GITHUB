@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Tetraodontidae",
+    "genus": "Takifugu",
+    "specie": "Takifugu_rubripes",
+    "specie_en": "Japanese puffer",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.08",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "OginYama2022",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "70",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "OginYama2022",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "43",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "OginYama2022",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "38",
+      "units": "cm",
+      "label": "total length at puberty in males",
+      "bibkey": "OginYama2022",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.6e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.85 - 0.91 mm of Sphoeroides maculatus: pi/6*0.088^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "OginYama2022",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase: based on 0.01622*Li^2.92, see F1, gives 4 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "OginYama2022",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

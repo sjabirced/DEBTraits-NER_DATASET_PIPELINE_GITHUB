@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Thoburnia",
+    "specie": "Thoburnia_atripinnis",
+    "specie_en": "Blackfin sucker",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "17",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "TimmRams1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": " based on tp 3 yr and tL daya"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1755/365",
+      "units": "#/d",
+      "label": "max Reprod rate at SL 14.6 cm, TL 16.8 cm",
+      "bibkey": "TimmRams1983",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Moxostoma valenciennesi "
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "TimmRams1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.5 mm : pi/6*0.25^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "55",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01000*Li^3.04, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "5.56",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','TimmRams1983'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01000*Lp^3.04, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "TimmRams1983",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

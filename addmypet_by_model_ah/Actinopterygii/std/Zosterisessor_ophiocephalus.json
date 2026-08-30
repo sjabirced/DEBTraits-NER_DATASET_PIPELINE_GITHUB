@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Zosterisessor",
+    "specie": "Zosterisessor_ophiocephalus",
+    "specie_en": "Grass goby"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "29.9",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12.65",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "HajjOuan2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "13.91",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "HajjOuan2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "45e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(17.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.5e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 0.5 mm: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "276.5",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Li^3.01, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "20.76",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','HajjOuan2013'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Lp^3.01, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(17.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HajjOuan2013",
+    "temp": "C2K(17.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

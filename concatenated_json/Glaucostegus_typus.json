@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rhinopristiformes",
+    "family": "Glaucostegidae",
+    "genus": "Glaucostegus",
+    "specie": "Glaucostegus_typus",
+    "specie_en": "Common shovelnose ray"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "39",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "WhitSimp2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "38 to 40 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "270",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "165",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "WhitSimp2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "150 to 180 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "14/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "WhitSimp2014",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "7 to 19 pups per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "369",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'fishbase','WhitSimp2014'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate based on 0.00646*Lb^2.99, see F2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.2e5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate based on 0.00646*Li^2.99, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "27.6e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','WhitSimp2014'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "estimate based on 0.00646*Lp^2.99, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "18*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "WhitSimp2014",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

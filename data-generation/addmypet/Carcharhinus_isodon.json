@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Carcharhinus",
+    "specie": "Carcharhinus_isodon",
+    "specie_en": "Finetooth shark",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "58.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "51-64 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "190",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "123",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "CarlCort2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "118.7",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "CarlCort2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "1-6 pups per litter, 1 litter each yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "55.5e3",
+      "units": "g",
+      "label": "ultimate wet weight (female)",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00479*Li^3.10, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "14.4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CarlCort2003",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "based on the assumption that max back-calculated age is close to life span"
+    }
+  ]
+}

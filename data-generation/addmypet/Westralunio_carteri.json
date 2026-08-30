@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Hyriidae",
+    "genus": "Westralunio",
+    "specie": "Westralunio_carteri",
+    "specie_en": "Carter",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "10.1",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.75",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "{'Wiki','Klun2012'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "2.5 till 3 cm "
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1000",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(16.5)",
+      "units.temp": "K",
+      "comment": "Guessed based on value for kap"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 306 till 309 mum glochidium length, but rather flat: 0.5*4/3*pi*0.015^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "22.4",
+      "units": "g",
+      "label": "flesh wet weight at shell length 10 cm",
+      "bibkey": "BascDuzg2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on data for Anadonta cygnea"
+    },
+    {
+      "entity": "am",
+      "entity.value": "50*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Klun2012",
+      "temp": "C2K(16.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(16.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

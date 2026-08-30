@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Osmeriformes",
+    "family": "Osmeridae",
+    "genus": "Osmerus",
+    "specie": "Osmerus_mordax",
+    "specie_en": "Rainbow smelt",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.26",
+      "units": "cm",
+      "label": "egg diameter",
+      "bibkey": "gma",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "35.6",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "45e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'gma'}",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "temps are guessed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-4",
+      "units": "g",
+      "label": "wet weight birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.6 to 0.9 mm: pi/6*0.075^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "27",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "QuigIgoe2004",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "gma",
+      "temp": "C2K(16.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

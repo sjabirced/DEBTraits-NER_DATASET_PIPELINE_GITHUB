@@ -1,0 +1,174 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hemiptera",
+    "family": "Aleyrodidae",
+    "genus": "Bemisia",
+    "specie": "Bemisia_tabaci",
+    "specie_en": "Silverleaf Whitefly",
+    "deb_model": "abp"
+  },
+  "data": [
+    {
+      "entity": "L0",
+      "entity.value": "0.0179",
+      "units": "cm",
+      "label": "egg length",
+      "bibkey": "ChuBuck2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "LN2",
+      "entity.value": "0.0355",
+      "units": "cm",
+      "label": "length at 2nd instar",
+      "bibkey": "ChuBuck2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "LN3",
+      "entity.value": "0.0434",
+      "units": "cm",
+      "label": "length at 3rd instar",
+      "bibkey": "ChuBuck2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "LN4",
+      "entity.value": "0.0724",
+      "units": "cm",
+      "label": "length at 4th instar",
+      "bibkey": "ChuBuck2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "length for early 4rth instar"
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.025",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "ChuBuck2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Lb = length at first instar"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.1126",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "ChuBuck2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "74.9/data.am",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AlzySeng2004",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "host plant: cotton"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "0.8",
+      "units": "mug",
+      "label": "egg weigth",
+      "bibkey": "ChuBuck2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.9e-5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "ChuBuck2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5.15",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AlzySeng2004",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "host plant: cotton"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8.25",
+      "units": "d",
+      "label": "adult life span",
+      "bibkey": "AlzySeng2004",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "longlivety of females on cotton"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "19.25",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "AlzySeng2004",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "host plant: cotton"
+    },
+    {
+      "entity": "t1",
+      "entity.value": "3.95",
+      "units": "d",
+      "label": "duration of instar 1",
+      "bibkey": "AlzySeng2004",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "host plant: cotton"
+    },
+    {
+      "entity": "t2",
+      "entity.value": "2.05",
+      "units": "d",
+      "label": "duration of instar 2",
+      "bibkey": "AlzySeng2004",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "t3",
+      "entity.value": "2.70",
+      "units": "d",
+      "label": "duration of instar 3",
+      "bibkey": "AlzySeng2004",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "host plant: cotton"
+    },
+    {
+      "entity": "t4",
+      "entity.value": "5.40",
+      "units": "d",
+      "label": "duration of instar 4",
+      "bibkey": "AlzySeng2004",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "host plant: cotton"
+    }
+  ]
+}

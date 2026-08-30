@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Rana",
+    "specie": "Rana_amurensis",
+    "specie_en": "Siberian wood frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.77",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Liao2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "6.06",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Liao2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.95",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "Liao2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "4.25",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "Liao2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4000/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "250 to 4000 eggs in 1 or 2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0042",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on Anaxyrus americanus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "75",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on length-weight of Rana muscosa: (6.77/6.8)^3*76"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "53.7",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on length-weight of Rana muscosa: (6.06/6.8)^3*76"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "14.9",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on length-weight of Rana muscosa: (3.95/6.8)^3*76"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Liao2011",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

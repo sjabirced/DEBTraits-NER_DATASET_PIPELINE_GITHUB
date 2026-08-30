@@ -1,0 +1,151 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Oncorhynchus",
+    "specie": "Oncorhynchus_tshawytscha",
+    "specie_en": "Chinook salmon"
+  },
+  {
+    "entity": "E0",
+    "entity.value": "2775",
+    "units": "J",
+    "label": "initial egg energy",
+    "bibkey": "BergHend2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lam",
+    "entity.value": "73",
+    "units": "cm",
+    "label": "postorbital-hypural length at spawning at 4 yr",
+    "bibkey": "BeacMurr1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "3.47",
+    "units": "cm",
+    "label": "fork length at birth",
+    "bibkey": "BeacMurr1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "150",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "68",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "NR",
+    "entity.value": "5820",
+    "units": "#",
+    "label": "fecundity at L = 73 cm",
+    "bibkey": "BeacMurr1993",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wd0",
+    "entity.value": "0.345 * 0.37",
+    "units": "g",
+    "label": "egg dry weight",
+    "bibkey": "BeacMurr1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwam",
+    "entity.value": "0.0018 * data.Lam^3.448",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "JaspEven2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "probably male"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.515",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BeacMurr1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "average chinook data"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "65e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "probably male"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.0018 * data.Lam^3.448",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "JaspEven2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "same relationship as mature adult, ie includes gonad weight, should be lower"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "121",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "BeacMurr1990",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "BeacMurr1990",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

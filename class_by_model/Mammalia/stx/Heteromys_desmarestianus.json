@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Heteromyidae",
+    "genus": "Heteromys",
+    "specie": "Heteromys_desmarestianus",
+    "specie_en": "Desmarest"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5*3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "5 litters per yr, 3.8 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Flem1977",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "87",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "46-87 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "50",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "Flem1977",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "27.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Flem1977",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "27-28 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "146",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "29",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "Flem1977",
+    "temp": "C2K(37.9)",
+    "units.temp": "K",
+    "comment": "28-30 d"
+  }
+]

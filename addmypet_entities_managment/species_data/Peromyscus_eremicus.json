@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Peromyscus",
+    "specie": "Peromyscus_eremicus",
+    "specie_en": "Cactus mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.2*4/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "BranRyck1968",
+      "temp": "C2K(36.6)",
+      "units.temp": "K",
+      "comment": "'2.2 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BranRyck1968",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "17",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "BranRyck1968",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7.4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "26",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "129",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "25",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(36.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rhinopristiformes",
+    "family": "Rhinobatidae",
+    "genus": "Zapteryx",
+    "specie": "Zapteryx_exasperata",
+    "specie_en": "Banded guitarfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "16.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "15-18 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "97",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "83",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "67",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "57-77 cm"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "67",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "64-70 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(23.1)",
+      "units.temp": "K",
+      "comment": "'4-11 pups per litter"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6.76e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00741*Li^3.00, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(23.1)",
+      "units.temp": "K",
+      "comment": "fishbase gives 3-4 mnth"
+    },
+    {
+      "entity": "am",
+      "entity.value": "22*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CervTova2018",
+      "temp": "C2K(23.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

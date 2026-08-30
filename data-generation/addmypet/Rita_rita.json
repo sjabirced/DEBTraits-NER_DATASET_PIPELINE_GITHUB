@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Bagridae",
+    "genus": "Rita",
+    "specie": "Rita_rita",
+    "specie_en": "Rita",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.1215",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "JalbNare2016",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "ultimate std length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "33",
+      "units": "cm",
+      "label": "std length at puberty",
+      "bibkey": "JalbNare2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "JalbNare2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.4 mm: pi/6*0.14^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "29.6e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01072*Li^2.96, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "335",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01072*Lp^2.96, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6.6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnkiKhan2023",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "genus": "Liopholis",
+    "specie": "Liopholis_guthega",
+    "specie_en": "Snowy Mountains skink"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "4.7",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "AtkiClem2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "10.5",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "AtkiClem2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.5",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "AtkiClem2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": "based on Liopholis_striata"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "40.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Liopholis_striata"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2*30",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on Liopholis_striata with temp correction"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": "based on Liopholis_striata"
+  }
+]

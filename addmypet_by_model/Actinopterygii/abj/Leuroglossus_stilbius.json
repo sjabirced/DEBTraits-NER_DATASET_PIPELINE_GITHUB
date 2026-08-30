@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Argentiniformes",
+    "family": "Bathylagidae",
+    "genus": "Leuroglossus",
+    "specie": "Leuroglossus_stilbius",
+    "specie_en": "Southern smoothtongue"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "ChilTayl1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2e3/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(6.2)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ChilTayl1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "14.5",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00562*Li^2.9, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','ChilTayl1980'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00562*Lp^2.9, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ChilTayl1980",
+    "temp": "C2K(6.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

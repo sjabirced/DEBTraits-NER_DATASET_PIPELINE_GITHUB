@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Platycephalidae",
+    "genus": "Ratabulus",
+    "specie": "Ratabulus_diversidens",
+    "specie_en": "Free-spine flathead",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "39.1",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e6/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(19.7)",
+      "units.temp": "K",
+      "comment": "based on Platycephalus_conatus"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.5e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BrowSiva2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.5 mm of Platycephalus_conatus: pi/6*0.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1704",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00525*Li^3.04, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(19.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BarnGray2011",
+      "temp": "C2K(19.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

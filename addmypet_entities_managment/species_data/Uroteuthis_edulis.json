@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Uroteuthis",
+    "specie": "Uroteuthis_edulis",
+    "specie_en": "Swordtip squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.28",
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "PangChen2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "27.66",
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "NatsNaka1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "46.95",
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "NatsNaka1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12.2",
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "PangChen2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "43*443",
+      "units": "#",
+      "label": "cum reprod at death at ML 12 cm",
+      "bibkey": "PangChen2020",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on a relative fecumdity of 43/g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "443",
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "{'NatsNaka1988','sealifebase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.2960*Li^2.202, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "21",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "NatsNaka1988",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "365",
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "NatsNaka1988",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

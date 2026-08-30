@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Echinodermata",
+    "class": "Echinoidea",
+    "order": "Camarodonta",
+    "family": "Toxopneustidae",
+    "genus": "Lytechinus",
+    "specie": "Lytechinus_variegatus",
+    "specie_en": "Green sea urchin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "ultimate test diameter",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "test diameter at puberty",
+      "bibkey": "AlbrBlan2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4.9e6/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "guess based on Echinus esculentus: 20e6 * (11/17.6)^3 per yr)"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.8e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value taken from Echinocardion cordatum"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "595",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on weight Echinus esculentus of 11 cm"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "28",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "AlbrBlan2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as (Lp/Li)^3*Wwi"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EoL",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "8*7",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "EoL",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AlbrBlan2012",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

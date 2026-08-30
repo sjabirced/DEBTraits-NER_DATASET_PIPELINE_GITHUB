@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Atheriniformes",
+    "family": "Atherinopsidae",
+    "genus": "Odontesthes",
+    "specie": "Odontesthes_argentinensis",
+    "specie_en": "Pejerrey"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "42.1",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on \"reserve accumulation in winter\", combined with tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "LlomCola2013",
+    "temp": "C2K(15.9)",
+    "units.temp": "K",
+    "comment": "for females of TL  21.2 to 34.2 cm, mean 27.5 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "EPA2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based of egg diameter of 0.75 mm for Menidia_beryllina: pi/6*0.075^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "480",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "baes on 0.00575*Li^3.03, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "26",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "baes on 0.00575*Lp^3.03, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LlomCola2013",
+    "temp": "C2K(15.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

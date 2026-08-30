@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Mycteroperca",
+    "specie": "Mycteroperca_olfax",
+    "specie_en": "Sailfin grouper"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.04",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(19.3)",
+    "units.temp": "K",
+    "comment": "based on Mycteroperca_bonaci"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "120",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "65.3",
+    "units": "cm",
+    "label": "std length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SadoEklu1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11.5e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00603*Li^3.02, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.8e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00603*Lp^3.02, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(19.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "29 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SadoEklu1999",
+    "temp": "C2K(19.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

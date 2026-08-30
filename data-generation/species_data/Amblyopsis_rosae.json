@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Percopsiformes",
+    "family": "Amblyopsidae",
+    "genus": "Amblyopsis",
+    "specie": "Amblyopsis_rosae",
+    "specie_en": "Ozark cavefish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "4.9",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "Poul1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": "BrowJohn2001 report max TL 65 mm max, fishbase gives max TL 62 mm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.6",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "Poul1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": "table 5, 36-42 mm standard length"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "25/365",
+      "units": "#/d",
+      "label": "ultimate reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(14.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WhitCulv2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.9-2.2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.0278 * data.Li^3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Poul1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from SL, see discussion"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.0278 * data.Lp^3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Poul1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from SL, see discussion"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5 * 30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Poul1963",
+      "temp": "C2K(14.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(14.2)",
+      "units.temp": "K",
+      "comment": "average longevity in the wild"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "48*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Poul1963",
+      "temp": "C2K(14.2)",
+      "units.temp": "K",
+      "comment": "'tab 5, 36-48 months"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Apodiformes",
+    "family": "Apodidae",
+    "genus": "Streptoprocne",
+    "specie": "Streptoprocne_biscutata",
+    "specie_en": "Biscutate swift",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Pich2002",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": "1-4 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "11.6",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "Pich2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "10-14.3 g"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "10",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Pich2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "119",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Pich2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Pich2002",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": "based on Apus apus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "99",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": "28-39 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "33",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Pich2002",
+      "temp": "C2K(38.1)",
+      "units.temp": "K",
+      "comment": "28-39 d"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Soleidae",
+    "genus": "Solea",
+    "specie": "Solea_solea",
+    "specie_en": "Common sole",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "E0",
+      "entity.value": "2",
+      "units": "J",
+      "label": "reserve energy in egg",
+      "bibkey": "DevaAlex1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": "mean of batches with 100% viability from wild fish: 13.3% of dry weight is total lipids (assume 37500 J.gd^-1) and 65.9% is crude proteins (assume 18000 J.gd^-1) => E0 = Wd0 * (0.133*37500 + 0.659*18000)"
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "0.425",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Fond1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Page 94: \"active swimming first-feeding larvae were 4-4.5 mm long\""
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.325",
+      "units": "cm",
+      "label": "total length at hatching",
+      "bibkey": "Fond1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Page 92: 3 to 3.5 mm total length at hatching"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "48",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "{'Deni1981', 'Whee1978'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "['P. 397: Linf von Bertalanffy estimation for female (48 cm, Deni1981)"
+    },
+    {
+      "entity": "Li_m",
+      "entity.value": "42",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Deni1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "P. 397: Linf von Bertalanffy estimation for male"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1",
+      "units": "cm",
+      "label": "total length at the end of metamorphosis",
+      "bibkey": "Fond1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Page 94: \"metamorphosis started at 8 to 9mm length...10mm for complete metamorphosis\""
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "27",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "{'Deni1981','MollKraa2007'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Page 397: length-age relationship for female = 48.161 * (1 - exp(-0.329*(ap-0.075)) (Deni1981)"
+    },
+    {
+      "entity": "Lp_m",
+      "entity.value": "22",
+      "units": "cm",
+      "label": "total length at puberty for male",
+      "bibkey": "Dore1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Dorel 1986 - Bay of Biscay - page 74-75: length at maturity"
+    },
+    {
+      "entity": "R45",
+      "entity.value": "1.1e6/365",
+      "units": "#/d",
+      "label": "reprod rate at 45 cm",
+      "bibkey": "WittGree1995",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3027",
+      "units": "#/d",
+      "label": "maximum reprod rate per day",
+      "bibkey": "Deni1981",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "Page 243 - daily fecundity = absolute annual fecundity/365 => (Wwi^1.171 * 160.437)/365 for an individual of ulimate weight Wwi"
+    },
+    {
+      "entity": "Wd0",
+      "entity.value": "0.12e-3",
+      "units": "g",
+      "label": "dry weight at 0",
+      "bibkey": "DevaAlex1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Fig 5 (Page 137) for an egg diameter of 1.4 mm, 1000 eggs = 0.12g, experimental data with in situ genitors (assume f=f_Deniel)"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "91.96",
+      "units": "mug",
+      "label": "dry weight at birth",
+      "bibkey": "Day1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Fig.1: Wd=51.9*exp(0.143*dph) micro-g with dph=4 for first feeding"
+    },
+    {
+      "entity": "Wdh",
+      "entity.value": "51.9",
+      "units": "mug",
+      "label": "dry weight at hatching",
+      "bibkey": "Day1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Fig.1: Wd=51.9*exp(0.143*dph) micro-g with dph=0"
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": "1.8",
+      "units": "mg",
+      "label": "dry weight at metamorphosis",
+      "bibkey": "GaloLaga1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Fig 1A: control at 12degC"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1109.7",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "Deni1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "['length-gonad-free weight relationship for female estimated from raw dataset from Deniel (R2=0.9927): Wwi_soma = 0.0041*Li^3.2312',...\n        'Ultimate wet weight in fishbase is 3000g']"
+    },
+    {
+      "entity": "Wwi_m",
+      "entity.value": "701",
+      "units": "g",
+      "label": "ultimate wet weight for male",
+      "bibkey": "Deni1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "length-gonad-free weight relationship for male estimated from raw dataset from Deniel (R2=0.9944): Wwi_soma = 0.004*Li_m^3.2304"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "173",
+      "units": "g",
+      "label": "wet weight at puberty for female",
+      "bibkey": "{'Deni1981','MollKraa2007'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "['length-gonad-free weight relationship for female estimated from raw dataset from Deniel (R2=0.9927): Wwp_soma = 0.0041*Lp^3.2312',...\n        'in accordance with 200g from MollKraa2007 (f ~0.6, T = 10 (North sea guestimates)']"
+    },
+    {
+      "entity": "Wwp_m",
+      "entity.value": "87",
+      "units": "g",
+      "label": "wet weight at puberty for male",
+      "bibkey": "Deni1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "length-gonad-free weight relationship for male estimated from raw dataset from Deniel (R2=0.9944): Wwpm_soma = 0.004*Lp_m^3.2304"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Fond1979",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "Table 1: time from fertilization to stage 5 (start of feeding) at 13degC (reliable temperature)"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "4.5",
+      "units": "d",
+      "label": "age at hatching",
+      "bibkey": "Fond1979",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "Table 1: time from fertilization to stage 4 (hatching) at 13degC (reliable temperature)"
+    },
+    {
+      "entity": "am",
+      "entity.value": "26 * 365",
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "Deni1981",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "table 118 P.383"
+    },
+    {
+      "entity": "am_m",
+      "entity.value": "24 * 365",
+      "units": "d",
+      "label": "life span for male",
+      "bibkey": "Deni1981",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "table 119 P.383"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "2.58 * 365",
+      "units": "d",
+      "label": "age at puberty for female",
+      "bibkey": "Deni1981",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "['Page 409: smallest spawning females [RGS>5% and ovocytes diameter > 500 micro-m in february] were 33cm => ',...\n        'age-length relationship for female log(1 - (LT/48.161))/-0.329 + 0.075 = 3.58 y => minus 1 year of maturation needed (see Page 204 Fig.67) => 2.58y']"
+    },
+    {
+      "entity": "ap10",
+      "entity.value": "3 * 365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "MollKraa2007",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "50% of age 3 are mature, temp is North Sea estimate"
+    },
+    {
+      "entity": "ap_m",
+      "entity.value": "1.94 * 365",
+      "units": "d",
+      "label": "age at puberty for male",
+      "bibkey": "Dore1986, Deni1981",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "Dorel 1986 - Bay of Biscay - page 74-75: length at maturity = 22cm => age-length relationship for male from Deni1981"
+    },
+    {
+      "entity": "pAmi",
+      "entity.value": "800",
+      "units": "J/d.cm^2",
+      "label": "max surf.area specific assimilation rate, {pAm}postj, at T_ref",
+      "bibkey": "Fond1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "['approximated from mean daily food consumption of dry mussel meat as function of total wet weight, ',...\n    'length-weight relationship, and energy density of mussel meat"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "28",
+      "units": "d",
+      "label": "time from birth to metamorphosis",
+      "bibkey": "Fond1979",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "Fig. 3: estimated time from feeding larvae to metamorphosis at 13degC\""
+    }
+  ]
+}

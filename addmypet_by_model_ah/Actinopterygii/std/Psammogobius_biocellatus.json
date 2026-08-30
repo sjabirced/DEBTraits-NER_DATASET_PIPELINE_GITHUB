@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobionidae",
+    "genus": "Psammogobius",
+    "specie": "Psammogobius_biocellatus",
+    "specie_en": "Sleepy goby"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": 0.095,
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Schl1997",
+    "temp": "C2K(28.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 6.17,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Schl1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 3.0,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.000212,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Eviota_queenslandica"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 40.0,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Schl1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 4.6,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi*(Lp/Li)^3: 40*(3/6.17)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 2.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.4)",
+    "units.temp": "K",
+    "comment": "'this is ignorned"
+  },
+  {
+    "entity": "am",
+    "entity.value": 160.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Schl1997",
+    "temp": "C2K(28.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

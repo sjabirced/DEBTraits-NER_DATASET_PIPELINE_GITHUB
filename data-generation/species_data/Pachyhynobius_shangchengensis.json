@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Hynobiidae",
+    "genus": "Pachyhynobius",
+    "specie": "Pachyhynobius_shangchengensis",
+    "specie_en": "Shangcheng stout salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.9",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "PasmJans2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "18.4",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "17.6",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "9.6",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "PasmJans2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "55/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "PasmJans2012",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "32 and 22 eggs per sag, 2 sacs per yr of a single salamander"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0188",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "PasmJans2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "52",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "XionGou2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Onychodactylus_japonicus"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "36",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "PasmJans2012",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "start of development 16 d after deposition"
+    },
+    {
+      "entity": "am",
+      "entity.value": "24.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "423",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "PasmJans2012",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

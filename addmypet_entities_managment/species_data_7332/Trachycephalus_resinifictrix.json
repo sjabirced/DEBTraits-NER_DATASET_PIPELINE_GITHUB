@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Hylidae",
+    "genus": "Trachycephalus",
+    "specie": "Trachycephalus_resinifictrix",
+    "specie_en": "Amazon milk frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.8",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.7",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "amphibiaweb",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.6",
+    "units": "cm",
+    "label": "SVL of frog at metam",
+    "bibkey": "VersBrow2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.25",
+    "units": "cm",
+    "label": "SVL of frog at puberty",
+    "bibkey": "Mign2015",
+    "temp": null,
+    "units.temp": null,
+    "comment": "value is speculative"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2500/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "2500 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Mign2015",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 1.5  mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "71",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "VersBrow2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tL, tW and Li data: 1.17*(8.8/2.239)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "47.6",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "VersBrow2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "0.393",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "VersBrow2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "56",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Mign2015",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "6-10 w"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "time since metam at puberty for females",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

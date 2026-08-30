@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Littorinimorpha",
+    "family": "Cochliopidae",
+    "genus": "Heleobia",
+    "specie": "Heleobia_australis",
+    "specie_en": "Mud-snail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "0.7",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "CarcFior2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.35",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.8e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(15.3)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.1e-7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "NeveLoui2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 60 mum: pi/6*0.006^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.0311",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on volume estimate from photo"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CarcFior2012",
+      "temp": "C2K(15.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

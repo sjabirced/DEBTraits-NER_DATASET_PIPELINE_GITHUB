@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Chelidae",
+    "genus": "Rhinemys",
+    "specie": "Rhinemys_rufipes",
+    "specie_en": "Red side-necked turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "21.7",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "MagnLima1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "21.5",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "MagnLima1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "MagnLima1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on sexing is difficult less than CL 8 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "based on weight-corrected value for Podocnemis_unifilis: 40*2390/11600"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2394",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "40*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

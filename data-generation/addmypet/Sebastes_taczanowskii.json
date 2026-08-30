@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastes",
+    "specie": "Sebastes_taczanowskii",
+    "specie_en": "White-edged rockfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Kolp2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "72e3/365",
+      "units": "#/d",
+      "label": "reprod rate at 48.3 cm",
+      "bibkey": "Kolp2006",
+      "temp": "C2K(3.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.833 mm: pi/6*0.0833^3  for Sebastes mentella"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "160",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Kolp2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Kolp2006",
+      "temp": "C2K(3.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

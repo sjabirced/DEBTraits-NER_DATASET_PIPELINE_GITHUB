@@ -1,0 +1,103 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "species": "Pseudechis_porphyriacus",
+    "species_en": "Red-bellied black snake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "24",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "Shin1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki ives 12.2 cm total length"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Shin1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "Shin1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "88",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "{'Shin1978','Wiki'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "78",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "{'Shin1978','Wiki'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "20/365",
+      "units": "#/d",
+      "label": "reprod rate at SVL 136.7 cm",
+      "bibkey": "Wiki",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": "8-40 young per clutch covered in a membrane, 1 clutch every 1 yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5",
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Notechis_scutatus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1e3",
+      "units": "g",
+      "label": "ultimate weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11.6*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

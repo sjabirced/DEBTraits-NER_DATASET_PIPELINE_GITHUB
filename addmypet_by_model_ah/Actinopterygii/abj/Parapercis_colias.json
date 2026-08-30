@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Uranoscopiformes",
+    "family": "Pinguipedidae",
+    "genus": "Parapercis",
+    "specie": "Parapercis_colias",
+    "specie_en": "New Zealand blue cod"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "45",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "14.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.03*4.9e6/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "BeerWing2013",
+    "temp": "C2K(12.6)",
+    "units.temp": "K",
+    "comment": "'based on rel fecundity of 6316 eggs/g at 774 g, TL 36.5 cm, gives 1323 g, which equals Wwi"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BeerWing2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 1.17 mm: pi/6*0.117^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.3e3",
+    "units": "g",
+    "label": "ultimate weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00851*Li^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "36.7",
+    "units": "g",
+    "label": "weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Lp^3.13, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "18*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Carb2004",
+    "temp": "C2K(12.6)",
+    "units.temp": "K",
+    "comment": "based on tL data"
+  }
+]

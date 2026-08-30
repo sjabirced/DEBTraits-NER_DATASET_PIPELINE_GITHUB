@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottocomephoridae",
+    "genus": "Paracottus",
+    "specie": "Paracottus_knerii",
+    "specie_en": "Stone sculpin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "19",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "TolmBogd2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 3 yr, from tL_f data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "600/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.63 mm of Cottus volki: pi/6*0.163^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TolmBogd2010",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

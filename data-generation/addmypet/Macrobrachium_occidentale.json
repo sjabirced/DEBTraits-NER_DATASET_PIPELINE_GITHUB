@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Palaemonidae",
+    "genus": "Macrobrachium",
+    "specie": "Macrobrachium_occidentale",
+    "specie_en": "River prawn",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "3.9",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "IbarWehr2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW data"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.44",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Palaemon elegans 3.65*3.9/5.84 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.74e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "based on same relative max reprod rate, compared to Palaemon elegans: 14.6/1.43*1704 per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.5e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length 0.65 mm and egg width 0.5 mm for Palaemon elegans: pi/6*.05^2*.065"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "IbarWehr2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW data"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.57",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi*(Lp/Li)^3: 14.6*(2.44/3.9)^3 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "IbarWehr2020",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

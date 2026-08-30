@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Sphyrnidae",
+    "genus": "Sphyrna",
+    "specie": "Sphyrna_zygaena",
+    "specie_en": "Smooth hammerhead shark",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "42.3",
+      "units": "cm",
+      "label": "fork length at birth",
+      "bibkey": "{'fishbase','KohlCase1996'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'fishbase TL = 55 cm"
+    },
+    {
+      "entity": "Li_f",
+      "entity.value": "387",
+      "units": "cm",
+      "label": "ultimate fork length (female)",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'fishbase TL = 500 cm"
+    },
+    {
+      "entity": "Lp_f",
+      "entity.value": "213",
+      "units": "cm",
+      "label": "fork length at puberty (female)",
+      "bibkey": "{'fishbase','KohlCase1996'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'fishbase TL = 275 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "35/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(26.5)",
+      "units.temp": "K",
+      "comment": "20 till 50 pups per litter"
+    },
+    {
+      "entity": "Wwi_f",
+      "entity.value": "400e3",
+      "units": "g",
+      "label": "ultimate wet weight (female)",
+      "bibkey": "{'fishbase','KohlCase1996'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp_f",
+      "entity.value": "66.7e3",
+      "units": "g",
+      "label": "wet weight at puberty (female)",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp_f/Li_f)^3*Wwi_f"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10.5*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(26.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "21*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(26.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

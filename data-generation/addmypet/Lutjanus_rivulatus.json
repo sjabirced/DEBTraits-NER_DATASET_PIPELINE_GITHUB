@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Lutjanus",
+    "specie": "Lutjanus_rivulatus",
+    "specie_en": "Blubberlip snapper",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "81",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.9e6/365",
+      "units": "#/d",
+      "label": "max reprod rate ",
+      "bibkey": "guess",
+      "temp": "C2K(26.5)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Lutjanus_sanguineus: 2.6e6*8988/12019"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.8 mm of L. stellatus: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8988",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01549*Li^3.02, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "55*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WakeCoul2020",
+      "temp": "C2K(26.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Gymnoscopelus",
+    "specie": "Gymnoscopelus_braueri",
+    "specie_en": "Brauer"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13.9",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "SaunLour2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase gives SL 22 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.7",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Electrona antarctica: 0.7*13.9 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "32e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(0.8)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Benthosema_suborbitale: 400*(13.9/3.2)^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.5e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.5 mm of Benthosema_suborbitale: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "17.9",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "{'SaunLour2020','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00437*Li^3.16, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "5.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00437*Lp^3.16, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SaunLour2020",
+    "temp": "C2K(0.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

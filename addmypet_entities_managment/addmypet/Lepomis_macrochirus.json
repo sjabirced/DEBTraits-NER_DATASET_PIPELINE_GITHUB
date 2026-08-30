@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Centrarchidae",
+    "genus": "Lepomis",
+    "specie": "Lepomis_macrochirus",
+    "specie_en": "bluegill sunfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "(0.5+0.59)/2",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "TanMof1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "0.5-0.59 cm, derived from date at first feeding, from Siefert et al 1972"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "22.9",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Mec2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "under excellent conditions, based on 9 inches, world record around 40 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8.0e4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Est1949",
+      "temp": "C2K(26.5)",
+      "units.temp": "K",
+      "comment": "Temperature based on temperature range (21-32 C -> 26.5 C) under which reproduction occurs in Florida (Clugston 1966 found in cabi.org)"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "340.2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Mec2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'under excellent conditions, 12 ounces"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "14.17",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "SwiSmi1943",
+      "temp": null,
+      "units.temp": null,
+      "comment": "weight at first spawn, weight based on 0.5 ounces (14.17 g)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3+3",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "HicPie2012",
+      "temp": "C2K(21.1)",
+      "units.temp": "K",
+      "comment": "based on temperature given in Farenheit (70 F), days are based on 3 days until hatch and additional 3 days until swim up"
+    },
+    {
+      "entity": "am",
+      "entity.value": "((365*11)+(365*8))/2",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Par2013",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": "mean life span under captivity, temperature based on standard laboratory conditions from bioaccumulation study 20-25 C"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time at puberty",
+      "bibkey": "SwiSmi1943",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "['most fish spawn at an age of 1 year (few fish already after 4 month),' ...\n  'Temperature based on mean Temperature in lakes in Auburn (study site) from Boyd (2015) - Water quality - an introduction']"
+    }
+  ]
+}

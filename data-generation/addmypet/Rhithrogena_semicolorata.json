@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Ephemeroptera",
+    "family": "Heptageniidae",
+    "genus": "Rhithrogena",
+    "specie": "Rhithrogena_semicolorata",
+    "specie_en": "Olive Upright",
+    "deb_model": "hep"
+  },
+  "data": [
+    {
+      "entity": "L0",
+      "entity.value": 0.0185,
+      "units": "cm",
+      "label": "egg length",
+      "bibkey": "Eiseler2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 1.2,
+      "units": "cm",
+      "label": "ultimate length",
+      "bibkey": "GiusMicc2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "body length of imago: 8.5-12 mm (BaueSold2012)"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": 1.15,
+      "units": "cm",
+      "label": "ultimate length nymph",
+      "bibkey": "HellWink2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 1775.0,
+      "units": "#",
+      "label": "total number of eggs",
+      "bibkey": "RybiWink2012",
+      "temp": "C2K(8.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": 0.00797,
+      "units": "g",
+      "label": "maximum dry weight of nymph",
+      "bibkey": "GiusMicc2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "derived from supplementary material of GiusMicc2008"
+    },
+    {
+      "entity": "ab",
+      "entity.value": 57.7,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "HumpElli1980",
+      "temp": "C2K(8.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 7.0,
+      "units": "d",
+      "label": "life span as (sub)imago",
+      "bibkey": "guess",
+      "temp": "C2K(8.5)",
+      "units.temp": "K",
+      "comment": "based on fact that (sub)imago does not feed"
+    },
+    {
+      "entity": "tj",
+      "entity.value": 110.0,
+      "units": "d",
+      "label": "time since birth at emergence",
+      "bibkey": "WinkKoop2007",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "time to adult emergence excluding time of winter diapause, guessed temperature, see comment.tp"
+    },
+    {
+      "entity": "tp",
+      "entity.value": 60.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "WinkKoop2007",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "'Egg maturation was completed in the last larval instar (black wing pads) immediately before emergence"
+    }
+  ]
+}

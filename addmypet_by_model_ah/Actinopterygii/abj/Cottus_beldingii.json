@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Cottus",
+    "specie": "Cottus_beldingii",
+    "specie_en": "Paiute sculpin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.2",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Patt1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on purberty in second yr and tL data"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "EberSumm1969",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.1 mm : pi/6*0.21^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "21.7",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00708*Li^3.13, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.5 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "EberSumm1969",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Notropis",
+    "specie": "Notropis_girardi",
+    "specie_en": "Arkansas River shiner",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.4",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "R4",
+      "entity.value": "1012/365",
+      "units": "#/d",
+      "label": "max reprod rate at TL 3.9 cm",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "R5",
+      "entity.value": "3246/365",
+      "units": "#/d",
+      "label": "max reprod rate at TL 4.9 cm",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.72e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'fishesoftexas','Cobu1986'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.69 mm: pi/6*0.069^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.85",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Lp^3.13, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.13",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishesoftexas','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

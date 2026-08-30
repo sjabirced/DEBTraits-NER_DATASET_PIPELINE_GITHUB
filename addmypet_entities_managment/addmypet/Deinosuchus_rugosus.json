@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Alligatoridae",
+    "genus": "Deinosuchus",
+    "specie": "Deinosuchus_rugosus",
+    "specie_en": "Deinosuchus",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "880",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "EricBroc1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "200/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "Very speculative, including temperature, based on cumulated neonate mass equals ultimate weight"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5e6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EricBroc1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "51*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EricBroc1999",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "Very speculative"
+    }
+  ]
+}

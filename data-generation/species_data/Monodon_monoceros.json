@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Monodontidae",
+    "genus": "Monodon",
+    "specie": "Monodon_monoceros",
+    "specie_en": "Narwhal",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/2.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'AnAge'}",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "1 calf each 2.5 yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "80e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "904e3",
+      "units": "g",
+      "label": "ultimate wet weight females",
+      "bibkey": "GardHeid2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1645e3",
+      "units": "g",
+      "label": "ultimate wet weight males",
+      "bibkey": "GardHeid2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "115*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GardHeid2007",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "Data for female, males live shorter"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "450",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "Body temp from HeidNiel2014"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "GardHeid2007",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "GardHeid2007",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "608",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

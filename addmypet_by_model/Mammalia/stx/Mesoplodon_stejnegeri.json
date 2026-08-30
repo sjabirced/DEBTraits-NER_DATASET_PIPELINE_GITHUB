@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Ziphiidae",
+    "genus": "Mesoplodon",
+    "specie": "Mesoplodon_stejnegeri",
+    "specie_en": "Stejneger"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "210",
+    "units": "cm",
+    "label": "length at birth",
+    "bibkey": "AraiYama2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "550",
+    "units": "cm",
+    "label": "ultimate length for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "525",
+    "units": "cm",
+    "label": "ultimate length for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "412",
+    "units": "cm",
+    "label": "length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Hyperoodon_ampullatus: 735/980*550"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Hyperoodon_ampullatus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "73.4e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Hyperoodon_ampullatus: (210/550)^3*1.32e6"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.32e6",
+    "units": "g",
+    "label": "ultimate wet weight females",
+    "bibkey": "Carw1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Carw1995: 1-1.5 ton. EoL gives 4.8 ton. Value based on Hyperoodon_ampullatus: (550/980)^3*7.5e6"
+  },
+  {
+    "entity": "am",
+    "entity.value": "40*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Hyperoodon_ampullatus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "365",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "Temp taken from Monodon"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

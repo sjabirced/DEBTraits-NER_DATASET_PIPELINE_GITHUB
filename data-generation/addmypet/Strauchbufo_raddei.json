@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Strauchbufo",
+    "specie": "Strauchbufo_raddei",
+    "specie_en": "Mongolian toad",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8.9",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "8.9",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "amphibiaweb: males are smaller than females, but this is not clear from tL data"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.4",
+      "units": "cm",
+      "label": "SVL for females at metam",
+      "bibkey": "Kuzm2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3500/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "1070-6000  eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "87.1",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Bufo bufo: 417*(8.9/15)^3"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "87.1",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Bufo bufo: 417*(8.9/15)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Kuzm2017",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "1-2 wk"
+    },
+    {
+      "entity": "am",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since metam at puberty for female",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

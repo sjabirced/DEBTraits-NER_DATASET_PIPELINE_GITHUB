@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Gymnocanthus",
+    "specie": "Gymnocanthus_intermedius",
+    "specie_en": "Whip sculpin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "23",
+      "units": "cm",
+      "label": "ultimate total length for",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12.9",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Panc2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on ap = 2 yr, from tL_f data"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "12.1",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Panc2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on ap = 2 yr, from tL_m data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.2e3/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(2.9)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.94 as found for Cottis volki"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "baed on egg diameter of 1.63 mm for Cottus volki: pi/6*0.163^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(7.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Ommatotriton",
+    "specie": "Ommatotriton_vittatus",
+    "specie_en": "Southern banded newt",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Neurergus kaiseri "
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4.8",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Altu2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "5.1",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "Altu2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "50/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "based on Neurergus kaiseri"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Triturus cristatus:(4.8/8.4)^3*9.4"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "2.1",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Triturus cristatus: (5.1/8.4)^3*9.4"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Altu2018",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "Altu2018",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Altu2018",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

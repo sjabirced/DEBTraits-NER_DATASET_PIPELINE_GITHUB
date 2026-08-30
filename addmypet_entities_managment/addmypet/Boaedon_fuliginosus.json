@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lamprophiidae",
+    "genus": "Boaedon",
+    "specie": "Boaedon_fuliginosus",
+    "specie_en": "African house snake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "25.2",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "BobaDich2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "90",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "BobaDich2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Ford2001 corresponds with SVL 75 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "72",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Ford2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SVL 60 cm: 60*90/75 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "15/50",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "BobaDich2012",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "'5 to 15 eggs per clutch, 1 clutch every 50 d"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "6.9",
+      "units": "g",
+      "label": "initial egg weight",
+      "bibkey": "Ford2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "383.77",
+      "units": "g",
+      "label": "ultimate weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "60",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BobaDich2012",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

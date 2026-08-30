@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Seriphus",
+    "specie": "Seriphus_politus",
+    "specie_en": "Queen croaker"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10.3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.2e6/365",
+    "units": "#/d",
+    "label": "reprodion rate at TL 25 cm",
+    "bibkey": "DemaFoun1981",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.34e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "DemaFoun1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.635 mm: pi/6*0.0635^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "451",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01230*Li^3.09, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "16.6",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.01230*Lp^3.09, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

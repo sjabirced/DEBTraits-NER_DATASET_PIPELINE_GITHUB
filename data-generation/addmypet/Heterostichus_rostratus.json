@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Blenniiformes",
+    "family": "Clinidae",
+    "genus": "Heterostichus",
+    "specie": "Heterostichus_rostratus",
+    "specie_en": "Giant kelpfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "61",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fisbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Coye1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*800/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "Step1986",
+      "temp": "C2K(19.2)",
+      "units.temp": "K",
+      "comment": "800 eggs per nest, assumed 3 nests per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Step1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.4 mm: pi/6*0.14^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.6e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Li^3.08, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "15",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "hatch in 13 d, yolk sac adsorbtion in 2 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WinsClai2018",
+      "temp": "C2K(19.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

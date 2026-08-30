@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Leuciscus",
+    "specie": "Leuciscus_vorax",
+    "specie_en": "Tigris asp"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "102",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "74504/365",
+    "units": "#/d",
+    "label": "reproduction rate at TL = 38.cm",
+    "bibkey": "ShafJasi1982",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ShafJasi1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.07 mm: pi/6*0.107^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5640",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00501*Li^3.14, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "634",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00501*Li^3.14, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "24*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

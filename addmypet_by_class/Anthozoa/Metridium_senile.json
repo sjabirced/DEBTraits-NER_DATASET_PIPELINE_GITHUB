@@ -1,0 +1,51 @@
+[
+  {
+    "phylum": "Cnidaria",
+    "class": "Anthozoa",
+    "order": "Actiniaria",
+    "family": "Metridiidae",
+    "genus": "Metridium",
+    "specie": "Metridium_senile",
+    "specie_en": "Frilled anemone"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.7e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 550 mum: pi/6*0.055^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "396",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on height 30 cm, width 4.1 cm (from photo): 30*pi*4.1^2/4"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.37",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Buck1987a",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on smallest value in WWR-data"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

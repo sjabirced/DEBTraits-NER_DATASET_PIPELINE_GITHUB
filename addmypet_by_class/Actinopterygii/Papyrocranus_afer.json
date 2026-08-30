@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Osteoglossiformes",
+    "family": "Notopteridae",
+    "genus": "Papyrocranus",
+    "specie": "Papyrocranus_afer",
+    "specie_en": "Reticulate knifefish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "80",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "FemiUgwu2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "FemiUgwu2019 give 53.4 cm for 50 percent, but LN data shows 40 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0244",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 3.6 mm: pi/6*0.36^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "' max published weight"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "162.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "FrenPott2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lp/Li)^3*Wwi"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

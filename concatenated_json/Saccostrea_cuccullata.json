@@ -1,0 +1,70 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Ostreoida",
+    "family": "Ostreidae",
+    "species": "Saccostrea_cuccullata",
+    "species_en": "Hooded oyster"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8",
+    "units": "cm",
+    "label": "maximum length",
+    "bibkey": "ArkhBouc2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.58",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Ostra edulis: (1/2597)^(1/3)*Li)"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "29e3",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "based on kap=0.98"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "3.5",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Ostrea chilensis"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0000046",
+    "units": "g",
+    "label": "tissue wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Ostrea chilensis"
+  },
+  {
+    "entity": "am",
+    "entity.value": "26*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ArkhBouc2017",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "Minimum value"
+  }
+]

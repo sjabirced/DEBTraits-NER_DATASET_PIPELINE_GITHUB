@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Enteroctopodidae",
+    "genus": "Enteroctopus",
+    "specie": "Enteroctopus_dofleini",
+    "specie_en": "Giant Pacific octopus"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": "5e4",
+    "units": "#",
+    "label": "cum reprod at death",
+    "bibkey": "ADW",
+    "temp": "C2K(10.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.03",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "146e3",
+    "units": "g",
+    "label": "wet weight at 470 d",
+    "bibkey": "{'Wiki','sealifebase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "seabase gives 272 kg, wiki 71 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "21e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Robi1983: 12.5 kg for male"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(10.5)",
+    "units.temp": "K",
+    "comment": "3-5 yr"
+  }
+]

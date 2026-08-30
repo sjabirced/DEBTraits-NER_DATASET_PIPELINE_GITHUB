@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Cnidaria",
+    "class": "Scyphozoa",
+    "order": "Semaeostomeae",
+    "family": "Cyaneidae",
+    "genus": "Cyanea",
+    "specie": "Cyanea_capillata",
+    "specie_en": "Lion",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.5,
+      "units": "cm",
+      "label": "bell diameter at birth",
+      "bibkey": "flickr",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 230.0,
+      "units": "cm",
+      "label": "ultimate bell diameter",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "arm length 37 m"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 12.4,
+      "units": "cm",
+      "label": "bell diameter at puberty",
+      "bibkey": "Brew1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 15000000.0,
+      "units": "#",
+      "label": "cumulated # eggs",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "guess based on kap = 0.4"
+    },
+    {
+      "entity": "am",
+      "entity.value": 365.0,
+      "units": "d",
+      "label": "life span of the medusae",
+      "bibkey": "aquariumofpacific",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "1 yr as mudusa, many as polyp"
+    },
+    {
+      "entity": "ap",
+      "entity.value": 43.0,
+      "units": "d",
+      "label": "age at puberty of the medusae",
+      "bibkey": "Brew1989",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "28 till 58 d"
+    }
+  ]
+}

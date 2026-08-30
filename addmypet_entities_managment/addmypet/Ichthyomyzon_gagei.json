@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Cephalaspidomorphi",
+    "order": "Petromyzontiformes",
+    "family": "Petromyzontidae",
+    "genus": "Ichthyomyzon",
+    "specie": "Ichthyomyzon_gagei",
+    "specie_en": "Southern brook lamprey",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "17",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "NR",
+      "entity.value": "2485",
+      "units": "#",
+      "label": "eggs at the end of life",
+      "bibkey": "Walk2007",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.1e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "msstate",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.92 mm: pi/6*0.092^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00105*Li^3.03, see F1)"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.57",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishesoftexas','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00105*Lp^3.03"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "17",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Beam1982",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "temp is guessed"
+    }
+  ]
+}

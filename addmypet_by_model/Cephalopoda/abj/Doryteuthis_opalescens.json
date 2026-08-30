@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Doryteuthis",
+    "specie": "Doryteuthis_opalescens",
+    "specie_en": "Opalescent inshore squid"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.3,
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Doryteuthis_pealeii"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 12.0,
+    "units": "cm",
+    "label": "mantle length at death for female",
+    "bibkey": "ButlFull1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li_m",
+    "entity.value": 14.0,
+    "units": "cm",
+    "label": "mantle length at death for male",
+    "bibkey": "ButlFull1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 8.5,
+    "units": "cm",
+    "label": "mantle length at puberty",
+    "bibkey": "ButlFull1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 300.0,
+    "units": "#",
+    "label": "cum reprod at death",
+    "bibkey": "ADW",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "Temp is guessed"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": 86.0,
+    "units": "g",
+    "label": "wet weight at death",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Doryteuthis_pealeii"
+  },
+  {
+    "entity": "am",
+    "entity.value": 220.0,
+    "units": "d",
+    "label": "life span for female",
+    "bibkey": "ButlFull1999",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am_m",
+    "entity.value": 245.0,
+    "units": "d",
+    "label": "life span for male",
+    "bibkey": "ButlFull1999",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

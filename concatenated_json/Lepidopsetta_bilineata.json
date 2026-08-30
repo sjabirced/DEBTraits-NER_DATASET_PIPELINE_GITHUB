@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Lepidopsetta",
+    "specie": "Lepidopsetta_bilineata",
+    "specie_en": "Rock sole"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.18",
+    "units": "g/g",
+    "label": "gonadosomatic index",
+    "bibkey": "StarSome2002",
+    "temp": "C2K(4.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "58",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "34.7",
+    "units": "cm",
+    "label": "length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Forr1964",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter 0.92 mm: pi/6*0.092^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Li^3.07, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "488",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00912*Lp^3.07, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "26*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(5.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Acanthuridae",
+    "genus": "Naso",
+    "specie": "Naso_unicornis",
+    "specie_en": "Bluespine unicornfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "23.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on same relative length, compared to Zebrasoma_scopas"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.44e6/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "guess based on Ri for Zebrasoma_scopas as fraction of Wwi"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Leis1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.75 mm of Chaetodon: 4/3*pi*0.038^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10418",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 8.495e-5 * (10*Li)^2.843, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "446",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on g = 8.495e-5 * (10*Lp)^2.843, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ChoaAxe1996",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "all temperatures are guessed"
+  }
+]

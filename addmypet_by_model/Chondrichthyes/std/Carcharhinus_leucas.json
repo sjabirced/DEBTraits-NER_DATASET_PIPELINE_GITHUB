@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Carcharhinus",
+    "specie": "Carcharhinus_leucas",
+    "specie_en": "Bull shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "fork length at birth",
+    "bibkey": "BranStil1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "320",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "McCoLamb2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "180",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "BranStil1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.0356164",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fisbase",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "Maximum reported number of pups in Bull Sharks is 13 per cycle, sharks bear 1 litter per year (gestation period 10-12 months)"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2490",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SchmMurr1994",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Coverted from length at birth presented in SchmMurr1994 using length-weight chart in BranStil1987"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "410000",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "McCoLamb2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "84860",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "BranStil1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Coverted from length at birth presented in SchmMurr1994 using length-weight chart in BranStil1987"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11 * 30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "temperature from free-ranging adult bull sharks, generally between 28-32 C"
+  },
+  {
+    "entity": "am",
+    "entity.value": "32*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fisbase",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6 * 365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "fisbase",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

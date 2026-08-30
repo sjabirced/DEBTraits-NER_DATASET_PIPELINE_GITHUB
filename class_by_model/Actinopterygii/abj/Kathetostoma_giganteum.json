@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Uranoscopiformes",
+    "family": "Uranoscopidae",
+    "genus": "Kathetostoma",
+    "specie": "Kathetostoma_giganteum",
+    "specie_en": "Giant stargazer"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "90",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "47.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "517e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(11.2)",
+    "units.temp": "K",
+    "comment": "based on weight-spec fecundity of Uranoscopus_scaber corrected for max weight and egg weight"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.4e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Robe1975",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 2.3 mm: pi/6*0.23^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "13.3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0167*Li^3.02, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.93e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0167*Lp^3.02, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(11.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Littorinimorpha",
+    "family": "Tateidae",
+    "genus": "Potamopyrgus",
+    "specie": "Potamopyrgus_antipodarum",
+    "specie_en": "New Zealand mudsnail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.03467",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "Gaia2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Measurements from cohort cultures, using smallest and lightest animal in the age class 0-14 days"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.65",
+      "units": "cm",
+      "label": "ultimate length",
+      "bibkey": "Wint1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.1416",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "Gaia2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Measurements from cohort cultures, age class 173-223 days"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.305",
+      "units": "cm",
+      "label": "length at first reproduction",
+      "bibkey": "GustBuro2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.53",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "GustBuro2011",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.00561375",
+      "units": "g",
+      "label": "dry weight at ultimate stage",
+      "bibkey": "EkloAust2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.000038",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Gaia2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "From own measurements, using smallest and lightest animal in the age class 0-14 days"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.000681",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "Gaia2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "32.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "PedeSelc2009",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wall1992",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "Wall1992: \"snails generally lived well in the conditions provided (some individuals for well over 4 years)\""
+    },
+    {
+      "entity": "tj",
+      "entity.value": "198",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Gaia2016",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Measurements from cohort cultures, age class 173-223 days"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "273",
+      "units": "d",
+      "label": "time since birth at first reproduction",
+      "bibkey": "PedeSelc2009",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

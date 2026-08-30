@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Bothidae",
+    "genus": "Arnoglossus",
+    "specie": "Arnoglossus_thori",
+    "specie_en": "Thor"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18.2",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "Deni1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "16.6",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "Deni1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Deni1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3e5/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(15.4)",
+    "units.temp": "K",
+    "comment": "based on Arnoglossus laterna"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.7 mm of Arnoglossus laterna: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "55.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'Deni1990','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00692*Li^3.10, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "15.3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'Deni1990','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00692*Lp^3.10, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(15.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

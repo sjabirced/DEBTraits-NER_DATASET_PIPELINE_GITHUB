@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Hyriidae",
+    "genus": "Velesunio",
+    "specie": "Velesunio_angasi",
+    "specie_en": "Freshwater mussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8.05",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "HumpSimp1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.0",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "HumpSimp1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "155e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "Guessed based on value for kap"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "1.527",
+      "units": "g",
+      "label": "ultimate flesh dry weight at SL 6.3 cm",
+      "bibkey": "HumpSimp1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on Mudginberri data at 32.5 yr of age"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 306 till 309 mum glochidium length, but rather flat: 0.5*4/3*pi*0.015^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "35*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HumpSimp1985",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

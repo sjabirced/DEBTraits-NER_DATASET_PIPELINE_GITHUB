@@ -1,0 +1,54 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anostraca",
+    "family": "Tanymastigidae",
+    "genus": "Tanymastigites",
+    "specie": "Tanymastigites_perrieri",
+    "specie_en": "Fairy shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.075,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "BelaKhat2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 2.3,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "BelaKhat2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.88,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "BelaKhat2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": 0.0207,
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based in Arteria salina: 0.0017*(2.6/1)^3"
+    }
+  ]
+}

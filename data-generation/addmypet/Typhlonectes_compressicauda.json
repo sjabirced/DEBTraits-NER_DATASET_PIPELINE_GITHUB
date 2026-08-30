@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Gymnophiona",
+    "family": "Typhlonectidae",
+    "genus": "Typhlonectes",
+    "specie": "Typhlonectes_compressicauda",
+    "specie_en": "Cayenne caecilian",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.7",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Wake1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "15 to 20 mm hatch from egg membrane for Dermophis mexicanus"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "13.68",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "ExbrDels1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": "coincides with leaving the mother"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "ExbrDels1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "28",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "ExbrDels1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "14/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "6 to 14 eggs per clutch, 1 clutch each other yr, but typically 4 young leave mother"
+    },
+    {
+      "entity": "Ww42",
+      "entity.value": "95",
+      "units": "g",
+      "label": "wet weight female of TL 42 cm",
+      "bibkey": "ExbrDels1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "213",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ExbrDels1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Ww42*(L_m/42)^3"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "6",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "ExbrDels1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwm41",
+      "entity.value": "84",
+      "units": "g",
+      "label": "wet weight male of TL 41.5 cm",
+      "bibkey": "ExbrDels1985",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "34.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Wake1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Ww42*(L_p/42)^3"
+    },
+    {
+      "entity": "aj",
+      "entity.value": "6*30.5",
+      "units": "d",
+      "label": "age at metam",
+      "bibkey": "ExbrDels1985",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "AnAge gives 4.9 yr, but this seems short given ap=2yr and 2yr reproduction cycle"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "16*30.5",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "ExbrDels1985",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

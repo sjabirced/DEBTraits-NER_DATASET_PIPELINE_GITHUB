@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Crocodylidae",
+    "genus": "Crocodylus",
+    "specie": "Crocodylus_intermedius",
+    "specie_en": "Orinico crocodile"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "23.5",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ReptileDB",
+    "temp": null,
+    "units.temp": null,
+    "comment": "22-25 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "344",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "ReptileDB",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Wwi/Wwim)^(1/3)*Lim"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "410",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "ReptileDB gives upto 678 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "250",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Seij2016",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "250",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Seij2016",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "40/365/2",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "40 eggs per clutch, 1 clutch per 2yrs assumed"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "225e3",
+    "units": "g",
+    "label": "ultimate wet weight of female",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "380e3",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "75*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "AnAge gives 41 yr"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Seij2016",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

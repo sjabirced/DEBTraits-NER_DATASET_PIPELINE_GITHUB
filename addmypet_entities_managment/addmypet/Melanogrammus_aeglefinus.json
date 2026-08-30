@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Gadidae",
+    "genus": "Melanogrammus",
+    "specie": "Melanogrammus_aeglefinus",
+    "specie_en": "Haddock",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "112",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "34.9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.15e5/365",
+      "units": "#/d",
+      "label": "reprod rate at 640 g or 40 cm",
+      "bibkey": "Wiki",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ww40",
+      "entity.value": "630",
+      "units": "g",
+      "label": "wet weight at length of 40 cm",
+      "bibkey": "ICES",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ICES",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.2 till 1.7 mm: 4/3*pi*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "16800",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "361",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.0157 * Lp^2.8268, see F4"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab2",
+      "entity.value": "15",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(2.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "1.8*365",
+      "units": "d",
+      "label": "age at puberty for female",
+      "bibkey": "ICES",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

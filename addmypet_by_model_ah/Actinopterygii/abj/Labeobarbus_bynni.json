@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Labeobarbus",
+    "specie": "Labeobarbus_bynni",
+    "specie_en": "Niger Labeobarbus_bynnibarb"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "82",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Barbus barbus"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "140e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.0e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.25 mm of Barbus barbus: pi/6*0.125^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00933*Li^3.01, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "150.5",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00933*Lp^3.01, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "hatch at 4 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

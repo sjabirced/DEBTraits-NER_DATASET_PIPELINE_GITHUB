@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "genus": "Notechis",
+    "specie": "Notechis_scutatus",
+    "specie_en": "Tiger snake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "17",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "Fear1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "100",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Shin1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "Shin1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "65",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "Shin1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "30/365",
+      "units": "#/d",
+      "label": "reprod rate at SVL 136.7 cm",
+      "bibkey": "Wiki",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": "20-30 young per clutch in captivity, 1 clutch every 1 yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.5",
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "Fear1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1400",
+      "units": "g",
+      "label": "ultimate weight for females",
+      "bibkey": "Fear1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "2200",
+      "units": "g",
+      "label": "ultimate weight for males",
+      "bibkey": "Fear1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "14.1*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

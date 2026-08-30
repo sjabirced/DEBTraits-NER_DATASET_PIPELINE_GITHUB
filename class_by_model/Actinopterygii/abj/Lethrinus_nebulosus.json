@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Lethrinidae",
+    "genus": "Lethrinus",
+    "specie": "Lethrinus_nebulosus",
+    "specie_en": "Spangled emperor"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.08",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "based on Lethrinus_miniatus, Ebis2006"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "87",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "38.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "GomaSiju2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.7 mm of Lethrinus_lentjan: pi/6*0.07^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10226",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01698*Li^2.98, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "922",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01698*Lp^2.98, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "28*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "EbisOzaw2009",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

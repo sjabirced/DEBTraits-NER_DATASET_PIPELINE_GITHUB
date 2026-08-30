@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Nemacheilidae",
+    "genus": "Acanthocobitis",
+    "specie": "Acanthocobitis_mooreh",
+    "specie_en": "Hill stream loach"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "KharDaha2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.7",
+    "units": "cm",
+    "label": " total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "based on Barbatula barbatula"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.13e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "VinySost2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.6 mm of Barbatula barbatula: pi/6*0.06^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "KharDaha2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.82",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'KharDaha2007','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on (Lp/Li)^3*Wwi: (3.7/6)^3*3.5"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

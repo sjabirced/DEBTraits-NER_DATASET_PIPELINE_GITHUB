@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Echinodermata",
+    "class": "Ophiuroidea",
+    "order": "Ophiurida",
+    "family": "Ophiuridae",
+    "genus": "Ophiura",
+    "specie": "Ophiura_ophiura",
+    "specie_en": "Serpent star",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "ultimate disc diameter",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "arms up to 14 cm"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.0325",
+      "units": "cm",
+      "label": "disc diameter at metamorphosis",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.4",
+      "units": "cm",
+      "label": "disc diameter at puberty",
+      "bibkey": "{'marlin','Dahm1993'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp from tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "880",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "guess based on kap = 0.9"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "1.0681",
+      "units": "g",
+      "label": "ultimate ash-free dry weight",
+      "bibkey": "{'guess','Dahm1993'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.044 * (10*Li)^2.840, see F1"
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": "1.6e-3",
+      "units": "g",
+      "label": "ashfree dry weight at puberty",
+      "bibkey": "{'marlin','Dahm1993'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/Li)^3*Wdi"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.236e-7",
+      "units": "g",
+      "label": "wet weight atb birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on guessed egg diameter of 0.1 mm: 4/3*pi*(0.01/2)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "guess based on Amphiura_filiformis"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "guess base on tL data and Li"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "17",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "guess based on Amphiura_filiformis"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "marlin",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

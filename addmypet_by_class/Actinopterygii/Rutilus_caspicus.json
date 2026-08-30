@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Rutilus",
+    "specie": "Rutilus_caspicus",
+    "specie_en": "Caspian roach"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "45",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Rutilus rutilus"
+  },
+  {
+    "entity": "R22",
+    "entity.value": "30e3/365",
+    "units": "g",
+    "label": "Reprod rate at TL 22 cm",
+    "bibkey": "Laak2010",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": "based on Rutilus rutilus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 1.2 mm of Rutilus rutilus: 4/3*pi*0.06^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1124",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Based on 0.00724*Li^3.14, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "18.2",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00724*Lp^3.14, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": "based on Rutilus rutilus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

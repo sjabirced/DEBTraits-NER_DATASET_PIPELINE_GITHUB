@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Arhynchobatidae",
+    "genus": "Bathyraja",
+    "specie": "Bathyraja_brachyurops",
+    "specie_en": "Broadnose skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "20.9",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.18*Li, as typical for Bathyraja"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "116",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Buck2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "75",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Buck2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 10 yr and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "14.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.65, as is typical for Bathyraja"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14.2e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00490*Li^3.13, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "21*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": "based on v = 0.032 cm/d, as is typical for Bathyraja"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Buck2006",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

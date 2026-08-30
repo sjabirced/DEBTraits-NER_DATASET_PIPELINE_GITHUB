@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Barbus",
+    "specie": "Barbus_balcanicus",
+    "specie_en": "Danube barbel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.12",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "BertPizz2019",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "17.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "BertPizz2019",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.5e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.888 mm: pi/6*0.189^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "42.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00631*Li^3.08, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'BertPizz2019','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00631*Lp^3.08, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

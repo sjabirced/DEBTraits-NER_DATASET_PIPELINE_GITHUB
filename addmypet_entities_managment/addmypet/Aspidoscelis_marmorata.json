@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Teiidae",
+    "genus": "Aspidoscelis",
+    "specie": "Aspidoscelis_marmorata",
+    "specie_en": "Marbled whiptail",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.0",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8.2",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "GadsCast2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "GadsCast2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12",
+      "units": "g",
+      "label": "ultimate wet weight for females (at SVL 7.680 cm)",
+      "bibkey": "GadsCast2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "14.67",
+      "units": "g",
+      "label": "ultimate wet weight for males (at SVL 8.097 cm)",
+      "bibkey": "GadsCast2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GadsCast2013",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1.8*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "GadsCast2013",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "1.7*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "GadsCast2013",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

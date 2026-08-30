@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lamprophiidae",
+    "genus": "Psammophylax",
+    "specie": "Psammophylax_rhombeatus",
+    "specie_en": "Rhombic Skaapsteker"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "19",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Bour1970",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "140",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "70",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on typical length between 45 and 85 cm (EoL)"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*30/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "EoL",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "30 eggs per clutch, assumed: 2 clutches per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "2.94",
+    "units": "g",
+    "label": "initial egg weight",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 27 mm, width 15 mm: pi/6*2.5*1.5^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.9e3",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based Psammophis_sibilans"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "42",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "EoL",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "maximum life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "value for Psammophis subtaeniatus"
+  }
+]

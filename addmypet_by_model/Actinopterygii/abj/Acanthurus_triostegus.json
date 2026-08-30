@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Acanthuridae",
+    "genus": "Acanthurus",
+    "specie": "Acanthurus_triostegus",
+    "specie_en": "Convict surgeonfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "27",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "375",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(27.6)",
+    "units.temp": "K",
+    "comment": "based on Ri for Zebrasoma_scopas as fraction of Wwi: 3014*414/3329"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.57e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.67 mm: pi/6*0.067^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "414",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02399*Li^2.96, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "15",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02399*Lp^2.96, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "45*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.6)",
+    "units.temp": "K",
+    "comment": "based on A. lineatus"
+  }
+]

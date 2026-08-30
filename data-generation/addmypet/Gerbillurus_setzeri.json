@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Gerbillurus",
+    "specie": "Gerbillurus_setzeri",
+    "specie_en": "Namib brush-tailed gerbil",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "37.02",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5*3.9/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": "'2-9 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Gerbilliscus_afra"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "46",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "GenoIsle2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW: 30-40 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5.7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": "based on Gerbilliscus_afra"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "21",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "ADW",
+      "temp": "C2K(35.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "152",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": "based on Gerbilliscus_afra"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "25",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "gbif",
+      "temp": "C2K(35.2)",
+      "units.temp": "K",
+      "comment": "23-28 d"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Viperidae",
+    "genus": "Crotalus",
+    "specie": "Crotalus_pricei",
+    "specie_en": "Twin-spotted rattlesnake"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "13.5",
+    "units": "cm",
+    "label": "SVL at hatching",
+    "bibkey": "PrivSchr2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "48",
+    "units": "cm",
+    "label": "ultimate SVL of females",
+    "bibkey": "PrivSchr2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: total length 66 cm"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "50",
+    "units": "cm",
+    "label": "ultimate SVL of males",
+    "bibkey": "PrivSchr2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "39",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "PrivSchr2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 3 to 4 yr, read from tL_f data"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "35",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "PrivSchr2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 3 to 4 yr, read from tL_m data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "PrivSchr2012",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "4.3 per clutch, 1 clutch per yr assumed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PrivSchr2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "115",
+    "units": "g",
+    "label": "ultimate wet weight of females",
+    "bibkey": "PrivSchr2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "188.5",
+    "units": "g",
+    "label": "ultimate wet weight of males",
+    "bibkey": "PrivSchr2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "70",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": "'27 to 32 C"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15.7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3.5*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "PrivSchr2012",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on tp/tmp ratio as found in Crotalus oreganus"
+  }
+]

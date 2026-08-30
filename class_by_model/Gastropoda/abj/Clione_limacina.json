@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Gymnosomata",
+    "family": "Clionidae",
+    "genus": "Clione",
+    "specie": "Clione_limacina",
+    "specie_en": "Naked sea butterfly"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.016",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Boer2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "{'Boer2005','LallGilm1989'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.2",
+    "units": "cm",
+    "label": "total length at metam",
+    "bibkey": "Boer2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Boer2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3e5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'Boer2005','LallGilm1989'}",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": "LallGilm1989 report 2800 eggs for a 77 mm sized animal. I presume one egg bath per year, but this is uncertain"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": "1.25e-8",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "BoerGann2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Dry weight is guesstimated on the bais of length-dry weight relationship. See dataset 1."
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "0.546",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "BoerGann2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Dry weight is guesstimated on the bais of length-dry weight relationship. See dataset 1."
+  },
+  {
+    "entity": "Wdp",
+    "entity.value": "0.003",
+    "units": "g",
+    "label": "dry weight at puberty",
+    "bibkey": "BoerGann2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Dry weight is guesstimated on the bais of length-dry weight relationship. See dataset 1."
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "{'Boer2005','LallCono1973'}",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "730",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": "Lifespan is quite uncertain, two years are mentioned"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "14",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Boer2005",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "30",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Boer2005",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

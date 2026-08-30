@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Zearaja",
+    "specie": "Zearaja_chilensis",
+    "specie_en": "Yellownose skate "
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "17",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on on Beringraja_binoculata"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "210",
+    "units": "cm",
+    "label": "ultimate disk width for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "106",
+    "units": "cm",
+    "label": "total lengtb at puberty for females",
+    "bibkey": "LicaLami2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "86",
+    "units": "cm",
+    "label": "total lengtb at puberty  for males",
+    "bibkey": "LicaLami2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "200/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(6.7)",
+    "units.temp": "K",
+    "comment": "based on Beringraja_binoculata, with temperature correction"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "83.4e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00309*Li^3.20, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "9.4e3",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00309*Lp^3.20, see F1"
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "2.05e3",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00309*Lpm^3.20, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "21*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LicaLami2006",
+    "temp": "C2K(6.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

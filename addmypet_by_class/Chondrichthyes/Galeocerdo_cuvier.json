@@ -1,0 +1,161 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Galeocerdo",
+    "specie": "Galeocerdo_cuvier",
+    "specie_en": "Tiger shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "62",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "' 51 to 76  cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "550",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "MeyeOMal2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "428",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "MeyeOMal2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "300",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "250",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "15/365/3",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "10 till 18 pups per litter every 3 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "929",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1144e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "MeyeOMal2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed as 2.528e-3 * (62 * 203/ 247)^3.26, see F3"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "505e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "MeyeOMal2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed as 2.528e-3 * (428 * 203/ 247)^3.26, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "159e3",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "87.5e3",
+    "units": "g",
+    "label": "wet weight at puberty for males",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "16.5*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "15 till 18 months"
+  },
+  {
+    "entity": "am",
+    "entity.value": "27.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "NataCase1999",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "'AnAge gives 25"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7 * 365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "NataCase1999",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "7 * 365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "NataCase1999",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Iberochondrostoma",
+    "specie": "Iberochondrostoma_lemmingii",
+    "specie_en": "Iberian cyprinid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "20",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "VelaRinc1990",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "25",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.2",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "VelaRinc1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.4e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "VelaRinc1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "166.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'VelaRinc1990','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00724*Li^3.12, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.64",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'VelaRinc1990','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00724*Lp^3.12, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "VelaRinc1990",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

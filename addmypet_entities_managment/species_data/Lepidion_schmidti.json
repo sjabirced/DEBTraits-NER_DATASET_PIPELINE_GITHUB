@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Moridae",
+    "genus": "Lepidion",
+    "specie": "Lepidion_schmidti",
+    "specie_en": "Schmidt",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "112",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "KoroMalt2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase gives 85 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "29.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lepidion lepidion"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "7329/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(6.8)",
+      "units.temp": "K",
+      "comment": "based on kap=0.6"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm of Pseudophycis_bachus: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14.5e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "KoroMalt2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "57",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on LW data for Lp"
+    },
+    {
+      "entity": "am",
+      "entity.value": "49*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KoroMalt2023",
+      "temp": "C2K(6.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

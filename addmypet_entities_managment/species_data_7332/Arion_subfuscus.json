@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Arionidae",
+    "genus": "Arion",
+    "specie": "Arion_subfuscus",
+    "specie_en": "Dusky slug"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "60/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "'Value for Arion ater: 20-50 eggs per clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.02",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HutcReis2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "HutcReis2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "HutcReis2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "42",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "Value for Arion ater, temperature guessed"
+  },
+  {
+    "entity": "am",
+    "entity.value": "365",
+    "units": "d",
+    "label": "life spam",
+    "bibkey": "{'ADW','HutcReis2017'}",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "167",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "HutcReis2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

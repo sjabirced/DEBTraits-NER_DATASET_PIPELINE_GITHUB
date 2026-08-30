@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Moxostoma",
+    "specie": "Moxostoma_macrolepidotum",
+    "specie_en": "Shorthead redhorse"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "75",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "34",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SuleSkel1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp < 5 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "44e3/365",
+    "units": "#/d",
+    "label": "max Reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SuleSkel1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.6-2.1 mm: pi/6*0.19^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.97e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01072*Li^2.97, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "379",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','SuleSkel1985'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01072*Lp^2.97, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SuleSkel1985",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

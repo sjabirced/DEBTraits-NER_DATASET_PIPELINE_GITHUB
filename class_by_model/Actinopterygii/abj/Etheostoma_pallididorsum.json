@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Etheostoma",
+    "specie": "Etheostoma_pallididorsum",
+    "specie_en": "Paleback darter"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.45",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "HambRobi1979",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 2.7 and F2"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.82e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HambRobi1979",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.9 mm: pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.42",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "relationship 0.00513*Li^3.14 (see F1)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HambRobi1979",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

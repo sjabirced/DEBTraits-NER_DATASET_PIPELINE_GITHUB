@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Stomiiformes",
+    "family": "Sternoptychidae",
+    "genus": "Maurolicus",
+    "specie": "Maurolicus_imperatorius",
+    "specie_en": "Emperor seamount lightfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "6.8",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "SaviBayt2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.85",
+      "units": "cm",
+      "label": "fork length at postflexion stage",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on similar relative length , compared to Maurolicus_muelleri"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.4",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative length, compared to Maurolicus_muelleri"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.2e4/365",
+      "units": "#/d",
+      "label": "reprod rate at 20 cm",
+      "bibkey": "guess",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.58 as found for Maurolicus_muelleri"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.68e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm of Maurolicus_muelleri: 4/3*pi*0.04^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.8",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "SaviBayt2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 7e-6*(10*Li)^3.057, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.336",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "SaviBayt2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 7e-6*(10*Lp)^3.057, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SaviBayt2010",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

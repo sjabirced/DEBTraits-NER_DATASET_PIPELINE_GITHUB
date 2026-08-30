@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Plethodontidae",
+    "genus": "Desmognathus",
+    "specie": "Desmognathus_ochrophaeus",
+    "specie_en": "Allegheny Mountain dusky salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.95",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "Bruc1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4.6",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "Bruc2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.2",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "KeenOrr1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "3.0-3.4 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "27/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Till1973",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "26 eggs per clutch (13 to 39), 1 clutch each other yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.56e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Bruc1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3.1 mm (2.7 to 3.6 mm): pi/6*0.31^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on D. monticola: (4.6/6.6)^3*6"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "56",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "KeenOrr1980",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "6-10 wk"
+    },
+    {
+      "entity": "am",
+      "entity.value": "19.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "KeenOrr1980",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

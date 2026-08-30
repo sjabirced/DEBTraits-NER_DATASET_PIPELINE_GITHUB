@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Sciuridae",
+    "genus": "Urocitellus",
+    "specie": "Urocitellus_armatus",
+    "specie_en": "Uinta ground squirrel",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "5.4/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "'5.4 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KoepHoff1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "500",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "201-635 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "Data from Urocitellus_richardsonii and uncertain"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "24.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "ADW",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "23 to 26 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "ADW",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "1-2 yr"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "39",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ADW",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

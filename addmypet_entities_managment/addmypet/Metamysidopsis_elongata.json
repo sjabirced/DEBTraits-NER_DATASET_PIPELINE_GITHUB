@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Mysida",
+    "family": "Mysidae",
+    "genus": "Metamysidopsis",
+    "specie": "Metamysidopsis_elongata",
+    "specie_en": "Opossum shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.124,
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "ClutThei1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 0.72,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "ClutThei1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.4,
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "ClutThei1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": 0.43,
+      "units": "cm",
+      "label": "length at puberty for males",
+      "bibkey": "ClutThei1971",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 10.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ClutThei1971",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 213.0,
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "ClutThei1971",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 47.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ClutThei1971",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

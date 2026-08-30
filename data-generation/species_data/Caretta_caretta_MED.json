@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Cheloniidae",
+    "genus": "Caretta",
+    "specie": "Caretta_caretta_MED",
+    "specie_en": "loggerhead turtle, Mediterranean population",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "E0",
+      "entity.value": "170e3",
+      "units": "J",
+      "label": "initial energy content of the egg",
+      "bibkey": "HaysSpea1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": "range 165-260kJ"
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "4.04",
+      "units": "cm",
+      "label": "SCL at birth",
+      "bibkey": "{'MargArga2003','ReidMarg2009'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "91",
+      "units": "cm",
+      "label": "ultimate CCL",
+      "bibkey": "{'MargArga2003','Groom1990'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'CCL, mean of max in <MargArga2003> and <Groom1990>)"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "87",
+      "units": "cm",
+      "label": "ultimate SCL",
+      "bibkey": "{'MargArga2003','Groom1990'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'SCL, mean of max in <MargArga2003> and <Groom1990>)"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "69",
+      "units": "cm",
+      "label": "CCL at puberty",
+      "bibkey": "{'MargArga2003','Groom1990', 'TiwaBjor2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "CCL, mean of mins of reproducing females in Mediter"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "62.5",
+      "units": "cm",
+      "label": "SCL at puberty",
+      "bibkey": "{'MargArga2003','Groom1990', 'TiwaBjor2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "SCL, mean of mins of reproducing females in Mediter"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.2 * 160/ (2 * 365)",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'BrodGlen2003', 'TiwaBjor2000'}",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "['calculated as number of nests per nesting season (2.2,{BrodGlen2003})',...\n      'multiplied by number of eggs per clutch (160,{MargArga2003,Groom1990,TiwaBjor2000})',...\n      'and divided by the interval between two nesting seasons (2 yr,{BrodGlen2003})', ...\n      'varying data"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "15.59",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'MargArga2003','ReidMarg2009'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "calculated from refs in <MargArga2003>"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "87e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Groom1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "52e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Groom1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": "varying data,  from <Grooom1990> (range 52.5-87kg, for Greece - larger females there)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "data.ah +4.1+2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'GodfMros1997','Stok2014'}",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "age at birth = hatch + emerge (4.1d for 30C, GodfMros1997) + relying on yolksac (2-3d, Stok2014)"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "49.08",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "ReidMarg2009",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "67",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "18",
+      "units": "yr",
+      "label": "age at puberty",
+      "bibkey": "{'CasaCont2011','PiovClus2011'}",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "'range between 16-28 by Casale"
+    }
+  ]
+}

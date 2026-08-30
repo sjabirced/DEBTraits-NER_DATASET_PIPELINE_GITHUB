@@ -1,0 +1,73 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Cyprinodontidae",
+    "species": "Aphanius_mento",
+    "species_en": "Iridescent toothcarp",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.45",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "GuclKucu2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "228/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "GuclKucu2011",
+      "temp": "C2K(17.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.0e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GuclKucu2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.24 mm: pi/6*0.124^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00977*Li^3.26, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GuclKucu2008",
+      "temp": "C2K(17.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

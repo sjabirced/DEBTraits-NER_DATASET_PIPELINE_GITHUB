@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Hexanauplia",
+    "order": "Scalpelliformes",
+    "family": "Pollicipedidae",
+    "genus": "Pollicipes",
+    "specie": "Pollicipes_polymerus",
+    "specie_en": "Gooseneck barnacle"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.75",
+    "units": "cm",
+    "label": "ultimate capitulum height at Goleta Pt.",
+    "bibkey": "Page1996",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.25",
+    "units": "cm",
+    "label": "ultimate capitulum height at Holy",
+    "bibkey": "Page1996",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.2",
+    "units": "cm",
+    "label": "capitulum height at puberty at Goleta Pt.",
+    "bibkey": "Page1996",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.6",
+    "units": "cm",
+    "label": "capitulum height at puberty at Holy",
+    "bibkey": "Page1996",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "7*24e4/ 365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "odyssey",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "24e4 eggs/brood, 7 broods/yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.24e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "odyssey",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Based on egg diameter of 100 mum: pi/6*0.01^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "25",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Lewi1975",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "only fully grown at 20 yr"
+  },
+  {
+    "entity": "ts",
+    "entity.value": "42",
+    "units": "d",
+    "label": "time since birth at settlement",
+    "bibkey": "Lewi1975",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

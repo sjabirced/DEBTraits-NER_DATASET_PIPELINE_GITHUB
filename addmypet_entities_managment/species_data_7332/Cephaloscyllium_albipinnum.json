@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Scyliorhinidae",
+    "genus": "Cephaloscyllium",
+    "specie": "Cephaloscyllium_albipinnum",
+    "specie_en": "Whitefin swellshark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Cephaloscyllium isabellum"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "102.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Wiki gives 110 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "102.8",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Bell2012",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "82.3",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Bell2012",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "FranMaol2018",
+    "temp": "C2K(12.6)",
+    "units.temp": "K",
+    "comment": "based on Cephaloscyllium_isabellum"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.14e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00331*Li^3.15, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "27*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Bell2012",
+    "temp": "C2K(12.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Bell2012",
+    "temp": "C2K(12.6)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Bell2012",
+    "temp": "C2K(12.6)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Anguidae",
+    "genus": "Ophisaurus",
+    "specie": "Ophisaurus_ventralis",
+    "specie_en": "Eastern glass lizard"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "0.0205",
+    "units": "ml O2/min",
+    "label": "max BMR",
+    "bibkey": "KameGatt1983",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "15/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "'5-15 eggs per clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on TL 15 cm at hatch, at ultimate 108 cm"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "600",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "300-600 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "95",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "14.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since metam at puberty for female",
+    "bibkey": "ADW",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

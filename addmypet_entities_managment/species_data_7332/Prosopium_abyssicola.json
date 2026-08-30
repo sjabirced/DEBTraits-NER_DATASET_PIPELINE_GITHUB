@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Prosopium",
+    "specie": "Prosopium_abyssicola",
+    "specie_en": "Bear Lake whitefish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Thom2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Thom2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 3 yr and tL data"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Shes2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.1 mm (1.9 to 2.4 mm) for Prosopium cylindraceum: pi/6*0.21^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "472",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','Thom2003'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00457*Li^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "32.45",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','Thom2003'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00457*Lp^3.13, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Thom2003",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

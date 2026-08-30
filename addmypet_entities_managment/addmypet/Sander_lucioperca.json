@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Sander",
+    "specie": "Sander_lucioperca",
+    "specie_en": "European pike-perch",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Aart2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Aart2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "35",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Aart2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4e6/365",
+      "units": "#/d",
+      "label": "Reprod rate max size",
+      "bibkey": "Aart2007",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "200 eggs per g"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Aart2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 0.9 mm: 4/3*pi*0.045^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "20e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Aart2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "741",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "Aart2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on  (Lp/Li)^3 * Wwi"
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "496",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "Aart2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on (Lpm/Li)^3 * Wwi"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Aart2007",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "age at puberty for females",
+      "bibkey": "Aart2007",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "age at puberty for males",
+      "bibkey": "Aart2007",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

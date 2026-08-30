@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Pteropodidae",
+    "genus": "Nyctimene",
+    "specie": "Nyctimene_robinsoni",
+    "specie_en": "Eastern tube-nosed bat"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "54.70",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "1 pup per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.1",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Eonycteris_spelaea: 5.9*56/80"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "56",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "42-56 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10.1*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "based on Dobsonia moluccensis"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "3.25*30.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "273",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "based on Eonycteris_spelaea"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "91",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "based on Eonycteris_spelaea"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Echinodermata",
+    "class": "Echinoidea",
+    "order": "Camarodonta",
+    "family": "Parechinidae",
+    "genus": "Paracentrotus",
+    "specie": "Paracentrotus_lividus",
+    "specie_en": "Purple sea urchin"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.16",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "CellFena1990",
+    "temp": "C2K(14.5)",
+    "units.temp": "K",
+    "comment": "'max value of female of tL4 at  172 d"
+  },
+  {
+    "entity": "JX",
+    "entity.value": "0.082",
+    "units": "g/d",
+    "label": "feeding rate for Ww = 0.006 g ",
+    "bibkey": "CellFena1990",
+    "temp": "C2K(19.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "JX",
+    "entity.value": "0.288",
+    "units": "g/d",
+    "label": "feeding rate for Ww = 4.45 g ",
+    "bibkey": "CellFena1990",
+    "temp": "C2K(19.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "ultimate test diameter",
+    "bibkey": "Gros2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.048",
+    "units": "cm",
+    "label": "test diameter at settlement",
+    "bibkey": "CellFena1990",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.25",
+    "units": "cm",
+    "label": "test diameter at puberty",
+    "bibkey": "Gros2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ecol_mar",
+    "temp": "C2K(19.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "18",
+    "units": "d",
+    "label": "time since birth at settlement",
+    "bibkey": "CellFena1990",
+    "temp": "C2K(19.5)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

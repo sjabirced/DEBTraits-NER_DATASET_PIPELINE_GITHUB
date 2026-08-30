@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Notacanthiformes",
+    "family": "Halosauridae",
+    "species": "Halosauropsis_macrochir",
+    "species_en": "Abyssal halosaur"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "76",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "BergClar2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on observation that individuals less than 25 cm could not be sexed"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "25e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(3.3)",
+    "units.temp": "K",
+    "comment": "based on Polyacanthonotus challengeri, see CrabSula1985"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "CrabSula1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on guessed egg diameter of 1.5 mm of Polyacanthonotus: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "517",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00087*Li^3.07, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "16",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(3.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "36*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BergClar2016",
+    "temp": "C2K(3.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Pholidota",
+    "family": "Manidae",
+    "genus": "Manis",
+    "specie": "Manis_pentadactyla",
+    "specie_en": "Chinese pangolin"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'AnAge','ZhanWu2016'}",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": "savepangolins: 2 and 3 young have been reported"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "104",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ZhanWu2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "2 to 7 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "ZhanWu2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "EoL",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": "one individual was still alive at 15.3 yr"
+  },
+  {
+    "entity": "jO",
+    "entity.value": "3.06",
+    "units": "ml/min.kg",
+    "label": "specific O2 consumption rate",
+    "bibkey": "HeatHamm1986",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": "resting metabolic rate"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "200",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ZhanWu2016",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": "Wiki: 182 to 225 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "0.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ZhanWu2016",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "87",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

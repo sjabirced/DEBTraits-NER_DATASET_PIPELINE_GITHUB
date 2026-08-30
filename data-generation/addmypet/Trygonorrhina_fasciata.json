@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rhinopristiformes",
+    "family": "Rhinobatidae",
+    "genus": "Trygonorrhina",
+    "specie": "Trygonorrhina_fasciata",
+    "specie_en": "Eastern fiddler ray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "27",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "IzzoGill2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "76.4",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "IzzoGill2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "67.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "IzzoGill2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "65-70 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5.3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "IzzoGill2008",
+      "temp": "C2K(20.7)",
+      "units.temp": "K",
+      "comment": "'4-7 pups per litter"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "10e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','IzzoGill2008'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.007*Li^2.96, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "380",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(20.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "26*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "IzzoGill2008",
+      "temp": "C2K(20.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

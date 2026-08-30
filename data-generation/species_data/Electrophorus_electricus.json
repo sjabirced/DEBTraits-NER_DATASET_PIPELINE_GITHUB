@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gymnotiformes",
+    "family": "Gymnotidae",
+    "genus": "Electrophorus",
+    "specie": "Electrophorus_electricus",
+    "specie_en": "Electric eel",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "L19",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "total length at 19 d since hatch",
+      "bibkey": "AssuSchw1995",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "L61",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "total length at 61 d since hatch",
+      "bibkey": "AssuSchw1995",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "L915",
+      "entity.value": "70",
+      "units": "cm",
+      "label": "total length at 195 d since hatch",
+      "bibkey": "AssuSchw1995",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "1.9",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "SantVari2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.9",
+      "units": "cm",
+      "label": "total length at hatch",
+      "bibkey": "AssuSchw1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "8-11 mm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "250",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "68.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "AssuSchw1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "17000/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "{'fishbase'}",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2e4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "782",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Kooy2014a",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (68.5/ 115)^3 * 3700"
+    },
+    {
+      "entity": "ah",
+      "entity.value": "9",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "AssuSchw1995",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "22*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "'temp guessed from distribution"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "AssuSchw1995",
+      "temp": "C2K(25.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lampriformes",
+    "family": "Lampridae",
+    "genus": "Lampris",
+    "specie": "Lampris_guttatus",
+    "specie_en": "Opah",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "FranGrig2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "FranGrig2004: max length in New Zealand waters is FL 125 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "total fork at puberty",
+      "bibkey": "FranGrig2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5e5/365",
+      "units": "#/d",
+      "label": "max repoduction rate at FL 963 mm",
+      "bibkey": "guess",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "see discussion"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.4e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Cole2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.3 mm: pi/6*0.23^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "250e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02239*Li^3.02 Wwi would be 199 kg, see F3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FranGrig2004",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4.6*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "FranGrig2004",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

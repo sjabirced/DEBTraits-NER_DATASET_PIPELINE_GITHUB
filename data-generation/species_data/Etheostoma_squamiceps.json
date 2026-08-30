@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Etheostoma",
+    "specie": "Etheostoma_squamiceps",
+    "specie_en": "Spottail darter",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.66",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 8.8, SL = 0.87 * TL"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.1",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "Page1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Page1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.6 mm: pi/6*0.16^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.74",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.00513*(8.8)^3.14, see F1, F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Page1974",
+      "temp": "C2K(16.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "0.8*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Page1974",
+      "temp": "C2K(16.5)",
+      "units.temp": "K",
+      "comment": "based on Lp and tL data"
+    }
+  ]
+}

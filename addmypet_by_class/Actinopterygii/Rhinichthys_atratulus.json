@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Rhinichthys",
+    "specie": "Rhinichthys_atratulus",
+    "specie_en": "Eastern blacknose dace"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.5",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "ReedMoul1973",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "7.2",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "ReedMoul1973",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.75",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "FrakSnod2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2674/365",
+    "units": "#/d",
+    "label": "Reprod rate max rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ReedMoul1973",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 10^(-4.795 + 2.954 * log10(10*Li)), see F1"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "2.77",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ReedMoul1973",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 10^(-4.795 + 2.954 * log10(10*Lim))), see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.44",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'FrakSnod2002','ReedMoul1973'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 10^(-4.795 + 2.954 * log10(10*Lp)), see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ReedMoul1973",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

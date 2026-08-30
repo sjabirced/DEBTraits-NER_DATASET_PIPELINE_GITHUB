@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Mustelus",
+    "specie": "Mustelus_walkeri",
+    "specie_en": "Eastern spotted gummy shark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "26.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Rigb2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "111.6",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "84",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Rigb2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "66",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Rigb2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp = 10-14 yr and tL_f data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Rigb2015",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "5-7 pups per litter, 1 litter per 2 yrs assumed, in view of ab"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "6.2e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00240*Li^3.13, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.6*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Rigb2015",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Cinclidae",
+    "genus": "Cinclus",
+    "specie": "Cinclus_leucocephalus",
+    "specie_en": "White-capped dipper",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "GuevLond2017",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "1 clutch per yr, 2 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.22",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GuevLond2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "59",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "16",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "based on cinclus cinclus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "73.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "based on tW data"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "24.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "GuevLond2017",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "based on tW data"
+    }
+  ]
+}

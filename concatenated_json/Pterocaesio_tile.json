@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Caesionidae",
+    "genus": "Pterocaesio",
+    "specie": "Pterocaesio_tile",
+    "specie_en": "Dark-banded fusilier"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.02",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "ApriTupa2023",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "18.6",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "ApriTupa2023",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.9e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.82 mm: pi/6*0.082^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "579",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01288*Li^3.15, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "65.3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01288*Lp^3.15, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ErnaAgus2021",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

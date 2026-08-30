@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Pteroclidiformes",
+    "family": "Pteroclididae",
+    "genus": "Pterocles",
+    "specie": "Pterocles_orientalis",
+    "specie_en": "Black-bellied sandgrouse",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Harr1975",
+      "temp": "C2K(41.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "19.1",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AourZnar2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "355",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "AourZnar2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 300-615 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "420",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "AourZnar2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "21.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Harr1975",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(41.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AourZnar2016",
+      "temp": "C2K(41.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "30",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "AourZnar2016",
+      "temp": "C2K(41.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

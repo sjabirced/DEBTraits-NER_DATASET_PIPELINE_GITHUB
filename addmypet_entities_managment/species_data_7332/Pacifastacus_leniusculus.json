@@ -1,0 +1,201 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Astacidae",
+    "genus": "Pacifastacus",
+    "specie": "Pacifastacus_leniusculus",
+    "specie_en": "Signal crayfish"
+  },
+  {
+    "entity": "E0",
+    "entity.value": "55.56 * 2.56/2.22",
+    "units": "J",
+    "label": "initial energy content of the egg",
+    "bibkey": "{'RodrGarc2006','PawlKorz2010'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Based on Redclaw crayfish (RodrGarc2006): egg diameter (2.22 mm) and energy (55.56 J/egg), egg diameter 2.56mm (PawlKorz2010)"
+  },
+  {
+    "entity": "L2",
+    "entity.value": "7.9",
+    "units": "cm",
+    "label": "total length at 2yr for females",
+    "bibkey": "Abra1971",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "L2m",
+    "entity.value": "8.2",
+    "units": "cm",
+    "label": "total length at 2yr for males",
+    "bibkey": "Abra1971",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.1",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "KozaBuri2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'Birth assumed between stages2 (10mm) and 3 (12mm) post-hatch"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "KoesSoes2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "KoesSoes2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8.0",
+    "units": "cm",
+    "label": "total length at puberty females",
+    "bibkey": "SoutHold2006",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8.2",
+    "units": "cm",
+    "label": "total length at puberty males",
+    "bibkey": "Abra1971",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "350/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "SoutHold2006",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "'Number of eggs varies between 200 and 400, repro once per year"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "35e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "KozaBuri2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'Birth assumed between stages2 (28.2mg) and 3 post-hatch (45.85)"
+  },
+  {
+    "entity": "Wwh",
+    "entity.value": "15.75e-3",
+    "units": "g",
+    "label": "wet weight at hatching",
+    "bibkey": "KozaBuri2009",
+    "temp": null,
+    "units.temp": null,
+    "comment": "stage 1 at hatch, 15.8mg at 14.3 C, and 15.7mg at 20.5 C"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "89.4",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "{'Abra1971', 'WestSavo2002'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'Computed from 94 * (Li/12.2)^3 [Abra1971]"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "212",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "{'Abra1971', 'WestSavo2002'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'Computed from 94 * (Lim/12.2)^3 [Abra1971]"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "29",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'Abra1971', 'WestSavo2002'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'Computed from 94 * (Lp/12.2)^3 [Abra1971]"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "data.ah+10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "KozaBuri2009",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "'Birth assumed at stage2"
+  },
+  {
+    "entity": "ah",
+    "entity.value": "70",
+    "units": "d",
+    "label": "age at hatching",
+    "bibkey": "CelaPaz1987",
+    "temp": "C2K(15.5)",
+    "units.temp": "K",
+    "comment": "['Electronic microscope, development starts almost immediately and takes cca 1000 degrees x days"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SoutHold2006",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "Abra1971",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "Abra1971",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

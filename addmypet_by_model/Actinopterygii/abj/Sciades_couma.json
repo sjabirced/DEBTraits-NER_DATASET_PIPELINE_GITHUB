@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ariidae",
+    "genus": "Sciades",
+    "specie": "Sciades_couma",
+    "specie_en": "Couma sea catfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "97",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "36.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "LecoMeun1989 give SL 51 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "165/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.14",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase gives egg diameter of 2 mm, but Lb=6.0-6.5 cm for S.parkeri, suggesting 16 mm: pi/6*1.6^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "12.5e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00724*Li^3.14, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "588",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00724*Lp^3.14, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

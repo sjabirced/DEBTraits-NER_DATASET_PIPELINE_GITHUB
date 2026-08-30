@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Colubridae",
+    "genus": "Coronella",
+    "specie": "Coronella_austriaca",
+    "specie_en": "Smooth snake",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "Read2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Read2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "Read2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "LuisCapu1996",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "Litters each other year when fully grown"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Read2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "30",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "LuisCapu1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "storm_crow",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "4.5*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "LuisCapu1996",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

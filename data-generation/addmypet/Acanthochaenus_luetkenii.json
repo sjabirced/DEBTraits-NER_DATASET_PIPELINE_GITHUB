@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Beryciformes",
+    "family": "Stephanoberycidae",
+    "genus": "Acanthochaenus",
+    "specie": "Acanthochaenus_luetkenii",
+    "specie_en": "Pricklefish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.55e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "KotlAndr1993",
+      "temp": "C2K(2)",
+      "units.temp": "K",
+      "comment": "80.9 eggs/g"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KotlAndr1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.75 mm: pi/6*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "43.9",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01122*Li^3.04, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KotlAndr1993",
+      "temp": "C2K(2)",
+      "units.temp": "K",
+      "comment": "max age can be longer"
+    }
+  ]
+}

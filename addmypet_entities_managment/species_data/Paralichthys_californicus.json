@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Paralichthyidae",
+    "genus": "Paralichthys",
+    "specie": "Paralichthys_californicus",
+    "specie_en": "California halibut",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.2",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "136.8",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "MacNDome2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "92.5",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "MacNDome2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.8",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "7.5 to 9.4 mm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "38 to 43 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "21.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "20 to 23 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5e5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.7 to 0.8 mm: 4/3*pi*0.0375^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "33e3",
+      "units": "g",
+      "label": "ultimate wet weight at 152 cm",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MacNDome2001",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "25",
+      "units": "d",
+      "label": "time since hatch at metam",
+      "bibkey": "ADW",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "20 to 29 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "ADW",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "ADW",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

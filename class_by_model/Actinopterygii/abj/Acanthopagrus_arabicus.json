@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Acanthopagrus",
+    "specie": "Acanthopagrus_arabicus",
+    "specie_en": "Arabian yellowfin seabream"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "42",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "AlHaMoha2022",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length st puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Acanthopagrus_australis: 3e6*1.5e3/4.3e3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 750 mum: pi/6*0.075^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.5e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02512*Li^2.95, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "173",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02512*Lp^2.95, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2.5+3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": "hatch after 2.5 d, assumed 3 d more till first feeding"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": "based on Acanthopagrus_australis"
+  }
+]

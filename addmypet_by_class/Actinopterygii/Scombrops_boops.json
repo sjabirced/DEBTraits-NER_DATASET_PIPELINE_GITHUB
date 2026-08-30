@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acropomatiformes",
+    "family": "Scombropidae",
+    "genus": "Scombrops",
+    "specie": "Scombrops_boops",
+    "specie_en": "Gnomefish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "150",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 45 cm SL, using SL= 0.85*TL, from photo"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "75",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 15 to 20 cm SL and SL= 0.85*TL, from photo"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "7.8e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(18.2)",
+    "units.temp": "K",
+    "comment": "1.94e6 eggs per kg per yr for Semicossyphus pulcher: 1.94e6*40/365"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.82 to 1.05 mm: pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "40e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'max publish weight 16.1 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "4.9e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01072*Lp^3.02, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(18.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Ctenodactylidae",
+    "genus": "Massoutiera",
+    "specie": "Massoutiera_mzabi",
+    "specie_en": "Mzab gundi"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": "2-3 cups per litter, 1 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "20.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Geor2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "195",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": "based on Ctenodactylus_gundi"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "73",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": "69-79 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "11.5*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Geor2009",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "65",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

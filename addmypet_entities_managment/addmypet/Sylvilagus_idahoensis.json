@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Lagomorpha",
+    "family": "Leporidae",
+    "genus": "Sylvilagus",
+    "specie": "Sylvilagus_idahoensis",
+    "specie_en": "Pygmy rabbit",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "384.5",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "WhitSeym2003",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": "based on Ww = 432 g"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": "6 pups per litter, 3 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "15.7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Sylvilagus floridanus: 40*450/1150"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "450",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "375-500 g"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "46.4",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "28",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Wiki",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": "27-30 d, based on several Sylvilagus species"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "256",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "13",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

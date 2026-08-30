@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Entognatha",
+    "order": "Entomobryomorpha",
+    "family": "Isotomidae",
+    "genus": "Isotoma",
+    "specie": "Isotoma_viridis",
+    "specie_en": "Springtail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.063,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "JoosVelt1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 0.31,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "JoosVelt1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.175,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "JoosVelt1970",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 12.9,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "guess based on reprod investment of Folsomia candida: 19.5 * 1.695/ 305 * Wwi/ Wwb"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 5.66e-06,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on (Lb/Li)^3*Wwi"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 0.000674,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on length-weight of Folsomia candida: (Li/0.238)^3 * 305 mug"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 0.000121,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on (Lp/Li)^3*Wwi"
+    },
+    {
+      "entity": "am",
+      "entity.value": 180.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "JoosVelt1970",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": 25.0,
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "JoosVelt1970",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "from inflection-point in tL data"
+    },
+    {
+      "entity": "tp",
+      "entity.value": 40.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "JoosVelt1970",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

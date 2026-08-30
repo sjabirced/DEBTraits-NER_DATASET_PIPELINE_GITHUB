@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Emydidae",
+    "genus": "Emys",
+    "specie": "Emys_orbicularis",
+    "specie_en": "European pond turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.6",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "emys_home",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "dinoanimals",
+      "temp": null,
+      "units.temp": null,
+      "comment": "upto 38 cm (Wiki), but rarely larger than 20 cm (dinoanimals)"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12.7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "9/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "emys_home",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "95",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "all temps are guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "120*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "5.5*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

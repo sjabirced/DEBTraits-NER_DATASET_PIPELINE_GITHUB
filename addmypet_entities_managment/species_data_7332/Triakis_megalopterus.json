@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Triakis",
+    "specie": "Triakis_megalopterus",
+    "specie_en": "Sharptooth houndshark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "31",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "92",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "58.3",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "9/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(19.3)",
+    "units.temp": "K",
+    "comment": "6-12 pups per litter, 1 litter per 2 yr assumed"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.5e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00240*Li^3.14, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "840",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00240*Lp^3.14, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "365*11.5/12",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(19.3)",
+    "units.temp": "K",
+    "comment": "based on Mustelus_antarcticus"
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MoliBlas2017",
+    "temp": "C2K(19.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

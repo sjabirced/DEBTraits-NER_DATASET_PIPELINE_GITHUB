@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Osteoglossiformes",
+    "family": "Mormyridae",
+    "genus": "Marcusenius",
+    "specie": "Marcusenius_pongolensis",
+    "specie_en": "Southern bulldog",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "26",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "BootKhum2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11.9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "BootKhum2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8e3/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(26.3)",
+      "units.temp": "K",
+      "comment": "based on kap=0.87 of Mormyrus_kannume"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.8 mm: pi/6*0.18^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "116",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'BootKhum2010','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00562*Li^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "10.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'BootKhum2010','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00562*Lp^3.05, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(26.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BootKhum2010",
+      "temp": "C2K(26.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

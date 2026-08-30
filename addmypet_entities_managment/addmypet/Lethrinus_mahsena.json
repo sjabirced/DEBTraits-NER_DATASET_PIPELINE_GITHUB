@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Lethrinidae",
+    "genus": "Lethrinus",
+    "specie": "Lethrinus_mahsena",
+    "specie_en": "Sky emperor",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "65",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "227e3/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "DegoAli2013",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "size is not specified"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "DegoAli2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.335 mm : pi/6*0.0335^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "27*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

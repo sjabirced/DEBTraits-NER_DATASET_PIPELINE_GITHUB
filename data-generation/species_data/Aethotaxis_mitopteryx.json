@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Nototheniidae",
+    "genus": "Aethotaxis",
+    "specie": "Aethotaxis_mitopteryx",
+    "specie_en": "Longfin icedevil",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "33.6",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "44.3",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18.3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Trematomus_bernacchii: 18*33.6/33 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3000/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(0.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.014",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3 mm of based on Trematomus: pi/6*0.3^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "283",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00525*Li^3.10, see F1"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "666.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "43",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00525*Li^3.10, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "95",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(0)",
+      "units.temp": "K",
+      "comment": "based on Trematomus_bernacchii"
+    },
+    {
+      "entity": "am",
+      "entity.value": "36*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Ekau1988",
+      "temp": "C2K(0.9)",
+      "units.temp": "K",
+      "comment": "based on tL data"
+    }
+  ]
+}

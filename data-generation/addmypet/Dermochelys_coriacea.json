@@ -1,0 +1,143 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Dermochelyidae",
+    "species": "Dermochelys_coriacea",
+    "species_en": "Leatherback turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "6.18",
+      "units": "cm",
+      "label": "length at birth, SCL",
+      "bibkey": "Wyne2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Previous data averaged with Wyneken 2023 day of hatching measurements."
+    },
+    {
+      "entity": "Li",
+      "entity.value": "151.07",
+      "units": "cm",
+      "label": "ultimate length, SCL",
+      "bibkey": "{'AvenGosh2020', 'ESA2020', 'ZugParh1996'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "['Li = 151.07, averaged from 19 different studies measuring the size of nesting females (AvenGosh2020, ESA2020, and studies in ZugParh1996). ', ...\n  'Giro2021: Max SCL values for both sexes measured on the Atlantic French coast (n = 300) and males (n = 92)', ...\n  'Jones2011 has Li around 140cm from models']"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "125.6",
+      "units": "cm",
+      "label": "length at puberty, SCL",
+      "bibkey": "AvenTayl2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "['Based on an Avens 2020 study about mean age at maturation (minimum is 109.56 cm SCL). ' ...\n  'They use ossicles to estimate age because, upon reaching puberty', ...\n  'Mean maturation CCL for NWA is 129.2 cm converted to SCL = 125.6 using Avens 2009 methods '...\n  '(better regression than Jones et al., 2011 when tested on nesting female data).']"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.4147",
+      "units": "#/d",
+      "label": "ultimate reproduction rate",
+      "bibkey": "{'ESA2020'}",
+      "temp": "C2K(21.13)",
+      "units.temp": "K",
+      "comment": "Based on updated averages of clutch frequency (5), clutch size (81.74), and remigration interval (2.7) for the NW Atlantic stock."
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "9.776",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "{'Thom1993'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "No new NWA data (there is EP data but not relevant to this task)"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "83.59",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "{'Hsu2020', 'Thom1993'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "['Hsu2020_Parismina, Costa Rica leatherback nesting data from 2018 (egg weight)', ...\n      'Thom1993_ Tortuguero, Costa Rica"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "46.03",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'Hsu2020', 'Wyne2023', 'Thom1993'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average between 47.10 g (Hsu2020, n = 17) and 45.34 g (Wyne2023, n = 38), and 45.69 (Thom1993, n=6)"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "370*1e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Wood1982', 'PalaSot1996', 'LutcBush1992'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "['Set to 370 kg based on more recent references suggesting 360kg and historic records of big turtles having values of 600+kg', ...\n      'Paladino: 13 adult female leatherback turtles (D.coriacea) near Tortuguero (Limon Province, Costa Rica -- NWA)',...\n      'and Playa Langosta (Guanacaste Province, Costa Rica -- EP) in Table 1 reports three means, biggest mean 366 kg (N=10)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "63",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ESA2020",
+      "temp": "C2K(29.88)",
+      "units.temp": "K",
+      "comment": "'Average incubation period is from 59-67 days"
+    },
+    {
+      "entity": "am",
+      "entity.value": "(19.25+11)*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ESA2020",
+      "temp": "C2K(21.13)",
+      "units.temp": "K",
+      "comment": "Mean longevity aftern maturation is 11 years in the NW Atlantic, 19.25+11*365 for d"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "19.25",
+      "units": "yr",
+      "label": "age at puberty",
+      "bibkey": "{'ESA2020'}",
+      "temp": "C2K(21.13)",
+      "units.temp": "K",
+      "comment": "['Mean maturation for NWA leatherbacks in 19.25 years, and mean water temp is averaged between high lat (15-17C) and low lat (25-27.5C) water temperature mean values.', ...\n      'from growth models in Zug et al value is between 6.8 and 16.1 yrs']"
+    },
+    {
+      "entity": "pAm",
+      "entity.value": "0.41",
+      "units": "W/kg",
+      "label": "mass-specific metabolic rate ",
+      "bibkey": "Jone2009",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "['about 350 kg"
+    },
+    {
+      "entity": "pXm",
+      "entity.value": "1.13",
+      "units": "W/kg",
+      "label": "maximum intake of jellyfish of fully grown individual",
+      "bibkey": "Jone2009",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "['NWA leatherbacks: Energy budget calculations between EP and NWA, but suggests that average required feeding rate for ', ...\n      'St. Croix (NWA) leatherbacks for a 2.85 year remigration interval is 127 kg/d. Leatherback prey energy content is ', ... \n      '310 kJ/kg wet mass from Davenport & Balazs 1991). For a 400 kg turtle, this would be 127/400*310000/24/60/60', ...\n      'previous version: adult about 350 kg, 82 kg jelly fish/d for 250-450 kg turtle with 200 J/g  = 82/350*200000/24/60/60 = 0.5423 W/kg. ']"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Channichthyidae",
+    "genus": "Chionodraco",
+    "specie": "Chionodraco_rastrospinosus",
+    "specie_en": "Ocellated icefish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "52",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "MesaAshf2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "MesaAshf2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6389/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MesaDona2023",
+      "temp": "C2K(0.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0654",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MesaDona2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 5 mm: pi/6*0.5^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.39e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MesaAshf2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00132*Li^3.51, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "202",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "MesaAshf2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00132*Lp^3.51, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "70",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(0)",
+      "units.temp": "K",
+      "comment": "based on Trematomus_bernacchii"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MesaAshf2008",
+      "temp": "C2K(0.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Palaemonidae",
+    "genus": "Palaemon",
+    "specie": "Palaemon_elegans",
+    "specie_en": "Rockpool shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5.84",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "BascBasc2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.65",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "BascBasc2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'smallest total length of shrimp with eggs"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1704/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "BascBasc2002",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.398",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "BascBasc2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.5e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BascBasc2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from egg length 0.65 mm and egg width 0.5 mm: pi/6*.05^2*.065"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.43",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "BascBasc2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.500",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "BascBasc2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'smallest weight of shrimp with eggs"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BascBasc2002",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "400",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "guess based on Palaemonetes pugio"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "22",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "BascBasc2002",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

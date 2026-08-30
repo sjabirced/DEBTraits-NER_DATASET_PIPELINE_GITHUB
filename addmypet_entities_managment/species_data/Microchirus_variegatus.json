@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Soleidae",
+    "genus": "Microchirus",
+    "specie": "Microchirus_variegatus",
+    "specie_en": "Thickback sole",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "20.5",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Deni1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "17.5",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "Deni1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Deni1990",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3e5/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "GibsEzzi1980",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": "based on fecundity = 10^(3.3472 * log10(standard length in mm = 190)- 2.1064)"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.7  mm: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "80.3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Deni1990','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00851*Li^3.03, see F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "25.2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'Deni1990','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00851*Lp^3.03, see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(10.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

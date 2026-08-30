@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Mytiloida",
+    "family": "Mytilidae",
+    "genus": "Mytilus",
+    "specie": "Mytilus_californianus",
+    "specie_en": "California mussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.018",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Schm1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Mean size of velichonca stage"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Payn1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.026",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "Schm1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Such1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.2e7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FoxCoe1943",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "100",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Matz2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.325",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "FoxCoe1943",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Schm1999",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "temp from FoxCoe1943"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7300",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Such1981",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "3",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Schm1999",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Schm1999",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Sturnidae",
+    "genus": "Buphagus",
+    "specie": "Buphagus_erythrorhynchus",
+    "specie_en": "Red-billed oxpecker",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Stut1982",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "2.7 eggs/clutch, 1.5 clutches per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Stut1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "59",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Stut1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "asymptotic weight of nestling, adults weigh less"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "12.6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Stut1982",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temp is guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "22.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "75",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "25",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Stut1982",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

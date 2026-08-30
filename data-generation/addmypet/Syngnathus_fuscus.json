@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "genus": "Syngnathus",
+    "specie": "Syngnathus_fuscus",
+    "specie_en": "Northern pipefish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.1",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "CampAble1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "33",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11.9",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "CampAble1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1380/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "CampAble1998",
+      "temp": "C2K(4.9)",
+      "units.temp": "K",
+      "comment": "based on # eggs per female"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CampAble1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.75-1 mm: pi/6*0.09^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "21",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00028*Li^3.21, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.79",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'CampAble1998','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00028*Lp^3.21, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(4.9)",
+      "units.temp": "K",
+      "comment": "30 till 38 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(4.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

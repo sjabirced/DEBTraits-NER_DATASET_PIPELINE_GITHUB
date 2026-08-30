@@ -1,0 +1,93 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "species": "Quadrula_quadrula",
+    "species_en": "Mapleleaf",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": ".02",
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "unio",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8.5*1.3",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "ChriDavi2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": ".03",
+      "units": "cm",
+      "label": "shell length at settlement",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "115e3/365",
+      "units": "#/d",
+      "label": "reproduction rate at SL 9.15 cm",
+      "bibkey": "Haag2013",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "Based on Quadrula cylindrica"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "47.9",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Unio_tumidus : 14*(11/7.3)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "unio",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ChriDavi2000",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

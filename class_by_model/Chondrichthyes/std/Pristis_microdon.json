@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rhinopristiformes",
+    "family": "Pristidae",
+    "genus": "Pristis",
+    "specie": "Pristis_microdon",
+    "specie_en": "Largetooth sawfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "81",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "72–90 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "700",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "270",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "7/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "'1-13 pups per clutch"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.4e6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00501*Li^3.05, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "temp of all data is guessed"
+  },
+  {
+    "entity": "am",
+    "entity.value": "80*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Peve2010",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "fishbase gives max reported age 30 yr"
+  }
+]

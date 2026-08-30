@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cingulata",
+    "family": "Chlamyphoridae",
+    "genus": "Cabassous",
+    "specie": "Cabassous_centralis",
+    "specie_en": "Northern naked-tailed armadillo",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "917",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "WhitSeym2003",
+      "temp": "C2K(33.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(33.6)",
+      "units.temp": "K",
+      "comment": "1 young per litter, 2 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "49",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Euphractus_sexcinctus: 105*3810/8200"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3810",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "WhitSeym2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 2 to 3.5 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(33.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "68",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(33.6)",
+      "units.temp": "K",
+      "comment": "based on Euphractus_sexcinctus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "274",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(33.6)",
+      "units.temp": "K",
+      "comment": "based on Euphractus_sexcinctus"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "28",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(33.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

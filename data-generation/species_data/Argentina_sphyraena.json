@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Argentiniformes",
+    "family": "Argentinidae",
+    "genus": "Argentina",
+    "specie": "Argentina_sphyraena",
+    "specie_en": "Lesser silver smelt",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.07",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "SerrMuno2018",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "35",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.68e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SerrMuno2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 800 mum: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "295.1",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00363*Li^3.18, see F4"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "11.2",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00363*Lp^3.18, see F4"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Percina",
+    "specie": "Percina_macrolepida",
+    "specie_en": "Bigscale logperch",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "10.8",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 9.5 cm and F2"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.52",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative length, compared to P. caprodes: 10.8*7.2/17.2"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "365/365",
+      "units": "#/d",
+      "label": "reprod rate at SL 8.3 cm, TL 9.4 cm",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishesoftexas",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.32 mm: pi/6*0.132^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Li^3.14 (see F1)"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1.1",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','fishesoftexas'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Lp^3.14 (see F1)"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishesoftexas",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

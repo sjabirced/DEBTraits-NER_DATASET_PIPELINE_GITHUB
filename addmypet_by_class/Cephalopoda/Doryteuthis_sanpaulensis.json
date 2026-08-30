@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Doryteuthis",
+    "specie": "Doryteuthis_sanpaulensis",
+    "specie_en": "Sao Paulo squid"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.155,
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "VidaMari2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "0.14-0.17 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 16.0,
+    "units": "cm",
+    "label": "mantle length at death for female",
+    "bibkey": "VidaMari2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": 23.0,
+    "units": "cm",
+    "label": "mantle length at death for male",
+    "bibkey": "VidaMari2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 6.0,
+    "units": "cm",
+    "label": "mantle length at puberty",
+    "bibkey": "{'VazdRoss2019','VidaMari2013'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 90194.0,
+    "units": "#",
+    "label": "cum reprod at death",
+    "bibkey": "VidaMari2013",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 92.0,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LW data for Doryteuthis_pealeii at Li"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": 240.0,
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LW data for Doryteuthis_pealeii at Lim"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 14.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "VidaMari2013",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": "normal development between 16-19 C"
+  },
+  {
+    "entity": "am",
+    "entity.value": 296.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "VidaMari2013",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "amm",
+    "entity.value": 327.0,
+    "units": "d",
+    "label": "life span for males",
+    "bibkey": "VidaMari2013",
+    "temp": "C2K(16)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

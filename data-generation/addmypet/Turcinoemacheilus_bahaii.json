@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Nemacheilidae",
+    "genus": "Turcinoemacheilus",
+    "specie": "Turcinoemacheilus_bahaii",
+    "specie_en": "Zayandeh Roud River loach",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.18",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "BorhSoof2017",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "corresponds to peak value in the year"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "BorhSoof2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": " total length at puberty",
+      "bibkey": "BorhSoof2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BorhSoof2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.58 mm: pi/6*0.158^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "BorhSoof2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.6",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "BorhSoof2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

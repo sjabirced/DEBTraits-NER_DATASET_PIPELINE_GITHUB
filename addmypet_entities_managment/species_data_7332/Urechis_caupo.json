@@ -1,0 +1,100 @@
+[
+  {
+    "phylum": "Annelida",
+    "class": "Polychaeta",
+    "order": "Echiuroidea",
+    "family": "Urechidae",
+    "species": "Urechis_caupo",
+    "species_en": "Spoon Worm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4e7/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.6 as high-fertility species"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.2e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "160",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Suer1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "2e-4",
+    "units": "g",
+    "label": "wet weight at settle",
+    "bibkey": "Suer1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on guessed egg diameter of 100 mum: pi/6*0.01^3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "56",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Suer1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "corresponds with 2 g dry weight, see pars_init"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "40/24",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Goul1969",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Suer1984",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "based on large size of 158 ml in 6 yr"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "60 - 40/24",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Goul1969",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Suer1984",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

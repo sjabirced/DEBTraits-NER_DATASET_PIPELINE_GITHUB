@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Sphaeriida",
+    "family": "Sphaeriidae",
+    "genus": "Pisidium",
+    "specie": "Pisidium_amnicum",
+    "specie_en": "Greater European peaclam",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.006",
+      "units": "cm",
+      "label": "shell length at emergence",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Sphaerium corneum"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "1.66",
+      "units": "cm",
+      "label": "ultimate shell height",
+      "bibkey": "MoutDauf2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.22",
+      "units": "cm",
+      "label": "shell length at emergence",
+      "bibkey": "MoutDauf2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.456",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "MoutDauf2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "13*20",
+      "units": "#",
+      "label": "lifetime reprod output",
+      "bibkey": "HoloHans1986",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "3-37 eggs per clutch, 5-41 clutches per life time"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.091",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "HoloHans1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-AFDW for P. casertanum: (-0.003 + 0.271*16.6)^3/1000"
+    },
+    {
+      "entity": "am",
+      "entity.value": "17*30.5",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MoutDauf2008",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

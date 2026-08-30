@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Lumpenidae",
+    "genus": "Lumpenus",
+    "specie": "Lumpenus_fabricii",
+    "specie_en": "Slender eelblenny",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "36.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "16",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "TokrEmel2025",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "250/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "TokrEmel2025",
+      "temp": "C2K(-0.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0141",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "TokrEmel2025",
+      "temp": null,
+      "units.temp": null,
+      "comment": "baed on egg diameter of 3 mm: pi/6*0.3^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "94",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00398*Li^2.80, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "12",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "TokrEmel2025",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on LW and Lp data"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "260",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(-0.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "9 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "TokrEmel2025",
+      "temp": "C2K(-0.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

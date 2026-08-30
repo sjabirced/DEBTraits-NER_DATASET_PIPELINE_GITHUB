@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Oregoniidae",
+    "genus": "Hyas",
+    "specie": "Hyas_coarctatus",
+    "specie_en": "Arctic lyre crab",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Eb",
+      "entity.value": "0.55",
+      "units": "J",
+      "label": "energy content at birth",
+      "bibkey": "Ange1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ej",
+      "entity.value": "3.65",
+      "units": "J",
+      "label": "energy content at metam",
+      "bibkey": "Ange1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.1",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.9",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "HartBray2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.1",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "HartBray2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8.53e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "guess based on same relative fecundity as Chionoecetes opilio: 1.5e5 * 128/2.25e3"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "31.8e-6",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "Ange1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": "261e-6",
+      "units": "g",
+      "label": "dry weight at metam",
+      "bibkey": "Ange1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "128",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Wiki','RobiGree2010'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 10^(-2.843 + 2.773*log10(61)), see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.41",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "HartBray2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as (Lp/ Lim)^3 * Wwim"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.72",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "HartBray2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as (Lp/ Li)^3 * Wwim"
+    },
+    {
+      "entity": "am",
+      "entity.value": "19*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "guess based on Chionoecetes opilio"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "300",
+      "units": "d",
+      "label": "time since settle at puberty",
+      "bibkey": "HartBray2001",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since settle at puberty",
+      "bibkey": "HartBray2001",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

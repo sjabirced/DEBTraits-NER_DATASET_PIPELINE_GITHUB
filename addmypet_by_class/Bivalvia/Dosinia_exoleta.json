@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Venerida",
+    "family": "Veneridae",
+    "genus": "Dosinia",
+    "specie": "Dosinia_exoleta",
+    "specie_en": "Rayed dosinia"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on same relative length, compared to Ruditapes_philippinarum: 6/5*1 cm "
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-07",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed from guessed egg diameter of 100 mum: 4/3*pi*(0.01/2)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30.85",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'GaspSant2001','Wiki'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.07*Li^3.398, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.13",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed as 0.07*Lp^3.398, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

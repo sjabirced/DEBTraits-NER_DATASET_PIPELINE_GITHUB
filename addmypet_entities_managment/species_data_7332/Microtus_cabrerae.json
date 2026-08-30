@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Microtus",
+    "specie": "Microtus_cabrerae",
+    "specie_en": "Cabrera vole"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "3.98",
+    "units": "cm",
+    "label": "body length at birth",
+    "bibkey": "FernGarc2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11.25",
+    "units": "cm",
+    "label": "ultimate body length",
+    "bibkey": "FernGarc2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lx",
+    "entity.value": "7.3",
+    "units": "cm",
+    "label": "body length at weaning",
+    "bibkey": "FernGarc2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.04",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "FernGarc2001",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.47",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "FernGarc2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "55.45",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "FernGarc2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": "Wiki for M. arvalis"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "24",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "FernGarc2001",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": "temp from MathKlun2003"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "39",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "19",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.4)",
+    "units.temp": "K",
+    "comment": "Value taken from M. oeconomus, which has the same max body weight"
+  }
+]

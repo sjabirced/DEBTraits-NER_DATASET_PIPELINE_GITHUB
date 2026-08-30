@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Squalidae",
+    "genus": "Squalus",
+    "specie": "Squalus_montalbani",
+    "specie_en": "Indonesian greeneye spurdog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "26",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Rigb2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on extrapolated tL data"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "94.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "78",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "Rigb2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 26 yr and tL data"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "70",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "Rigb2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp 21.8 yr and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Rigb2015",
+      "temp": "C2K(8.6)",
+      "units.temp": "K",
+      "comment": "9-16 pups per litter, 1 litter per 2 yrs assumed, in view of ab"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.2e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00331*Li^3.09, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.9*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(8.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "28*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Rigb2015",
+      "temp": "C2K(8.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

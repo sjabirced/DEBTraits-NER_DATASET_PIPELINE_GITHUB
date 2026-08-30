@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Annelida",
+    "class": "Clitellata",
+    "order": "Haplotaxida",
+    "family": "Lumbricidae",
+    "genus": "Aporrectodea",
+    "specie": "Aporrectodea_caliginosa",
+    "specie_en": "Grey worm",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.2",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "SimsGera1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Bart2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "30e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Bost1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2000e-3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Lofs1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "500e-3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Lofs1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Nair1998",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "91",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Bart2018",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acropomatiformes",
+    "family": "Pempheridae",
+    "genus": "Pempheris",
+    "specie": "Pempheris_adusta",
+    "specie_en": "Dusky sweeper"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "17",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.66",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "KoedIshi2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.3e4/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "Based on same weight-specific fecundity of P. schwenkii: 41000 eggs/yr for 24.7 g fish"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "KoedFuka2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 1 mm : 4/3*pi*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "76",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01585*Li^2.99, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "KoedIshi2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01585*Lp^2.99, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KoedIshi2016",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "oldest catch, max life span is probably larger"
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Passerellidae",
+    "genus": "Atlapetes",
+    "specie": "Atlapetes_melanolaemus",
+    "specie_en": "Grey-eared brush finch",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ForrLond2016",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "2 eggs per clutch, 1 clutch per yr assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.24",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ForrLond2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "21",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ForrLond2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "27-49 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14.8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ForrLond2016",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "41.4",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "13.8",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ForrLond2016",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

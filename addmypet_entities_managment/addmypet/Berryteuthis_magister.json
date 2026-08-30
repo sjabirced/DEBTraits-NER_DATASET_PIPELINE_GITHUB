@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Oegopsida",
+    "family": "Gonatidae",
+    "genus": "Berryteuthis",
+    "specie": "Berryteuthis_magister",
+    "specie_en": "Magister armhook squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.32,
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "KatuShev2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 28.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "ArkhBizi1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": 26.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "ArkhBizi1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 22.0,
+      "units": "cm",
+      "label": "mantle length at puberty for female",
+      "bibkey": "ArkhBizi1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": 15.0,
+      "units": "cm",
+      "label": "mantle length at puberty for male",
+      "bibkey": "ArkhBizi1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 95000.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "KatuShev2013",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "value for Illex_coindetii"
+    },
+    {
+      "entity": "am",
+      "entity.value": 500.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "ArkhBizi1996",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

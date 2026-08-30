@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Cracidae",
+    "genus": "Crax",
+    "specie": "Crax_blumenbachii",
+    "specie_en": "Red-billed curassow"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "11/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "SilvPais1986",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "number of eggs by female number 2 in 1981"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "100",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SilvPais1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.5e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "32",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "SilvPais1986",
+    "temp": "C2K(39)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "max reproductive age taken from some past notes where I lost the source. "
+  },
+  {
+    "entity": "tR",
+    "entity.value": "35*30.5",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "SilvPais1986",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5 * 30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "SilvPais1986",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "age at which adult plumage starts"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "5",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "SilvPais1986",
+    "temp": "T_typical",
+    "units.temp": "K",
+    "comment": "chick are able to fly at 5 d post-birth"
+  }
+]

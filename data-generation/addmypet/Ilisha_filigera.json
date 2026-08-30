@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Pristigasteridae",
+    "genus": "Ilisha",
+    "specie": "Ilisha_filigera",
+    "specie_en": "Coromandel ilisha",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.11",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "BlabStau1998",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "83",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "BlabStau1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase gives 22 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "26",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "BlabStau1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.14e-2",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "BlabStau1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.79 mm: pi/6*0.279^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'BlabStau1998','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01023*(Li/0.84)^3.05, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "360",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'BlabStau1998','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01023*(Lp/0.84)^3.05, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "based on  Engraulis encrasicolus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BlabStau1998",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

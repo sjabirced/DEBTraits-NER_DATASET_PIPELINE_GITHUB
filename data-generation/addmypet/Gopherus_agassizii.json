@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "genus": "Gopherus",
+    "specie": "Gopherus_agassizii",
+    "specie_en": "Desert tortoise",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "4.7",
+      "units": "cm",
+      "label": "plastron length at birth",
+      "bibkey": "MediNuss2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "22.6",
+      "units": "cm",
+      "label": "ultimate plastron length for females",
+      "bibkey": "MediNuss2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "26",
+      "units": "cm",
+      "label": "ultimate plastron length for males",
+      "bibkey": "MediNuss2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "17.9",
+      "units": "cm",
+      "label": "plastron length at puberty for females",
+      "bibkey": "MediNuss2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "18.2",
+      "units": "cm",
+      "label": "plastron length at puberty for males",
+      "bibkey": "MediNuss2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "27.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ErnsBarb1989",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 43 mm and width 35 mm: pi/6*4.3*3.5^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2473",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of G. polyphemus: (22.6/29.5)^3*5500"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "3765",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of G. polyphemus: (26/29.5)^3*5500"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1229",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/Li)^3*Wwi"
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "1292",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lpm/Lim)^3*Wwim"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "118",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "62.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "AnAge gives 152 yr"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5500",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "AnAge",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "5500",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "AnAge",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "genus": "Reginaia",
+    "specie": "Reginaia_ebenus",
+    "specie_en": "Ebonyshell"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.8",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.1",
+    "units": "cm",
+    "label": "shell length at settlement",
+    "bibkey": "PaynMill1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.9",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "PaynMill1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(19.5)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.95"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "6.5",
+    "units": "g",
+    "label": "ultimate tissue dry weight",
+    "bibkey": "{'EoL','PaynMill1989'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": ".00000053",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Pate1985",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "data are for Elliptio complanata in Canada"
+  },
+  {
+    "entity": "am",
+    "entity.value": "19*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PaynMill1989",
+    "temp": "C2K(19.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "PaynMill1989",
+    "temp": "C2K(19.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

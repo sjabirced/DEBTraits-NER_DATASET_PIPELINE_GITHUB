@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Columba",
+    "specie": "Columba_oenas",
+    "specie_en": "Stock dove"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Mock1988",
+    "temp": "C2K(40.63)",
+    "units.temp": "K",
+    "comment": "2 eggs/clutch, usually 2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "12",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Mock1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "291",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "16",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Mock1988",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "12.6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.63)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "Mock1988",
+    "temp": "C2K(40.63)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "93",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.63)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "31",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Mock1988",
+    "temp": "C2K(40.63)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

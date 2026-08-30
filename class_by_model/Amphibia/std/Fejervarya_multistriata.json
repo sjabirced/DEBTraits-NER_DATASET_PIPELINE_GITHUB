@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Dicroglossidae",
+    "genus": "Fejervarya",
+    "specie": "Fejervarya_multistriata",
+    "specie_en": "Paddy frog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4.9",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "ZhanShen2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "4.0",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "ZhanShen2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "900/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "LalfVanl2019",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "488 to 1035 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.9e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.53 mm of Fejervarya_limnocharis: pi/6*0.153^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Fejervarya_limnocharis"
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "1.4",
+    "units": "g",
+    "label": "wet weight at metam for female",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Fejervarya_limnocharis"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "30",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ZhanShen2021",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since metam at puberty for female at f_l",
+    "bibkey": "ZhanShen2021",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

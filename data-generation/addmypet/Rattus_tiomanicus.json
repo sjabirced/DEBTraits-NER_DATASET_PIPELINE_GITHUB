@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Rattus",
+    "specie": "Rattus_tiomanicus",
+    "specie_en": "Malayan field rat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "5.8*6/(280-169)",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Kama1983",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": "'5.8 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Kama1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwbm",
+      "entity.value": "4",
+      "units": "g",
+      "label": "wet weight at birth for male",
+      "bibkey": "Kama1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "88.6",
+      "units": "g",
+      "label": "wet weight at puberty for female",
+      "bibkey": "Kama1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "30",
+      "units": "g",
+      "label": "wet weight at weaning for female",
+      "bibkey": "Kama1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwxm",
+      "entity.value": "34",
+      "units": "g",
+      "label": "wet weight at weaning for male",
+      "bibkey": "Kama1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "280",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Kama1983",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "21",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Kama1983",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "169",
+      "units": "d",
+      "label": "time since birth at puberty female",
+      "bibkey": "Kama1983",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": "30-40 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "28",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Kama1983",
+      "temp": "C2K(35)",
+      "units.temp": "K",
+      "comment": "26-35 d"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Alytidae",
+    "genus": "Alytes",
+    "specie": "Alytes_cisternasii",
+    "specie_en": "Iberian  midwife toad"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.3",
+    "units": "cm",
+    "label": "total length at birth of tadpoles",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.858",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "MarqEstb1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "amphibiaweb: 4.2 cm"
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "3.579",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "MarqEstb1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "amphibiaweb: 3.6 cm"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "3.0",
+    "units": "cm",
+    "label": " SVL for females at metam",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data"
+  },
+  {
+    "entity": "Ljb",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "total length at metam of tadpoles",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "180/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "45 eggs per clutch, 4 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0224",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.6-3.5mm, which grow to 4.3-4.4mm by uptake of water: pi/6*0.35^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.13",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Alytes obstetricans of 5 cm, 9 g: (3.858/5)^3*9"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "3.3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Alytes obstetricans of 5 cm, 9 g: (3.579/5)^3*9"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4.5*7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "value for Alytes obstetricans: 3-6 weeks"
+  },
+  {
+    "entity": "am",
+    "entity.value": "18*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on Alytes obstetricans"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "125",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "110 to 140 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since metam at puberty for female",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since metam at puberty for male",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

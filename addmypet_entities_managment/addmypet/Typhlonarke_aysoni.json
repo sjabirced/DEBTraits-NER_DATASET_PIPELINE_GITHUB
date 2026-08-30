@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Torpediniformes",
+    "family": "Narkidae",
+    "genus": "Typhlonarke",
+    "specie": "Typhlonarke_aysoni",
+    "specie_en": "Blind electric ray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "10.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "FranMaol2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "44.6",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "FranMaol2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "21.2",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "FranMaol2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "19.9",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "FranMaol2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "9/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FranMaol2018",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": "9 pups per litter, 1 litter each 2 yrs is guessed in view of ab"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','FranMaol2018'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01820*Li^2.96, see F3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.8*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": "'based on v is around 0.03"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FranMaol2018",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

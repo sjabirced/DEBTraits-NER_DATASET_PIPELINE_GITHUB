@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "genus": "Python",
+    "specie": "Python_sebae",
+    "specie_en": "African rock python",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "35 till 45"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "550",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Whit1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Wiki: max 480 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "100/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "ADW: 20 till 50 per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "161",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on Wwi * (Lb/Lm)^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "89e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Whit1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of P. molurus: (550/460)^3*52"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "82",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BougBuch2007",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "ADW: 65 till 80 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "Wiki: over 12 yr"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "age at puberty for female",
+      "bibkey": "ADW",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

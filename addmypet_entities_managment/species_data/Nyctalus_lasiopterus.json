@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Vespertilionidae",
+    "genus": "Nyctalus",
+    "specie": "Nyctalus_lasiopterus",
+    "specie_en": "Greater noctule bat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2*1.2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Mead1972",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "'1 till 2 pup per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Mead1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "76",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "based on Nyctalus noctula"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "60",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "based on Nyctalus noctula"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at puberty female",
+      "bibkey": "guess",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "based on Nyctalus noctula"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "59",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "EoL",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

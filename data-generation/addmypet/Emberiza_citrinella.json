@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Emberizidae",
+    "genus": "Emberiza",
+    "specie": "Emberiza_citrinella",
+    "specie_en": "Yellowhammer",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "'3 to 5 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MaclPari2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Harr1975: Egg length 2.16 cm, width 1.53 cm, weight: pi/6*2.16*1.53^2=2.6 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "29.7",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "12 to 14 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "36",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "11 to 13 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "12",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "11 to 13 d"
+    }
+  ]
+}

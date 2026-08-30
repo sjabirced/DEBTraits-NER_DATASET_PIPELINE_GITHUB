@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anostraca",
+    "family": "Streptocephalidae",
+    "genus": "Streptocephalus",
+    "specie": "Streptocephalus_sirindhornae",
+    "specie_en": "Fairy shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.04",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Phallocryptus_spinosus"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "2.43",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "DaraStra2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "2.49",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "DaraStra2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.80",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "DaraStra2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "17865/(67.6-13.5)",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "DaraStra2011",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "17865 eggs in 67.6-13.5 d"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.0244",
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based in Arteria salina: 0.0017*(2.43/1)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "DaraStra2011",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "67.6",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "DaraStra2011",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "13.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "DaraStra2011",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

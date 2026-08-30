@@ -1,0 +1,174 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Chelidae",
+    "genus": "Emydura",
+    "specie": "Emydura_macquarii",
+    "specie_en": "Murray River turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.7",
+      "units": "cm",
+      "label": "plastron length at birth",
+      "bibkey": "Spen2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "21.4",
+      "units": "cm",
+      "label": "ultimate plastron length for females",
+      "bibkey": "Spen2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "20.8",
+      "units": "cm",
+      "label": "ultimate plastron length for females",
+      "bibkey": "Spen2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "18.7",
+      "units": "cm",
+      "label": "plastron length at puberty for females",
+      "bibkey": "Spen2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14.7",
+      "units": "cm",
+      "label": "plastron length at puberty for males",
+      "bibkey": "Spen2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "36/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Spen2002",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'carettochelys','Spen2002'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lb/Li)^3*Wwi"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "carettochelys",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3673",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "carettochelys",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2669",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'carettochelys','Spen2002'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/Li)^3*Wwi"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "1297",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'carettochelys','Spen2002'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lpm/Li)^3*Wwi"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "78",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "carettochelys",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "all temps are guessed"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "48",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "carettochelys",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "Spen2002",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Spen2002",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

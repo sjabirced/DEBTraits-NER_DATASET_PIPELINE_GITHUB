@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Poeciliidae",
+    "genus": "Poecilia",
+    "specie": "Poecilia_reticulata_LPY",
+    "specie_en": "Trinidadian guppy (LP Yarra)"
+  },
+  {
+    "entity": "JO_74",
+    "entity.value": "0.0234",
+    "units": "mg/h",
+    "label": "O2 consumption",
+    "bibkey": "AuerDick2018",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "'Ww = 74 mg"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.00*(10/9)",
+    "units": "cm",
+    "label": "ultimate std length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Estimate: mean max length at f1 multiplied by 10/9 - because f1 food level was designed to allow 90% of max length at ad lib food"
+  },
+  {
+    "entity": "Wdb_f1",
+    "entity.value": "0.00102",
+    "units": "g",
+    "label": "mean dry weight at birth at high food",
+    "bibkey": "ReznBrya2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on mean dry weights of neonates"
+  },
+  {
+    "entity": "Wdb_f2",
+    "entity.value": "0.00110",
+    "units": "g",
+    "label": "mean dry weight at birth at low food",
+    "bibkey": "ReznBrya2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab_f1",
+    "entity.value": "27.33",
+    "units": "d",
+    "label": "mean age at birth, high food",
+    "bibkey": "ReznBrya2004",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": "Based on mean interval between first four partuitions"
+  },
+  {
+    "entity": "ab_f2",
+    "entity.value": "31.08",
+    "units": "d",
+    "label": "mean age at birth, low food",
+    "bibkey": "ReznBrya2004",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

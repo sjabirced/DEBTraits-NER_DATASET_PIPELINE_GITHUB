@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Eleginopsidae",
+    "genus": "Eleginops",
+    "specie": "Eleginops_maclovinus",
+    "specie_en": "Patagonian blenny",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "90",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "35.7",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "LicaBarr2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "45e3/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.6"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.3e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 4.1 mm: 4/3*pi*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8.2e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "LicaBarr2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 9.8e-3*Li^3.03, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "496",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "LicaBarr2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 9.8e-3*Lp^3.03, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "LicaBarr2006",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

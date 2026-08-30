@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Vetigastropoda",
+    "family": "Trochidae",
+    "genus": "Gibbula",
+    "specie": "Gibbula_umbilicalis",
+    "specie_en": "Flat top shell"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "2.2",
+    "units": "cm",
+    "label": "ultimate shell width",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.85",
+    "units": "cm",
+    "label": "shell width at puberty for female",
+    "bibkey": "Will1964",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e4/365",
+    "units": "#/d",
+    "label": "reproduction rate at 2 cm",
+    "bibkey": "guess",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ww1",
+    "entity.value": "0.23",
+    "units": "g",
+    "label": "wet weight at shell width 1 cm",
+    "bibkey": "RobiGree2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on data for Gibbula cineraria"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.1e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Noke2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.018 mm egg diameter: 4/3*pi*0.009^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "DonnBrun2016",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "18*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Noke2016",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

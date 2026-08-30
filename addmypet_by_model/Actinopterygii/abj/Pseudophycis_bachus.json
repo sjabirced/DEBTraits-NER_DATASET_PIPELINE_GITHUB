@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Moridae",
+    "genus": "Pseudophycis",
+    "specie": "Pseudophycis_bachus",
+    "specie_en": "Red codling"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "90",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "unitedfisheries",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "31.5",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "KempJenk2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "for Australian waters"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "24",
+    "units": "cm",
+    "label": "total length at puberty for male",
+    "bibkey": "KempJenk2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "for Australian waters"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "30e6/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16.3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'unitedfisheries','KempJenk2013'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on F2: 2e-6*(10*Li)^3.355"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "482",
+    "units": "g",
+    "label": "wet weight at puberty to females",
+    "bibkey": "KempJenk2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on F2: 2e-6*(10*Lp)^3.355"
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "193",
+    "units": "g",
+    "label": "wet weight at puberty for male",
+    "bibkey": "KempJenk2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on F2: 2e-6*(10*Lpm)^3.355"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KempJenk2013",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

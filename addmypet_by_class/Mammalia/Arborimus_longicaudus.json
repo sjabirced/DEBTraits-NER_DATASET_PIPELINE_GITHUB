@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Arborimus",
+    "specie": "Arborimus_longicaudus",
+    "specie_en": "Red tree vole"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.5*2.2/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "'2.2 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Hami1962",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "50",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "25-50 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "21",
+    "units": "g",
+    "label": "wet weight at waening",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "130-180 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "more than 1-2 yr"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "28",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "26-29 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "80",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "32",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(38.1)",
+    "units.temp": "K",
+    "comment": "30-35 d"
+  }
+]

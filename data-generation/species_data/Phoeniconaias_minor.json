@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Phoenicopteriformes",
+    "family": "Phoenicopteridae",
+    "genus": "Phoeniconaias",
+    "specie": "Phoeniconaias_minor",
+    "specie_en": "Lesser flamingo",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "85",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "SnowPerr1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'SeaWorld','ARKive'}",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "85.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ARKive",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1725",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ARKive",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "28",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ARKive",
+      "temp": "C2K(37.2)",
+      "units.temp": "K",
+      "comment": "temps from BechJoha1979"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18250",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BrowKing2005",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "BrowKing2005",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": "from the Greater, Caribbean and Chilean Flamingos"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "232.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "77.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "BrowKing2005",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

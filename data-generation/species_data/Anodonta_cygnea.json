@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "genus": "Anodonta",
+    "specie": "Anodonta_cygnea",
+    "specie_en": "Swan mussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Jans2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "7e3",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(16.5)",
+      "units.temp": "K",
+      "comment": "Guessed based on value for kap"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 306 till 309 mum glochidium length, but rather flat: 0.5*4/3*pi*0.015^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki_nl",
+      "temp": "C2K(16.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ChojRosi2011",
+      "temp": "C2K(16.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

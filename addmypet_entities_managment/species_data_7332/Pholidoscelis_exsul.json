@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Teiidae",
+    "genus": "Pholidoscelis",
+    "specie": "Pholidoscelis_exsul",
+    "specie_en": "Common Puerto Rican ameiva"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "4.1",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "Lewi1986",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "Lewi1986",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "20.1",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "{'Wiki','ReptileDB'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Wiki & ReptileDB give 9.9 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.4",
+    "units": "cm",
+    "label": "SVL at puberty",
+    "bibkey": "Lewi1986",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "14/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "2-7 egggs per clutch, assumed: 2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Lewi1986",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Lb/Lp)^3*Wwp: (4.1/6.4)^3*7.9"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "135",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Lewi1986",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "7.9",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Lewi1986",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "64",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

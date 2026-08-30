@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Hexanauplia",
+    "order": "Sessilia",
+    "family": "Austrobalanidae",
+    "genus": "Austrominius",
+    "specie": "Austrominius_modestus",
+    "specie_en": "New Zealand barnacle"
+  },
+  {
+    "entity": "Ej",
+    "entity.value": "0.1425",
+    "units": "J",
+    "label": "energy content at settlement",
+    "bibkey": "Herm1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.4",
+    "units": "cm",
+    "label": "ultimate basal diameter",
+    "bibkey": "CrisPate1961",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.6",
+    "units": "cm",
+    "label": "basal diameter at puberty",
+    "bibkey": "CrisPate1961",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.22e3/14",
+    "units": "#/d",
+    "label": "reprod rate at 13.5 mm basal diameter",
+    "bibkey": "CrisPate1961",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "'2 mg per brood, 2e-3/9e-7=2.22e3 eggs/brood"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "0.033",
+    "units": "g",
+    "label": "ultimate soma dry weight at L = 1.35 cm",
+    "bibkey": "CrisPate1961",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdj",
+    "entity.value": "5.81e-6",
+    "units": "g",
+    "label": "dry weight at settlement",
+    "bibkey": "Herm1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "CrisPate1961",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 120 mum: pi/6*0.012^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.137",
+    "units": "g",
+    "label": "ultimate soma wet weight at L = 1.35 cm",
+    "bibkey": "CrisPate1961",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "10.6",
+    "units": "d",
+    "label": "time since birth at settlement",
+    "bibkey": "Herm1987",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "nauplius stages 8.6d, cypris stage 2 d (assumed)"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "39",
+    "units": "d",
+    "label": "time since settlement at puberty",
+    "bibkey": "CrisPate1961",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "fully submerged"
+  }
+]

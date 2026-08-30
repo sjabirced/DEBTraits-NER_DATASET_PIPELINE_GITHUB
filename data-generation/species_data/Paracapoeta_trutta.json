@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Paracapoeta",
+    "specie": "Paracapoeta_trutta",
+    "specie_en": "Trout barb",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "48.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "23",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Kalk2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4e4/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "based on Capoeta capoeta: 98.24*365*(48.5/46.7)^3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.9e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Kalk2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.04 mm: pi/6*0.104^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1335",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ZulfGund2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00794*Li^3.10, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "132",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'Kalk2008','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00794*Lp^3.10, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ZulfGund2013",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

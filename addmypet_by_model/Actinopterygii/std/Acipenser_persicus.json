@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Acipenser",
+    "specie": "Acipenser_persicus",
+    "specie_en": "Persian Sturgeon"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 2.57,
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ImanFala2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 230.0,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "NazaPour2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 155.0,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "KottFrey2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 301.3,
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "SiddCoss2014",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 70000.0,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "VecsArty2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 28000.0,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "AlavKara2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": 15.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "{'ImanFala2017'}",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ah",
+    "entity.value": 6.0,
+    "units": "d",
+    "label": "age at hatch",
+    "bibkey": "{'ImanFala2017'}",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 14235.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Coad2018",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "temp is wild guess"
+  },
+  {
+    "entity": "ap",
+    "entity.value": 4380.0,
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "{'KottFrey2007'}",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "'for female: ap = 12-18 yr"
+  }
+]

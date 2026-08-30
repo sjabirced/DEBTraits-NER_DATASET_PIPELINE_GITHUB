@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Uroteuthis",
+    "specie": "Uroteuthis_duvauceli",
+    "specie_en": "Indian squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.3",
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "Sami2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on max egg diameter of 2.5 mm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "23",
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "assumed death at 2 yrs"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "assumed death at 2 yrs"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "375600",
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "Sami2009",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "sealifebase",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

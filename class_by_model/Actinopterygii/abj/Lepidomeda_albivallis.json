@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Lepidomeda",
+    "specie": "Lepidomeda_albivallis",
+    "specie_en": "White River spinedace"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ScopHarv2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on FL 6.5 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2500/365",
+    "units": "#/d",
+    "label": "reprod rate at SL 92 mm, TL 108 mm",
+    "bibkey": "BillTjar2011",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "value for Lepidomeda aliciae"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BillTjar2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.1 mm for Lepidomeda aliciae: pi/6*0.21^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "35.4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'fishbase','BillTjar2011'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00891*Li^3.06, F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3.65",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','BillTjar2011'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00891*Lp^3.06, F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ScopHarv2004",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

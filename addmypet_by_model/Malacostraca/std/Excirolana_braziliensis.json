@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Isopoda",
+    "family": "Cirolanidae",
+    "genus": "Excirolana",
+    "specie": "Excirolana_braziliensis",
+    "specie_en": "Cirolanid Isopod"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.1",
+    "units": "cm",
+    "label": "total length at birth for female",
+    "bibkey": "FonsVelo2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.9",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "FonsVelo2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.69",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "FonsVelo2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4*27/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "FonsVelo2000",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "27 embryos per brood at TL 0.89 cm: 4 broods per yr guessed"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "32.8e-3",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same length-weight, compared to Asellus: 0.9^3*0.045"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FonsVelo2000",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

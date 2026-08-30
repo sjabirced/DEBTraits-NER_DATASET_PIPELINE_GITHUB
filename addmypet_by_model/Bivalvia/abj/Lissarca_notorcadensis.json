@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Arcida",
+    "family": "Philobryidae",
+    "genus": "Lissarca",
+    "specie": "Lissarca_notorcadensis",
+    "specie_en": "Bivalve"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.8",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.0513",
+    "units": "cm",
+    "label": "shell length at metam",
+    "bibkey": "BreyHain1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.38",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "BreyHain1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "57/365",
+    "units": "#/d",
+    "label": "maximum reprod rate for assumed SL 3 cm",
+    "bibkey": "BreyHain1992",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": "based on -8.414+17.655e3*Wwd"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "37e-4",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "BreyHain1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 18e-6*(10*Li)^2.567, see F1"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.72e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BreyHain1992",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 254 mum: pi/9*0.0254^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BreyHain1992",
+    "temp": "C2K(2)",
+    "units.temp": "K",
+    "comment": "mean temparature is guessed"
+  }
+]

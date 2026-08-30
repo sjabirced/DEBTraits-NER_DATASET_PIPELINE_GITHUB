@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Characiformes",
+    "family": "Bryconidae",
+    "genus": "Salminus",
+    "specie": "Salminus_brasiliensis",
+    "specie_en": "Dourado"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "103",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "37",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2e6/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 2 mm: pi/6*.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "34e3",
+    "units": "g",
+    "label": "max wet weight",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "25e3",
+    "units": "g",
+    "label": "max wet weight for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on remark that males are considerably smaller than females"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

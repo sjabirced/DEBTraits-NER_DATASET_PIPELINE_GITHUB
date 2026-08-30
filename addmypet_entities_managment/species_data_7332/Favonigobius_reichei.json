@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Favonigobius",
+    "specie": "Favonigobius_reichei",
+    "specie_en": "Indo-Pacific tropical sand goby"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": 0.184,
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Schl1997",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 3.2,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Schl1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 1.5,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase gives 27 cm, but that is unlikely given Li"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.000212,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Eviota_queenslandica"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 0.5,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Schl1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 0.05,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi*(Lp/Li)^3: 0.5*(1.5/3.2)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 3.5,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "'this is ignorned"
+  },
+  {
+    "entity": "am",
+    "entity.value": 134.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Schl1997",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

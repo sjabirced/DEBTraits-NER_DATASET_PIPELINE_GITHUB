@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "genus": "Pleurobema",
+    "specie": "Pleurobema_riddellii",
+    "specie_en": "Louisiana pigtoe",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": ".02",
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "unio",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.8",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "FordPlan2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": ".03",
+      "units": "cm",
+      "label": "shell length at settlement",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.76",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "18413/365",
+      "units": "#/d",
+      "label": "reproduction rate at SL 4.31 cm",
+      "bibkey": "Haag2013",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "Based on Pleurobema_strodeanum"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14.4",
+      "units": "g",
+      "label": "total wet weight at shell length 5.1 cm",
+      "bibkey": "FordPlan2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "unio",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FordPlan2020",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

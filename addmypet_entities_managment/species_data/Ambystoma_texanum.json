@@ -1,0 +1,113 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Ambystomatidae",
+    "species": "Ambystoma_texanum",
+    "species_en": "Small-mouth salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.0",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "7-14 mm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "19",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "23 cm is most common, >30 cm is rare, Wiki gives 45 cm, axolotl gives 43 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "700/365",
+      "units": "#/d",
+      "label": "reprod rate at 25.3 g",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "350-900 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.6–2.5 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "15.7",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Ambystoma macrodactylum"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.59",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "Petr1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "35",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Petr1984",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": "29-82 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "56",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Petr1984",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "7-9 w"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "548",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

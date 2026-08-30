@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Lepidogobius",
+    "specie": "Lepidogobius_lepidus",
+    "specie_en": "Bay goby",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "800/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.6e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 1.5 mm and width of 0.45 mm of G.niger: pi/6*0.15*0.045^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9.3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00794*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.8",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','GibsEzzi1978'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00794*Lp^3.07, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

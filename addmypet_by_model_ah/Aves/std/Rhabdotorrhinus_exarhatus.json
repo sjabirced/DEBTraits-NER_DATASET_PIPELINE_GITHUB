@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Bucerotiformes",
+    "family": "Bucerotidae",
+    "genus": "Rhabdotorrhinus",
+    "specie": "Rhabdotorrhinus_exarhatus",
+    "specie_en": "Sulawesi hornbill"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "KlopCuri2000",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "Data from Penelopides panini panini"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "18",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MaceAzua1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "420",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "MaceAzua1997",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on extrapolation of growth curve"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "29",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "MaceAzua1997",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "28 till 30 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": "based on other Bucerotidae species as presented in AnAge"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "180",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "60",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "MaceAzua1997",
+    "temp": "C2K(40)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

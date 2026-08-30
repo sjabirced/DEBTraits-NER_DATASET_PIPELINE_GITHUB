@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Chydoridae",
+    "genus": "Chydorus",
+    "specie": "Chydorus_pubescens",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.02416",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "SantRoch2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.038912",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "SantRoch2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.03395",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "SantRoch2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "SantRoch2006",
+      "temp": "C2K(23.6)",
+      "units.temp": "K",
+      "comment": "2 eggs per brood, brood interval 2 d"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.2e-5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on length Li, height Li, width 100 mum"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.96",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "SantRoch2006",
+      "temp": "C2K(23.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "31",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SantRoch2006",
+      "temp": "C2K(23.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.37",
+      "units": "d",
+      "label": "time since birth at at puberty",
+      "bibkey": "SantRoch2006",
+      "temp": "C2K(23.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

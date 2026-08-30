@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Tardigrada",
+    "class": "Eutardigrada",
+    "order": "Parachela",
+    "family": "Hypsibiidae",
+    "genus": "Hypsibius",
+    "specie": "Hypsibius_convergens",
+    "specie_en": "Water-bear",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.01",
+      "units": "cm",
+      "label": "physical length at birth",
+      "bibkey": "Grev1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Grev1980 from Baum1961"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.0265",
+      "units": "cm",
+      "label": "ultimate physical length",
+      "bibkey": "MorgKing1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.01875",
+      "units": "cm",
+      "label": "physical length at puberty",
+      "bibkey": "Grev1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Grev1980 from Baum1961: 175-200 mum"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/80",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Grev1980",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "the reproductive time interval is guessed for an individual of ultimate length Li "
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.31e-8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Grev1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on volume: aspect ratio del = .26: V = 0.25 * pi * del^2 * Lb^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9.88e-7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MorgKing1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on volume: aspect ratio del = .26: V = 0.25 * pi * del^2 * Li^2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.50e-7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Grev1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on volume: aspect ratio del = .26: V = 0.25 * pi * del^2 * Lp^2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Grev1980",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Grev1980 from Baum1961: 5-10 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "900",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Earth",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "12",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Grev1980",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Grev1980 from Baum1961"
+    }
+  ]
+}

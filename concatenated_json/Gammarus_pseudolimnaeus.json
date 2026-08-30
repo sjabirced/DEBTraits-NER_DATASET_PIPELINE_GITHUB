@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Amphipoda",
+    "family": "Gammaridae",
+    "genus": "Gammarus",
+    "specie": "Gammarus_pseudolimnaeus",
+    "specie_en": "Northern spring amphipod"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.19",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "WateHoke1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.6",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "WateHoke1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "WateHoke1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "135/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "HyneHarp1972",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": "'HyneHarp1972 - averaged from field data"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": "2e-5",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "WateHoke1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "1.15e-2",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "WateHoke1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdp",
+    "entity.value": "1.53e-3",
+    "units": "g",
+    "label": "dry weight at puberty",
+    "bibkey": "WateHoke1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "25",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "HyneHarp1972",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "460",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "HyneHarp1972",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "130",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "approximate for Gammarus pulex (cannot find anything for pseudolimnaeus)"
+  }
+]

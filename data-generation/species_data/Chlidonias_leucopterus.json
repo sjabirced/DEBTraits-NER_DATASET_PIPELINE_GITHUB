@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Chlidonias",
+    "specie": "Chlidonias_leucopterus",
+    "specie_en": "White-winged tern",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Kapo1979",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": "2 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7.25",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Data for C. niger"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "73",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "Kapo1979",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "20.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Kapo1979",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "21*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": "Data for C. niger"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Anage",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": "Data for C. niger"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "36",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "12",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Kapo1979",
+      "temp": "C2K(41)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

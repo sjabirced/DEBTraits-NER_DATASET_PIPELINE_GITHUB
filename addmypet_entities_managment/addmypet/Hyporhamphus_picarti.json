@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Beloniformes",
+    "family": "Hemiramphidae",
+    "genus": "Hyporhamphus",
+    "specie": "Hyporhamphus_picarti",
+    "specie_en": "African halfbeak",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "20.0",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13.2",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "McBrThur2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative length, compared to Hemiramphus brasiliensis: 19.8/30*20"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate at 100 g",
+      "bibkey": "{'guess','McBrThur2003'}",
+      "temp": "C2K(21.9)",
+      "units.temp": "K",
+      "comment": "based on data for Hemiramphus brasiliensis"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1 mm of Hemiramphus brasiliensis: pi/6*0.1^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "25.9",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fisfbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00219*Li^3.13"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(21.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

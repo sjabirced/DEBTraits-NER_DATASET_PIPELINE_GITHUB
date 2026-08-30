@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Sphyrnidae",
+    "genus": "Sphyrna",
+    "specie": "Sphyrna_mokarran",
+    "specie_en": "Great hammerhead shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "75",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "PierCarl2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "610",
+    "units": "cm",
+    "label": "ultimate total length (female)",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "275",
+    "units": "cm",
+    "label": "total length at puberty (female)",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "255",
+    "units": "cm",
+    "label": "total length at puberty (male)",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "55/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": "6-55 pups per litter, 1 litter per 2 yrs"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "569e3",
+    "units": "g",
+    "label": "ultimate wet weight (female)",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00132*Li^3.10, see F3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "44*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PierCarl2010",
+    "temp": "C2K(27.2)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

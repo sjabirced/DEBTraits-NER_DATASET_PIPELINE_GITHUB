@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Cyprinion",
+    "specie": "Cyprinion_kais",
+    "specie_en": "Kais kingfish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.09",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "UckuGokc2015",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15.9",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "UckuGokc2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.34 mm: pi/6*0.134^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "39.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Li^3.00, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "10.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Lp^3.00, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "UckuGokc2015",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

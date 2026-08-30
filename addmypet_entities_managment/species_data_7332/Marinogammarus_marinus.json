@@ -1,0 +1,161 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Amphipoda",
+    "family": "Gammaridae",
+    "genus": "Marinogammarus",
+    "specie": "Marinogammarus_marinus",
+    "specie_en": "Gammarid"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 2.247,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "MaraMarg2003",
+    "temp": null,
+    "units.temp": null,
+    "comment": "largerst females found under field conditions (2.22 mm head length)"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 2.5,
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "Gule2012",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 90.0,
+    "units": "#/d",
+    "label": "total # of eggs",
+    "bibkey": "MaraMarg2003",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 75.0,
+    "units": "#/d",
+    "label": "total # of eggs",
+    "bibkey": "MaraMarg2003",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "4 broods per life span, mean([20 16 22 17])"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 41.0,
+    "units": "#/d",
+    "label": "total # of eggs",
+    "bibkey": "MaraMarg2003",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "4 broods per life span, mean([11 7 10 13])"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.0011,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MaraBeng2001",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg volume of 1.1 mm^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 0.384,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Gammarus_roeselii Wwi and Li: 59.1 * (2.247/1.204)^3 in mg"
+  },
+  {
+    "entity": "ab",
+    "entity.value": 33.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "MaraMarg2003",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": 32.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "MaraMarg2003",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": 17.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "MaraMarg2003",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": 410.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MaraMarg2003",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "380-440 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": 210.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MaraMarg2003",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "190-230 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 80.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "MaraMarg2003",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "76-83 d (sexual differentiation)"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 58.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "MaraMarg2003",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "56-61 d (sexual differentiation)"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 45.5,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "MaraMarg2003",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "45-46 d (sexual differentiation)"
+  }
+]

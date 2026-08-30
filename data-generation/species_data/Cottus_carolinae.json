@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Cottus",
+    "specie": "Cottus_carolinae",
+    "specie_en": "Banded sculpin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "GebhPerk2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "475/365",
+      "units": "#/d",
+      "label": "reproduction rate",
+      "bibkey": "ADW",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.4e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GebhPerk2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.3 mm : pi/6*0.23^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "60.1",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*Li^3.13, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "8.1",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','GebhPerk2017'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*Lp^3.13, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

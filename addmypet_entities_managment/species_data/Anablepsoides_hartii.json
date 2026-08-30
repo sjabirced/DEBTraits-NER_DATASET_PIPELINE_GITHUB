@@ -1,0 +1,93 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Rivulidae",
+    "species": "Anablepsoides_hartii",
+    "species_en": "Giant Rivulus",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.65",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "FurnRezn2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "FurnRezn2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "FurnRezn2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "itrainsfishes",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "'5 - 15 eggs per day"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "itrainsfishes",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.6 mm: pi/6*0.16^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "FurnRezn2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01330*Li^2.984, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.56",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "FurnRezn2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01330*Lp^2.984, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "itrainsfishes",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

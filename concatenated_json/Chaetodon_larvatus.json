@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Chaetodontiformes",
+    "family": "Chaetodontidae",
+    "genus": "Chaetodon",
+    "specie": "Chaetodon_larvatus",
+    "specie_en": "Hooded butterflyfish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.06",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Zeke2003",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ZekeWeer2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'Leis1989'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based egg diameter of 0.75 mm: 4/3*pi*0.038^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "57",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02570 * Li^3.1, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "9.3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02570 * Lp^3.1, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "30/24",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Zeke2003",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Zeke2003",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

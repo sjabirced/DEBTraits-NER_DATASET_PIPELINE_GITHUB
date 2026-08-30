@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Sarpa",
+    "specie": "Sarpa_salpa",
+    "specie_en": "Dreamfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "51",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Bauc1987",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "total length at metamorphosis",
+    "bibkey": "ChemLeDi2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on average 4-7cm, agrees with other publications as well"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "AissaGued2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2662*921.62/365",
+    "units": "#/d",
+    "label": "reprod rate",
+    "bibkey": "PaivNeve2018",
+    "temp": "C2K(17.5)",
+    "units.temp": "K",
+    "comment": "realised annual fecundity, no info on temp, used average of the area"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.68e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.8 mm: pi/6*.08^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.9e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01259*Li^3.03, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "61.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01259*Lp^3.03, see F1"
+  },
+  {
+    "entity": "aj",
+    "entity.value": "73",
+    "units": "d",
+    "label": "age at metamorphosis",
+    "bibkey": "CrisColl2006",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "agrees with other species of the family"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PallDulc2008",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,174 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Pelobatidae",
+    "genus": "Pelobates",
+    "specie": "Pelobates_syriacus",
+    "specie_en": "Eastern spadefoot",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "10.6",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "CogaRosi2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "9.3",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "CogaRosi2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "2.9",
+      "units": "cm",
+      "label": "SVL of frog at metam",
+      "bibkey": "CogaRosi2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.3",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "CogaRosi2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "6.2",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "CogaRosi2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6000/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "rough estimate"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.3e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "120",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "CogaRosi2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "90",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "CogaRosi2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "40",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "CogaRosi2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "25.8",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "CogaRosi2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CogaRosi2014",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "120",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3.2*365",
+      "units": "d",
+      "label": "time since metam at puberty for females",
+      "bibkey": "CogaRosi2014",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "time since metam at puberty for males",
+      "bibkey": "CogaRosi2014",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

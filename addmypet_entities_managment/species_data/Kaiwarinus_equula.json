@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Carangiformes",
+    "family": "Carangidae",
+    "genus": "Kaiwarinus",
+    "specie": "Kaiwarinus_equula",
+    "specie_en": "Whitefin trevally",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "17.7",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "YoneFuta2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7.0e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "YoneFuta2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.1 mm: pi/6*0.11^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1442",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01349*Li^2.96, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "64.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'YoneFuta2002','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01349*Lp^2.96, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "9",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(20.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FutaYone2000",
+      "temp": "C2K(20.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

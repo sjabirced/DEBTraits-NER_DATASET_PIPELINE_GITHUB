@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Alytidae",
+    "genus": "Alytes",
+    "specie": "Alytes_muletensis",
+    "specie_en": "Majorcan midwife toad",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.8",
+      "units": "cm",
+      "label": "total length at birth of tadpoles",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4.1",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "PinyPere2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "3.9",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "PinyPere2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "3",
+      "units": "cm",
+      "label": "SVL at metam of toads",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ljb",
+      "entity.value": "7.6",
+      "units": "cm",
+      "label": "total length at metam of tadpoles",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "9/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "7-12 eggs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.1438",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 5.4-7mm: pi/6*0.65^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.0",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "nlsoorten",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Alytes obstetricans of 5 cm, 9 g: (4.1/5)^3*9"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "4.3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "nlsoorten",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.5*7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "value for Alytes obstetricans: 3-6 weeks"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "PinyPere2013",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "for captive individuals, 4.7 yr for female, 3.2 yr for male in the wild, max 18 yr"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "365+8*7",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since metam at puberty for female",
+      "bibkey": "PinyPere2013",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since metam at puberty for male",
+      "bibkey": "PinyPere2013",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

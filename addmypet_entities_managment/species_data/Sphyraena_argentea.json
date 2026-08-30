@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sphyraeniformes",
+    "family": "Sphyraenidae",
+    "genus": "Sphyraena",
+    "specie": "Sphyraena_argentea",
+    "specie_en": "Pacific barracuda",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "145",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "41",
+      "units": "cm",
+      "label": "fork length at puberty of females",
+      "bibkey": "BottAlle2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BottAlle2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 1.24-1.6 mm: pi/6*0.145^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14.8e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.00724*Li^2.92, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "370",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "BottAlle2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on W = 0.00724*Lp^2.92, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(12.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

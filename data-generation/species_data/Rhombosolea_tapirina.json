@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Rhombosolea",
+    "specie": "Rhombosolea_tapirina",
+    "specie_en": "Greenback flounder",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Earl2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Earl2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.89 mm: pi/6*0.089^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1480",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01820*Li^2.97, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "133",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','Earl2014'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01820*Lp^2.97, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(16.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SuttMacG2010",
+      "temp": "C2K(16.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

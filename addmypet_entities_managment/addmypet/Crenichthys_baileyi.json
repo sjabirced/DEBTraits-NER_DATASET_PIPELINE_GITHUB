@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Goodeidae",
+    "genus": "Crenichthys",
+    "specie": "Crenichthys_baileyi",
+    "specie_en": "White River springfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.4",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative length, compared to Empetrichthys_latos: 9*3.0/7.9"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "111/365",
+      "units": "#/d",
+      "label": "reprod rate at TL 6.2/0.87",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on value for Empetrichthys_latos"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Kope1949",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.9 mm: pi/6*0.19^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8.9",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01122*Li^3.04, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Kope1949",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "based on tmeperature-corrected value for Empetrichthys_latos"
+    },
+    {
+      "entity": "dLb",
+      "entity.value": "0.02/0.875",
+      "units": "cm/d",
+      "label": "change in TL at birth",
+      "bibkey": "Kope1949",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "hatch at SL = 4.3 mm, at 87h post hatch SL 4.7 mm, at 15 d post hatch 7.3 mm and F2"
+    }
+  ]
+}

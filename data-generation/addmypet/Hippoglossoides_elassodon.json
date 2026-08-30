@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Hippoglossoides",
+    "specie": "Hippoglossoides_elassodon",
+    "specie_en": "Flathead sole",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.09",
+      "units": "g/g",
+      "label": "gonadosomatic index",
+      "bibkey": "Stra2004",
+      "temp": "C2K(7.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "52",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "49",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on StarSome2002: males stay smaller than females"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "32.9",
+      "units": "cm",
+      "label": "length at puberty for females",
+      "bibkey": "Stra2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Forr1964",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 0.92 mm : pi/6*0.092^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00692*Li^3.10, see F2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "349",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Lp^3.08, see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "27*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(7.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

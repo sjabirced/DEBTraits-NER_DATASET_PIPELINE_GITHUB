@@ -1,0 +1,174 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Isopoda",
+    "family": "Porcellionidae",
+    "genus": "Porcellio",
+    "specie": "Porcellio_scaber",
+    "specie_en": "Rough woodlouse",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.32,
+      "units": "cm",
+      "label": "total length at birth for female",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": "All lengths exclude antenna"
+    },
+    {
+      "entity": "Lb",
+      "entity.value": 0.31,
+      "units": "cm",
+      "label": "total length at birth for male",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 1.9,
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 1.7,
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 1.4,
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 1.2,
+      "units": "cm",
+      "label": "total length at puberty for male",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 0.26,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.4,
+      "units": "mg",
+      "label": "dry weight at birth for female",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value reduced by 0.5 for account for adhering water"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.4,
+      "units": "mg",
+      "label": "dry weight at birth for male",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 83.4,
+      "units": "mg",
+      "label": "ultimate wet weight for female",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 63.4,
+      "units": "mg",
+      "label": "ultimate wet weight for male",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 50.0,
+      "units": "mg",
+      "label": "dry weight at puberty for female",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Read from growth curve for t_p"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 45.0,
+      "units": "mg",
+      "label": "wet weight at puberty for male",
+      "bibkey": "Donk1992",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Read from growth curve for t_p"
+    },
+    {
+      "entity": "ab",
+      "entity.value": 35.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 1500.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 400.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "estimate, based on max 3 broods/year and first reproduction after ca 500 days"
+    }
+  ]
+}

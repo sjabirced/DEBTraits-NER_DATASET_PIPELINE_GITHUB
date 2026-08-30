@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Venerida",
+    "family": "Mactridae",
+    "genus": "Spisula",
+    "specie": "Spisula_solidissima",
+    "specie_en": "Atlantic surf clam",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.0056",
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "Alle1953",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "22.6",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "Rope1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.025",
+      "units": "cm",
+      "label": "shell length at metamorphosis",
+      "bibkey": "Rope1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "CargGrie1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3.6e5",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "WalkHurl1996",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Value estimated from measurements on mid-age individuals"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "9.19e-8",
+      "units": "g",
+      "label": "dry tissue weight at birth",
+      "bibkey": "Guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from Lb"
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": "8.18e-6",
+      "units": "g",
+      "label": "dry tissue weight at metamorphosis",
+      "bibkey": "Guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from Lj"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "EystMors1984",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "aj",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at metamorphosis",
+      "bibkey": "FayNeve1983",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "365 * 31",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "JoneThom1978",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "365 * 1",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "CargGrie1999",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Balistidae",
+    "genus": "Melichthys",
+    "specie": "Melichthys_niger",
+    "specie_en": "Black triggerfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "9.6e6/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(27.4)",
+      "units.temp": "K",
+      "comment": "guess based on kap = 0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.25e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BranVian2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.35 mm of B.capriscus: pi/6*0.035^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2540",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02570*Li^2.94, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "172",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.02570*Li^2.94, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KavaOlne2006",
+      "temp": "C2K(27.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

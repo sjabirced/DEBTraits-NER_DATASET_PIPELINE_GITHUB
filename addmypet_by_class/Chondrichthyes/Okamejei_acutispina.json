@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Okamejei",
+    "specie": "Okamejei_acutispina",
+    "specie_en": "Sharpspine skate"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "5.8",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length compared to Leucoraja erinacea: 9.7/54*32.4"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "32.4",
+    "units": "cm",
+    "label": "ultimate disk width for females",
+    "bibkey": "JouLee2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "28.8",
+    "units": "cm",
+    "label": "ultimate disk width for males",
+    "bibkey": "JouLee2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "16/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "based on same weight-specific rate compared to Leucoraja erinacea 30*483/910/365"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "689",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "JouLee2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "besed on 0.0193*Li^3.014, see F1"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "483",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "JouLee2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "besed on 0.0193*Lim^3.014, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "JouLee2011",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7.2*365",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "JouLee2011",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "6.8*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "JouLee2011",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

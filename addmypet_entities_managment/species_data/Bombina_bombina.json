@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bombinatoridae",
+    "genus": "Bombina",
+    "specie": "Bombina_bombina",
+    "specie_en": "European fire-bellied toad",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.7",
+      "units": "cm",
+      "label": "total length of tadpole at birth",
+      "bibkey": "KinnKune2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.2",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "KinnKune2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki gives 6 cm"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.5",
+      "units": "cm",
+      "label": "SVL of frog at metam",
+      "bibkey": "KinnKune2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "4.2",
+      "units": "cm",
+      "label": "total length of tadpole at metam",
+      "bibkey": "KinnKune2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.0",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "KinnKune2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1000/365",
+      "units": "#/d",
+      "label": "reprod rate at 4.5 cm SVL",
+      "bibkey": "KinnKune2006",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "186 - 1236 per season"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.7e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KinnKune2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.49 mm: pi/6*0.149^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "13.9",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.18",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "{'KinnKune2006','Wiki'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lj/6)^3*Wwi"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4.1",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'KinnKune2006','Wiki'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/6)^3*Wwi"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "KinnKune2006",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KinnKune2006",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "70",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "KinnKune2006",
+      "temp": "C2K(24.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "KinnKune2006",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

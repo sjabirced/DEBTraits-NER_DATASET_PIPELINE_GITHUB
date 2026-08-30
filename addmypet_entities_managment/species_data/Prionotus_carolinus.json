@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Triglidae",
+    "genus": "Prionotus",
+    "specie": "Prionotus_carolinus",
+    "specie_en": "Northern searobin",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "38",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "19",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "180e3/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Yusc1985",
+      "temp": "C2K(18.9)",
+      "units.temp": "K",
+      "comment": "based on P. evolans"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.1e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.05  mm: pi/6*0.105^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "562",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Li^3.19, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "61.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00513*Lp^3.19, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7.7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(20.5)",
+      "units.temp": "K",
+      "comment": "hatch at 3.7 d, start feeding assumed at 7.7 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(18.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Hynobiidae",
+    "genus": "Onychodactylus",
+    "specie": "Onychodactylus_japonicus",
+    "specie_en": "Japanese clawed salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.6",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Kuzm1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "17",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Kuzm1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "Kuzm1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on same relative length as Hynobius nebulosus: 17 * 5.5/ 7.8"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "36/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Kuzm1995",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0654",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Kuzm1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 5 mm (4.5-5.4 mm): pi/6*0.5^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9.65",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Kuzm1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "148",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Kuzm1995",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "14.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Kuzm1995",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

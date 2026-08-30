@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Octopus",
+    "specie": "Octopus_joubini",
+    "specie_en": "Atlantic pygmy octopus",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Ni",
+      "entity.value": 800.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "based on kap = 0.75"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.035,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Fors1984",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 55.0,
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tW_f data (with Ww = 20 g at t = 182 d), given (tp, Wp)"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 30.0,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 49.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Fors1984",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 250.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Fors1984",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "193 to 331 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": 182.0,
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "genus": "Egernia",
+    "specie": "Egernia_striolata",
+    "specie_en": "Tree Skink"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "5.1726",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Kear2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12.1",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Kear2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Bull2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Bull2004 gives 10.4 as smallest mature female - assume a little smaller because maturity happens well before parturition"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Bull2004",
+    "temp": "C2K(22.18982)",
+    "units.temp": "K",
+    "comment": "max litter size from Bull2004 - up to 7 recorded by Pete Comber though, cited in Fyfe2008"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.028",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Kear2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.03770498*data.Li^2.854377",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Kear2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.03770498*data.Lp^2.854377",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Kear2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "30*3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "{'Kear2017'}",
+    "temp": "C2K(29.27777)",
+    "units.temp": "K",
+    "comment": "longest time after a female was brought in that she had her babies"
+  },
+  {
+    "entity": "am",
+    "entity.value": "25*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Chap2003",
+    "temp": "C2K(22.18982)",
+    "units.temp": "K",
+    "comment": "no data - used E. stokesii value from Chap2003 Table 2"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "data.ab+743.1",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "Kear2017",
+    "temp": "C2K(29.27777)",
+    "units.temp": "K",
+    "comment": "based on mean time to 10.4 mm in lab"
+  }
+]

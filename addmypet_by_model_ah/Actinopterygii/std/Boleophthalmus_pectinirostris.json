@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Oxudercidae",
+    "genus": "Boleophthalmus",
+    "specie": "Boleophthalmus_pectinirostris",
+    "specie_en": "Great blue spotted mudskipper"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Take2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.5e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.1e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "WansQiyo2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 1.1 mm and width of 0.6 mm: pi/6*0.11*0.06^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "90.5",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00933*Li^2.97, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00933*Lp^2.97, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Take2008",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Take2008",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

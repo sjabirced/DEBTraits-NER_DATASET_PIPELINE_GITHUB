@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Penaeidae",
+    "genus": "Penaeus",
+    "specie": "Penaeus_esculentus",
+    "specie_en": "Brown tiger prawn"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.3*46780/30",
+    "units": "#/d",
+    "label": "ultimate reproduction rate",
+    "bibkey": "KeysCroc2006",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "46780 eggs per spawn for wild population, 1.3 spawns per month"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.74e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on value for Palaemonetes varians"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "114",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fish",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on ultimate carapace length CLi=55 mm and CLp=36 mm and Wwp: 32*(55/36)^3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "32",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fish",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp = 6 mnth and tW data"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fish",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

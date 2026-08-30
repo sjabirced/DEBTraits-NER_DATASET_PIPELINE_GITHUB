@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Heteromyidae",
+    "genus": "Heteromys",
+    "specie": "Heteromys_pictus",
+    "specie_en": "Painted spiny pocket mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2*4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": "'2-6 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "EiseIsaa1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "55",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EiseIsaa1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "25",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "EiseIsaa1963",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": "24-28"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "98",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "EiseIsaa1963",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "21",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "EiseIsaa1963",
+      "temp": "C2K(36.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

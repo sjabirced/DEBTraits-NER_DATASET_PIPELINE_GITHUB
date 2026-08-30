@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Catopuma",
+    "specie": "Catopuma_temminckii",
+    "specie_en": "Asian golden cat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": "1-3 cups per litter, 1 litter per yr "
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "188",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Andr2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "AnAge gives 250 g, Wiki 220-250 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16000",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "23*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "79",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": "AnAge gives 95 d, Wiki 78-80"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "639",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "180",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hemiptera",
+    "family": "Aphididae",
+    "genus": "Acyrthosiphon",
+    "specie": "Acyrthosiphon_pisum",
+    "specie_en": "Pea aphid",
+    "deb_model": "abp"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.14,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimated from Lp * (Wb/Wp)^(1/3) = .042^(1/3) * 0.4"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.4,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 12.0,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "4-12 young per d"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": 0.042,
+      "units": "mg",
+      "label": "dry weight at birth",
+      "bibkey": "Sequ1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdp",
+      "entity.value": 1.0,
+      "units": "mg",
+      "label": "dry weight at puberty",
+      "bibkey": "Sequ1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 10.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ShinSisk2003",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 30.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 9.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Sequ1991",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Wiki: 7-10 d"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Phalangeridae",
+    "genus": "Phalanger",
+    "specie": "Phalanger_intercastellanus",
+    "specie_en": "Eastern common cuscus"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "658.4",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "based on Phalanger orientalis: 2 pups per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.9",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Spilocuscus_maculatus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2200",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "1.4-2.2 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "18.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "based on Spilocuscus_maculatus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "13",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "based on Phalanger orientalis"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "300",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": "based on Spilocuscus_maculatus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "270",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

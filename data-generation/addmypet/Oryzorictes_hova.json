@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Afrosoricida",
+    "family": "Tenrecidae",
+    "genus": "Oryzorictes",
+    "specie": "Oryzorictes_hova",
+    "specie_en": "Mole-like rice tenrec",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "68.7",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(30.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(30.9)",
+      "units.temp": "K",
+      "comment": "1-4 pups per litter, 1 litter per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Microgale dobsoni"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "45",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "WhitSeym2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW: 28 to 40 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(30.9)",
+      "units.temp": "K",
+      "comment": "value is very unsure"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "35",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(30.9)",
+      "units.temp": "K",
+      "comment": "4-6 wks d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "200",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(30.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "2.5*30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(30.9)",
+      "units.temp": "K",
+      "comment": "2-3 mnth"
+    }
+  ]
+}

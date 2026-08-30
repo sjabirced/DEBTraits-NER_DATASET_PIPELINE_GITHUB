@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Suliformes",
+    "family": "Sulidae",
+    "genus": "Morus",
+    "specie": "Morus_bassanus",
+    "specie_en": "Northern gannet"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.6)",
+    "units.temp": "K",
+    "comment": "AnAge: 1 clutch/yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "80",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4000",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "MontRick1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "asymptotic weight of nestling, adults are 3300 g (MontRick1984)"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "43",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AnAge",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "Body temp from ShalWhit1973 as target, but varies considerably"
+  },
+  {
+    "entity": "am",
+    "entity.value": "37.4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "730",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(40.6)",
+    "units.temp": "K",
+    "comment": "Data for S. sula, 2-3 yr"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "300",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.6)",
+    "units.temp": "K",
+    "comment": "Data for S. sula, 91 till > 139 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "100",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "ADW",
+    "temp": "C2K(40.6)",
+    "units.temp": "K",
+    "comment": "Data for S. sula, 91 till > 139 d"
+  }
+]

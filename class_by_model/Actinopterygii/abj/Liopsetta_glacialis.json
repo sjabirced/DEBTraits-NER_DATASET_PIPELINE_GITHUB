@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Liopsetta",
+    "specie": "Liopsetta_glacialis",
+    "specie_en": "Artic flounder"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "44",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "17",
+    "units": "cm",
+    "label": "length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "230000/365/2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": "based on fecundity of 23e4, each 2 yrs"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.5e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter 0.95 mm: 4/3*pi*0.0475^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "332",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','fishesoftexas'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00437*Li^2.97, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "19.7",
+    "units": "g",
+    "label": "wet weight at piberty",
+    "bibkey": "{'fishbase','fishesoftexas'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00437*Lp^2.97, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "26*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

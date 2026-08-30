@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Procellariiformes",
+    "family": "Procellariidae",
+    "genus": "Thalassoica",
+    "specie": "Thalassoica_antarctica",
+    "specie_en": "Antarctic petrel",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "73",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Creu2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.6e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Creu2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Asymptotic mass prior to fledging, mean adult mass EoL: 780 g (female) 805 g (male)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "48",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Creu2010",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "Wiki: 44 to 52 d, temp is guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "based on similar sized petrels"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "159",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "43 to 60 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "53",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Creu2010",
+      "temp": "C2K(39.4)",
+      "units.temp": "K",
+      "comment": "43 to 60 d"
+    }
+  ]
+}

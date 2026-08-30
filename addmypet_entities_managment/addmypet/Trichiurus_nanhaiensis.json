@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Trichiuridae",
+    "genus": "Trichiurus",
+    "specie": "Trichiurus_nanhaiensis",
+    "specie_en": "Hairtail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.02",
+      "units": "g/g",
+      "label": "gonado-somatic index",
+      "bibkey": "KwokNi1999",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "60",
+      "units": "cm",
+      "label": "ultimate preanal length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki gives 234 cm for max total length"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "28.2",
+      "units": "cm",
+      "label": "preanal length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on guessed egg diameter of 1 mm: 4/3*pi*.05^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "79/24",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "scxuebao",
+      "temp": "C2K(21.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "except for ab, all temps are guessed"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Daphniidae",
+    "genus": "Daphnia",
+    "specie": "Daphnia_longispina",
+    "specie_en": "Waterflea"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.0627",
+    "units": "cm",
+    "label": "body length at birth",
+    "bibkey": "InglWood1937",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.290",
+    "units": "cm",
+    "label": "ultimate body length, well fed",
+    "bibkey": "InglWood1937",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li0",
+    "entity.value": "0.210",
+    "units": "cm",
+    "label": "ultimate body length, starved",
+    "bibkey": "InglWood1937",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.2132",
+    "units": "cm",
+    "label": "body length at puberty, well-fed",
+    "bibkey": "InglWood1937",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp0",
+    "entity.value": "0.1562",
+    "units": "cm",
+    "label": "body length at puberty, starved",
+    "bibkey": "InglWood1937",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": "263",
+    "units": "#",
+    "label": "'life time reprod output",
+    "bibkey": "InglWood1937",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ni0",
+    "entity.value": "88",
+    "units": "#",
+    "label": "'life time reprod output",
+    "bibkey": "InglWood1937",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": "3.33e-6",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "InglWood1937",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed as 1.16e-5*(Lb * 10)^2.67, see F1"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "1.99e-4",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "InglWood1937",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed as 1.16e-5*(Li * 10)^2.67, see F1"
+  },
+  {
+    "entity": "Wdp",
+    "entity.value": "8.76e-5",
+    "units": "g",
+    "label": "dry weight at puberty",
+    "bibkey": "InglWood1937",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Computed as 1.16e-5*(Lp * 10)^2.67, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "38/24",
+    "units": "d",
+    "label": "'age at birth",
+    "bibkey": "InglWood1937",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "Deduced from instar duration after nr 6"
+  },
+  {
+    "entity": "ab0",
+    "entity.value": "42/24",
+    "units": "d",
+    "label": "'age at birth",
+    "bibkey": "InglWood1937",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "Deduced from instar duration after nr 6"
+  },
+  {
+    "entity": "am",
+    "entity.value": "28.2",
+    "units": "d",
+    "label": "'life span",
+    "bibkey": "InglWood1937",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am0",
+    "entity.value": "38.5",
+    "units": "d",
+    "label": "'life span",
+    "bibkey": "InglWood1937",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "148/24",
+    "units": "d",
+    "label": "time since birth at puberty, well fed",
+    "bibkey": "InglWood1937",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp0",
+    "entity.value": "174/24",
+    "units": "d",
+    "label": "time since birth at puberty,starved",
+    "bibkey": "InglWood1937",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Gekkonidae",
+    "genus": "Heteronotia",
+    "specie": "Heteronotia_binoei_SM6",
+    "specie_en": "Bynoe",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.1",
+      "units": "cm",
+      "label": "snout to vent length at birth",
+      "bibkey": "Kear2004c",
+      "temp": null,
+      "units.temp": null,
+      "comment": "mean size of newborns"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.9",
+      "units": "cm",
+      "label": "ultimate snout to vent length",
+      "bibkey": "Kear2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.8",
+      "units": "cm",
+      "label": "snout to vent length at puberty",
+      "bibkey": "Kear2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "smallest female that reproduced - likely an underesimate"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4.4/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Kear2005",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0167*data.Lb^3.2594",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'Kear2004c','Robe2012'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as 0.0167*Lb^3.2594"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.0167*data.Li^3.2594",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Kear2004c','Robe2012'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as 0.0167*Li^3.2594"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.0167*data.Lp^3.2594",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'Kear2004c','Robe2012'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed as 0.0167*Lp^3.2594"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "88.9",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Kear2004a",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Baue2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "probably an underestimate, Bauer reports 13.6 based on captive records, Kearney, Moritz and Roberts recaptured an individual marked 15 years earlier as an adult at Paynes Find Station"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "data.ab+123",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Kear2004b",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "Fig. 7 from Kearney''s PhD thesis - rough"
+    }
+  ]
+}

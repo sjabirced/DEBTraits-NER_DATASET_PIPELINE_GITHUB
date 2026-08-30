@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Echinodermata",
+    "class": "Echinoidea",
+    "order": "Camarodonta",
+    "family": "Echinidae",
+    "genus": "Sterechinus",
+    "specie": "Sterechinus_neumayeri",
+    "specie_en": "Antarctic sea urchin"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.10",
+    "units": "g/g",
+    "label": "gonadal somatic index",
+    "bibkey": "PearGies1966",
+    "temp": "C2K(-1.5)",
+    "units.temp": "K",
+    "comment": "'def: Ww_gonad/Ww_whole"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.035",
+    "units": "cm",
+    "label": "length from aboral apex to tips of postoral arms of echinoplutei",
+    "bibkey": "BoscBeau1987",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.023",
+    "units": "cm",
+    "label": "ultimate diameter of test",
+    "bibkey": "BreyPear1995",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.044",
+    "units": "cm",
+    "label": "diameter of newly metamorphosised benthic juvenile",
+    "bibkey": "BoscBeau1987",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.04",
+    "units": "cm",
+    "label": "diameter of test at puberty",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Guess based on same relative length compared to Echinus affinis: 7.023 * 1.6/ 5.5"
+  },
+  {
+    "entity": "Wd0",
+    "entity.value": "4.49e-9",
+    "units": "g",
+    "label": "CN mass of fertilised egg",
+    "bibkey": "MarsLeon1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": "5.21e-9",
+    "units": "g",
+    "label": "CN mass of pluteus larva",
+    "bibkey": "MarsLeon1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "1.7671e-6",
+    "units": "g",
+    "label": "wet weight of egg",
+    "bibkey": "BoscBeau1987",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'computed from egg diameter of 0.15 mm (previously reported"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "129",
+    "units": "g",
+    "label": "wet weight adult, including gonads",
+    "bibkey": "PearGies1966",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "21",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "BoscBeau1987",
+    "temp": "C2K(-1.35)",
+    "units.temp": "K",
+    "comment": "onset of feeding in pluteus larva"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "BoscBeau1987",
+    "temp": "C2K(0)",
+    "units.temp": "K",
+    "comment": "onset of feeding in pluteus larva at warmer temperature"
+  },
+  {
+    "entity": "am",
+    "entity.value": "40*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BreyPear1995",
+    "temp": "C2K(-1.5)",
+    "units.temp": "K",
+    "comment": "40 years is a rough estimate of life span for urchins in the McMurdo sound"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "115",
+    "units": "d",
+    "label": "time since birth at metamorphosis",
+    "bibkey": "BoscBeau1987",
+    "temp": "C2K(-1.35)",
+    "units.temp": "K",
+    "comment": "metamorphosis into benthic juvenile, Bosch counted the days from fertilization!"
+  }
+]

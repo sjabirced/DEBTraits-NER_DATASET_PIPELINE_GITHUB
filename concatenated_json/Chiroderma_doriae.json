@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Phyllostomidae",
+    "genus": "Chiroderma",
+    "specie": "Chiroderma_doriae",
+    "specie_en": "Brazilian big-eyed bat"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "31.1",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "CruzGarl2001",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "WhitSeym2003: 43.1 ml O2/h for Ww=19.9 g and say that they got it from CruzGarl2001"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "' 1 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Molossus_molossus: 3.45*30/14"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "30",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "27 to 33 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "22",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "4*30.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "based on Anoura geoffroyi"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "30.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

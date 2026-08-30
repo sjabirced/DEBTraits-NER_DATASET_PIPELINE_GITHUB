@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Carettochelyidae",
+    "genus": "Carettochelys",
+    "specie": "Carettochelys_insculpta",
+    "specie_en": "Pig-nosed turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "5.7",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "arkive",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "65",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "arkive",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki and arkive give 70 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "38",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "DoodGeor2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "39/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'arkive','DoodGeor2003'}",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "4 till 39 eggs per clutch, 2 clutches each other year, 41 d apart"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "22",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "WebbChoq1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "30000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "arkive",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "6000",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "DoodGeor2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "38.4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "arkive",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "Wiki: 18 yr"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Arachnida",
+    "order": "Araneae",
+    "family": "Lycosidae",
+    "genus": "Aglaoctenus",
+    "specie": "Aglaoctenus_lagotis",
+    "specie_en": "Wolf spider"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.062",
+    "units": "cm",
+    "label": "cephalothorax length at birth",
+    "bibkey": "MoreDelC2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.86",
+    "units": "cm",
+    "label": "ultimate cephalothorax length for female",
+    "bibkey": "MoreDelC2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "ultimate cephalothorax length for male",
+    "bibkey": "MoreDelC2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.443",
+    "units": "cm",
+    "label": "cephalothorax length at puberty",
+    "bibkey": "MoreDelC2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": "assumption: alloaction to reprod starts at instar 10"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "(237.8 + 94.125)/ 120.2",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "MoreDelC2011",
+    "temp": "C2K(26.7)",
+    "units.temp": "K",
+    "comment": "two sacs of eggs, first much larger than second"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.67e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MoreDelC2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": "computed as 0.64 * (Lb/ 0.83)^3, since weight is 0.64 g at length 0.83 cm, More2014"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.72",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "MoreDelC2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": "computed as 0.64 * (Li/ 0.83)^3, since weight is 0.64 g at length 0.83 cm, More2014"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.097",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "MoreDelC2011",
+    "temp": null,
+    "units.temp": null,
+    "comment": "computed as 0.64 * (Lp/ 0.83)^3, since weight is 0.64 g at length 0.83 cm, More2014"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "23",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "MoreDelC2011",
+    "temp": "C2K(26.7)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "430",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MoreDelC2011",
+    "temp": "C2K(26.7)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "271",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "MoreDelC2011",
+    "temp": "C2K(26.7)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

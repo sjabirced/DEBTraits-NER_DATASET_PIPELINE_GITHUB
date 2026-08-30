@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Catostomus",
+    "specie": "Catostomus_tahoensis",
+    "specie_en": "Tahoe sucker"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "61",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "14.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "KennSigl1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tp 4/5 yr and tL data"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "KennSigl1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.8 mm: pi/6*0.18^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.68e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Li^3.04, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "33.2",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','KennSigl1978'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01000*Lp^3.04, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Phyllostomidae",
+    "genus": "Artibeus",
+    "specie": "Artibeus_hirsutus",
+    "specie_en": "Hairy fruit-eating bat"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "121.50",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "1 pup per litter, 2 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Artibeus_lituratus: 10.5*51.5/70.1"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "51.5",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "GenoIsle2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "gbif: 32-47 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Artibeus_watsoni"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "90",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Artibeus_watsoni"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "288",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Artibeus_lituratus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "35",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "based on Artibeus_watsoni"
+  }
+]

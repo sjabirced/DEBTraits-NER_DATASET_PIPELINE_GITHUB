@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Noturus",
+    "specie": "Noturus_nocturnus",
+    "specie_en": "Freckled madtom"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16.2",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "9.2",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on SL 7.8 cm, see F2"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "116/365",
+    "units": "#/d",
+    "label": "maximum reprod rate at SL 7.5 cm, TL 8.8 cm",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.4e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishesoftexas",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.3 mm: pi/6*0.23^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "32.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishesoftexas','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Li^3.10, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "5.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishesoftexas','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Lp^3.10, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishesoftexas",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

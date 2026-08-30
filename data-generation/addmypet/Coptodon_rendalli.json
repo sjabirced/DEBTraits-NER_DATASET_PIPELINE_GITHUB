@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cichliformes",
+    "family": "Cichlidae",
+    "genus": "Coptodon",
+    "specie": "Coptodon_rendalli",
+    "specie_en": "Redbreast tilapia",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "standard (?) length at birth",
+      "bibkey": "PhilRuwe1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lh",
+      "entity.value": "0.39",
+      "units": "cm",
+      "label": "standard (?) length at hatch",
+      "bibkey": "PhilRuwe1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "15.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ChanDeSi1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Size of the smallest mature fish"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "34000/365*4",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ChanDeSi1981",
+      "temp": "C2K(29.8)",
+      "units.temp": "K",
+      "comment": "'Estimated for a 2kg fish using Weight-Fecundity regn from ChanDeSi1981"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "2.3e-3",
+      "units": "g",
+      "label": "initial egg weight",
+      "bibkey": "ChanDeSi1981",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 1.3-1.8 mm: pi/6*0.163^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2500",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6",
+      "units": "d",
+      "label": "'age at birth",
+      "bibkey": "PhilRuwe1982",
+      "temp": "temp.ah",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "2",
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "PhilRuwe1982",
+      "temp": "C2K(26.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "16 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "WeylHech1998",
+      "temp": "C2K(25.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365 * 1.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ChanDeSi1981",
+      "temp": "C2K(29.8)",
+      "units.temp": "K",
+      "comment": "Second year"
+    }
+  ]
+}

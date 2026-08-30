@@ -1,0 +1,113 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Nudibranchia",
+    "family": "Tergipedidae",
+    "species": "Cuthona_nana",
+    "species_en": "Aeolid nudibranch",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "2.3",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Foli1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": "marinelife gives 2.8 cm"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.5",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "Foli1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": "read from tL-curve for inflection point"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Foli1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": "0.9-1.1 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "16 * 400/ 25",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Chri1977",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.145e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Rive1978",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 160 mum: pi/6*0.016^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.14",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "estimate based on pi * .12^2 * 2.3^3/ 4, where .12 is aspect ratio"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "20",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Rive1978",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "125",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Foli1993",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "80",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Foli1993",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "read from tL-curve for inflection point"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "90",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "From tL-curve for Lp = 1 cm"
+    }
+  ]
+}

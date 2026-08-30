@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Delphinidae",
+    "genus": "Stenella",
+    "specie": "Stenella_attenuata",
+    "specie_en": "Pantropical spotted dolphin",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "89",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "KasuMiya1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "194.9",
+      "units": "cm",
+      "label": "ultimate length for females",
+      "bibkey": "KasuMiya1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "203.3",
+      "units": "cm",
+      "label": "ultimate length for males",
+      "bibkey": "KasuMiya1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "181.9",
+      "units": "cm",
+      "label": "length at puberty for females",
+      "bibkey": "KasuMiya1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "193.3",
+      "units": "cm",
+      "label": "length at puberty for males",
+      "bibkey": "KasuMiya1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365/3",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "1.5 calves per litter, 1 litter per 3 yr"
+    },
+    {
+      "entity": "am",
+      "entity.value": "46*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "11.2*30.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "KasuMiya1977",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "8.2*365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "KasuMiya1977",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "10.3*365",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "KasuMiya1977",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "29*30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "KasuMiya1977",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

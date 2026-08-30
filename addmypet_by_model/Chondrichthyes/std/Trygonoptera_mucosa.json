@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Urolophidae",
+    "genus": "Trygonoptera",
+    "specie": "Trygonoptera_mucosa",
+    "specie_en": "Western shovelnose stingaree"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "disc width at birth",
+    "bibkey": "WhitHall2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "36.9",
+    "units": "cm",
+    "label": "ultimate disc width",
+    "bibkey": "WhitHall2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "28.3",
+    "units": "cm",
+    "label": "ultimate disc width for males",
+    "bibkey": "WhitHall2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "for males"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "disc width at puberty",
+    "bibkey": "WhitHall2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "22",
+    "units": "cm",
+    "label": "disc width at puberty for males",
+    "bibkey": "WhitHall2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "WhitHall2002",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "350000 * (36.9/200)^3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "350000 * (28.3/200)^3",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Trygonoptera testacea grows to 2 m disc width and a weight of 350 kg (Austr museum)"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "WhitHall2002",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "WhitHall2002",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "for females, 10 yr for males"
+  }
+]

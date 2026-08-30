@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Chydoridae",
+    "genus": "Pleuroxus",
+    "specie": "Pleuroxus_aduncus",
+    "specie_en": "Waterflea"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.036",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Smir1964",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.066",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Smir1964",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.05",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Smir1964",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12/(68-11)",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Smir1964",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "2.6",
+    "units": "mug",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "dry weight estimate based on P striatus, corrected for Li"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Smir1964",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "derived from instar period"
+  },
+  {
+    "entity": "am",
+    "entity.value": "68",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Smir1964",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "11",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Smir1964",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

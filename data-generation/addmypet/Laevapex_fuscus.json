@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Planorbidae",
+    "genus": "Laevapex",
+    "specie": "Laevapex_fuscus",
+    "specie_en": "Freshwater limpet",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.07,
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "McMa1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 0.79,
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.35,
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "McMa1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 15.0,
+      "units": "#",
+      "label": "lifetime reprod output",
+      "bibkey": "McMa1976",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "5 eggs per capsule, 3 capsules per yr"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": 0.0043,
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size-corrected value for Ancylus_fluviatilis: 3.4e-3 * (0.79/0.73)^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": 385.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "McMa1976",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

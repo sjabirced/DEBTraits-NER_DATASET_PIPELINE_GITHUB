@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Arachnida",
+    "order": "Scorpiones",
+    "family": "Buthidae",
+    "genus": "Centruroides",
+    "specie": "Centruroides_gracilis",
+    "specie_en": "Florida bark scorpion"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.6",
+    "units": "cm",
+    "label": "carapace length at birth",
+    "bibkey": "FranJone1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.16",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "FranJone1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.65",
+    "units": "cm",
+    "label": "carapace length at puberty",
+    "bibkey": "FranJone1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on the assumption that allocation to reproduction starts in the second last moult"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "46/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "FranJone1982",
+    "temp": "C2K(25.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length-weight of Smeringurus_mesaensis and the assumption that total length is 2 times carapace length: 8.16/(6.9/2)*2.2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FranJone1982",
+    "temp": "C2K(26.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

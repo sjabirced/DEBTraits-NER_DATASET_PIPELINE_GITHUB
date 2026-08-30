@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Steatornithiformes",
+    "family": "Steatornithidae",
+    "genus": "Steatornis",
+    "specie": "Steatornis_caripensis",
+    "specie_en": "Oilbird",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": "2 to 4 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "14",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ThomBosq1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": "13-15 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "415",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ThomBosq1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Nestlings can weigh 600 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "32",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Cornell",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "'32-45 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "40*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "730",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "315",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": "95-120 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "105",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ThomBosq1993",
+      "temp": "C2K(39.7)",
+      "units.temp": "K",
+      "comment": "95-120 d"
+    }
+  ]
+}

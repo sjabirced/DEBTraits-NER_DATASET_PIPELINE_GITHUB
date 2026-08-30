@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Chelidae",
+    "genus": "Elseya",
+    "specie": "Elseya_albagula",
+    "specie_en": "White-throated snapping turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "4.9",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "Limp2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "36",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "Limp2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "24",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "Limp2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25.2",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "Limp2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "20.8",
+      "units": "cm",
+      "label": "carapace length at puberty for males",
+      "bibkey": "Limp2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "13.8/365",
+      "units": "#/d",
+      "label": "reprod rate at CL 24.6",
+      "bibkey": "Limp2008",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "mean of 13.8 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "31.8",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "Limp2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.5e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on CL 24.6 corresponds with 1785 g for Myuchelys_bellii: (36/24.7)^3*1785"
+    },
+    {
+      "entity": "ab28",
+      "entity.value": "85",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Limp2008",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab30",
+      "entity.value": "77",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Limp2008",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "40*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "10.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Limp2008",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "9.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Limp2008",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

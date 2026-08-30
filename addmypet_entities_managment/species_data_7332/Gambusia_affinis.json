@@ -1,0 +1,211 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Poeciliidae",
+    "genus": "Gambusia",
+    "specie": "Gambusia_affinis",
+    "specie_en": "Mosquitofish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "BeadGino2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": "6 to 8 mm for Gambusia holbrooki"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "VondWurt1988",
+    "temp": null,
+    "units.temp": null,
+    "comment": "17 to 20 mm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "total length at puberty for male",
+    "bibkey": "BeadGino2008",
+    "temp": null,
+    "units.temp": null,
+    "comment": "value for Gambusia holbrooki"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "16/224",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "VondWurt1988",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "275/224",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "VondWurt1988",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "425/224",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "VondWurt1988",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "WwR",
+    "entity.value": "0.28",
+    "units": "g",
+    "label": "wet weight of female at first reprod",
+    "bibkey": "VondWurt1988",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "WwR",
+    "entity.value": "0.52",
+    "units": "g",
+    "label": "wet weight of female at first reprod",
+    "bibkey": "VondWurt1988",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "WwR",
+    "entity.value": "0.53",
+    "units": "g",
+    "label": "wet weight of female at first reprod",
+    "bibkey": "VondWurt1988",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'BeadGino2008','fishbase'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00977*Lb^3.18, see F2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.37",
+    "units": "g",
+    "label": "ultimate wet weight of female",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00794*Li^3.11, see F2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.59",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00794*Lim^3.11, see F2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "22",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": "16-28 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "189",
+    "units": "d",
+    "label": "time since birth at first reprod",
+    "bibkey": "VondWurt1988",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "74",
+    "units": "d",
+    "label": "time since birth at first reprod",
+    "bibkey": "VondWurt1988",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "56",
+    "units": "d",
+    "label": "time since birth at first reprod",
+    "bibkey": "VondWurt1988",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "53",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": "43-62 d"
+  }
+]

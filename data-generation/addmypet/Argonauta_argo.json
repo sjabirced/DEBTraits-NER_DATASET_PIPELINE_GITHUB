@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Argonautidae",
+    "genus": "Argonauta",
+    "specie": "Argonauta_argo",
+    "specie_en": "Greater argonaut",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate mantle length",
+      "bibkey": "LaptSalm2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "2.0",
+      "units": "cm",
+      "label": "ultimate mantle length for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.8",
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "LaptSalm2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on size for Ni"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "0.8",
+      "units": "cm",
+      "label": "mantle length at puberty for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "77300",
+      "units": "#",
+      "label": "fecundity at ML 32 mm BW 16.7 g",
+      "bibkey": "LaptSalm2003",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "the assumed accumulation time is 80 d"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "LaptSalm2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "501",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "LaptSalm2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on lenth-weight of individuals of Ni: (10/3.2)^3*16.7"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "octolab gives 1 yr"
+    }
+  ]
+}

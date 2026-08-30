@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Tarletonbeania",
+    "specie": "Tarletonbeania_crenularis",
+    "specie_en": "Blue lanternfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12.7",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.7",
+    "units": "cm",
+    "label": "standard length at metam",
+    "bibkey": "BystPhil2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "gap in tL graph 1.7 to 2.17 cm, during which metam occurs"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.9",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length, compared to Diaphus_dumerilii: 2.5/6.5*12.7 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4e4/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(6.2)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.5e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.5 mm of Diaphus_dumerilii: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "27",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01023*Li^3.10, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01023*Lp^3.10, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BystPhil2010",
+    "temp": "C2K(6.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

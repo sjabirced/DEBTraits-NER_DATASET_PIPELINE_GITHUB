@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Hexanauplia",
+    "order": "Sessilia",
+    "family": "Balanidae",
+    "genus": "Amphibalanus",
+    "specie": "Amphibalanus_amphitrite",
+    "specie_en": "Striped barnacle"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.85",
+    "units": "cm",
+    "label": "ultimate basal diameter",
+    "bibkey": "SimpHurl1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.25",
+    "units": "cm",
+    "label": "basal diameter at metam",
+    "bibkey": "Spiv1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Read from tL data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.75",
+    "units": "cm",
+    "label": "basal diameter at puberty",
+    "bibkey": "Spiv1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'Between 6 and 9 mm for most Balanus species"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "20e4/ 365",
+    "units": "#/d",
+    "label": "reprod rate at 15.6 mm basal diameter",
+    "bibkey": "sms",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "1e3-1e4 eggs/brood, upto 24 broods/yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.63e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BarnBarn1956",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 0.146 mm of Balanus glandula: pi/6*0.0146^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.688",
+    "units": "g",
+    "label": "ultimate soma wet weight",
+    "bibkey": "Spiv1989",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on F3,F4: 1e-3*10^(1.092-0.734+3.106*log10(Li*10)/1.188)"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "sms",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "77 d in the Mediterranean, 1.26-1.4 yr normally, 4-6 yr in S. Africa and Argentina"
+  },
+  {
+    "entity": "ts",
+    "entity.value": "8",
+    "units": "d",
+    "label": "time since birth at settlement",
+    "bibkey": "AlAiSath2014",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "nauplius stages 6d, cypris stage 2 d"
+  }
+]

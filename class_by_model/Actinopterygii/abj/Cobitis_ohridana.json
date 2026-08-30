@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cobitidae",
+    "genus": "Cobitis",
+    "specie": "Cobitis_ohridana",
+    "specie_en": "Ohrid loach"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.5",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "BohlSlec2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase gives TL 6.8 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.8",
+    "units": "cm",
+    "label": " total length at puberty",
+    "bibkey": "BohlSlec2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "based on Cobitis_taenia"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.1e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.6 mm Barbatula barbatula: pi/6*0.06^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.62",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00562*Li^3.05, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.33",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'BohlSlec2003','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on 0.00562*Lp^3.05, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BohlSlec2003",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

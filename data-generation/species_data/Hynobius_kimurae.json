@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Hynobiidae",
+    "genus": "Hynobius",
+    "specie": "Hynobius_kimurae",
+    "specie_en": "Hida salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "1.05",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "MisaMats1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "9.7",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "2.95",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "MisaMats1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "51/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "13 to 51 eggs per clutch, in a pair of sacs, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7.7e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MisaMats1997",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.45 mm: pi/6*0.245^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Onychodactylus_japonicus, using F1: 9.65*(17*0.527/9.7)^3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "60",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MisaMats1999",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "MisaMats1999",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "MisaMats1999",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

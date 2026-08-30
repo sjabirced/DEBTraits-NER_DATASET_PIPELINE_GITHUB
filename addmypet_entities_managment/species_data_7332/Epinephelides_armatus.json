@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "genus": "Epinephelides",
+    "specie": "Epinephelides_armatus",
+    "specie_en": "Black-arse cod"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.03",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "MoorHeso2007",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "56",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "30.6",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "MoorHeso2007",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25.6",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "MoorHeso2007",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.13e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 0.6 mm: pi/6*0.06^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "MoorHeso2007",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.01023*Li^2.98, see F1, give 1.66 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "25 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

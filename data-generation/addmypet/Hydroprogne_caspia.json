@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Hydroprogne",
+    "specie": "Hydroprogne_caspia",
+    "specie_en": "Caspian tern",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "BarlDowd2002",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "2 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "60",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BarlDowd2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "egg length 6.45 cm, width 4.46 cm, weight: pi/6*6.45*4.46^2=67.1 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "644",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 530 to 782 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "27.2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BarlDowd2002",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "'22 to 23 d. Temperature is guessed based on being the optimal temperature for artificial incubation for several species"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "1095",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "111",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "33 to 39 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "37",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "BarlDowd2002",
+      "temp": "C2K(40.9)",
+      "units.temp": "K",
+      "comment": "33 to 39 d"
+    }
+  ]
+}

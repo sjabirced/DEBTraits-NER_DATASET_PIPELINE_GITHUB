@@ -1,0 +1,29 @@
+# Environment for the main Animalia dataset pipeline (Stages 1-2: extraction,
+# classification, lifecycle generation, and annotation text generation).
+#
+# For the NER training/inference environment (data_in_brief_server/), see
+# data_in_brief_server/requirements.txt instead.
+#
+# Shared package versions below are pinned to match data_in_brief_server/requirements.txt.
+
+# --- core data processing ---
+pandas==2.3.1
+numpy==2.4.2
+matplotlib==3.10.6
+
+# --- environment variables (.env) and progress bars ---
+python-dotenv==1.1.0
+tqdm==4.67.1
+
+# --- sentence segmentation (data_annotation/data_annotation_notebook/bio_annotation_all_species.ipynb) ---
+spacy==3.8.7
+# after installing, download the language model this notebook loads:
+#   python -m spacy download en_core_web_sm
+
+# --- BIO dataset tokenization for BERT (data_annotation/data_annotation_notebook/bio_hf_dataset_prep.ipynb) ---
+transformers==5.13.0
+datasets==5.0.0
+pyyaml==6.0.3
+
+# --- notebook execution (version not pinned to a specific run) ---
+jupyter

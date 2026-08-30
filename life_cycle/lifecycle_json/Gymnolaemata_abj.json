@@ -1,0 +1,155 @@
+{
+  "Gymnolaemata_abj_cycle_de_vie": {
+    "titre": "Life cycle of class Gymnolaemata — ABJ (std with type M metabolic acceleration)",
+    "ordre": "Cheilostomata / Ctenostomata",
+    "classe": "Gymnolaemata",
+    "stades": [
+      {
+        "id": 1,
+        "label": "t0",
+        "nom": "Fertilisation",
+        "type": "transition",
+        "termes": [
+          "egg fertilisation",
+          "zygote formation",
+          "gamete fusion",
+          "syngamy",
+          "ovum activation",
+          "reproductive pairing",
+          "zygote stage onset",
+          "gametic union",
+          "fecundation"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Egg / Incubation",
+        "nom": "Embryo under incubation",
+        "type": "stade",
+        "termes": [
+          "fertilised ovum",
+          "incubating egg",
+          "embryonated egg",
+          "yolk-dependent embryo",
+          "cleavage-stage embryo",
+          "blastula-stage embryo",
+          "gastrulating embryo",
+          "organogenesis stage"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "B",
+        "nom": "Onset of exogenous feeding",
+        "type": "transition",
+        "termes": [
+          "first exogenous feeding",
+          "first feeding",
+          "yolk-sac resorption",
+          "mouth opening",
+          "first prey capture",
+          "exotrophic transition",
+          "trophic switch",
+          "active feeding onset",
+          "larval feeding commencement",
+          "yolk absorption completion"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Larval stage",
+        "nom": "Free-swimming larva",
+        "type": "stade",
+        "termes": [
+          "free-swimming larva",
+          "planktonic larva",
+          "exogenously feeding larva",
+          "actively growing larva",
+          "pre-metamorphic larva",
+          "cyphonautes larva",
+          "coronate larva"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "J",
+        "nom": "Larval metamorphosis",
+        "type": "transition",
+        "termes": [
+          "larval metamorphosis",
+          "post-larval transformation",
+          "larval-juvenile transition",
+          "morphological transformation",
+          "allometric shift",
+          "body plan reorganisation",
+          "juvenile recruitment",
+          "metamorphic climax"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Post-metamorphosis juv.",
+        "nom": "Post-metamorphic juvenile",
+        "type": "stade",
+        "termes": [
+          "post-metamorphic juvenile",
+          "juvenile",
+          "sub-adult",
+          "immature post-metamorphic",
+          "recruits",
+          "recently metamorphosed juvenile",
+          "growing juvenile"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "P",
+        "nom": "Sexual maturation",
+        "type": "transition",
+        "termes": [
+          "sexual maturation",
+          "reproductive maturity",
+          "first reproduction event",
+          "gonad maturation",
+          "puberty",
+          "gametogenesis onset",
+          "reproductive activation",
+          "age at first reproduction"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Breeding adult",
+        "nom": "Reproductively active adult",
+        "type": "stade",
+        "termes": [
+          "sexually mature adult",
+          "reproductively active adult",
+          "breeding individual",
+          "gravid individual",
+          "post-pubertal adult",
+          "reproductively viable organism"
+        ]
+      },
+      {
+        "id": 9,
+        "label": "M",
+        "nom": "Natural death",
+        "type": "transition",
+        "termes": [
+          "natural mortality",
+          "senescence",
+          "age-related death",
+          "post-reproductive mortality",
+          "biological death",
+          "somatic death",
+          "lifespan completion",
+          "ecological mortality",
+          "organismal death",
+          "reproductive senescence",
+          "physiological death"
+        ]
+      }
+    ]
+  }
+}

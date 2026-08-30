@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "OvalentariaIncSed",
+    "family": "Embiotocidae",
+    "genus": "Micrometrus",
+    "specie": "Micrometrus_aurora",
+    "specie_en": "Reef perch"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.2*3",
+    "units": "cm",
+    "label": "std length at birth",
+    "bibkey": "Hubb1921",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "ultimate standard length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.2*5.9",
+    "units": "cm",
+    "label": "std length at puberty for females",
+    "bibkey": "Hubb1921",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "88.8",
+    "units": "g",
+    "label": "ultimate weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01318*Li^3.05, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Hubb1921",
+    "temp": "C2K(15.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

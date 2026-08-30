@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Euneomys",
+    "specie": "Euneomys_chinchilloides",
+    "specie_en": "Patagonian chinchilla mouse"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "84.4",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "gbif",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "'7 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Loxodontomys_micropus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "65",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "GenoIsle2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "gbif: 50 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Loxodontomys_micropus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "24.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Loxodontomys_micropus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "60",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Loxodontomys_micropus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "12",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Loxodontomys_micropus"
+  }
+]

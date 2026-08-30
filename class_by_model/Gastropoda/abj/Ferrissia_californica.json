@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Planorbidae",
+    "genus": "Ferrissia",
+    "specie": "Ferrissia_californica",
+    "specie_en": "Freshwater limpet"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.06,
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "DillHerm2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.3,
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Jans2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.215,
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "DillHerm2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 3.0,
+    "units": "#",
+    "label": "lifetime reprod output",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on size-correced value for Ancylus_fluviatilis: 46*(0.3/0.73)^3"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 0.000236,
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on size-corrected value for Ancylus_fluviatilis: 3.4e-3 * (0.3/0.73)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on Ancylus_fluviatilis"
+  }
+]

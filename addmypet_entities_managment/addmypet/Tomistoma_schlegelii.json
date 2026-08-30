@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Gavialidae",
+    "genus": "Tomistoma",
+    "specie": "Tomistoma_schlegelii",
+    "specie_en": "False gharial",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "400",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "4-5 m"
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "500",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "275",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "2.5-3 m"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "275",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "40/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "20-60 eggs/clutch"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "155",
+      "units": "g",
+      "label": "egg wet weight",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "170e3",
+      "units": "g",
+      "label": "ultimate wet weight of female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 327 cm female weighing 93 kg: (400/327)^3*93 kg"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "210e3",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "95",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(29)",
+      "units.temp": "K",
+      "comment": "90-100 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "80*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "AnAge gives 24.7 yrs"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "age at puberty for female",
+      "bibkey": "ADW",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "age at puberty for male",
+      "bibkey": "ADW",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

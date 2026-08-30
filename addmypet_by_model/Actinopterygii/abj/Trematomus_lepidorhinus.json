@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Nototheniidae",
+    "genus": "Trematomus",
+    "specie": "Trematomus_lepidorhinus",
+    "specie_en": "Slender scalyhead"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "31",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "19.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Trematomus_eulepidotus: 22*31/34.5 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10800/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(-0.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0021",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Ekau1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.6 mm: pi/6*0.16^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "270.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00427*Li^3.22, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "63.9",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00427*Lp^3.22, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "66",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(0)",
+    "units.temp": "K",
+    "comment": "based on Trematomus_bernacchii"
+  },
+  {
+    "entity": "am",
+    "entity.value": "19*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Ekau1988",
+    "temp": "C2K(-0.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

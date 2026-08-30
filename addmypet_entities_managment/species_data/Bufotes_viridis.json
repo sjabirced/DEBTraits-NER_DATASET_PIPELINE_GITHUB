@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Bufotes",
+    "specie": "Bufotes_viridis",
+    "specie_en": "Ladakh toad",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on remark that males are somewhat smaller than females"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.63",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "KutrCaki2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "2e3-3e4 eggs per year"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.0042",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2 mm: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "167.3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "KutrCaki2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SVL 7.946 cm weighs 48.58 g: (12/7.946)^3*48.58"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "94.57",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "KutrCaki2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SVL 7.711 cm weighs 43.36 g: (10/7.711)^3*43.36"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "10",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "106",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "guess",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "86 – 125 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since metam at puberty for female",
+      "bibkey": "KutrCaki2011",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.5*365",
+      "units": "d",
+      "label": "time since metam at puberty for male",
+      "bibkey": "KutrCaki2011",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

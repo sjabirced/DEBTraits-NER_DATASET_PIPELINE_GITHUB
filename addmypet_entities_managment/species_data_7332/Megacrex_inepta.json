@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Rallidae",
+    "genus": "Megacrex",
+    "specie": "Megacrex_inepta",
+    "specie_en": "New Guinea flightless rail"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "241.5",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GavrGolu2023",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": "2 eggs per clutch, wiki: 1 clutch per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "53",
+    "units": "g",
+    "label": "intital wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Gallirallus_australis"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1200",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "27",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": "based on Gallirallus_australis"
+  },
+  {
+    "entity": "am",
+    "entity.value": "18.4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "avibase",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "2.3*365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "avibase",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2100",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "70",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "bow",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": "based on Gallirallus_australis"
+  }
+]

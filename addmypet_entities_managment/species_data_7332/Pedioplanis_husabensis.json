@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Sarcopterygii",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Pedioplanis",
+    "specie": "Pedioplanis_husabensis",
+    "specie_en": "Husab Sand Lizard"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 2.0,
+    "units": "cm",
+    "label": "SVL at hatching",
+    "bibkey": "Bran1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": "SVL  based on similar sized related species"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 5.6,
+    "units": "cm",
+    "label": "ultimate SVL length for females",
+    "bibkey": "MurrFull2014",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Data for females"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 6.123,
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "Conradie2012",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Short note on extreme length male"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 0.00410959,
+    "units": "#/d",
+    "label": "ultimate reproduction rate",
+    "bibkey": "MeirAvil2020",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 5.37,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "MeirAvil2020",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Taken from supplementary data"
+  },
+  {
+    "entity": "am",
+    "entity.value": 1825.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SchaFeld2015",
+    "temp": "C2K(34)",
+    "units.temp": "K",
+    "comment": "time based on Pedioplanis lineoocellata, temperature based on minimum field temperature "
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Chydoridae",
+    "genus": "Alonella",
+    "specie": "Alonella_excisa",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.0234,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "SharShar1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 0.0543,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "SharShar1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.0307,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "SharShar1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 1.48e-05,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on length 0.054 cm, height 0.035 cm, width 0.0100 cm"
+    },
+    {
+      "entity": "ab",
+      "entity.value": 1.8,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "SharShar1998",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 73.4,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SharShar1998",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 3.17,
+      "units": "d",
+      "label": "time since birth at at puberty",
+      "bibkey": "SharShar1998",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

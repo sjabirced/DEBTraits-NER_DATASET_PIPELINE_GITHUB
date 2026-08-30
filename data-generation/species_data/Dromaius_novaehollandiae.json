@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Casuariiformes",
+    "family": "Dromaiidae",
+    "genus": "Dromaius",
+    "specie": "Dromaius_novaehollandiae",
+    "specie_en": "Emu",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "134",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Swar2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "0.02739726",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Swar2009",
+      "temp": "C2K(37.98)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "420",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Swar2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "55000",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Swar2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "53",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "NagaMak2011",
+      "temp": "C2K(35.95)",
+      "units.temp": "K",
+      "comment": "'obtained from average incubation time"
+    },
+    {
+      "entity": "am",
+      "entity.value": "14600",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Swar2009",
+      "temp": "C2K(37.98)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "912",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "FolcChri2020",
+      "temp": "C2K(37.98)",
+      "units.temp": "K",
+      "comment": "starting to breed (aka sex. maturity) around 2-3 years"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "15 * 30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "FolcChri2020",
+      "temp": "C2K(37.98)",
+      "units.temp": "K",
+      "comment": "end of immature juv period around 15 months"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "4.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ARKive",
+      "temp": "C2K(37.98)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

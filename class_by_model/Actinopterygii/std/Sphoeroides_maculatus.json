@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Tetraodontidae",
+    "genus": "Sphoeroides",
+    "specie": "Sphoeroides_maculatus",
+    "specie_en": "Northern puffer"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "36",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "MerrLaro1977",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LN data"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.6e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MerrLaro1977",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.85 - 0.91 mm: pi/6*0.088^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "836",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.02754*Li^2.88, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Lycz1971",
+    "temp": "C2K(9.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

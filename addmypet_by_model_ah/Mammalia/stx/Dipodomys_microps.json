@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Heteromyidae",
+    "genus": "Dipodomys",
+    "specie": "Dipodomys_microps",
+    "specie_en": "Chisel-toothed kangaroo rat"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "66.9",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.4/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ADW",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "'2.4 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.04",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Dipodomys_deserti"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "55",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "gbif: 40 - 70 g"
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "60",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "gbif: 40 - 70 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "32",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "ADW",
+    "temp": "C2K(35.3)",
+    "units.temp": "K",
+    "comment": "30-34 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "60",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "25",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

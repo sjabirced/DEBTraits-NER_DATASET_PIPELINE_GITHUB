@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Eurycercidae",
+    "genus": "Eurycercus",
+    "specie": "Eurycercus_lamellatus",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.074",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Smir1962",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.40",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "nina",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "0.14",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "nina",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.18",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Smir1962",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "10/9",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Bott1975",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "based on 10 egg per brood, 9 d per moult 11.75 d at 10 C, 5.97 d at 15 C)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

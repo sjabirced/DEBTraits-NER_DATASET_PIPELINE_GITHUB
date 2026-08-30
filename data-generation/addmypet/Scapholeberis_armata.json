@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Daphniidae",
+    "genus": "Scapholeberis",
+    "specie": "Scapholeberis_armata",
+    "specie_en": "Waterflea",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.0281,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "CastWisn2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 0.0914,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "CastWisn2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.04,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "CastWisn2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": 5.4e-06,
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Ceriodaphnia dubia: (0.0914/0.09832)^3*6.71e-06"
+    },
+    {
+      "entity": "ab",
+      "entity.value": 1.9,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "CastWisn2012",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 31.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CastWisn2012",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 5.86,
+      "units": "d",
+      "label": "time since birth at at puberty",
+      "bibkey": "CastWisn2012",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

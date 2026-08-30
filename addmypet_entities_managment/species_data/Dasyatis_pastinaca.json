@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Dasyatidae",
+    "genus": "Dasyatis",
+    "specie": "Dasyatis_pastinaca",
+    "specie_en": "Common stingray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "disc width at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "140",
+      "units": "cm",
+      "label": "ultimate disc width",
+      "bibkey": "wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "31",
+      "units": "cm",
+      "label": "disc width at puberty for females",
+      "bibkey": "YigiIsme2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "29",
+      "units": "cm",
+      "label": "disc width at puberty for males",
+      "bibkey": "YigiIsme2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "62.5",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "YigiIsme2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "24 till 38 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "62.5",
+      "units": "cm",
+      "label": "total length at puberty for fmales",
+      "bibkey": "YigiIsme2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "26 till 32 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2*6.2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": "4 till 9 pups per litter, 2 littrs per yr"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "21*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1350",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

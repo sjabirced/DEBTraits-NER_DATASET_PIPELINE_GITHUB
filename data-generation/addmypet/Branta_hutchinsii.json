@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Branta",
+    "specie": "Branta_hutchinsii",
+    "specie_en": "Cackling goose",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": "'Value for B. candensis: 1 till 9 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "65",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Sedi1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1300",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Sedi1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 3 till 7 kg"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "1550",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Sedi1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "9.8 till 11.4 kg"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "26",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "value for B. canadensis: 24 till 28 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18.3 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Wiki",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": "value for B. canadensis"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "147",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "49",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Sedi1986",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": "78 till 96 d"
+    }
+  ]
+}

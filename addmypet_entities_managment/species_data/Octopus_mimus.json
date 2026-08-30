@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Octopus",
+    "specie": "Octopus_mimus",
+    "specie_en": "Gould octopus",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Ni",
+      "entity.value": 400000.0,
+      "units": "#",
+      "label": "cum reprod at death",
+      "bibkey": "ZuniOlvi2014",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": 0.00055,
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "UriaEspi2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 3700.0,
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "4400 g for males"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 890.0,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "ZuniOlvi2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "200 g for males"
+    },
+    {
+      "entity": "am",
+      "entity.value": 240.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Data for O. vulgaris: 0.5 till 1 yr"
+    }
+  ]
+}

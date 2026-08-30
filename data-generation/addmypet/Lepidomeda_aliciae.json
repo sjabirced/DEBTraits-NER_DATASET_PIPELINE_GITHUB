@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Lepidomeda",
+    "specie": "Lepidomeda_aliciae",
+    "specie_en": "Southern leatherside chub",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7.14",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "BillTjar2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 6 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2500/365",
+      "units": "#/d",
+      "label": "reprod rate at SL 92 mm, TL 108 mm",
+      "bibkey": "BillTjar2011",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BillTjar2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.1 mm: pi/6*0.21^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "35.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'fishbase','BillTjar2011'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00891*Li^3.06, F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.65",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','BillTjar2011'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00891*Lp^3.06, F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BillTjar2011",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

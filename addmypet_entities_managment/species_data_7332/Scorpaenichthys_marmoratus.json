@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Scorpaenichthyidae",
+    "genus": "Scorpaenichthys",
+    "specie": "Scorpaenichthys_marmoratus",
+    "specie_en": "Cabezon"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.585",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "OCon1973",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "99",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "{'GrebCail2010', 'fishbase'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": "for males"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "33.7",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "{'GrebCail2010','Wiki'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "29.7",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "{'GrebCail2010','Wiki'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6800",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "GrebCail2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "11",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "all temps are guessed from distribution"
+  },
+  {
+    "entity": "am",
+    "entity.value": "13 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "swrcb",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ap",
+    "entity.value": "1.8 * 365",
+    "units": "d",
+    "label": "age at puberty for females",
+    "bibkey": "GrebCail2010",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ap",
+    "entity.value": "1.6 * 365",
+    "units": "d",
+    "label": "age at puberty for males",
+    "bibkey": "GrebCail2010",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Palaemonidae",
+    "genus": "Palaemonetes",
+    "specie": "Palaemonetes_pugio",
+    "specie_en": "Daggerblade grass shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.26,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Wels1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 5.0,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wels1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 1.8,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Wels1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 1.33,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Chaz2009",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "max # of eggs: 486/year"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.0002,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wels1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 1.0,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wels1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 0.044,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Wels1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 20.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wels1975",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 400.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wels1975",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 40.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wels1975",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "age at puberty 1.5 - 2 months"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Gobiidae",
+    "genus": "Eviota",
+    "specie": "Eviota_queenslandica",
+    "specie_en": "Queensland dwarfgoby",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 2.4,
+      "units": "cm",
+      "label": "ultimate std length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 1.31,
+      "units": "cm",
+      "label": "std length at puberty",
+      "bibkey": "DepcBellw2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 1039.0,
+      "units": "#/d",
+      "label": "lifetime reproductive output",
+      "bibkey": "DepcBellw2006",
+      "temp": "C2K(28.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.00012,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KariArai2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.61 mm of Eviota prasina: pi/6*0.061^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 0.21,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 0.009,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'DepcBellw2006','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00692*Lp^3.10, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": 3.5,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 99.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(28.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

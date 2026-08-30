@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Hexanauplia",
+    "order": "Cyclopoida",
+    "family": "Cyclopidae",
+    "genus": "Cyclops",
+    "specie": "Cyclops_vicinus",
+    "specie_en": "Copepod",
+    "deb_model": "abp"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.0207",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.1627",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.0626",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.1627",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Vijv1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "50/ 3",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "HoppMaie1997",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "110 eggs per female, one clutch per 3 d on mixed diet"
+    },
+    {
+      "entity": "am",
+      "entity.value": "44",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "HoppMaie1997",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

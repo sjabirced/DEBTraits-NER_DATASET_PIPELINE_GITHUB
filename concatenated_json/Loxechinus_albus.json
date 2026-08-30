@@ -1,0 +1,100 @@
+[
+  {
+    "phylum": "Echinodermata",
+    "class": "Echinoidea",
+    "order": "Camarodonta",
+    "family": "Parechinidae",
+    "species": "Loxechinus_albus",
+    "species_en": "Chilean sea urchin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "ultimate test diameter",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.09",
+    "units": "cm",
+    "label": "length at metam",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Echinus_esculentus"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.3",
+    "units": "cm",
+    "label": "test diameter at puberty",
+    "bibkey": "BalbMoli2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2e7/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "490",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'Wiki','RobiGree2010'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.4943*Li^2.877, see F1"
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "4.8e-4",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.4943*Lj^2.877, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "33",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'BalbMoli2018','RobiGree2010'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.4943*Lp^2.877, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(11)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

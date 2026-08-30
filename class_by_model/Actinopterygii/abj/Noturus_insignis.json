@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ictaluridae",
+    "genus": "Noturus",
+    "specie": "Noturus_insignis",
+    "specie_en": "Margined madtom"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "ClugCoop1960",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on spwning at 2 yr and tL data"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "300/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "based on sized-corrected Noturus miurus: "
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.35e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ClugCoop1960",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 4 mm: pi/6*0.4^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ClugCoop1960",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

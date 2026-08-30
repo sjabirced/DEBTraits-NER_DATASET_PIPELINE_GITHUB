@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Liparidae",
+    "genus": "Palmoliparis",
+    "specie": "Palmoliparis_beckeri",
+    "specie_en": "Gloved snailfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "42",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.092",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "TokrOrlo2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 5.6 mm: pi/6*0.56^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1086",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on LW data"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "117",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','guess'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01380*Lp^3.02, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "93",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "13 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TokrOrlo2003",
+    "temp": "C2K(3)",
+    "units.temp": "K",
+    "comment": "fishbase gives 8 yrs, but length is then much smaller than Li"
+  }
+]

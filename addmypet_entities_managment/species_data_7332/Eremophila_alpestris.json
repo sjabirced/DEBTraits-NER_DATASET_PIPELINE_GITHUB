@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Alaudidae",
+    "genus": "Eremophila",
+    "specie": "Eremophila_alpestris",
+    "specie_en": "Horned lark"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3*2.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "DuLiu2014",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": "2.5 eggs per clutch, 3 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.73",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "egg weight: 2.9 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "33.8",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "12",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "DuLiu2014",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "27.3",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "9.1",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "DuLiu2014",
+    "temp": "C2K(41.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

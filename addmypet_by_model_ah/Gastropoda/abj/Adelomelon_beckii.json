@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Neogastropoda",
+    "family": "Volutidae",
+    "genus": "Adelomelon",
+    "specie": "Adelomelon_beckii",
+    "specie_en": "Beck"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.72",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "ArriPenc2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "49.5",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25.6",
+    "units": "cm",
+    "label": "shell length at puberty for female",
+    "bibkey": "ArriPenc2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "830/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "Based on kap = 0.8"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.25e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "ArriBrey2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 10^(-4.523+3.025*log10(10*Li)), see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "29*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ArriBrey2011",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

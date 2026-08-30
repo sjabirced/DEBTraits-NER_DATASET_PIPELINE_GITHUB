@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Lagomorpha",
+    "family": "Leporidae",
+    "genus": "Oryctolagus",
+    "specie": "Oryctolagus_cuniculus_NZW",
+    "specie_en": "Rabbit, New Zealand White strain",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "kit crown-rump length",
+      "bibkey": "ResearchGate",
+      "temp": null,
+      "units.temp": null,
+      "comment": "No other data available"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "50",
+      "units": "cm",
+      "label": "ultimate crown-rump length",
+      "bibkey": "wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "130/ (365*N_litters)",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "HolsHutz2002",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": "one female achieved 130 offsprings in 5 reproductive years"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "70",
+      "units": "g",
+      "label": "wet weight at birth - New Zealand - males",
+      "bibkey": "FootCarn2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'lab data, males New Zealand"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5000",
+      "units": "g",
+      "label": "ultimate wet weight - females",
+      "bibkey": "FootCarn2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "lab data, females New Zealand, page 479 table 4"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5500",
+      "units": "g",
+      "label": "ultimate wet weight - males",
+      "bibkey": "FootCarn2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": "lab data, males New Zealand, page 479 table 4"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2720",
+      "units": "g",
+      "label": "wet weight at puberty - New Zealand - females",
+      "bibkey": "BayeXXXX",
+      "temp": null,
+      "units.temp": null,
+      "comment": "lab data, smallest of means of females New Zealand, in Bayer studies"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": "laboratory rabbit"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "31.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "FootCarn2000",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": "'lab data 31-32 days"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "24*7",
+      "units": "d",
+      "label": "time since birth at puberty - females",
+      "bibkey": "FootCarn2000",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": "'First ovaluation = first cycle, lab data, 24 weeks, female New Zealand"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "13*7",
+      "units": "d",
+      "label": "time since birth at puberty - females (youngest females in exp)",
+      "bibkey": "BayeXXXX",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": "Youngest females from lab experiments for reproduction"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "20*7",
+      "units": "d",
+      "label": "time since birth at puberty - males",
+      "bibkey": "FootCarn2000",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": "'Age when spermatozoa are produced, lab data, 20 weeks, male New Zealand"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "35",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "FootCarn2000",
+      "temp": "C2K(39)",
+      "units.temp": "K",
+      "comment": "\"young are substantially on solid feed by 4 weeks and can be weaned tattooed, and caged individually at 6 weeks of age\""
+    }
+  ]
+}

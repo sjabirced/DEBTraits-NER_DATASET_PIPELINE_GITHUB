@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Atheriniformes",
+    "family": "Atherinopsidae",
+    "genus": "Menidia",
+    "specie": "Menidia_extensa",
+    "specie_en": "Waccamaw silverside"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "encyclopedia",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on general info on Antherniformes: 6-9 mm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "encyclopedia",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length, compared to M. beryllina: 8*6.5/15 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "150/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Anon2001",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "EPA2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.75 mm: pi/6*0.075^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.32",
+    "units": "g",
+    "label": "ultimate wet weigh",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01122*Li^3.04, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.5",
+    "units": "g",
+    "label": "wet weigh at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01122*Lp^3.04, see F3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "encyclopedia",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": "guessed based on general info on hatch, first feeding of Antheriniformes"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Anon2001",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": "temp is guessed"
+  }
+]

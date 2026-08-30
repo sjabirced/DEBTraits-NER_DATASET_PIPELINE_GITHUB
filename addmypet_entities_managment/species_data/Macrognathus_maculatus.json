@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Synbranchiformes",
+    "family": "Mastacembelidae",
+    "genus": "Macrognathus",
+    "specie": "Macrognathus_maculatus",
+    "specie_en": "Frecklefin eel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "28",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "17",
+      "units": "cm",
+      "label": " total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Macroganthus pancalus: 11.5*28/18.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.3e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.35 mm of Macroganthus pancalus: pi/6*0.135^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "94.6",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00417*Li^3.01, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "21",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on 0.00417*Lp^3.01, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

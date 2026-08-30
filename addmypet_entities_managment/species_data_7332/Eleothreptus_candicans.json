@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Caprimulgiformes",
+    "family": "Caprimulgidae",
+    "genus": "Eleothreptus",
+    "specie": "Eleothreptus_candicans",
+    "specie_en": "White-winged nightjar"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Popl2014",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": "2 eggs per clutch, 2 clutches per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Popl2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "46",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "19",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Popl2014",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": "'temperature is guessed based on being the optimal temperature for artificial incubation for several species"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": "value for Caprimulgus_europaeus"
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "guess",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "58.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "19.5",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "Popl2014",
+    "temp": "C2K(39.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

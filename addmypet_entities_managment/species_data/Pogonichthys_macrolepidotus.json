@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Pogonichthys",
+    "specie": "Pogonichthys_macrolepidotus",
+    "specie_en": "Sacramento splittail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "44",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "17/0.74",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "MoylBaxt2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "266000/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "MoylBaxt2004",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MoylBaxt2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.0-1.6 mm: pi/6*0.13^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "952",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00891*Lp^3.06, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "130",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','MoylBaxt2004'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1.75 * 365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "MoylBaxt2004",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

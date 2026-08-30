@@ -1,0 +1,61 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Cardiida",
+    "family": "Semelidae",
+    "genus": "Abra",
+    "specie": "Abra_segmentum",
+    "specie_en": "Bivalve"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.9",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "KevrKasa2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on tL data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.9",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5e4/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.93"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 200 mum: pi/6*0.02^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*30.5",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "KevrKasa2009",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

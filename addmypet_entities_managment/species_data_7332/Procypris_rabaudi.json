@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Procypris",
+    "specie": "Procypris_rabaudi",
+    "specie_en": "Rock carp"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "56",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "37",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "13894/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "WangGao2015",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.9e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "WangGao2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.76 mm: pi/6*0.176^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2846",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00851*Li^3.16, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "768",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00851*Lp^3.16, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

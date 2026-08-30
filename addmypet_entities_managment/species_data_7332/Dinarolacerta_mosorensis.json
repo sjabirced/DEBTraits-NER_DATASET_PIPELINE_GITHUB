@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Dinarolacerta",
+    "specie": "Dinarolacerta_mosorensis",
+    "specie_en": "Mosor rock lizard"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "SVL at hatching",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "\"less than 3 cm\""
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.0",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "TomaLjub2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.0",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.65",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "TomaLjub2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3.5*4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": "3-8 eggs per clutch, assumed: 3-4 clutches per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.76",
+    "units": "g",
+    "label": "ultimate wet ",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Based on Podarcis muralis: 5.41*(7.0/6.5)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "56",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "TomaLjub2010",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "TomaLjub2010",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

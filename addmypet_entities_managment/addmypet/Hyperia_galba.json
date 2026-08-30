@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Amphipoda",
+    "family": "Hyperiidae",
+    "genus": "Hyperia",
+    "specie": "Hyperia_galba",
+    "specie_en": "Big-eye amphipod",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "L9",
+      "entity.value": "0.9",
+      "units": "cm",
+      "label": "total length at 9 month",
+      "bibkey": "Ditt1988",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "1.36",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Ditt1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.48",
+      "units": "cm",
+      "label": "total length at metam",
+      "bibkey": "Ditt1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.65",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Ditt1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "456/60",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Ditt1988",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "max litter size 456 eggs, accumulation period: 60 d assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.9e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Ditt1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.422 mm: pi/6*0.0422^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Ditt1988",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

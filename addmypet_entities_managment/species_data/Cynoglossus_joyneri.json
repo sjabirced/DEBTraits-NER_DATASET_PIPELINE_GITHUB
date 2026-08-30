@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Cynoglossidae",
+    "genus": "Cynoglossus",
+    "specie": "Cynoglossus_joyneri",
+    "specie_en": "Red tongue sole",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "39.4",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "21.2",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Cynoglossus_arel"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "443283/365",
+      "units": "#/d",
+      "label": "reprod rate at FL 23.75 cm",
+      "bibkey": "guess",
+      "temp": "C2K(27.2)",
+      "units.temp": "K",
+      "comment": "based on Cynoglossus robustus"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.2e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.56 mm of Cynoglossus arel: pi/6*0.056^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "334",
+      "units": "g",
+      "label": "ultimate female wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00407*Li^3.08, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "49.5",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00407*Lp^3.08, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "2.0",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "YamaKata2009",
+      "temp": "C2K(27.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

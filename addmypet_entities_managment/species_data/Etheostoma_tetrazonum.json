@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Percidae",
+    "genus": "Etheostoma",
+    "specie": "Etheostoma_tetrazonum",
+    "specie_en": "Missouri saddled darter",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "TabeTabe1983 give SL 7 cm, which corresponds with TL 8 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.1",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "TabeTabe1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 3.56 and F2"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "50/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "TabeTabe1983",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "TabeTabe1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.9 mm: pi/6*0.19^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5.1",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "relationship 0.00513*Li^3.14 (see F1)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "11",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "TabeTabe1983",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "hatch at 6 d, 5 d post hatch to first feeding assumed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "TabeTabe1983",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

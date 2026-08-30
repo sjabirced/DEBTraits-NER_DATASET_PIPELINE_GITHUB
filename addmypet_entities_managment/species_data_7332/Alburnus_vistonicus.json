@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Alburnus",
+    "specie": "Alburnus_vistonicus",
+    "specie_en": "Lake Vistonis bleak"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.13",
+    "units": "g/g",
+    "label": "Gonado Somatic Index",
+    "bibkey": "BoboTsak2018",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "21.7",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "BoboTsak2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in Alburnus alburnus: 9.9*40/25"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.25 mm: pi/6*0.125^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "97.7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00661*Li^3.12, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "12.76",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'BoboTsak2018','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00661*Lp^3.12,  see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "12.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

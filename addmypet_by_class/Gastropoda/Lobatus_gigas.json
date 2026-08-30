@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Littorinimorpha",
+    "family": "Strombidae",
+    "genus": "Lobatus",
+    "specie": "Lobatus_gigas",
+    "specie_en": "Queen conch"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8.5*4e5/365",
+    "units": "#/d",
+    "label": "max repoduction rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "8 to 9 egg masses per yr, each 1.8e5-4.6e5 eggs, but numbers can be as high as 7.5e5 eggs"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on guessed egg diameter of 0.3 mm: pi/6*0.01^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "500",
+    "units": "g",
+    "label": "ultimate tissue wet weight",
+    "bibkey": "Appe1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "300",
+    "units": "g",
+    "label": "tissue wet weight at puberty",
+    "bibkey": "Appe1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "3 to 5 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "40*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "usually 7 yr, in deeper water much more"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "20",
+    "units": "d",
+    "label": "time since birth at settlement",
+    "bibkey": "Wiki",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "16 to 40 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "3 to 4 yr"
+  }
+]

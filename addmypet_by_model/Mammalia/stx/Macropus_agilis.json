@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Macropodidae",
+    "genus": "Macropus",
+    "specie": "Macropus_agilis",
+    "specie_en": "Agile wallaby"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Merc1976",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.634",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HaysTien1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16000",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "LincRenf1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'10 to 15 kg, MAX 16kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "3510",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "LincRenf1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "2287",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "LincRenf1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'2500 g  LincRenf1981"
+  },
+  {
+    "entity": "am",
+    "entity.value": "16.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "WeigJone2005",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "pL",
+    "entity.value": ".1*2.08e7/365*data.Wwi/1000",
+    "units": "J/d",
+    "label": "average yearly milk production",
+    "bibkey": "CorkDove1989",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tW",
+    "entity.value": "[ ... % time (d), body weight (g)\n      6    63\n     34   600\n     62   940\n     99  1420\n    130  2900\n    159  4205\n    189  7000\n    219  8100\n    249  9400\n    276 10200\n    306 11500\n    335 11500]",
+    "units": "{'d', 'g'}",
+    "label": "{'time', 'wet weight'}",
+    "bibkey": "NakaNaka1971",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "29.4",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Merc1976",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": "temp from DawsDenn1969"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "{'Merc1976','Russ1982'}",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "328",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "{'LincRenf1981','Russ1982'}",
+    "temp": "C2K(36.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

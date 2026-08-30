@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Nemacheilidae",
+    "genus": "Triplophysa",
+    "specie": "Triplophysa_rosa",
+    "specie_en": "Cave crested loach",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "23.4",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "XuJing2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": "this is asymptotic length, max observed length is 15.8 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.1",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "XuJing2023",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1180/365",
+      "units": "#/d",
+      "label": "Reprod rate max size",
+      "bibkey": "guess",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm: 4/3*pi*0.04^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "XuJing2023",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4.8*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "XuJing2023",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

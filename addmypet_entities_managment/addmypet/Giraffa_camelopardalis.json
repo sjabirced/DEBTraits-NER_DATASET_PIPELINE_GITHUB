@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Giraffidae",
+    "genus": "Giraffa",
+    "specie": "Giraffa_camelopardalis",
+    "specie_en": "Northern giraffe",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/620",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "102e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SkinHall1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Data from the wild"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.2e6",
+      "units": "g",
+      "label": "ultimate wet weight females",
+      "bibkey": "GlonBran2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "1.93e6",
+      "units": "g",
+      "label": "ultimate wet weight males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "39.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(37.1)",
+      "units.temp": "K",
+      "comment": "life span between 15 and 25 yr "
+    },
+    {
+      "entity": "tg",
+      "entity.value": "457",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "SkinHall1975",
+      "temp": "C2K(37.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1278",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "1644",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "152",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "AnAge",
+      "temp": "C2K(37.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

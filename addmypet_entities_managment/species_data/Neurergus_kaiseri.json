@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Neurergus",
+    "specie": "Neurergus_kaiseri",
+    "specie_en": "Kaiser",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "14.94e-1",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": " Value reported for N. microspilotus in SharVais2014 that was reported with a range of: 13.08 to 14.94 mm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "FaraShar2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "max female length from fig. 5"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.5",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "FaraShar2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "max males length from fig. 5"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "31e-1",
+      "units": "cm",
+      "label": "length at metamorphosis",
+      "bibkey": "FaraShar2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "range: 31 plus or minus 0.58 mm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "150/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FaraShar2016",
+      "temp": "C2K(T_assumed)",
+      "units.temp": "K",
+      "comment": "can produce over 100 eggs"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "1.5",
+      "units": "g",
+      "label": "wet weight at metamorphosis",
+      "bibkey": "FaraShar2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "1.54 plus or minus 0.05 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "mean([2",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "FaraShar2016",
+      "temp": "C2K(T_assumed)",
+      "units.temp": "K",
+      "comment": " range is 2-3 weeks"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FaraShar2016",
+      "temp": "C2K(T_assumed)",
+      "units.temp": "K",
+      "comment": "females"
+    },
+    {
+      "entity": "am",
+      "entity.value": "14 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FaraShar2016",
+      "temp": "C2K(T_assumed)",
+      "units.temp": "K",
+      "comment": "males"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "mean([6",
+      "units": "d",
+      "label": "time since birth at metamorphosis",
+      "bibkey": "FaraShar2016",
+      "temp": "C2K(T_assumed)",
+      "units.temp": "K",
+      "comment": "range: 6-8 months"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "FaraShar2016",
+      "temp": "C2K(T_assumed)",
+      "units.temp": "K",
+      "comment": "range: 3-4 years"
+    }
+  ]
+}

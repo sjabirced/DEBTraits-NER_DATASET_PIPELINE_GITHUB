@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Lampanyctus",
+    "specie": "Lampanyctus_ritteri",
+    "specie_en": "Broadfin lampfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "12",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "standard length fat puberty",
+      "bibkey": "ChilTayl1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "145e3/365",
+      "units": "#/d",
+      "label": "max reprod rate ",
+      "bibkey": "guess",
+      "temp": "C2K(7.1)",
+      "units.temp": "K",
+      "comment": "based on kap=0.9"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ChilTayl1980",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.3 mm: pi/6*0.03^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "25.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00794*Lp^3.25, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "6.8",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ChilTayl1980",
+      "temp": "C2K(7.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

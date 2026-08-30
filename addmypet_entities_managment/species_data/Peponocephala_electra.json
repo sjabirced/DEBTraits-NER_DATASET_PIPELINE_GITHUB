@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Delphinidae",
+    "genus": "Peponocephala",
+    "specie": "Peponocephala_electra",
+    "specie_en": "Melon-headed whale",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "100",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "1.1-1.5 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "275",
+      "units": "cm",
+      "label": "ultimate length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "230",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "AmanYama2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "221-236 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "245",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "AmanYama2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "2.4-2.5 m"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365/3.5",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AmanYama2013",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "calving interval 3-4 yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "225e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "47*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "365",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "13-14 mnth"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "7*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "AmanYama2013",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "Wiki: 6.5-7.5 yrs"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "12.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "Wiki: 12-13 yrs"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "15*30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "12-18 mnth"
+    }
+  ]
+}

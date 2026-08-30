@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Anoplopomatidae",
+    "genus": "Anoplopoma",
+    "specie": "Anoplopoma_fimbria",
+    "specie_en": "Sablefish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "60.5",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1e6/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(2.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ClarJens1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.06 mm: pi/6*0.206^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "17.7e3",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based on 0.01122*Li^2.98, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.3e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01122*Lp^2.98"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'ClarJens1999','AldeJens1988'}",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "94*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(2.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

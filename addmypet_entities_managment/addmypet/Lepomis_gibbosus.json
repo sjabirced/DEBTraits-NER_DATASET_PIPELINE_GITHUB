@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Centrarchidae",
+    "genus": "Lepomis",
+    "specie": "Lepomis_gibbosus",
+    "specie_en": "Pumpkinseed",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "30.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwi"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9.0",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "CoppFox2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tp and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1700/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "6.98e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.1 mm of Lepomis cyanellus: pi/6*0.11^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "630",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "13",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','CoppFox2007'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01445*Lp^3.10, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "time since birth at death",
+      "bibkey": "fishbase",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "fishbase",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

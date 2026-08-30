@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Neritopsina",
+    "family": "Neritidae",
+    "genus": "Theodoxus",
+    "specie": "Theodoxus_fluviatilis",
+    "specie_en": "River nerite",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.08",
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "Kirk2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "1.3",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.081",
+      "units": "cm",
+      "label": "shell length at settlement",
+      "bibkey": "Kirk2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.56",
+      "units": "cm",
+      "label": "shell length at puberty for female",
+      "bibkey": "Kirk2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "750/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Kirk2006",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "'100-200 eggs per capsule"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Kirk2006",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "3.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Kirk2006",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

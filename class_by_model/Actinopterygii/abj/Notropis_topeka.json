@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Notropis",
+    "specie": "Notropis_topeka",
+    "specie_en": "Topeka shiner"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "Dahl2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "Dahl2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on SL 4.8 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Dahl2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.835 mm: pi/6*0.0835^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.14",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','Dahl2001'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00813*(Lp/0.82)^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.76",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'Dahl2001','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Dahl2001",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

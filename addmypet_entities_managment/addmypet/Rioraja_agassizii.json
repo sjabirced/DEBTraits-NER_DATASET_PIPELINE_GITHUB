@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Arhynchobatidae",
+    "genus": "Rioraja",
+    "specie": "Rioraja_agassizii",
+    "specie_en": "Rio skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "CaltSilv2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "TL 8-12 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "71",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "CaltSilv2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "42",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "CaltSilv2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": "TL 32-52 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "92/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(14.8)",
+      "units.temp": "K",
+      "comment": "62-124 eggs per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.99e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'CaltSilv2005','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00468*Li^3.04, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(14.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "CaltSilv2005",
+      "temp": "C2K(14.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

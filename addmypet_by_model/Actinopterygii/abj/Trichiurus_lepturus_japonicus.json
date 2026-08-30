@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Trichiuridae",
+    "genus": "Trichiurus",
+    "specie": "Trichiurus_lepturus_japonicus",
+    "specie_en": "Largehead hairtail"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.041",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "KwokNi1999",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.5",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ChaiZhu2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "89.6",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "ShiZhan2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "LuoLu1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Maturation occurs in March-June with 20-50g. 13-14cm in June"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4.35e5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Li1983",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.25e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "LuoLu1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 755.6-1111.1 mum, mean=0.0933cm: (pi/6)*0.0933^3=0.000425"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5000",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "80",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "LuoLu1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "79/24",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "WanMeng2003",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "365*15",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "LuoLu1983",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

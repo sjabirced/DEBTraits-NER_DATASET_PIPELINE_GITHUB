@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Crocodylidae",
+    "genus": "Crocodylus",
+    "specie": "Crocodylus_siamensis",
+    "specie_en": "Siamese crocodile",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "28.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on C. palustris"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "320",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "400",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "200",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on C. palustris"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "260",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on C. palustris"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "40/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "15-50 eggs per clutch, 1 clutch per yr assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "90.8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "PlatNomy2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "PlatNomy2012 give 121.6 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "150e3",
+      "units": "g",
+      "label": "ultimate wet weight of female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "350e3",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "74",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "PlatNomy2012",
+      "temp": "C2K(31)",
+      "units.temp": "K",
+      "comment": "68-80 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "49*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "PlatNomy2012",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "8-10 yr"
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "time since birth at puberty for male",
+      "bibkey": "PlatNomy2012",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "12-15 yr"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Bathypolypodidae",
+    "genus": "Bathypolypus",
+    "specie": "Bathypolypus_arcticus",
+    "specie_en": "North Atlantic octopus",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Ni",
+      "entity.value": "44",
+      "units": "#",
+      "label": "fecundity at 45 g",
+      "bibkey": "Wood2000",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": "Wood2000 assumes maturity at 6 yr plur 1 yr for brooding"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.250",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wood2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "300",
+      "units": "g",
+      "label": "wet weight at death",
+      "bibkey": "Wood2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "30",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Wood2000",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "400",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wood2000",
+      "temp": "C2K(7.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "Wood2000",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": "life is is very unsure, but likely to exceed 3 yr"
+    }
+  ]
+}

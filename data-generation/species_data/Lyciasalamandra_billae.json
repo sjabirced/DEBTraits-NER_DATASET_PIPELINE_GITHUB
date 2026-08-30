@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Lyciasalamandra",
+    "specie": "Lyciasalamandra_billae",
+    "specie_en": "Bay Lycian salamander",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "SinsBock2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8.0",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "SinsBock2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "5.79",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "SinsBock2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "reprod rate at 25.3 g",
+      "bibkey": "SinsBock2017",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.415",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": null,
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Salamandra_lanzai: (2.5/9.1)^3*20"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "13.6",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": null,
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Salamandra_lanzai: (8/9.1)^3*20"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "5.15",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": null,
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Salamandra_lanzai: (5.79/9.1)^3*20"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SinsBock2017",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

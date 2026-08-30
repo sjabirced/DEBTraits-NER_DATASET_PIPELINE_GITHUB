@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Acanthuridae",
+    "genus": "Acanthurus",
+    "specie": "Acanthurus_bahianus",
+    "specie_en": "Barber surgeonfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.09",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "guess",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": "based on Acanthurus nigrofuscus"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "17",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "RobeAcke2005",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Tuck1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.7 mm of Acanthurus lineatus: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "76.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','RobeAcke2005'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01950*Li^2.92, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "8.4",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01950*Lp^2.92, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "32*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "RobeAcke2005",
+      "temp": "C2K(28)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Coleoptera",
+    "family": "Carabidae",
+    "genus": "Bembidion",
+    "specie": "Bembidion_lampros",
+    "specie_en": "Ground beetle",
+    "deb_model": "hax"
+  },
+  "data": [
+    {
+      "entity": "L1",
+      "entity.value": 0.2,
+      "units": "cm",
+      "label": "length at 1st instar",
+      "bibkey": "Mitc1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "L2",
+      "entity.value": 0.296,
+      "units": "cm",
+      "label": "length at 2nd instar",
+      "bibkey": "Mitc1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "L3",
+      "entity.value": 0.45,
+      "units": "cm",
+      "label": "length at 3rd instar",
+      "bibkey": "Mitc1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 0.45,
+      "units": "cm",
+      "label": "length at imago",
+      "bibkey": "MarxHomm2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 10.0,
+      "units": "eggs",
+      "label": "Cumulative number of eggs per female",
+      "bibkey": "Pete1998",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "V0",
+      "entity.value": 3.96e-05,
+      "units": "cm^3",
+      "label": "egg volume",
+      "bibkey": "Mitc1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": 0.0516,
+      "units": "mg",
+      "label": "wet weight egg ",
+      "bibkey": "Pete1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "WwL",
+      "entity.value": 1.8,
+      "units": "mg",
+      "label": "wet weight at 3rd instar larva",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 2.73,
+      "units": "mg",
+      "label": "mean wet weight of females",
+      "bibkey": "Pete1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 10.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Boye1990",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 365.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Mitc1963",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "t1",
+      "entity.value": 6.0,
+      "units": "d",
+      "label": "time since birth at 1st instar",
+      "bibkey": "Boye1990",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "t2",
+      "entity.value": 13.0,
+      "units": "d",
+      "label": "time since 1st instar at 2nd instar",
+      "bibkey": "Boye1990",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "t3",
+      "entity.value": 20.0,
+      "units": "d",
+      "label": "time since 2nd instar at 3rd instar",
+      "bibkey": "Boye1990",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

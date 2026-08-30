@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Cancridae",
+    "genus": "Cancer",
+    "specie": "Cancer_pagurus",
+    "specie_en": "Edible crab",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "24.2",
+      "units": "cm",
+      "label": "ultimate carapace width for females",
+      "bibkey": "Benn1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "26.7",
+      "units": "cm",
+      "label": "ultimate carapace width for males",
+      "bibkey": "Benn1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12.7",
+      "units": "cm",
+      "label": "carapace width at puberty for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "carapace width at puberty for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3e6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": "Temp is guessed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.3e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HaigRayn2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 400 mum: 4/3*pi*0.02^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.1e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Benn1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as (Li/Lim)^3 * Wwim"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "4.2e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Benn1974",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "452",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Computed as (Lp/Lim)^3*Wwim"
+    },
+    {
+      "entity": "Wwpm",
+      "entity.value": "294",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "8*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": "Large delay of onset of development can occur, HaigRayn2015"
+    },
+    {
+      "entity": "am",
+      "entity.value": "100*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "331",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "WeisThat2009",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2.1*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Benn1974",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": "From tW_f data for Wwp"
+    }
+  ]
+}

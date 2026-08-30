@@ -1,0 +1,80 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Monacanthidae",
+    "species": "Rudarius_ercodes",
+    "species_en": "Whitespotted pygmy filefish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.08",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "IshiTana1983",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "IshiTana1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.7e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.57 mm of Stephanolepis_hispidus: pi/6*0.057^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.9",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01820*Li^2.87, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.66",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','IshiTana1983'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01820*Lp^2.87, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MillStew2010",
+    "temp": "C2K(17.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

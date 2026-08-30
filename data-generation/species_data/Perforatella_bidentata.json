@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Pulmonata",
+    "family": "Hygromiidae",
+    "genus": "Perforatella",
+    "specie": "Perforatella_bidentata",
+    "specie_en": "Hairy snail",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.22",
+      "units": "cm",
+      "label": "shell breath at birth",
+      "bibkey": "KuznRoks2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.7",
+      "units": "cm",
+      "label": "ultimate shell breath",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "shell breath at puberty",
+      "bibkey": "KuznRoks2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": "90",
+      "units": "#",
+      "label": "life time reproduction output",
+      "bibkey": "KuznRoks2009",
+      "temp": "C2K(21.5)",
+      "units.temp": "K",
+      "comment": "2-20 eggs per clutch, up to 9 clutches per life time"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.178",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "15",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "KuznRoks2009",
+      "temp": "C2K(21.5)",
+      "units.temp": "K",
+      "comment": "8-34 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "KuznRoks2009",
+      "temp": "C2K(21.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

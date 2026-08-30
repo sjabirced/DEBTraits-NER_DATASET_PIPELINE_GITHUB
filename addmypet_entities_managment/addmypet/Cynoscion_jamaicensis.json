@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Sciaeniformes",
+    "family": "Sciaenidae",
+    "genus": "Cynoscion",
+    "specie": "Cynoscion_jamaicensis",
+    "specie_en": "Jamaica weakfish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "56.9",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25.1",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "554400/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(22.4)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Bort2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.72 mm for Cynoscion_nebulosus: pi/6*0.072^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.8e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'based in 0.00741*Li^3.07, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(22.4)",
+      "units.temp": "K",
+      "comment": "based on Cynoscion_nebulosus"
+    }
+  ]
+}

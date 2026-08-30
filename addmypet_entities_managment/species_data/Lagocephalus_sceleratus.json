@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Tetraodontidae",
+    "genus": "Lagocephalus",
+    "specie": "Lagocephalus_sceleratus",
+    "specie_en": "Silver-cheeked toadfish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.11",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "Aydi2011",
+      "temp": "C2K(27.3)",
+      "units.temp": "K",
+      "comment": "relative fecundity 780.8 eggs/g"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "110",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "43.3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.4e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Aydi2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.64 mm: pi/6*0.064^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9.7e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01349*Li^2.87, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Aydi2011",
+      "temp": "C2K(27.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

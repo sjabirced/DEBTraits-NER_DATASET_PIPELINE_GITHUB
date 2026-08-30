@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Canidae",
+    "genus": "Canis",
+    "specie": "Canis_aureus",
+    "specie_en": "Golden jackal"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.8)",
+    "units.temp": "K",
+    "comment": "3 pups per litter, 1 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "110",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "DhooUpad2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'ADW give 200-250 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11e3",
+    "units": "g",
+    "label": "ultimate wet weight females",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: "
+  },
+  {
+    "entity": "am",
+    "entity.value": "18.8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "63",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "334",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "75",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(38.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

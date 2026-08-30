@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Palaemonidae",
+    "genus": "Macrobrachium",
+    "specie": "Macrobrachium_vollenhovenii",
+    "specie_en": "African river prawn"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "14.45",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "EtimSank1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'mean length of largest class interval in sample, size class = 1cm (Table 1)"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "2.45",
+    "units": "cm",
+    "label": "total length at recruitment",
+    "bibkey": "EtimSank1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "mean length of smallest class interval in sample, size class = 1cm (Table 1)"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "8.45",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "EtimSank1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on length frequency in sample in August when most egg-bearing females found (Table 1 and text)"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5e4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "based on same relative max reprod rate, compared to Palaemon elegans: 42/1.43*1704 per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.5e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length 0.65 mm and egg width 0.5 mm for Palaemon elegans: pi/6*.05^2*.065"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "42",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same length-weight, compared to Palaemon elegans (18/5.84)^3*1.43"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "10.25",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative weight, compared to Palaemon elegans (11.25/18)^3*42"
+  },
+  {
+    "entity": "aj",
+    "entity.value": "45",
+    "units": "d",
+    "label": "age at recruitment",
+    "bibkey": "EtimSank1998",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "'30-60 days, egg-bearng females spotted Jun-Dec, peak in August"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "EtimSank1998",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": "0.9 to 3 yr estimates, but assumed to be 2.5 yr based on EtimSank1998 estimates"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "9*30",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "EtimSank1998",
+    "temp": "C2K(29)",
+    "units.temp": "K",
+    "comment": "at least 9 months implied by earliest recruitment in September and earliest spotting of egg-bearing females in May"
+  }
+]

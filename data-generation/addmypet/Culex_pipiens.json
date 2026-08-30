@@ -1,0 +1,54 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Diptera",
+    "family": "Culicidae",
+    "genus": "Culex",
+    "specie": "Culex_pipiens",
+    "specie_en": "Common house mosquito",
+    "deb_model": "hax"
+  },
+  "data": [
+    {
+      "entity": "Ni",
+      "entity.value": 80.0,
+      "units": "#",
+      "label": "total number of eggs",
+      "bibkey": "Kres2014",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "31-124 eggs for autonomous females (no blood meal)"
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": 0.00088,
+      "units": "g",
+      "label": "dry weight of pupa",
+      "bibkey": "Jour2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": 0.003085,
+      "units": "g",
+      "label": "wet weight of pupa",
+      "bibkey": "Chen1958",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": 14.0,
+      "units": "d",
+      "label": "time since birth at pupation",
+      "bibkey": "Jour2016",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

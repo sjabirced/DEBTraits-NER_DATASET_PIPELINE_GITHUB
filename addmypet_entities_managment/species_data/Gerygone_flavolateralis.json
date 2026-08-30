@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Acanthizidae",
+    "genus": "Gerygone",
+    "specie": "Gerygone_flavolateralis",
+    "specie_en": "Fan-tailed gerygone",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2.1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "AttiThie2018",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "1 to 3 eggs per clutch, 1 clutch per year"
+    },
+    {
+      "entity": "V0",
+      "entity.value": "1.363",
+      "units": "ml",
+      "label": "Volume at start of development",
+      "bibkey": "AttiThie2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "1.2",
+      "units": "g",
+      "label": "egg wet weight",
+      "bibkey": "AttiThie2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.137",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "AttiThie2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average value"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7.14",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "AttiThie2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average value, see comment for Wwim"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7.2",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "AttiThie2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "max weight is larger than that at fledging"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "18",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AttiThie2018",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "'The incubation phase is 18 +/- 1 days"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Gill1982",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "Value for Gerygone igata, temperature adjusted according to AttiThie2018"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "42",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "The nestling phase is 14  +/- 1 days"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "14",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "AttiThie2018",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "The nestling phase is 14  +/- 1 days"
+    }
+  ]
+}

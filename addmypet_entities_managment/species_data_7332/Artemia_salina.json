@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anostraca",
+    "family": "Artemiidae",
+    "genus": "Artemia",
+    "specie": "Artemia_salina",
+    "specie_en": "Brine shrimp"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "1.0",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "WurtGliw2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: till 1.5 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.6",
+    "units": "cm",
+    "label": "carapace length at puberty",
+    "bibkey": "WurtGliw2001",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "170/4",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "WurtGliw2001",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "ADW: clutches of 300 each 4 d"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "1.6e-3",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "GliwWurs2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.6e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "algova",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 261 mum: pi/6*261-4^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "90",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "7",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "WurtGliw2001",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

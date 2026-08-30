@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Proteidae",
+    "genus": "Proteus",
+    "specie": "Proteus_anguinus",
+    "specie_en": "Olm"
+  },
+  {
+    "entity": "JO",
+    "entity.value": "0.29",
+    "units": "ml/h",
+    "label": "O_2 consumption at 7.75 g",
+    "bibkey": "VoitFrai2011",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "LR",
+    "entity.value": "10",
+    "units": "cm",
+    "label": "total length at 1st brood",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on same relative length, compared to Lissotriton vulgaris"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "VoitFrai2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "35/(12.5*365)",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "VoitFrai2011",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "WwR",
+    "entity.value": "0.74",
+    "units": "g",
+    "label": "wet weight at 1st brood",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed from W_m*(L_p/L_m)^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0477",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on freshly-laid egg diameter 4.5 mm (swells to 8.5 mm): pi/6*0.45^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "20",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'VoitFrai2011', 'AnAge'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "15-20 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "102*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "{'VoitFrai2011', 'AnAge'}",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tR",
+    "entity.value": "4124",
+    "units": "d",
+    "label": "time since birth at first brood",
+    "bibkey": "AnAge",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

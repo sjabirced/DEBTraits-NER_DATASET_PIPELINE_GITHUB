@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Squalius",
+    "specie": "Squalius_svallize",
+    "specie_en": "Neretva chub"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "27.7",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "EconDaou1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.2 mm: pi/6*0.22^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "245",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00724*Li^3.14, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.56",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'guess','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00724*Lp^3.14, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "IvanTree2010",
+    "temp": "C2K(14.7)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

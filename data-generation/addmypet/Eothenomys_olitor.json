@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Eothenomys",
+    "specie": "Eothenomys_olitor",
+    "specie_en": "Chaotung vole",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "89.1",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "weight is much larger than known adult range. Correct?"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3*7/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "'7 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Loxodontomys_micropus"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "34",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "GenoIsle2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "gbif: 13-15 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "5.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Loxodontomys_micropus"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "24.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Loxodontomys_micropus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "60",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Loxodontomys_micropus"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "12",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "based on Loxodontomys_micropus"
+    }
+  ]
+}

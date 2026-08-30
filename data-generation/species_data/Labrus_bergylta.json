@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Labridae",
+    "genus": "Labrus",
+    "specie": "Labrus_bergylta",
+    "specie_en": "Ballan wrasse",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.012",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "MuncAnde2010",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "65.9",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25.6",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based onLabrus_merula: 20.6*65.9/53"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.95e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MuncAnde2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.72 mm: pi/6*0.072^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.7e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','GordMoli2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00955*Li^3.07, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "201",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','GordMoli2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00955*Lp^3.07, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "29*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(19.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Myobatrachidae",
+    "genus": "Limnodynastes",
+    "specie": "Limnodynastes_peronii",
+    "specie_en": "Striped marsh frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "7",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.3",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative length, compared to Hyla eximia: 7*2.3/3.75"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1000/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "HengBurg2002",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "704 to 1400 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "HengBurg2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.5 mm: pi/6*0.15^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "35.2",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Hyla eximia: 4.4*(7.5/3.75)^3"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "28.6",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on length-weight of Hyla eximia: 4.4*(7/3.75)^3"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.4",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "HengBurg2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tW data at tj = 12*7 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "12*7",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "HengBurg2002",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

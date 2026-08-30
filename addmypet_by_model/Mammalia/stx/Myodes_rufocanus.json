@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Myodes",
+    "specie": "Myodes_rufocanus",
+    "specie_en": "Grey red-backed vole"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5.5*3/ 365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "{'KaneNaka1998','AnAge'}",
+    "temp": "C2K(36.6)",
+    "units.temp": "K",
+    "comment": "'4-7 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "KaneNaka1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "22.5",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "KaneNaka1998",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "22-23 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "10",
+    "units": "g",
+    "label": "wet weight at waening",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3.3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(36.6)",
+    "units.temp": "K",
+    "comment": "based on Myodes glareolus"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "18.5",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "KaneNaka1998",
+    "temp": "C2K(36.6)",
+    "units.temp": "K",
+    "comment": "temp based on Myodes glareolus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "KaneNaka1998",
+    "temp": "C2K(36.6)",
+    "units.temp": "K",
+    "comment": "30-60 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "17",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "KaneNaka1998",
+    "temp": "C2K(36.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

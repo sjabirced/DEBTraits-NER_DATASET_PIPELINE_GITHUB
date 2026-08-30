@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Pholidota",
+    "family": "Manidae",
+    "genus": "Manis",
+    "specie": "Manis_crassicaudata",
+    "specie_en": "Indian pangolin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "52+40",
+    "units": "cm",
+    "label": "ultimate head-body + tail length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 51-55 + 33-47 cm"
+  },
+  {
+    "entity": "Lx",
+    "entity.value": "45",
+    "units": "cm",
+    "label": "total length at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "wild guess from photo of back-riding young"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": "savepangolins: 2 and 3 young have been reported"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "350",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 235-400 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "13015",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "from female"
+  },
+  {
+    "entity": "am",
+    "entity.value": "19*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "67",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Wiki",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": "'Wiki: 65 - 70 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "savepangolins",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "3*30.5",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(33.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

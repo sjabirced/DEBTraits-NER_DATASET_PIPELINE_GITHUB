@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Pteropodidae",
+    "genus": "Penthetor",
+    "specie": "Penthetor_lucasi",
+    "specie_en": "Dusky fruit bat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "EoL",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": "'1.2 pup per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "12",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Kofr2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on interpolation in tWw data"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "38.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "EoL",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "95",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "Kofr2007",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "4.5*31",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(34.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

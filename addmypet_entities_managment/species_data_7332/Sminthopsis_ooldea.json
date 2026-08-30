@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Dasyuromorphia",
+    "family": "Dasyuridae",
+    "genus": "Sminthopsis",
+    "specie": "Sminthopsis_ooldea",
+    "specie_en": "Ooldea dunnart"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "18.9",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(35.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "1 litter per yr, 8 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.01",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "11-18 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "4.8",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "4.9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "21",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "FrigWool1997",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "300",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Wiki",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "70",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "FrigWool1997",
+    "temp": "C2K(35.2)",
+    "units.temp": "K",
+    "comment": "65-70 d"
+  }
+]

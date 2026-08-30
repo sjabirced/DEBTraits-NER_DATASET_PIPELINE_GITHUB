@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Lamniformes",
+    "family": "Mitsukurinidae",
+    "genus": "Mitsukurina",
+    "specie": "Mitsukurina_owstoni",
+    "specie_en": "Goblin shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "82",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "617",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "{'fishbase','ParsWalt2002'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "female of TL 540 to 617 cm"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "294",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "264 - 322 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10/365/8",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": "based on Greenland shark, 10 pups per litter each 8 yrs"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.64e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Lb^3.12, see F3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.975e6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Li^3.12, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "195.5e3",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00389*Lp^3.12, see F3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": "based on litter interval"
+  },
+  {
+    "entity": "am",
+    "entity.value": "122*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": "'based on Li and tL data"
+  }
+]

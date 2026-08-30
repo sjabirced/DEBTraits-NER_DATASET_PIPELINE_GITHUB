@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Hypotaenidia",
+    "specie": "Hypotaenidia_owstoni",
+    "specie_en": "Guam rail"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*3.5/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "avibase",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": "'3.5 eggs per season, 2 clutches per yr"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "17",
+    "units": "g",
+    "label": "initial wet weight",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "12",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "217",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "239.5",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "avibase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Tayl2020: 170–274 g"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "19",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Tayl2020",
+    "temp": "C2K(36)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "8.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tR",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at 1st brood",
+    "bibkey": "Wiki",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": "time since birth to puberty: 6 mnth"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "69",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "23",
+    "units": "d",
+    "label": "time since birth at fledging",
+    "bibkey": "guess",
+    "temp": "C2K(40.4)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

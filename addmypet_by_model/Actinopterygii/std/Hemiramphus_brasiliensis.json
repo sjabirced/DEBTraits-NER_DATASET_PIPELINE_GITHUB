@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Beloniformes",
+    "family": "Hemiramphidae",
+    "genus": "Hemiramphus",
+    "specie": "Hemiramphus_brasiliensis",
+    "specie_en": "Ballyhoo halfbeak"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "34",
+    "units": "cm",
+    "label": "ultimate fork length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "19.3",
+    "units": "cm",
+    "label": "fork length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "BerkHoud1978",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.48 mm: pi/6*0.248^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "200",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'max. published weight: 200.00 g"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "34.6",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00380*Lp^3.08, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BerkHoud1978",
+    "temp": "C2K(27.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

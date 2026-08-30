@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cobitidae",
+    "genus": "Cobitis",
+    "specie": "Cobitis_paludica",
+    "specie_en": "Iberian loach"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "{'fishbase','OlivTorr2002'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase gives 7 cm, but OlivTorr2002 data show that males are only a little bit smaller than females"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.2",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "OlivTorr2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "total length at puberty foremales",
+    "bibkey": "OlivTorr2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1986/365",
+    "units": "#/d",
+    "label": "Reprod rate at TL 9 cm",
+    "bibkey": "OlivTorr2002",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "OlivTorr2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.1 mm: pi/6*0.11^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15.45",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00603*Li^3.06, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1.6",
+    "units": "g",
+    "label": "wet weight at puberty for females",
+    "bibkey": "{'fishbase','OlivTorr2002'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on based on 0.00603*Lp^3.06, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "OlivTorr2002",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

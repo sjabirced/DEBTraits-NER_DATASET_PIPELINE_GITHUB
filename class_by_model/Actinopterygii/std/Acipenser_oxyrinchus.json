@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acipenseriformes",
+    "family": "Acipenseridae",
+    "genus": "Acipenser",
+    "specie": "Acipenser_oxyrinchus",
+    "specie_en": "Atlantic sturgeon"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "430",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "FishBase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li_m",
+    "entity.value": "403",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "FishBase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "FishBase",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "temperature is guessed, Fishbase says 0.4-8 million eggs may be spawned per female"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "MimsLazu2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.5 mm: pi/6*0.25^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "202.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7",
+    "units": "d",
+    "label": "age at hatch",
+    "bibkey": "FishBase",
+    "temp": "C2K(17.8)",
+    "units.temp": "K",
+    "comment": "reported in Fishbase as hatch time"
+  },
+  {
+    "entity": "am",
+    "entity.value": "60*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FishBase",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "temperature is guessed"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "Wiki",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "temp is guessed- wiki says between 8 and 17 years"
+  },
+  {
+    "entity": "tp_m",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "Wiki",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "temp is guessed- wiki says between 7 and 12 years"
+  }
+]

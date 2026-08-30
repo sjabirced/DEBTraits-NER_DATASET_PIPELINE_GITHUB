@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Paradisaeidae",
+    "genus": "Astrapia",
+    "specie": "Astrapia_mayeri",
+    "specie_en": "Ribbon-tailed astrapia",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FritFrit1993",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "1 egg per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "12",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "FritFrit1993",
+      "temp": null,
+      "units.temp": null,
+      "comment": "egg  weight: 14.9 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "155",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "hbw",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Male  134-164 g"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "21",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "FritFrit1993",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "84",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "28",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "FritFrit1993",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

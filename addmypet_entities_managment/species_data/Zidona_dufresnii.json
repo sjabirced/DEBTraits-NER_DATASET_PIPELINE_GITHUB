@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Neogastropoda",
+    "family": "Volutidae",
+    "genus": "Zidona",
+    "specie": "Zidona_dufresnii",
+    "specie_en": "Dufresni",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.73",
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "ArriPenc2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative length compared to Adelomelon_beckii: 1.72*21/49.5"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "ultimate shell length",
+      "bibkey": "GimeBrey2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "12.5",
+      "units": "cm",
+      "label": "shell length at puberty for female",
+      "bibkey": "GimeBrey2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.6e3/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "Based on kap = 0.8"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "350",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "GimeBrey2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 10^(-1.482+1.733*log10(10*Li)), see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "18*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "GimeBrey2004",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

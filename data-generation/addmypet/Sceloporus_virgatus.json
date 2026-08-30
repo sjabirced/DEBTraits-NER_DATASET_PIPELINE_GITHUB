@@ -1,0 +1,93 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Phrynosomatidae",
+    "species": "Sceloporus_virgatus",
+    "species_en": "Striped plateau lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.1",
+      "units": "cm",
+      "label": "SVL ate birth",
+      "bibkey": "Vine1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.8",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "Vine1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.0",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "Vine1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Vine1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": "0.3-0.5 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "11.4",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Vine1975",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 7.83 g for mean female weight and assumed mean SVL of 6 cm: (6.8/6)^3*7.83"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "48",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "10*30.5",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Vine1975",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

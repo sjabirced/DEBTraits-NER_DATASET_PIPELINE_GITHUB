@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Adapedonta",
+    "family": "Solenidae",
+    "genus": "Ensis",
+    "specie": "Ensis_directus",
+    "specie_en": "Atlantic jackknife clam",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Fm",
+      "entity.value": 5.3,
+      "units": "L/h",
+      "label": "maximum spec filtering rate",
+      "bibkey": "Wijs2011",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "GSI",
+      "entity.value": 0.025,
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "Wijs2011",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "GSI = 0.33 for E. arcuatus"
+    },
+    {
+      "entity": "L1825",
+      "entity.value": 15.0,
+      "units": "cm",
+      "label": "shell length at 1825 d",
+      "bibkey": "Wijs2011",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "L730",
+      "entity.value": 8.0,
+      "units": "cm",
+      "label": "shell length at 730 d",
+      "bibkey": "Wijs2011",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": 0.0136,
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "Wijs2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 17.1,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wijs2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": "18.6 cm in Germany, 20 cm in western Atlantic"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": 0.045,
+      "units": "cm",
+      "label": "shell length at metam",
+      "bibkey": "Wijs2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 4.841,
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "Wijs2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": 1.831,
+      "units": "g",
+      "label": "ultimate ashfree dry weight",
+      "bibkey": "Wijs2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 5.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wijs2011",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 2555.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wijs2011",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": 10.5,
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "Wijs2011",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 492.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Wijs2011",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

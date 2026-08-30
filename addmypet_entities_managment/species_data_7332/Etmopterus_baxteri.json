@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Etmopteridae",
+    "genus": "Etmopterus",
+    "specie": "Etmopterus_baxteri",
+    "specie_en": "New Zealand lanternshark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "value for E. granulosus, which might be conspecific"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "75",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "46",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "value for E. granulosus, which might be conspecific"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12/365/3",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(4.6)",
+    "units.temp": "K",
+    "comment": "'10-13 pups per litter in E. granulosus, which might be conspecific"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.4e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00380*Li^3.09, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2.7*365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(4.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "60*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "IrviStev2006",
+    "temp": "C2K(4.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

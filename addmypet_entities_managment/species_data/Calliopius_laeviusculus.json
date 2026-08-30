@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Amphipoda",
+    "family": "Calliopiidae",
+    "genus": "Calliopius",
+    "specie": "Calliopius_laeviusculus",
+    "specie_en": "Carnivorous shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "80/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Dagg1976",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": "based on egg mass of 1600 mug and Wwb, assuming yearly fecundity"
+    },
+    {
+      "entity": "WCb",
+      "entity.value": "20",
+      "units": "mug",
+      "label": "C weight at birth",
+      "bibkey": "Dagg1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "WCi",
+      "entity.value": "4600",
+      "units": "mug C",
+      "label": "ultimate C weight",
+      "bibkey": "Dagg1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based in WJX8 data"
+    },
+    {
+      "entity": "WCp",
+      "entity.value": "1400",
+      "units": "g",
+      "label": "C weight at puberty",
+      "bibkey": "Dagg1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "20",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(10.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

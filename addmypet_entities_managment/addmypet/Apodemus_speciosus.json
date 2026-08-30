@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Apodemus",
+    "specie": "Apodemus_speciosus",
+    "specie_en": "Large Japanese field mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4.3*12/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "OhMori1998",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": "'4.3 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "OhMori1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "33",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "OhMori1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "43",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "OhMori1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "15.5",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "OhMori1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "810",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "OhMori1998",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "20",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "OhMori1998",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "73",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "OhMori1998",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "21",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "OhMori1998",
+      "temp": "C2K(37.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

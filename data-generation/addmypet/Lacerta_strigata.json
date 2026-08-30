@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Lacerta",
+    "specie": "Lacerta_strigata",
+    "specie_en": "Caucusus Emerald Lizard",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.5",
+      "units": "cm",
+      "label": "SVL at hatching",
+      "bibkey": "RoitSmir2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "11",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "RoitSmir2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "15/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "EngeFrit1993",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "6 till 11 twice per year"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "29.6",
+      "units": "g",
+      "label": "ultimate wet ",
+      "bibkey": "HallGrie2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "100",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "EngeFrit1993",
+      "temp": "C2K(23)",
+      "units.temp": "K",
+      "comment": "7 till 10 weeks"
+    },
+    {
+      "entity": "am",
+      "entity.value": "7.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "RoitSmir2006",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "24*30.5",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "RoitSmir2006",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

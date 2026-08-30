@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Acanthopagrus",
+    "specie": "Acanthopagrus_latus",
+    "specie_en": "Yellowfin seabream",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "ultimate fork length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "32",
+      "units": "cm",
+      "label": "ultimate fork length for males",
+      "bibkey": "WangLau2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "29.7",
+      "units": "cm",
+      "label": "fork length at puberty",
+      "bibkey": "WangLau2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "21",
+      "units": "cm",
+      "label": "fork length at puberty for males",
+      "bibkey": "WangLau2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 750 mum of Acanthopagrus_berda: pi/6*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "896",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01622*Li^2.96, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "371",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01622*Lp^2.96, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Pelophylax",
+    "specie": "Pelophylax_esculentus",
+    "specie_en": "Edible frog"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.89",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Gunt1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Gunt1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "8.4",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "SochOgie2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "1.9",
+    "units": "cm",
+    "label": "SVL of frog at metam",
+    "bibkey": "Gunt1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ljb",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "total length of tadpole at metam",
+    "bibkey": "Gunt1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Gunt1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Wwp/Wwi)^(1/3)*Li"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Gunt1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on drawing: pi/6*0.23^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "87.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Gunt1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "0.7",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "Gunt1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on (Lj/Li)^3*Wwi"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "20",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Gunt1990",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "8",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Gunt1990",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SochOgie2010",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "120",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Gunt1990",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since metam at puberty for females",
+    "bibkey": "SochOgie2010",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "time since metam at puberty for males",
+    "bibkey": "SochOgie2010",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

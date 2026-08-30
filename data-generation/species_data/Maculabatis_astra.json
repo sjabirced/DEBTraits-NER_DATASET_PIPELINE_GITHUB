@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Dasyatidae",
+    "genus": "Maculabatis",
+    "specie": "Maculabatis_astra",
+    "specie_en": "Black-spotted whipray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "disc width at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "17-19 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "78.2",
+      "units": "cm",
+      "label": "ultimate disc width",
+      "bibkey": "JacoBenn2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "66",
+      "units": "cm",
+      "label": "ultimate disc width for males",
+      "bibkey": "JacoBenn2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "47",
+      "units": "cm",
+      "label": "disc width at puberty",
+      "bibkey": "JacoBenn2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "47",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "JacoBenn2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "3/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": "1-3 pups per litter, assumed 1 litter per 2 yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "JacoBenn2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8200",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "JacoBenn2011",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "460",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "29*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "JacoBenn2011",
+      "temp": "C2K(27.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

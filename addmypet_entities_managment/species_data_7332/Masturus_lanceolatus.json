@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Molidae",
+    "genus": "Masturus",
+    "specie": "Masturus_lanceolatus",
+    "specie_en": "Sharptail mola"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "0.85*337",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on total length of 337 cm, converted to standard length based on photo"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "stnadard length at puberty",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "estimate, derived from other species"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5e8/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.45"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "PopeHays2010",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 1.3 mm for mola mola: pi/6*0.12^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "105 * 365",
+    "units": "d",
+    "label": "life span for females",
+    "bibkey": "Wiki",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "85 * 365",
+    "units": "d",
+    "label": "life span for males",
+    "bibkey": "Wiki",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

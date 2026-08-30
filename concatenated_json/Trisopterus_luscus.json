@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Gadidae",
+    "genus": "Trisopterus",
+    "specie": "Trisopterus_luscus",
+    "specie_en": "Pouting"
+  },
+  {
+    "entity": "Lh",
+    "entity.value": "0.313",
+    "units": "cm",
+    "label": "total length at hatch",
+    "bibkey": "AlonVerg2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "46",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "21.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase: 21-25 cm"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "data.ah + 2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "AlonVerg2010",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": "guessed from ah"
+  },
+  {
+    "entity": "ah",
+    "entity.value": "108/24",
+    "units": "d",
+    "label": "age at hatch",
+    "bibkey": "AlonVerg2010",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

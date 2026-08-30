@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Negaprion",
+    "specie": "Negaprion_brevirostris",
+    "specie_en": "Lemon shark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "62.5",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "60 to 65  cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "343",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "310",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "239",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "224",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "17/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "4 till 17 pups per litter, one litter per 2 yrs"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.88e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00490*Lb^3.11, see F3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "375.8e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Wiki','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00490*Lim^3.11, see F3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "274.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00490*Lim^3.11, see F3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "122.2e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00490*Lp^3.11, see F3"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "99.88e3",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00490*Lpm^3.11, see F3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "12*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

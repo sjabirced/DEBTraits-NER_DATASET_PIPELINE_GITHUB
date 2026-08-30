@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "genus": "Agama",
+    "specie": "Agama_impalearis",
+    "specie_en": "North African rock agama"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "3.5",
+    "units": "cm",
+    "label": "SVL at hatching",
+    "bibkey": "MoudZnar1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "MoudZnar1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "14",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "MoudZnar1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*14/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "6 till 23 eggs per clutch, 2 clutches per year"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "71",
+    "units": "g",
+    "label": "ultimate wet ",
+    "bibkey": "MoudZnar1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "102",
+    "units": "g",
+    "label": "ultimate wet ",
+    "bibkey": "MoudZnar1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "80",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": "60 d, but eggs develop already before being laid, which should be added"
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AnAge",
+    "temp": "C2K(23)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

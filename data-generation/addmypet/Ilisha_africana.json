@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Pristigasteridae",
+    "genus": "Ilisha",
+    "specie": "Ilisha_africana",
+    "specie_en": "West African ilisha",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "BlabStau1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "BlabStau1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "17219/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.14e-2",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "BlabStau1998",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.79 mm: pi/6*0.279^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "191",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'BlabStau1998','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00661*Li^3.02, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "15",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'BlabStau1998','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00661*Lp^3.02, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BlabStau1998",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

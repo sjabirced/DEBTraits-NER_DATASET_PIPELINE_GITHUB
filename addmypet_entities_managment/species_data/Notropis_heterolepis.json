@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Notropis",
+    "specie": "Notropis_heterolepis",
+    "specie_en": "Blacknose shiner",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "8.23",
+      "units": "cm",
+      "label": "ultimate standard length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 9.8 cm, and F2"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.3",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "RobeBroo2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "RobeBroo2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.85 mm: pi/6*0.085^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "8.0",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00708*(Li/0.84)^3.08, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "1.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EmerWall1974",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "genus": "Varzea",
+    "specie": "Varzea_bistriata",
+    "specie_en": "Two-striped mabuya"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "3.9",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on (Wwb/Wwim)^(1/3)*Lim: (1.33/11.04)^(1/3)*7.95"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8.94",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "RamiSerr2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.95",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "RamiSerr2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.5",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "RamiSerr2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "7.2",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "RamiSerr2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.33",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "VittBlac1991",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16.49",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "RamiSerr2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11.04",
+    "units": "g",
+    "label": "ultimate wet weight for males",
+    "bibkey": "RamiSerr2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "129",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "ADW",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": "data for captive individuals, 300 d in the wild"
+  },
+  {
+    "entity": "am",
+    "entity.value": "14.6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Cyprinodontidae",
+    "genus": "Jordanella",
+    "specie": "Jordanella_floridae",
+    "specie_en": "Flagfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 6.0,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 3.5,
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "Beyg2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on observation that SL 4.1 cm had 55 eggs"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 27.0,
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "FostCair1969",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.0013,
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "FostCair1969",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.35 mm: pi/6*0.135^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 4.95,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01660*Li^3.18, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": 1.0,
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Beyg2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 200.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Beyg2009",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

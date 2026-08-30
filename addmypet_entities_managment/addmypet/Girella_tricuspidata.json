@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Girellidae",
+    "genus": "Girella",
+    "specie": "Girella_tricuspidata",
+    "specie_en": "Parore",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.055",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "Poll1981",
+      "temp": "C2K(16.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "71",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "29.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.2 mm of Girella_punctata: pi/6*0.12^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "4.3e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01047*Li^3.03, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "297.5",
+      "units": "g",
+      "label": "wet weight at piberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01047*Lp^3.03, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "24*365",
+      "units": "d",
+      "label": "time since birth at death",
+      "bibkey": "fishbase",
+      "temp": "C2K(16.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

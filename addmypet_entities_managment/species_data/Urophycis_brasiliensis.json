@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gadiformes",
+    "family": "Phycidae",
+    "genus": "Urophycis",
+    "specie": "Urophycis_brasiliensis",
+    "specie_en": "Brazilian codling",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "58.6",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "{'CavoCard2018','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "37",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "CavoCard2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "CavoCard2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "25.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "CavoCard2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.2e6/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(24.8)",
+      "units.temp": "K",
+      "comment": "based on Urophycis_tenuis: 15e6*1648/21e3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.1e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CavoCard2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.6 mm: pi/6*0.06^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1648",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00427*Li^3.16, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "493",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00427*Lp^3.16, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(24.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(24.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

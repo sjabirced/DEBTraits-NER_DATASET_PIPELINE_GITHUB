@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Orthoptera",
+    "family": "Acrididae",
+    "genus": "Chortoicetes",
+    "specie": "Chortoicetes_terminifera",
+    "specie_en": "Australian plague locust"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.5",
+    "units": "cm",
+    "label": "length at birth",
+    "bibkey": "Rent2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Actually length of 1st instar"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.2",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Rent2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Actually length of 6th instar"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "72*3/60",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Clar1965",
+    "temp": "C2K(35.1)",
+    "units.temp": "K",
+    "comment": "Clark 1965 reports 72 ovarioles, Steve Simpson pers. comm. says 3 clutches over adult life of 60 days, Ted Deveson pers. comm. reports ~8 clutches of 30 eggs every three days over 45 days"
+  },
+  {
+    "entity": "Wd2",
+    "entity.value": "2.88e-3",
+    "units": "g",
+    "label": "dry weight at beginning of instar 2",
+    "bibkey": "Clis2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Table 4.3 button grass diet"
+  },
+  {
+    "entity": "Wd3",
+    "entity.value": "5.56e-3",
+    "units": "g",
+    "label": "dry weight at beginning of instar 3",
+    "bibkey": "Clis2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Table 4.3 button grass diet"
+  },
+  {
+    "entity": "Wd4",
+    "entity.value": "11.71e-3",
+    "units": "g",
+    "label": "dry weight at beginning of instar 4",
+    "bibkey": "Clis2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Table 4.3 button grass diet"
+  },
+  {
+    "entity": "Wd5",
+    "entity.value": "25.53e-3*1.5",
+    "units": "g",
+    "label": "dry weight at beginning of instar 5",
+    "bibkey": "Clis2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Table 4.3 button grass diet"
+  },
+  {
+    "entity": "Wdb",
+    "entity.value": "9e-4",
+    "units": "g",
+    "label": "dry weight at birth",
+    "bibkey": "Farr1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdp",
+    "entity.value": "0.1095",
+    "units": "g",
+    "label": "dry weight at puberty",
+    "bibkey": "Greg1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "mean in Farrow Table 5, note that he gets a mean value of around 0.18 for fraction dry, and an egg dry weight of ~1.2 mg (1.1-1.31)"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17.4",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "{'Greg1981','Greg1983'}",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "60 + data.tp",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Simp2018",
+    "temp": "C2K(35.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "34.35",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Greg1983",
+    "temp": "C2K(28.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

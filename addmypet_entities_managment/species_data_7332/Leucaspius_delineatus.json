@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Leucaspius",
+    "specie": "Leucaspius_delineatus",
+    "specie_en": "Belica"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Brit2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5e3/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "Brit2011",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "fishbase gives a fecundity of 2300 and 3500 eggs"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "9.5e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.22 mm of Telestes_karsticus: pi/6*0.122^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00724*Li^3.13, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.61",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'Brit2011','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi*(Lp/Li)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "GozlPind2003",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "fishbase gives 3 yrs"
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Malacoraja",
+    "specie": "Malacoraja_senta",
+    "specie_en": "Smooth skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "31",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "NataSuli2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "70",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "NataSuli2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "88",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "NataSuli2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "54",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "SuliCici2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "56",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "SuliCici2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(4.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "3.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','NataSuli2007'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00575*Li^3.13, see F1"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "{'fishbase','NataSuli2007'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00575*Lim^3.13, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(4.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "NataSuli2007",
+      "temp": "C2K(4.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

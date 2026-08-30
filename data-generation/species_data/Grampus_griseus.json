@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Delphinidae",
+    "genus": "Grampus",
+    "specie": "Grampus_griseus",
+    "specie_en": "Risso",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "130",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "1.1-1.5 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "400",
+      "units": "cm",
+      "label": "ultimate length for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "270",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "2.6-2.8 m"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365/2.4",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "calving interval 2.4 yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "20e3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "425e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "AnAge",
+      "temp": null,
+      "units.temp": null,
+      "comment": "300-500 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "42.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "13.5*30.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "ADW",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "13-14 mnth"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "Wiki",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "8-10 yrs"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Wiki",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "10-12 yrs"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "15*30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ADW",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "12-18 mnth"
+    }
+  ]
+}

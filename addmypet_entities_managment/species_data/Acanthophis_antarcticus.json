@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "genus": "Acanthophis",
+    "specie": "Acanthophis_antarcticus",
+    "specie_en": "Common death adder",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "John1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "100",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "John1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "John1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "44",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "John1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "20.4/365",
+      "units": "#/d",
+      "label": "reprod rate at SVL 136.7 cm",
+      "bibkey": "John1987",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": "20.4 eggs per clutch in captivity, 1 clutch every 1 yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.84",
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "John1987",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "9.3*365",
+      "units": "d",
+      "label": "maximum life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(28.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

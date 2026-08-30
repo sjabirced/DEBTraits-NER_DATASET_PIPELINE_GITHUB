@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Arhynchobatidae",
+    "genus": "Bathyraja",
+    "specie": "Bathyraja_trachura",
+    "specie_en": "Roughtail skate"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "WintNata2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "91",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "79.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "WintNata2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "74.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "WintNata2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": "value for Bathyraja interrupta: 6 tot 9 pups per litter"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.2e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'besed on 0.00427*Li^3.06, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "36*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "WintNata2013",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "24.7*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "WintNata2013",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": "based on interpolation of Lp in tL data"
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "21.1*365",
+    "units": "d",
+    "label": "time since birth at puberty for males",
+    "bibkey": "WintNata2013",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

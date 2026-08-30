@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Geoemydidae",
+    "genus": "Heosemys",
+    "specie": "Heosemys_spinosa",
+    "specie_en": "Spiny turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "6.2",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "Goet2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "5.77-6.67 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "27.5",
+      "units": "cm",
+      "label": "ultimate carapace length for males",
+      "bibkey": "Goet2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8.8",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "Goet2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Goet2007",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "1-2 eggs per clutch, probably 1 clutches per yr"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "47",
+      "units": "g",
+      "label": "initial wet weight",
+      "bibkey": "Goet2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "34.2 - 50.5 g"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "33",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Goet2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "31.5 - 36.7 g"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "2.8e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Goet2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "127",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Goet2007",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "104-142 d at 24-28 C"
+    },
+    {
+      "entity": "am",
+      "entity.value": "22.9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EoL",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

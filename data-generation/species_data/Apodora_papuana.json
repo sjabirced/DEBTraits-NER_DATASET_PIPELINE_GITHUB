@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "genus": "Apodora",
+    "specie": "Apodora_papuana",
+    "specie_en": "Irian python",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "67",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "TryoWhit1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki: 38 till 51"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "513",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "TryoWhit1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "22/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "TryoWhit1988",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "97.1",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "TryoWhit1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "26780",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "TryoWhit1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "90",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "TryoWhit1988",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "87 till 93 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "age at puberty for female",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

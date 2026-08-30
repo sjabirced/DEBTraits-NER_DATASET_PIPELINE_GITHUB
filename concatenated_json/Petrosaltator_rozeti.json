@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Macroscelidea",
+    "family": "Macroscelididae",
+    "genus": "Petrosaltator",
+    "specie": "Petrosaltator_rozeti",
+    "specie_en": "North African elephant shrew"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "47.8",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "WhitSeym2003",
+    "temp": "C2K(33.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "4/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(33.6)",
+    "units.temp": "K",
+    "comment": "1-4 young per litter, 2 litters per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.1",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "63",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "WhitSeym2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "ADW: 25-70 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "18",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "7.2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(33.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "76",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(33.6)",
+    "units.temp": "K",
+    "comment": "49-56 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "45",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ADW",
+    "temp": "C2K(33.6)",
+    "units.temp": "K",
+    "comment": "40-50 d"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "14",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(33.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

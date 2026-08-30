@@ -1,0 +1,164 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Oregoniidae",
+    "genus": "Chionoecetes",
+    "specie": "Chionoecetes_opilio",
+    "specie_en": "Snow crab",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "9.5",
+      "units": "cm",
+      "label": "ultimate carapace width for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "16.5",
+      "units": "cm",
+      "label": "ultimate carapace width for males",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.319",
+      "units": "cm",
+      "label": "carapace length at settle",
+      "bibkey": "SainRaym1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.9",
+      "units": "cm",
+      "label": "carapace width at puberty for males",
+      "bibkey": "SainRaym1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1.5e5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.7 mm of Macrocheira kaempferi: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "429.4",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'Wiki','HardDuti2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Li/ Lim)^3*Wwim"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.25e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "{'Wiki','HardDuti2000'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 11.37 cm carpace width corresponds with 736 g wet weight: (16.5/11.37)^3*736"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "0.016",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "SainRaym1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Ljm/ Lim)^3 * Wwim"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "29.7",
+      "units": "g",
+      "label": "wet weight at puberty for males",
+      "bibkey": "SainRaym1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on (Lp/ Li)^3 * Wwi"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": "all temps guessed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "19*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "5*30.5",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "ADW",
+      "temp": "C2K(8)",
+      "units.temp": "K",
+      "comment": "temp is guessed higher because of pelagic stage"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since metam at puberty for males",
+      "bibkey": "SainRaym1995",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

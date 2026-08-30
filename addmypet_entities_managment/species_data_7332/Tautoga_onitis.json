@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Labriformes",
+    "family": "Labridae",
+    "genus": "Tautoga",
+    "specie": "Tautoga_onitis",
+    "specie_en": "Tautog"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "91",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "23.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10510000/365",
+    "units": "#/d",
+    "label": "reprod rate at 62 cm",
+    "bibkey": "fishbase",
+    "temp": "C2K(10.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.9e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.82 to 1.05 mm of Labrus merula: pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "11.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01230*Li^3.05, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "187",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01230*Lp^3.05, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "43*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(10.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

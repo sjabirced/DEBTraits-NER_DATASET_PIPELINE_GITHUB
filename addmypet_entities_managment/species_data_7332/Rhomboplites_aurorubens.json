@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Rhomboplites",
+    "specie": "Rhomboplites_aurorubens",
+    "specie_en": "Vermilion snapper"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "15 to 23 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "CuelSedb1996",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based egg diameter of 0.65 mm: pi/6*0.065^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.2e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on length-weight of 0.01514*Li^2.97 give 2.9 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "105",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "CuelSedb1996",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "26/24",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Allm2007",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

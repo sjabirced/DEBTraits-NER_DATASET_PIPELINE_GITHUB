@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "genus": "Notophthalmus",
+    "specie": "Notophthalmus_viridescens",
+    "specie_en": "Eastern newt",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.41",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on TL 0.75 cm, using F2"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4.7",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "CaetLecl1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "5.1",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "CaetLecl1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "2",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "varies among locations"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.6",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "CaetLecl1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.4",
+      "units": "cm",
+      "label": "SVL at puberty for females",
+      "bibkey": "CaetLecl1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "300/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "amphibiaweb",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": "200 to 375 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.64",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based length-weight of Triturus cristatus:(4.7/8.4)^3*9.4"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.1",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based length-weight of Triturus cristatus: (5.1/8.4)^3*9.4"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

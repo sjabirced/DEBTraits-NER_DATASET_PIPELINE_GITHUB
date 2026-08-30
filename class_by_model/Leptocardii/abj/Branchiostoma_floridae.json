@@ -1,0 +1,151 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Leptocardii",
+    "order": "Amphioxiformes",
+    "family": "Branchiostomidae",
+    "genus": "Branchiostoma",
+    "specie": "Branchiostoma_floridae",
+    "specie_en": "Florida lancelet"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": ".3",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Stok1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.0",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "SaitMimu2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "for B. belcheri"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": ".5",
+    "units": "cm",
+    "label": "total length at metam",
+    "bibkey": "Stok1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.3",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "StokHoll1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "3000/12",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "StokHoll1995",
+    "temp": "C2K(30.5)",
+    "units.temp": "K",
+    "comment": "1000 till 5000 eggs per 2 weeks"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "7.2215e-05",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "estimated",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wb = 2.357e-3 * Lb^2.895"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.4218",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "estimated",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wi = 2.357e-3 * Li^2.895"
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "3.1687e-04",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "estimated",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wj = 2.357e-3 * Lj^2.895"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.0263",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "estimated",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wp = 2.357e-3 * Lp^2.895"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "StokHoll1995",
+    "temp": "C2K(30.5)",
+    "units.temp": "K",
+    "comment": "ab = 1 d in Stok1996 but tLe-data below strongly suggest a larger value"
+  },
+  {
+    "entity": "aj_22",
+    "entity.value": "45",
+    "units": "d",
+    "label": "age at metam at 22 C",
+    "bibkey": "StokHoll1995",
+    "temp": "C2K(22.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "aj_30",
+    "entity.value": "28",
+    "units": "d",
+    "label": "age at metam at 30 C",
+    "bibkey": "StokHoll1995",
+    "temp": "C2K(30)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "5.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "StokHoll1995",
+    "temp": "C2K(30.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": "6*7",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "StokHoll1995",
+    "temp": "C2K(30.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

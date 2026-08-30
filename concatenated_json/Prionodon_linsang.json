@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Prionodontidae",
+    "genus": "Prionodon",
+    "specie": "Prionodon_linsang",
+    "specie_en": "Banded linsang"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(37.4)",
+    "units.temp": "K",
+    "comment": "2 pups per litter, 1 litter per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "40",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "750",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "590-800 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "10.7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "gbif",
+    "temp": "C2K(37.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tg",
+    "entity.value": "62",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(37.4)",
+    "units.temp": "K",
+    "comment": "based on Genetta_genetta: 78 * (40/80)^(1/3)"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tx",
+    "entity.value": "62",
+    "units": "d",
+    "label": "age at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.4)",
+    "units.temp": "K",
+    "comment": "based on equality with tg"
+  }
+]

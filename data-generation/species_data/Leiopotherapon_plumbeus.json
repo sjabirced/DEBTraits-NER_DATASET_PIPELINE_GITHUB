@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Centrarchiformes",
+    "family": "Terapontidae",
+    "genus": "Leiopotherapon",
+    "specie": "Leiopotherapon_plumbeus",
+    "specie_en": "Silver perch",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15.9",
+      "units": "cm",
+      "label": "ultimate std length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "std length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on end of 1st yr, early 2nd yr"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6e5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(23.7)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Amniataba_caudavittata"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.2e-5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 560 mum: pi/6*0.056^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "794",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01950*Li^3.09, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "36.6",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01950*Lp^3.09, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(23.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

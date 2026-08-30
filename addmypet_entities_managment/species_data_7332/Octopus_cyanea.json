@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Octopus",
+    "specie": "Octopus_cyanea",
+    "specie_en": "Big blue octopus"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.3",
+    "units": "cm",
+    "label": "mantle length at birth",
+    "bibkey": "Heuk1976",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ni",
+    "entity.value": "7e5",
+    "units": "#",
+    "label": "cum reprod at death",
+    "bibkey": "Heuk1976",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "at Monterey Bay"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.5e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "calculated from O. maya: Wb * (3/17)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3600",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Heuk1976",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1000",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Heuk1976",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wws",
+    "entity.value": "0.3",
+    "units": "g",
+    "label": "wet weight at settlement",
+    "bibkey": "Heuk1976",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "125",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Heuk1976",
+    "temp": "C2K(13)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": "25",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Heuk1976",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "10.5*30.5",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Heuk1976",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "210",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "HerwDepz2012",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ts",
+    "entity.value": "32.5",
+    "units": "d",
+    "label": "time since birth at settlement",
+    "bibkey": "Heuk1976",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "for O. vulgaris"
+  }
+]

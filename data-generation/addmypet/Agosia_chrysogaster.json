@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Agosia",
+    "specie": "Agosia_chrysogaster",
+    "specie_en": "Longfin dace",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "4.2",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Kepn1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 3.6 cm, see F2"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Kepn1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.1 mm: pi/6*0.11^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "11",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Li^3.13, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.73",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','Wint1962'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00813*Lp^3.13, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "1.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wint1962",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

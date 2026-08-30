@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Platanistidae",
+    "genus": "Platanista",
+    "specie": "Platanista_gangetica",
+    "specie_en": "Ganges river dolphin",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "70",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": "70-90 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "240",
+      "units": "cm",
+      "label": "ultimate length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "2.2-2.6 m"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "175",
+      "units": "cm",
+      "label": "length at puberty for female",
+      "bibkey": "Kasu1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": "150 - 200 cm"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "130",
+      "units": "cm",
+      "label": "length at puberty for male",
+      "bibkey": "Kasu1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "calving interval 15-36 mnth"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3500",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Kasu1972",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "80e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Carw1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'Carw1995: 70-90 kg"
+    },
+    {
+      "entity": "am",
+      "entity.value": "30*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "305",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Wiki",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "8-12 mnth"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3650",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "9*30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ADW",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "2-12 mnth, typically 9 mnth"
+    }
+  ]
+}

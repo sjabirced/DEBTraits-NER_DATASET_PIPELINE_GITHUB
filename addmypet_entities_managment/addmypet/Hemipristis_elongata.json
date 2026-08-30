@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Hemigaleidae",
+    "genus": "Hemipristis",
+    "specie": "Hemipristis_elongata",
+    "specie_en": "Snaggletooth shark",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "49",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "45-52 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "240",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "9/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(27.9)",
+      "units.temp": "K",
+      "comment": "2 till 11 pups per litter, 1 litter each yr, possibly each 2 yrs"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "72e3",
+      "units": "g",
+      "label": "ultimate wet weight (female)",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00355*Li^3.07, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7.5*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "fishbase",
+      "temp": "C2K(27.9)",
+      "units.temp": "K",
+      "comment": "7-8 mnth"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(27.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

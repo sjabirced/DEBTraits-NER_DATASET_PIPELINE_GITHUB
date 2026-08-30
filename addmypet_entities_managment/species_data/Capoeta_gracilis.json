@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Capoeta",
+    "specie": "Capoeta_gracilis",
+    "specie_en": "Tilkhos",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "21.17",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Sardari2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Bas Kooijman: fishbase gives 35 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "11.82",
+      "units": "cm",
+      "label": "length at puberty for females",
+      "bibkey": "Sardari2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "93860/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "KeivNasr2017",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "TurkErdo2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.7 mm: pi/6*0.17^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Sardari2010",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

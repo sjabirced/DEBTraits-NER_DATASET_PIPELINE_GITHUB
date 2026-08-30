@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Bathyergidae",
+    "genus": "Heterocephalus",
+    "specie": "Heterocephalus_glaber",
+    "specie_en": "Naked mole rat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "8-10 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "11/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(32.1)",
+      "units.temp": "K",
+      "comment": "litters 3-12, sometimes 28"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "32.5",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "30-35g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "28*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(32.1)",
+      "units.temp": "K",
+      "comment": "longest lifespan among rodents"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "70",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "Wiki",
+      "temp": "C2K(32.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "zooatlanta",
+      "temp": "C2K(32.1)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "30",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Wiki",
+      "temp": "C2K(32.1)",
+      "units.temp": "K",
+      "comment": "after which worker give faeces till solid food is taken"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Arhynchobatidae",
+    "genus": "Bathyraja",
+    "specie": "Bathyraja_lindbergi",
+    "specie_en": "Commander Skate"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "17.3",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Maur2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "102.1",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "Maur2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "79",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Maur2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Eber2005",
+    "temp": "C2K(2.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "9.5e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00490*Li^3.13, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(2.6)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "33*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Maur2009",
+    "temp": "C2K(2.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Notostraca",
+    "family": "Triopsidae",
+    "genus": "Triops",
+    "specie": "Triops_granarius",
+    "specie_en": "Tadpole shrimp",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.057,
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "Taka1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 2.3,
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "Taka1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.4,
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "Taka1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "R097",
+      "entity.value": 246.0,
+      "units": "#/d",
+      "label": "reproduction rate at 0.97 cm",
+      "bibkey": "Taka1977",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "R132",
+      "entity.value": 430.0,
+      "units": "#/d",
+      "label": "reproduction rate at 1.32 cm",
+      "bibkey": "Taka1977",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 0.227,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Triops_longicaudatus: (2.3/3.1)^3*0.555"
+    },
+    {
+      "entity": "am",
+      "entity.value": 30.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Taka1977",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "Wiki gives 90 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": 6.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Taka1977",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "based on Lp and tL data"
+    }
+  ]
+}

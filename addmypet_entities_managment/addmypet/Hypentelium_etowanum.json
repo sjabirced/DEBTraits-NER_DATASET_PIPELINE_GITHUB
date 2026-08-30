@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Hypentelium",
+    "specie": "Hypentelium_etowanum",
+    "specie_en": "Alabama hog sucker",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "26.1",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "although fisbase gives TL 23 cm, tL data suggest that this should be SL"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14.15",
+      "units": "cm",
+      "label": "total length at puberty for females",
+      "bibkey": "OKelPowe2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 12.45 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2717/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "OKelPowe2007",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.15e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'OKelPowe2007','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 2.8 mm of Erimyzon oblongus: pi/6*0.28^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "1550",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "OKelPowe2007",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

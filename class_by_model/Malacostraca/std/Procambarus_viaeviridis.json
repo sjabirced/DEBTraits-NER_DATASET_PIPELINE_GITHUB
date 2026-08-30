@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Cambaridae",
+    "genus": "Procambarus",
+    "specie": "Procambarus_viaeviridis",
+    "specie_en": "Vernal crayfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "ultimate carapace length",
+    "bibkey": "BarnAdam2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "134/(8*7)",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "BarnAdam2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.0053",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "RodrGarc2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.22 mm for Cherax quadricarinatus: pi/6*0.222^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.14",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length-weight compared to Procambarus_virginalis: 1.53 * (2.5 /4.5)^3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.26",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BarnAdam2017",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "Mean life span of the most long-lived 10% from Vogt2010 lab population"
+  }
+]

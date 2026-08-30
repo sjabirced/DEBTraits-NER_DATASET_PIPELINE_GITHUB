@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Lucinida",
+    "family": "Thyasiridae",
+    "genus": "Thyasira",
+    "specie": "Thyasira_cf_gouldi",
+    "specie_en": "Northern hatchet shell",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.0185",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "GiolDufo2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Length at birth is measured by the size (length) of the prodissoconch (range 155-215 microm)."
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.514",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Dufo2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Total length measured as shell length (anterior-posterior)."
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.28",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Dufo2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2.2399e+03/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "['Guessed based on Thyasira gouldi (Blac1973).' ...\n             'The Ri is taken as the maximum number of eggs contained within the gonad divided by days in a year.' ...\n             'In this population, temperature ranges from 7 to 13 C.']"
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": "0.001882",
+      "units": "g",
+      "label": "ultimate ash-free dry weight",
+      "bibkey": "Mari2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Dufo2017",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Oncorhynchus",
+    "specie": "Oncorhynchus_mykiss",
+    "specie_en": "Rainbow trout",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "120",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "54",
+      "units": "cm",
+      "label": "forked length at puberty",
+      "bibkey": "DaviKenn2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "data.Wwi * 2.5/ 365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "TylePott1996",
+      "temp": "C2K(12)",
+      "units.temp": "K",
+      "comment": "2000 till 3000 eggs per kg, we dont know the temperature of the water... just contacted the auther"
+    },
+    {
+      "entity": "Wd0",
+      "entity.value": "0.1007 * 0.4111",
+      "units": "g",
+      "label": "dry egg weight",
+      "bibkey": "FromRasm1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": "wet weight multiplied by percent dry matter of large eggs, see Table 1"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "0.1665 * 0.1929",
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "FromRasm1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": "large eggs, 10 deg C, Table 2, wet weight times percent dry matter"
+    },
+    {
+      "entity": "Wdh",
+      "entity.value": "0.1101 * 0.3523",
+      "units": "g",
+      "label": "weight at hatch",
+      "bibkey": "FromRasm1991",
+      "temp": null,
+      "units.temp": null,
+      "comment": "large eggs, 10 deg C, Table 2, wet weight times percent dry matter"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "25400",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "3.5 * 1e3",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "DaviKenn2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": "weigth at 20 months post hatch, when rapid egg growth occurred"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "19 + 13 + 22",
+      "units": "d",
+      "label": "age at birth at 10 degrees",
+      "bibkey": "FromRasm1991",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab_5",
+      "entity.value": "33 + 34 + 52",
+      "units": "d",
+      "label": "age at birth at 5 degrees",
+      "bibkey": "FromRasm1991",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah",
+      "entity.value": "19 + 13",
+      "units": "d",
+      "label": "age at hatching at 10 degrees",
+      "bibkey": "FromRasm1991",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ah_5",
+      "entity.value": "33 + 34",
+      "units": "d",
+      "label": "age at hatching at 5 degrees",
+      "bibkey": "FromRasm1991",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "28 + (20 * 30)",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "DaviKenn2014",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "GSI assessment indicated that rapid egg growth started at 20 Mo post hatch, and we assume that it takes about 28 d to hatch according to Vels1987"
+    }
+  ]
+}

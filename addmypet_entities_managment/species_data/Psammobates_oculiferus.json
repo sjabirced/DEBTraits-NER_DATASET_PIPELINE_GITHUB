@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "genus": "Psammobates",
+    "specie": "Psammobates_oculiferus",
+    "specie_en": "Serrated tortoise",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.0",
+      "units": "cm",
+      "label": "carapace length at birth",
+      "bibkey": "Kesw2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate carapace length",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9.0",
+      "units": "cm",
+      "label": "carapace length at puberty",
+      "bibkey": "Kesw2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "1-2 eggs per clutch, probably 1-2 clutches per yr"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "150",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Kesw2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "188*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(21)",
+      "units.temp": "K",
+      "comment": "based on Astrochelys radiata"
+    }
+  ]
+}

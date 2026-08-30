@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Lampanyctodes",
+    "specie": "Lampanyctodes_hectoris",
+    "specie_en": "Hector"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.3",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.6",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "Pros1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.8e4/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "Pros1991",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": "'based on 3*1431*Wwi per spawn"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.95e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Robe1977",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg length of 0.784 mm and egg width of 0.688 mm: 4/3*pi*0.0392*0.0344^2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2.5",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00537 * Li^3.08, see F4"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.28",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00537 * Lp^3.08, see F4"
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

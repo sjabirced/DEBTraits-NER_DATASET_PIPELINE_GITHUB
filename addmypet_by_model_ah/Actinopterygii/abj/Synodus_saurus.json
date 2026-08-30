@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Aulopiformes",
+    "family": "Synodontidae",
+    "genus": "Synodus",
+    "specie": "Synodus_saurus",
+    "specie_en": "Atlantic lizardfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "16.6",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "ManaAvsa2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2*58599/365",
+    "units": "#/d",
+    "label": "reprod rate at TL 31 cm",
+    "bibkey": "ManaAvsa2008",
+    "temp": "C2K(19.8)",
+    "units.temp": "K",
+    "comment": "spawns twice per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.9 mm of Saurida undosquamis: pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "553",
+    "units": "g",
+    "label": "ultimate wet weight females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00479*Li^3.16, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ManaAvsa2008",
+    "temp": "C2K(19.8)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

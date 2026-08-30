@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Thaliacea",
+    "order": "Doliolida",
+    "family": "Doliolidae",
+    "genus": "Dolioletta",
+    "specie": "Dolioletta_gegenbauri",
+    "specie_en": "Doliolid"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.1,
+    "units": "cm",
+    "label": "length at birth, asex generation",
+    "bibkey": "PaffGibs1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": "early oozooid, which produce a thread-like structure (cadophore) with 2 tiny trophozooids 5 d after oozoid appearence"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.15,
+    "units": "cm",
+    "label": "length at birth, sex generation",
+    "bibkey": "PaffGibs1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'gonozooids are released at 1-2 mm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": 1.0,
+    "units": "cm",
+    "label": "ultimate length of phorozooid",
+    "bibkey": "PaffGibs1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.5,
+    "units": "cm",
+    "label": "length at puberty, asex generation",
+    "bibkey": "PaffGibs1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": "first gonozooids are released by phorozooids of 5 mm length"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.6,
+    "units": "cm",
+    "label": "length at puberty, sex generation",
+    "bibkey": "PaffGibs1999",
+    "temp": null,
+    "units.temp": null,
+    "comment": "start of egg release by gonozooids"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 11.0,
+    "units": "#/d",
+    "label": "maximum reprod rate, asex generation",
+    "bibkey": "PaffGibs1999",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "The number of gonozooids produced by a single phorozooid during its life span is 83-163"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 28.0,
+    "units": "#/d",
+    "label": "maximum reprod rate, sex generation",
+    "bibkey": "PaffGibs1999",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": 1.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "PaffGibs1999",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "larvae appear <24h after egg release"
+  },
+  {
+    "entity": "am",
+    "entity.value": 20.2,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "PaffGibs1999",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "averaged nurse life span"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 4.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "PaffGibs1999",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "first gonozoids are released by phorozooids 4 d after phorozooid release"
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Myliobatidae",
+    "genus": "Myliobatis",
+    "specie": "Myliobatis_californica",
+    "specie_en": "Bat ray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "27",
+      "units": "cm",
+      "label": "disc width at birth",
+      "bibkey": "MartCail1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "158.7",
+      "units": "cm",
+      "label": "ultimate disc width",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "101.7",
+      "units": "cm",
+      "label": "ultimate disc width",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "67.5",
+      "units": "cm",
+      "label": "disc width at puberty",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(20.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "63.4e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MartCail1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Wwim*(Li/Lim)^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "16.78e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "MartCail1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "12*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ADW",
+      "temp": "C2K(20.6)",
+      "units.temp": "K",
+      "comment": "8-12 mnth"
+    },
+    {
+      "entity": "am",
+      "entity.value": "23*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "MartCail1988",
+      "temp": "C2K(20.6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

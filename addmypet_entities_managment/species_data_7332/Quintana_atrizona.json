@@ -1,0 +1,151 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Poeciliidae",
+    "genus": "Quintana",
+    "specie": "Quintana_atrizona",
+    "specie_en": "Barred topminnow"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.781",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "PoncRodr2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.781",
+    "units": "cm",
+    "label": "total length at birth for male",
+    "bibkey": "PoncRodr2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.000",
+    "units": "cm",
+    "label": "ultimate total length for felmale",
+    "bibkey": "PoncRodr2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "2.200",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "PoncRodr2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.615",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "PoncRodr2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.882",
+    "units": "cm",
+    "label": "total length at puberty for male",
+    "bibkey": "PoncRodr2013",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "35*7/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": "'35 young per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.1e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.00955*Lb^3.12"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.21",
+    "units": "g",
+    "label": "ultimate wet weight of female",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "0.080",
+    "units": "g",
+    "label": "ultimate wet weight of male",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": "computed as 0.00676*Lim^3.13"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "28",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "fishbase",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": "28 till 45 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "8*7",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "PoncRodr2013",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "5*7",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "PoncRodr2013",
+    "temp": "C2K(27.5)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

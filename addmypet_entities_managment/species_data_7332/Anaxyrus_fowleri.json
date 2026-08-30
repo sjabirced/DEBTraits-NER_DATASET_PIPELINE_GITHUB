@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Anaxyrus",
+    "specie": "Anaxyrus_fowleri",
+    "specie_en": "Fowler"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "32.5",
+    "units": "mm",
+    "label": "ultimate tibia length for females",
+    "bibkey": "Clar1974",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "27.5",
+    "units": "mm",
+    "label": "ultimate tibia for males",
+    "bibkey": "Clar1974",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "3.61",
+    "units": "mm",
+    "label": "tibia length at metam",
+    "bibkey": "Clar1974",
+    "temp": null,
+    "units.temp": null,
+    "comment": "'SVL 7 to 12 mm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8.5e3/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "'7000 to 10000 eggs/clutch"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 1 to 2 mm: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "58.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Clar1974",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Li amd LW data: 4.466 * (Li/13.8)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "35.3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Clar1974",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Lim amd LW data: 4.466 * (Lim/13.8)^3"
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": "0.08",
+    "units": "g",
+    "label": "wet weight at metam",
+    "bibkey": "Clar1974",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Lj amd LW data: 4.466 * (Lj/13.8)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "2 to 7 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "36*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": "55",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "guess",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "'based on A. americanus: 50 to 60 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since metam at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "based on A. americanus: 2 to 4 yr"
+  }
+]

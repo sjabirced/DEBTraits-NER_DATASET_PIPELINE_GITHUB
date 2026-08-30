@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "genus": "Hippocampus",
+    "specie": "Hippocampus_whitei",
+    "specie_en": "White",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 3.827,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "WongBenz2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 11.0,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "WongBenz2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": 0.8219,
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "VincGile2003",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "brood average mass"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.04893544,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "VincGile2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 6.5,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "WongBenz2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": "average observed adult weight"
+    },
+    {
+      "entity": "ab",
+      "entity.value": 23.0,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Pita2007",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "obtained from average incubation time"
+    },
+    {
+      "entity": "am",
+      "entity.value": 1715.5,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "observed longevity in captive specimens of Hippocampus erectus (Lined Seahorse)"
+    },
+    {
+      "entity": "tR",
+      "entity.value": 182.5,
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Pita2007",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

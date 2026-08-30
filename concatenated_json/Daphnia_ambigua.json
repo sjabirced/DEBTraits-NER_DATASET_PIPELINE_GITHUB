@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anomopoda",
+    "family": "Daphniidae",
+    "genus": "Daphnia",
+    "specie": "Daphnia_ambigua",
+    "specie_en": "Waterflea"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.041,
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "LeiArmi1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.136,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "LeiArmi1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.083,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "LeiArmi1980",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 16.1,
+    "units": "mug",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Ceriodaphnia_pulchella: (0.136/0.09)^3*4.668"
+  },
+  {
+    "entity": "am",
+    "entity.value": 147.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "LeiArmi1980",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": 14.0,
+    "units": "d",
+    "label": "time since birth at at puberty",
+    "bibkey": "LeiArmi1980",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

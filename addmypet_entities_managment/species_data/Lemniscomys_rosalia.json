@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Muridae",
+    "genus": "Lemniscomys",
+    "specie": "Lemniscomys_rosalia",
+    "specie_en": "Single-striped grass mouse",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4.2*6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ScotMees1988",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": "'4.2 pups per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ScotMees1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": "6.1-9.6 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "42",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Lemniscomys_striatus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": "based on Lemniscomys_striatus"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "24",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "ScotMees1988",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "148",
+      "units": "d",
+      "label": "time since birth at puberty for female",
+      "bibkey": "guess",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": "based on Lemniscomys_striatus"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "20",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "ScotMees1988",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

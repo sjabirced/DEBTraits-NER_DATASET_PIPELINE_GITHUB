@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Sisoridae",
+    "genus": "Euchiloglanis",
+    "specie": "Euchiloglanis_kishinouyei",
+    "specie_en": "Sucker catfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "19.3",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "15.4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.35e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "ChenZhu2023",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 4 mm: pi/6*0.4^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "73.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01023*Li^2.99, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "36.35",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.01023*Lp^2.99, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "20",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "11*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ChenZhu2023",
+    "temp": "C2K(18)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Bombinatoridae",
+    "genus": "Bombina",
+    "specie": "Bombina_variegata",
+    "specie_en": "Yellow-bellied toad",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "5.6",
+      "units": "cm",
+      "label": "ultimate SVL",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.5",
+      "units": "cm",
+      "label": "SVL of frog at metam",
+      "bibkey": "BulbKutr2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "3.2",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on tj and tL data"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "200/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "till 200 eggs per clutch, assumed: 1 clutch per season"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.7e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.49 mm of Bombina bombina: pi/6*0.149^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "12",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "29*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "70",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "guess",
+      "temp": "C2K(24.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1.5*365",
+      "units": "d",
+      "label": "time since metam at puberty",
+      "bibkey": "BulbKutr2018",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

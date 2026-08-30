@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Dipturus",
+    "specie": "Dipturus_kwangtungensis",
+    "specie_en": "Kwangtung skate"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "5.9",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "JounChen2015",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "75.7",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "50.4",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Dipturus chinensis 55.3*75.7/83.1"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "30/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(18.4)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Dipturus chinensis: 40*(75.7/83.1)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00282*Li^3.25"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "962",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00282*Lp^3.25"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "190",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(18.4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "13*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "JounChen2015",
+    "temp": "C2K(18.4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

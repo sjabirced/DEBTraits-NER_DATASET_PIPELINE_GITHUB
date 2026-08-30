@@ -1,0 +1,230 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Lepidoptera",
+    "family": "Bombycidae",
+    "species": "Bombyx_mori",
+    "species_en": "Silkmoth"
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 400.0,
+    "units": "#",
+    "label": "number of eggs laid",
+    "bibkey": "HsueTang1944",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "WdS",
+    "entity.value": 180.0,
+    "units": "mg",
+    "label": "silk weight per pupa",
+    "bibkey": "HsueTang1944",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": 0.49,
+    "units": "mg",
+    "label": "egg wet weight",
+    "bibkey": "HsueTang1944",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ww2",
+    "entity.value": 2.71,
+    "units": "mg",
+    "label": "initial wet weight of instar 2",
+    "bibkey": "{'HsueTang1944','TanaTake1993'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ww3",
+    "entity.value": 12.69,
+    "units": "mg",
+    "label": "initial wet weight of instar 3",
+    "bibkey": "{'HsueTang1944','TanaTake1993'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ww4",
+    "entity.value": 73.79,
+    "units": "mg",
+    "label": "initial wet weight of instar 4",
+    "bibkey": "{'HsueTang1944','TanaTake1993'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ww5",
+    "entity.value": 366.4,
+    "units": "mg",
+    "label": "initial wet weight of instar 5",
+    "bibkey": "{'HsueTang1944','TanaTake1993'}",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": 0.345,
+    "units": "mg",
+    "label": "wet weight at birth",
+    "bibkey": "HsueTang1944",
+    "temp": null,
+    "units.temp": null,
+    "comment": "instar 1 is from birth till ab+t1, so Ww1 = Wwb"
+  },
+  {
+    "entity": "Wwe",
+    "entity.value": 600.0,
+    "units": "mg",
+    "label": "imago wet weight at emergence",
+    "bibkey": "HsueTang1944",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwe",
+    "entity.value": 400.0,
+    "units": "mg",
+    "label": "imago wet weight at death",
+    "bibkey": "HsueTang1944",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": 2504.0,
+    "units": "mg",
+    "label": "pupal wet weight at start spinning",
+    "bibkey": "HsueTang1944",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": 900.0,
+    "units": "mg",
+    "label": "pupal wet weight after 5 d",
+    "bibkey": "HsueTang1944",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwj",
+    "entity.value": 930.0,
+    "units": "mg",
+    "label": "pupal wet weight just after spinning",
+    "bibkey": "HsueTang1944",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "ab",
+    "entity.value": 11.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "HsueTang1944",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": 7.0,
+    "units": "d",
+    "label": "life span as imago",
+    "bibkey": "HsueTang1944",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "t1",
+    "entity.value": 9.33,
+    "units": "d",
+    "label": "period of instar 1",
+    "bibkey": "{'HsueTang1944','TanaTake1993'}",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "instar 1 is from birth till next moult"
+  },
+  {
+    "entity": "t2",
+    "entity.value": 6.16,
+    "units": "d",
+    "label": "period of instar 2",
+    "bibkey": "{'HsueTang1944','TanaTake1993'}",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "t3",
+    "entity.value": 6.33,
+    "units": "d",
+    "label": "period of instar 3",
+    "bibkey": "{'HsueTang1944','TanaTake1993'}",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "t4",
+    "entity.value": 6.25,
+    "units": "d",
+    "label": "period of instar 4",
+    "bibkey": "{'HsueTang1944','TanaTake1993'}",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "t5",
+    "entity.value": 6.94,
+    "units": "d",
+    "label": "period of instar 5",
+    "bibkey": "{'HsueTang1944','TanaTake1993'}",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "te",
+    "entity.value": 20.0,
+    "units": "d",
+    "label": "time since start spinning at emergence",
+    "bibkey": "HsueTang1944",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tj",
+    "entity.value": 35.0,
+    "units": "d",
+    "label": "time since birth at start spinning",
+    "bibkey": "HsueTang1944",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

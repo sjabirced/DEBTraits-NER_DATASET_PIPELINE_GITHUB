@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Dussumieriidae",
+    "genus": "Dussumieria",
+    "specie": "Dussumieria_acuta",
+    "specie_en": "Rainbow sardine",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "21.2",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "HaleAnja2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "17",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "HaleAnja2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": "16-80 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "34782/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "HaleAnja2017",
+      "temp": "C2K(28.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.7e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "76.89",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','HaleAnja2017'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00832*Li^2.99, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "39.73",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','HaleAnja2017'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00832*Lp^2.99, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "1.2*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Nair1991",
+      "temp": "C2K(28.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

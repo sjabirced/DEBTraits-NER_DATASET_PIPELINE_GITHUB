@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Stichaeidae",
+    "genus": "Stichaeus",
+    "specie": "Stichaeus_punctatus",
+    "specie_en": "Arctic shanny",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "22",
+      "units": "cm",
+      "label": "ultimate total length for female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1624/365",
+      "units": "#/d",
+      "label": "reprod rate at 11 cm",
+      "bibkey": "FarwGree1976",
+      "temp": "C2K(2.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.6e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "FarwGree1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.7 mm: pi/6*0.17^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": "17*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "DunbGree2017",
+      "temp": "C2K(2.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

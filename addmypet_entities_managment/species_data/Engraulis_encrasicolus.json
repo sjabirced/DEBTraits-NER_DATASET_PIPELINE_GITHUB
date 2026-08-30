@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Clupeiformes",
+    "family": "Engraulidae",
+    "genus": "Engraulis",
+    "specie": "Engraulis_encrasicolus",
+    "specie_en": "European anchovy",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.3",
+      "units": "cm",
+      "label": "standard length at birth",
+      "bibkey": "CataFolk2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "mid-range of smaller size class with gut content (p.309)"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "18",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Pecq2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average length for Age 3 individuals in spring 2000, Ifremer PELGAS surveys (Pecq2008 p. 63)"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "3.75",
+      "units": "cm",
+      "label": "standard length at metam",
+      "bibkey": "Re1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "standard length at puberty",
+      "bibkey": "PecqPeti2009",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "900",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "{'Pecq2008'}",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "['20 batches of eggs"
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": "exp( 0.867 + 0.5 * data.Lb/10) * 1e-6",
+      "units": "g",
+      "label": "dry weight at birth",
+      "bibkey": "CataFolk2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "CataFolk2010: ln DW (\\mug) = 0.867 + 0.5 SL (mm) - field data"
+    },
+    {
+      "entity": "Wdj",
+      "entity.value": "0.0007 * data.Lj^4.2395",
+      "units": "g",
+      "label": "dry weight at metam",
+      "bibkey": "Pecq2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "from Ifremer Juvesu 1999 survey, 3 - 4.4 cm SL fish average"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.0041 * data.Li ^3.2099",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Pecq2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "From Ifremer PELGAS surveys (PecqPeti2009) - Total length (need checking)"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.0041 * data.Lp ^3.2099",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Pecq2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "From Ifremer PELGAS surveys (PecqPeti2009) - Total length (need checking, includes reprod buffer already)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "6",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "GarrSaiz2012",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "aj",
+      "entity.value": "60",
+      "units": "d",
+      "label": "age at metam",
+      "bibkey": "Re1996",
+      "temp": "C2K(19)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Pecq2008",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "average life span: 7-8 years, though max. age observed is 13 years old"
+    },
+    {
+      "entity": "ap",
+      "entity.value": ".8*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "PecqPeti2009",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "temperature: average sea surface temperature off West Portuguese coast, Angelico, pers. comm.)"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Leuciscidae",
+    "genus": "Alburnus",
+    "specie": "Alburnus_baliki",
+    "specie_en": "Antalya bleak"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "16",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "InnaGull2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "6.33",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based in Alburnus alburnus: 9.9*16/25"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5e3/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": "based on rel fecundity of Alburnus alburnus: 7000*44/60"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.5 and 1.14 mm of Alburnus alburnus: pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "44",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "InnaGull2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "InnaGull2019",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "age at puberty for females",
+    "bibkey": "guess",
+    "temp": "C2K(19)",
+    "units.temp": "K",
+    "comment": "based on Lp and tLW"
+  }
+]

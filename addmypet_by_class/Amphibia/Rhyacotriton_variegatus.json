@@ -1,0 +1,121 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Caudata",
+    "family": "Rhyacotritonidae",
+    "genus": "Rhyacotriton",
+    "specie": "Rhyacotriton_variegatus",
+    "specie_en": "Southern torrent salamander"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "1.35",
+    "units": "cm",
+    "label": "SVL at birth",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "EoL gives 22 mm TL and 13.5 mm SVL"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.2",
+    "units": "cm",
+    "label": "ultimate SVL",
+    "bibkey": "amphibiaweb",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "3.47",
+    "units": "cm",
+    "label": "SVL at metam",
+    "bibkey": "TaitDill2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.4",
+    "units": "cm",
+    "label": "SVL at puberty ",
+    "bibkey": "TaitDill2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(7)",
+    "units.temp": "K",
+    "comment": "4-16 eggs per clutch, 1 clutch per yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.03e-2",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "TaitDill2006",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2.7 mm: pi/6*0.27^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "1.2",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "guess based on Plethodon_cinereus"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5.5*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "10*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ADW",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "2.25*365",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "amphibiaweb",
+    "temp": "C2K(9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

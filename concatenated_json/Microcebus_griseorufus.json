@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Cheirogaleidae",
+    "genus": "Microcebus",
+    "specie": "Microcebus_griseorufus",
+    "specie_en": "Reddish-gray mouse lemur"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "44.29",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(39.3)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/73",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Microcebus murinus"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Microcebus murinus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "65",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "46-79 g"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "18",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "18.3*365/2",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Microcebus murinus, which was corrected for torpor by factor 2"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "61",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Microcebus murinus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "243",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Microcebus murinus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "37",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Microcebus murinus"
+  }
+]

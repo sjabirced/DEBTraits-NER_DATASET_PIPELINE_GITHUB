@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Catostomidae",
+    "genus": "Catostomus",
+    "specie": "Catostomus_platyrhynchus",
+    "specie_en": "Mountain sucker"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "R13",
+    "entity.value": "990/365",
+    "units": "#/d",
+    "label": "reprod rate at TL 13.1 cm",
+    "bibkey": "Haus1968",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "R18",
+    "entity.value": "3710/365",
+    "units": "#/d",
+    "label": "reprod rate at TL 18.4 cm",
+    "bibkey": "Haus1968",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.6e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Haus1968",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.74-2.2 mm for C. : pi/6*0.19^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "131.7",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00631*Li^3.09, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "10.4",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00631*Lp^3.09, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Haus1968",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

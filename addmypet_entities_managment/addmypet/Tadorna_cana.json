@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Tadorna",
+    "specie": "Tadorna_cana",
+    "specie_en": "South African shelduck",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": "'Value for T.ferruginea: 6 till 12 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "60",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Sieg1966",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "950",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Sieg1966",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "1200",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Sieg1966",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "28",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "value for T.ferruginea"
+    },
+    {
+      "entity": "am",
+      "entity.value": "24.8 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": "value for T.tadorna"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": "value for T.tadorna"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "165",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "55",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.2)",
+      "units.temp": "K",
+      "comment": "value for T.ferruginea"
+    }
+  ]
+}

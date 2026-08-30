@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Raja",
+    "specie": "Raja_microocellata",
+    "specie_en": "Smalleyed ray"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "15",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Hume2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "137",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "RylaAjay1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "73",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "57/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "RylaAjay1984",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "54-61 eggs per yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "52.6e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00468*Li^3.3, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "214.2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Hume2019",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "18*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "RylaAjay1984",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

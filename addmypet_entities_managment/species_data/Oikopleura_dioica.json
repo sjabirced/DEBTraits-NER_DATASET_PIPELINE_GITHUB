@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Appendicularia",
+    "order": "Copelata",
+    "family": "Oikopleuridae",
+    "genus": "Oikopleura",
+    "specie": "Oikopleura_dioica",
+    "specie_en": "Sea-squirt",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "L8",
+      "entity.value": 0.1226,
+      "units": "cm",
+      "label": "total trunc length at 8 d",
+      "bibkey": "{'LombScia2009'}",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": 0.0115,
+      "units": "cm",
+      "label": "total trunc length at birth",
+      "bibkey": "{'LombScia2009'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "NR",
+      "entity.value": 164.63,
+      "units": "#",
+      "label": "total number of eggs at death",
+      "bibkey": "LombScia2009",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wd8",
+      "entity.value": 52.6,
+      "units": "mug",
+      "label": "dry weight at 8 d",
+      "bibkey": "{'LombScia2009'}",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wdb",
+      "entity.value": 0.4,
+      "units": "mug",
+      "label": "dry weight at birth",
+      "bibkey": "{'LombScia2009'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 0.33,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "{'Fena1998'}",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 8.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "{'Fena1998'}",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

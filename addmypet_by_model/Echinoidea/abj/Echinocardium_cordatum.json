@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Echinodermata",
+    "class": "Echinoidea",
+    "order": "Spatangoida",
+    "family": "Loveniidae",
+    "genus": "Echinocardium",
+    "specie": "Echinocardium_cordatum",
+    "specie_en": "Sea potato"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "9",
+    "units": "cm",
+    "label": "ultimate test length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "5.6",
+    "units": "cm",
+    "label": "test length at puberty",
+    "bibkey": "DuinJenn1984",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Read from tL data for tp, and converted to test length: 3.3 * 5.56/ 3.3, see F2"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e6/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "BIOTIC",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "temp guessed"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "8.8e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Kash2007",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 119 mum: pi/6*0.0119^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "254",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed as (9/5.56)^3*60, see F2"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "61.2",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Buch1966",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "computed as (Lp/Li)^3*Wwi, see F2"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "BIOTIC",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "temp guessed"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "39",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "BIOTIC",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "temp guessed"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Buch1966",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "temp guessed"
+  }
+]

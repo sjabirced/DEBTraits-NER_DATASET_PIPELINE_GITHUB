@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Eulipotyphla",
+    "family": "Soricidae",
+    "genus": "Crocidura",
+    "specie": "Crocidura_viaria",
+    "specie_en": "Savanna path shrew",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "22.1",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "WhitSeym2003",
+      "temp": "C2K(34.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "4*3.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(34.7)",
+      "units.temp": "K",
+      "comment": "based on Crocidura_russula: 4 pups per litter, 3.5 litter per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.95",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Crocidura_russula"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14.7",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "WhitSeym2003",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "7.8",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Crocidura_russula"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(34.7)",
+      "units.temp": "K",
+      "comment": "based on Crocidura_russula"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "29",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "guess",
+      "temp": "C2K(34.7)",
+      "units.temp": "K",
+      "comment": "based on Crocidura_russula"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "75",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(34.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "23",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(34.7)",
+      "units.temp": "K",
+      "comment": "based on Crocidura_russula"
+    }
+  ]
+}

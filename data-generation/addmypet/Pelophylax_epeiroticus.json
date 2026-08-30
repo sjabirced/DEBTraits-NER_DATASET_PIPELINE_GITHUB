@@ -1,0 +1,134 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Ranidae",
+    "genus": "Pelophylax",
+    "specie": "Pelophylax_epeiroticus",
+    "specie_en": "Epirus water frog",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "11.0",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "TsioKyri2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "8.8",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "TsioKyri2002",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.9",
+      "units": "cm",
+      "label": "SVL of frog at metam",
+      "bibkey": "gueaa",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Pelophylax_ridibundus"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "7.5",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Pelophylax_ridibundus"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6835/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "based on Pelophylax_ridibundus"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 2.0 mm for Pelophylax_ridibundus: pi/6*0.2^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "89.4",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Pelophylax_ridibundus: (11.0/10.6)^3*80"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "45.8",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Pelophylax_ridibundus: (8.8/10.6)^3*80"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "14",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "based on Pelophylax_ridibundus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "11*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "based on Pelophylax_ridibundus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "time since metam at puberty for females",
+      "bibkey": "TsioKyri2002",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since metam at puberty for males",
+      "bibkey": "TsioKyri2002",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

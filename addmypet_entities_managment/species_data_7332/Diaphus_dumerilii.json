@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Diaphus",
+    "specie": "Diaphus_dumerilii",
+    "specie_en": "Dumeril"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.5",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "Gart1991",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.5",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "Gart1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8e3/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(9.6)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "6.5e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Gart1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.5 mm: pi/6*0.05^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "2",
+    "units": "g",
+    "label": "ultimate female wet weight",
+    "bibkey": "{'Gart1993','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00724*Li^3.00, see F3"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "0.11",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'Gart1993','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00724*Lp^3.00, see F3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Gart1991",
+    "temp": "C2K(9.0)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "28",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Gart1991",
+    "temp": "C2K(9.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

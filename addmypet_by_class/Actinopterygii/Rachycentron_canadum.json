@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Carangiformes",
+    "family": "Rachycentridae",
+    "genus": "Rachycentron",
+    "specie": "Rachycentron_canadum",
+    "specie_en": "Cobia"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "200",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "69.6",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "51.8",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Rich2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5.4e6/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(12.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.4e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "fao",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.4 mm: pi/6*0.14^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "68.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "max published weight 68.0 kg, based on 0.00479*Li^3.11, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "2.27e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Rich2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase: 0.00479*Lp^3.11 gives 2.57 kg, see F1"
+  },
+  {
+    "entity": "Wwpm",
+    "entity.value": "1135",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "Rich2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase : 0.00479*Lp^3.11 gives 1028 g, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "4.55",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(12.9)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(12.9)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

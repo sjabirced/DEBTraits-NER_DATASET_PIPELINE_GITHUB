@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Unionoida",
+    "family": "Unionidae",
+    "genus": "Lampsilis",
+    "specie": "Lampsilis_radiata",
+    "specie_en": "Eastern lampmussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": ".0254",
+      "units": "cm",
+      "label": "shell length at birth",
+      "bibkey": "Jirk1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "value for Actinonaias_ligamentina"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8.35",
+      "units": "cm",
+      "label": "ultimate shell length for females",
+      "bibkey": "MattBorr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "9.21",
+      "units": "cm",
+      "label": "ultimate shell length for females",
+      "bibkey": "MattBorr2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.5",
+      "units": "cm",
+      "label": "shell length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5.33e5/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "PerlChri2003",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "14.91",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wet weight includes shell and environmental water"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

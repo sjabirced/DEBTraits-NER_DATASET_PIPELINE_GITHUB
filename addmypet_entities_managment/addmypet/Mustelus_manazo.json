@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Triakidae",
+    "genus": "Mustelus",
+    "specie": "Mustelus_manazo",
+    "specie_en": "Starspotted smooth-hound",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "33.4",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "YamaTani1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "134",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "YamaTani1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": "fishbase gives 220 cm"
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "124",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "YamaTani1996",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "65",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "62-68 cm"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "55",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(23.2)",
+      "units.temp": "K",
+      "comment": "12 pups per litter, 1 litter per 2 yr assumed, based on ab"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "9.56e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','YamaTani1996'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00234*Li^3.11, see F3"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "7.58e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "{'fishbase','YamaTani1996'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00234*Lim^3.11, see F3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "0.9*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(23.2)",
+      "units.temp": "K",
+      "comment": "based on v around 0.3 cm/d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "YamaTani1996",
+      "temp": "C2K(23.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

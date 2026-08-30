@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Torpediniformes",
+    "family": "Torpedinidae",
+    "genus": "Tetronarce",
+    "specie": "Tetronarce_californica",
+    "specie_en": "Pacific electric ray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "NeerCail2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "137.3",
+      "units": "cm",
+      "label": "total length",
+      "bibkey": "NeerCail2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "92.1",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "NeerCail2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "73.3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "NeerCail2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "64.5",
+      "units": "cm",
+      "label": "total length at puberty for maes",
+      "bibkey": "NeerCail2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "17/365",
+      "units": "#/d",
+      "label": "maximum reprod rate at TL 100 cm",
+      "bibkey": "NeerCail2001",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": "17 pups per litter at 100 cm TL"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "60.4e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "NeerCail2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "13.3e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "NeerCail2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00002*(10*Li)^3.0213, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "16 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "{'AnAge','NeerCail2001'}",
+      "temp": "C2K(13)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

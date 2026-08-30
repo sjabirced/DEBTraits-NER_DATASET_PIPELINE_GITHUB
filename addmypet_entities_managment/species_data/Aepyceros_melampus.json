@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Bovidae",
+    "genus": "Aepyceros",
+    "specie": "Aepyceros_melampus",
+    "specie_en": "Impala",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "2/362",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": "'max 2 cycles per year"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5370",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "38300",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "Fair1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "49200",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Fair1983",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "6.5*30.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "MeyeFick2008",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": "temp from MeyeFick2008"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "theanimalfiles",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": "1 till 2 yr"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "5*30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "Wiki",
+      "temp": "C2K(39.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

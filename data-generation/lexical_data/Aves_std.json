@@ -1,0 +1,191 @@
+{
+  "Aves_std_cycle_de_vie": {
+    "titre": "Life cycle of class Aves — STD (Standard DEB model)",
+    "ordre": "Neornithes",
+    "classe": "Aves",
+    "stades": [
+      {
+        "id": 1,
+        "label": "t0",
+        "nom": "Egg fertilisation",
+        "type": "transition",
+        "termes": [
+          "egg fertilisation",
+          "zygote formation",
+          "gamete fusion",
+          "syngamy",
+          "ovum activation",
+          "reproductive pairing",
+          "zygote stage onset",
+          "gametic union",
+          "fecundation",
+          "internal fertilisation",
+          "cloacal kiss",
+          "sperm competition"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Egg / Incubation",
+        "nom": "Incubated amniote egg",
+        "type": "stade",
+        "termes": [
+          "fertilised ovum",
+          "incubating egg",
+          "embryonated egg",
+          "yolk-dependent embryo",
+          "cleavage-stage embryo",
+          "blastula-stage embryo",
+          "gastrulating embryo",
+          "organogenesis stage",
+          "calcareous egg",
+          "incubated bird egg",
+          "amniote embryo",
+          "albumen-buffered embryo"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "B",
+        "nom": "Hatching / First feeding",
+        "type": "transition",
+        "termes": [
+          "first exogenous feeding",
+          "first feeding",
+          "yolk-sac resorption",
+          "mouth opening",
+          "first prey capture",
+          "exotrophic transition",
+          "trophic switch",
+          "active feeding onset",
+          "larval feeding commencement",
+          "yolk absorption completion",
+          "parental provisioning onset",
+          "chick first feeding",
+          "beak gape feeding",
+          "crop filling"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Nestling",
+        "nom": "Nestling chick",
+        "type": "stade",
+        "termes": [
+          "nestling",
+          "chick",
+          "altricial nestling",
+          "precocial chick",
+          "nest-dependent chick",
+          "brooded nestling",
+          "parental-fed chick",
+          "developing chick",
+          "feather-growing nestling",
+          "semi-precocial chick",
+          "downy chick",
+          "nestling bird",
+          "pin-feathered chick",
+          "fledgling precursor"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "X",
+        "nom": "Fledgling independence",
+        "type": "transition",
+        "termes": [
+          "parental provisioning end",
+          "nutritional independence onset",
+          "dietary transition",
+          "provisioning cessation",
+          "fledgling",
+          "first flight achievement",
+          "parental independence",
+          "post-fledging dispersal",
+          "nest departure",
+          "flight feather maturation"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Juvenile",
+        "nom": "Juvenile",
+        "type": "stade",
+        "termes": [
+          "juvenile",
+          "sub-adult",
+          "immature individual",
+          "young individual",
+          "pre-reproductive juvenile",
+          "growing juvenile",
+          "immature organism",
+          "fledgling",
+          "juvenile bird",
+          "immature bird",
+          "first-year bird",
+          "subadult bird"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "P",
+        "nom": "Sexual maturation",
+        "type": "transition",
+        "termes": [
+          "sexual maturation",
+          "reproductive maturity",
+          "first reproduction event",
+          "gonad maturation",
+          "puberty",
+          "gametogenesis onset",
+          "reproductive activation",
+          "age at first reproduction",
+          "first breeding",
+          "first clutch laying",
+          "gonadal swelling",
+          "testosterone surge"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Breeding adult",
+        "nom": "Breeding adult bird",
+        "type": "stade",
+        "termes": [
+          "sexually mature adult",
+          "reproductively active adult",
+          "breeding individual",
+          "gravid individual",
+          "post-pubertal adult",
+          "reproductively viable organism",
+          "breeding bird",
+          "nesting adult",
+          "incubating adult",
+          "provisioning adult",
+          "territorial adult"
+        ]
+      },
+      {
+        "id": 9,
+        "label": "M",
+        "nom": "Natural death",
+        "type": "transition",
+        "termes": [
+          "natural mortality",
+          "senescence",
+          "age-related death",
+          "post-reproductive mortality",
+          "biological death",
+          "somatic death",
+          "lifespan completion",
+          "ecological mortality",
+          "organismal death",
+          "reproductive senescence",
+          "physiological death",
+          "post-breeding mortality",
+          "senescent adult mortality"
+        ]
+      }
+    ]
+  }
+}

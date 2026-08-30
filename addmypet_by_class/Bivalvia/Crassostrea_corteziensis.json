@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Ostreida",
+    "family": "Ostreidae",
+    "genus": "Crassostrea",
+    "specie": "Crassostrea_corteziensis",
+    "specie_en": "Corteziensis oyster"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.01",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "RicoPouv2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Larval growth between C. gigas and C. corteziensis is very similar"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "13",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Gong2018",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.034",
+    "units": "cm",
+    "label": "shell length at metam",
+    "bibkey": "RicoBern2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Larval growth between C. gigas and C. corteziensis is very similar"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.1",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "Rodr2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "0.4e6",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "PouvBour2006",
+    "temp": "C2K(7.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "9",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Crassostrea_virginica: (13/20.6)^3*35.8"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "RicoPouv2009",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "Larval growth between C. gigas and C. corteziensis is very similar"
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Wiki",
+    "temp": "C2K(7.8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tj",
+    "entity.value": "14.5",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "RicoBern2010",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "Larval growth between C. gigas and C. corteziensis is very similar"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "26.6",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Mark2011",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

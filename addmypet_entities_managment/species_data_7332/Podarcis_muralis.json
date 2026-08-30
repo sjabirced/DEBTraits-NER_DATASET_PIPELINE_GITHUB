@@ -1,0 +1,131 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Lacertidae",
+    "genus": "Podarcis",
+    "specie": "Podarcis_muralis",
+    "specie_en": "Common wall lizard"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "2.41",
+    "units": "cm",
+    "label": "SVL at hatching",
+    "bibkey": "BoscBout1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on Gallotia_atlantica: 6.5/7.3*2.45"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.683",
+    "units": "cm",
+    "label": "ultimate SVL for females",
+    "bibkey": "DajcZaga2022",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tL data"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6.223",
+    "units": "cm",
+    "label": "ultimate SVL for males",
+    "bibkey": "DajcZaga2022",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on tL data"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.42",
+    "units": "cm",
+    "label": "SVL at puberty for females",
+    "bibkey": "CastRoch1981",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4.99",
+    "units": "cm",
+    "label": "SVL at puberty for males",
+    "bibkey": "CastRoch1981",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "10/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "JiBran2000",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": "2 to 3 clutches, ranging from 3-11 for first clutch and 2-6 for second and third"
+  },
+  {
+    "entity": "Ww0",
+    "entity.value": "0.98",
+    "units": "g",
+    "label": "wet weight of eggs",
+    "bibkey": "BoscBout1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.36",
+    "units": "g",
+    "label": "wet weight of hatchlings",
+    "bibkey": "BoscBout1998",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.078",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "DajcZaga2022",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "5.95",
+    "units": "g",
+    "label": "ultimate wet males",
+    "bibkey": "DajcZaga2022",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "am",
+    "entity.value": "16*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ErogBulb2018",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "ErogBulb2018",
+    "temp": "C2K(22)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

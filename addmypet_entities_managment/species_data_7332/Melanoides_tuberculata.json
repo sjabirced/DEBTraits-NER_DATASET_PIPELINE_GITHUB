@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Neogastropoda",
+    "family": "Thiaridae",
+    "genus": "Melanoides",
+    "specie": "Melanoides_tuberculata",
+    "specie_en": "Red-rimmed melania"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.22",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "OkumRoch2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.6",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "0.97",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "OkumRoch2020",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "12*70/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "70 young per litter, 1 litter per month assumed"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "4.2",
+    "units": "g",
+    "label": "ultimate shell weight",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on size-corrected value for Heleobia_australis: 0.0311*(3.6/0.7)^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "2.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "OkumRoch2020",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

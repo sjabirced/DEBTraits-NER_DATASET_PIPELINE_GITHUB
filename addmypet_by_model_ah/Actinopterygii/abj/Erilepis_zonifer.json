@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Anoplopomatidae",
+    "genus": "Erilepis",
+    "specie": "Erilepis_zonifer",
+    "specie_en": "Skilfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "188",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "ZoloSpir2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "83",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "OrloTokra2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'fishbased gives 12.3 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1.26e6/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(4.1)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.75"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "4.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 2 mm of Anoplopoma fimbria: pi/6*0.2^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "88.5e3",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "ZoloSpir2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.01905*Li^2.99, see F1, gives 120 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "7.6e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Wwi*(Lp/Li)^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "49",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(4.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "80*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "OrloTokra2003",
+    "temp": "C2K(4.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

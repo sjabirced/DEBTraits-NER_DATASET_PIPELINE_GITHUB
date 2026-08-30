@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Ophidiiformes",
+    "family": "Ophidiidae",
+    "genus": "Genypterus",
+    "specie": "Genypterus_capensis",
+    "specie_en": "Kingklip"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "180",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "67.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Genypterus_blacodes: 90*150/200"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e6/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(9.5)",
+    "units.temp": "K",
+    "comment": "based on fecundity of Genypterus_blacodes: 1e6"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.35e-5",
+    "units": "g",
+    "label": "weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.4 mm of Genypterus_blacodes: pi/6*0.04^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "15e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "max published weight, based on 0.00224*Li^3.16, see F1, gives 30 kg"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "791",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00224*Lp^3.16, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(9.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

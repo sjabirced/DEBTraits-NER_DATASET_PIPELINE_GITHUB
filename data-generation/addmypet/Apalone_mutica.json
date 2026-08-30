@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Trionychidae",
+    "genus": "Apalone",
+    "specie": "Apalone_mutica",
+    "specie_en": "Smooth softshell turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "2.45",
+      "units": "cm",
+      "label": "plastron length at birth",
+      "bibkey": "Plum1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki gives carapace length of 4 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "35.6",
+      "units": "cm",
+      "label": "ultimate plastron length for females",
+      "bibkey": "ADW",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "17.8",
+      "units": "cm",
+      "label": "ultimate plastron length for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "ADW gives 26.6 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "14",
+      "units": "cm",
+      "label": "plastron length at puberty for female",
+      "bibkey": "Plum1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "plastron length at puberty for male",
+      "bibkey": "Plum1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5991",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "70",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "8-12 wk"
+    },
+    {
+      "entity": "am",
+      "entity.value": "50*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "value for Apalone spinifera"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "9.5*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Plum1977",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tpm",
+      "entity.value": "4.5*365",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "Plum1977",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

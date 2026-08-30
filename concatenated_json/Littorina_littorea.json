@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Littorinimorpha",
+    "family": "Littorinidae",
+    "genus": "Littorina",
+    "specie": "Littorina_littorea",
+    "specie_en": "Common periwinkle"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "3.8",
+    "units": "cm",
+    "label": "ultimate shell height",
+    "bibkey": "Will1964",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.3",
+    "units": "cm",
+    "label": "shell height at settlement",
+    "bibkey": "Will1964",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "1.1",
+    "units": "cm",
+    "label": "shell height at puberty for female",
+    "bibkey": "marlin",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wd0",
+    "entity.value": "1.376e-6",
+    "units": "g",
+    "label": "egg dry weight",
+    "bibkey": "Grah1973",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "6*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Moor1937",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "pXm",
+    "entity.value": "190.8",
+    "units": "J/d.g",
+    "label": "spec feeding rate at 0.3 g dry",
+    "bibkey": "Grah1973",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "45.6 cal Ulva lactuca per g dry weight per day. Weight is unkown, but 0.3 g assumed, temp is guessed"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "5*30.5",
+    "units": "d",
+    "label": "time since birth at settlement",
+    "bibkey": "Moor1937",
+    "temp": "C2K(8)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "18*30.5",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Moor1937",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

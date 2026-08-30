@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Amblyraja",
+    "specie": "Amblyraja_georgiana",
+    "specie_en": "Antarctic starry skate"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "18",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "FranMaol2005",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on PL 10-12 cm, see F2"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "115",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "85",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "TL 80-90 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "36/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": "based on kappa = 0.7"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "16.2e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00575*Li^3.13, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "9.5*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FranMaol2005",
+    "temp": "C2K(4)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

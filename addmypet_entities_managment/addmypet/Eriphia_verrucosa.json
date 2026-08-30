@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Eriphiidae",
+    "genus": "Eriphia",
+    "specie": "Eriphia_verrucosa",
+    "specie_en": "Warty crab",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": "0.16",
+      "units": "g/g",
+      "label": "gonado somatic index",
+      "bibkey": "KaraAydi2016",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "max value of ovigerous females (mean weight of 300 gr) during the month of May"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "carapace max lenght",
+      "bibkey": "sealifebase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "224165/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "KaraAydi2016",
+      "temp": "C2K(22)",
+      "units.temp": "K",
+      "comment": "temp is meant for Mediterranen Sea"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.7114e-05",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "KaraAydi2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "computed from egg diameter=550 mum: 4/3*pi*(0.055/2)^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "300",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "KaraAydi2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "6*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "exoticsguide",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "using values from Carcinus maenas"
+    },
+    {
+      "entity": "tj",
+      "entity.value": "17",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "exoticsguide",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "using values from Carcinus maenas"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "250",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ADW",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "using values from Carcinus maenas"
+    }
+  ]
+}

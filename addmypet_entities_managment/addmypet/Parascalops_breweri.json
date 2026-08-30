@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Eulipotyphla",
+    "family": "Talpidae",
+    "genus": "Parascalops",
+    "specie": "Parascalops_breweri",
+    "specie_en": "Hairy-tailed mole",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": "4-5 pups per litter, 1 litter per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Talpa europaea, Eol gives 6.69 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "50",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'ADW: 40-85 g"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "65",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'ADW: 40-85 g"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "34.8",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "EoL",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "EoL",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "5*7",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "ADW",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": "4-6 w d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "10.5*30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "EoL",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "30",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(38.3)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

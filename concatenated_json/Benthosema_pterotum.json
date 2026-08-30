@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Myctophiformes",
+    "family": "Myctophidae",
+    "genus": "Benthosema",
+    "specie": "Benthosema_pterotum",
+    "specie_en": "Skinnycheek lanternfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "5",
+    "units": "cm",
+    "label": "ultimate standard length",
+    "bibkey": "GjosTils1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "3.6",
+    "units": "cm",
+    "label": "standard length at puberty",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on same relative length, compared to Benthosema_suborbitale"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e3/365",
+    "units": "#/d",
+    "label": "max reprod rate ",
+    "bibkey": "guess",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": "based on kap=0.95"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "GjosTils1988",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1 mm: pi/6*0.1^3 for Benthosema_suborbitale"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "3",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "GjosTils1988",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": "hatch at 0.5 d, yolk resorption at 3 d"
+  },
+  {
+    "entity": "am",
+    "entity.value": "315",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "GjosTils1988",
+    "temp": "C2K(24.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

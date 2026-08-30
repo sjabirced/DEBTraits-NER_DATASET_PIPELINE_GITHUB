@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Myopsida",
+    "family": "Loliginidae",
+    "genus": "Doryteuthis",
+    "specie": "Doryteuthis_pleii",
+    "specie_en": "Slender inshore squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "GSI",
+      "entity.value": 0.13,
+      "units": "g/g",
+      "label": "gonado somatic index just before death",
+      "bibkey": "PostGasa2014",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Lb",
+      "entity.value": 0.155,
+      "units": "cm",
+      "label": "mantle length at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Doryteuthis_sanpaulensis"
+    },
+    {
+      "entity": "Li",
+      "entity.value": 22.0,
+      "units": "cm",
+      "label": "mantle length at death for female",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": 33.0,
+      "units": "cm",
+      "label": "mantle length at death for male",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 14.33,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "PostGasa2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": 21.0,
+      "units": "cm",
+      "label": "mantle length at puberty for males",
+      "bibkey": "PostGasa2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 10.5,
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": "based on Doryteuthis_sanpaulensis"
+    },
+    {
+      "entity": "am",
+      "entity.value": 296.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "amm",
+      "entity.value": 327.0,
+      "units": "d",
+      "label": "life span for males",
+      "bibkey": "guess",
+      "temp": "C2K(16)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

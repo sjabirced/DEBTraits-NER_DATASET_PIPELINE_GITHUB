@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Aulopiformes",
+    "family": "Synodontidae",
+    "genus": "Saurida",
+    "specie": "Saurida_undosquamis",
+    "specie_en": "Brushtooth lizardfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "48.9",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "YoneSaka2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Li",
+    "entity.value": "42.2",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "YoneSaka2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "19.8",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "fishbase",
+    "temp": null,
+    "units.temp": null,
+    "comment": null
+  },
+  {
+    "entity": "R290",
+    "entity.value": "79282/365",
+    "units": "#/d",
+    "label": "reprod rate at 290 g",
+    "bibkey": "KadhMoha2013",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "total spawner in Parangipettai waters"
+  },
+  {
+    "entity": "R97",
+    "entity.value": "19856/365",
+    "units": "#/d",
+    "label": "reprod rate at 97 g",
+    "bibkey": "KadhMoha2013",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": "total spawner in Parangipettai waters"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "HalfAmin2007",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on egg diameter of 0.9 mm: pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "849",
+    "units": "g",
+    "label": "ultimate wet weight females",
+    "bibkey": "YoneSaka2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.0038*Li^3.1666"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "532",
+    "units": "g",
+    "label": "ultimate wet weight males",
+    "bibkey": "YoneSaka2002",
+    "temp": null,
+    "units.temp": null,
+    "comment": "based on 0.0038*Li^3.1666"
+  },
+  {
+    "entity": "am",
+    "entity.value": "7*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(27)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

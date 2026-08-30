@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cottidae",
+    "genus": "Gymnocanthus",
+    "specie": "Gymnocanthus_herzensteini",
+    "specie_en": "Black edged sculpin"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "42",
+    "units": "cm",
+    "label": "ultimate total length for",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "25",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Panc2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "23 to 27 cm"
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "22.5",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "Panc2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "20 to 25 cm"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1e4/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "guess",
+    "temp": "C2K(2.9)",
+    "units.temp": "K",
+    "comment": "based on kap = 0.94 as found for Cottis volki"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.3e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "baed on egg diameter of 1.63 mm for Cottus volki: pi/6*0.163^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "17 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(7.6)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

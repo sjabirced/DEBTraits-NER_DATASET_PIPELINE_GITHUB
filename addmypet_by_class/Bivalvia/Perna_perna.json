@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Mytiloida",
+    "family": "Mytilidae",
+    "genus": "Perna",
+    "specie": "Perna_perna",
+    "specie_en": "Brown mussel"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.6",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "Acos2009",
+    "temp": "C2K(26)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.008822",
+    "units": "cm",
+    "label": "shell length at birth",
+    "bibkey": "Aara2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "48 h after fertilisation the D-larvae has an initial size of 88.22 x 66.54 um"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "12",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Acos2009",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "120mm subtidal, 90mm intertidal, 99 intertidal low"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.0255",
+    "units": "cm",
+    "label": "shell length at metam",
+    "bibkey": "Aara2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "pediveliger stage 250.14 x 222.45 or 278.83 X 259.52 um - Primary settlers 200-400 um"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "2.9",
+    "units": "cm",
+    "label": "shell length at puberty",
+    "bibkey": "Phil1995",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Intertidal South Africa 25-30mm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.69e-8",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on .03693*Lb^3 from HareKooy1993"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "2",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Aara2013",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "9 * 365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Lind1998",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "lifespan on exposed (2-3years) and sheltered (5-9 years) in south Africa"
+  },
+  {
+    "entity": "tj",
+    "entity.value": "12",
+    "units": "d",
+    "label": "time since birth at metam",
+    "bibkey": "Aara2013",
+    "temp": "C2K(21)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "100",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Berr1978",
+    "temp": "C2K(24)",
+    "units.temp": "K",
+    "comment": "estimated from the Berr1987 subtidal growth curve, assuming Lp = 29 mm"
+  }
+]

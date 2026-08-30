@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Osmeriformes",
+    "family": "Salangidae",
+    "genus": "Protosalanx",
+    "specie": "Protosalanx_hyalocranius",
+    "specie_en": "Clearhead icefish",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 22.0,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 9.0,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "TangLiu2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 16000.0,
+      "units": "#",
+      "label": "total fecundity",
+      "bibkey": "guess",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": "based on fecundity of Neosalanx_taihuensis: 1250*(22/9.3)^3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.00022,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.6 to 0.9 mm for Osmerus mordax: pi/6*0.075^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 36.5,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00209*Li^3.16, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 2.17,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'TangLiu2012','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00209*Lp^3.16, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": 50.0,
+      "units": "d",
+      "label": "age at hatch",
+      "bibkey": "TangLiu2012",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 365.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "fishbase",
+      "temp": "C2K(18)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

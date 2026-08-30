@@ -1,0 +1,144 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Hexanauplia",
+    "order": "Siphonostomatoida",
+    "family": "Caligidae",
+    "genus": "Lepeophtheirus",
+    "specie": "Lepeophtheirus_salmonis",
+    "specie_en": "Salmon louse",
+    "deb_model": "abp"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.07",
+      "units": "cm",
+      "label": "length at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "1.8",
+      "units": "cm",
+      "label": "ultimate total length females",
+      "bibkey": "MarInst",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "ultimate total length males",
+      "bibkey": "MarInst",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.8",
+      "units": "cm",
+      "label": "length at puberty females",
+      "bibkey": "MarInst",
+      "temp": null,
+      "units.temp": null,
+      "comment": "0.8-1.8 cm"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "length at puberty males",
+      "bibkey": "MarInst",
+      "temp": null,
+      "units.temp": null,
+      "comment": "0.5-0.6 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2*183/11",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "MarInst",
+      "temp": "C2K(7.2)",
+      "units.temp": "K",
+      "comment": "11 d between pairs of egg string egg strings. Mean egg numbers per string 152 (+16) range from 123 to 183"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "0.18",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "guess based on photo: at 1.8 cm length, max width is 0.66 cm, mean width is 0.5 cm, guessed height 0.2 cm: 1.8*0.5*0.2"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.18",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "MarInst",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MarInst",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "17.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MarInst",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": "age when they attach and start feeding - 2 to 14 days depending on temperature, Wiki"
+    },
+    {
+      "entity": "am",
+      "entity.value": "210",
+      "units": "d",
+      "label": "mean life span",
+      "bibkey": "MarInst",
+      "temp": "C2K(15)",
+      "units.temp": "K",
+      "comment": "life span of adult phase under lab conditions, temp is guessed"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "57",
+      "units": "d",
+      "label": "time since birth at puberty females",
+      "bibkey": "Wiki",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "10 days for copepodid, ~10 days chalimus I, ~15 for chalimus 2, ~10 days for pre-adult 1 female and ~12 days for pre-adult 2 female"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "52",
+      "units": "d",
+      "label": "time since birth at puberty males",
+      "bibkey": "Wiki",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

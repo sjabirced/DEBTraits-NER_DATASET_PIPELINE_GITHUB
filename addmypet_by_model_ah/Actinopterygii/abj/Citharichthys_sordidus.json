@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Pleuronectiformes",
+    "family": "Paralichthyidae",
+    "genus": "Citharichthys",
+    "specie": "Citharichthys_sordidus",
+    "specie_en": "Pacific sanddab"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "41",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "11.9",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "LefePayn1999",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.7 to 0.8 mm: pi/6*0.075^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "873",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Li^3.07, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "19.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'fishbase','LefePayn1999'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00977*Lp^3.07, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "9*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(10.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

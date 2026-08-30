@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Ptilonorhynchidae",
+    "genus": "Archboldia",
+    "specie": "Archboldia_papuensis",
+    "specie_en": "Archbold",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FritFrit1994",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "1egg per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "17",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "FritFrit1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": "egg weight: 22.9 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "125",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "FritFrit1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "26.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "FritFrit1994",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "26 to 27 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "87",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "23.5 to 32.5 d"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "29",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "FritFrit1994",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "23.5 to 32.5 d"
+    }
+  ]
+}

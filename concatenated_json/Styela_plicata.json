@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Ascidiacea",
+    "order": "Stolidobranchia",
+    "family": "Styelidae",
+    "genus": "Styela",
+    "specie": "Styela_plicata",
+    "specie_en": "Pleated sea squirt"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "8",
+    "units": "cm",
+    "label": "ultimate body length",
+    "bibkey": "Yama1975",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "body length at puberty",
+    "bibkey": "Yama1975",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2.5e6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(19.5)",
+    "units.temp": "K",
+    "comment": "guess based on kap = 0.9"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.45e-5",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "VillPatr2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.15 mm: Wwi*(0.05/2)^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "60",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "DrauScar2010",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "0.6",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(19.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "183",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Yama1975",
+    "temp": "C2K(19.5)",
+    "units.temp": "K",
+    "comment": "survives 3-4 month after puberty"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "61",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Yama1975",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": "2 mnth in summer, 5 mnth in winter"
+  }
+]

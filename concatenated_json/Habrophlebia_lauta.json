@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Ephemeroptera",
+    "family": "Leptophlebiidae",
+    "genus": "Habrophlebia",
+    "specie": "Habrophlebia_lauta",
+    "specie_en": "Eaton"
+  },
+  {
+    "entity": "L0",
+    "entity.value": 0.0211,
+    "units": "cm",
+    "label": "egg length",
+    "bibkey": "Degr1960",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.01,
+    "units": "cm",
+    "label": "length at hatching",
+    "bibkey": "Thib1971",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 0.8,
+    "units": "cm",
+    "label": "ultimate forewing length",
+    "bibkey": "BaueSold2012",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": 0.75,
+    "units": "cm",
+    "label": "ultimate length larvae",
+    "bibkey": "Land1957",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 790.0,
+    "units": "#",
+    "label": "total number of eggs",
+    "bibkey": "Degr1960",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "temperature guessed"
+  },
+  {
+    "entity": "Wdj",
+    "entity.value": 0.00102,
+    "units": "g",
+    "label": "maximum dry weight of nymph",
+    "bibkey": "Beck2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": 18.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Land1957",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "temperature guessed for July-August"
+  },
+  {
+    "entity": "aj",
+    "entity.value": 363.0,
+    "units": "d",
+    "label": "time since birth at emergence",
+    "bibkey": "BaueSold2012",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "life span - an guessed adult survival 2 days, temperature guessed"
+  },
+  {
+    "entity": "am",
+    "entity.value": 2.0,
+    "units": "d",
+    "label": "life span as (sub)adult",
+    "bibkey": "BaueSold2012",
+    "temp": "C2K(10)",
+    "units.temp": "K",
+    "comment": "univoltine life cycle of H. lauta leads to the assumption of a life span of 365 days, temperature guessed"
+  }
+]

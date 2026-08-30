@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Somniosidae",
+    "genus": "Centroscymnus",
+    "specie": "Centroscymnus_plunketi",
+    "specie_en": "Plunket shark",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "30",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "150",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "133",
+      "units": "cm",
+      "label": "ultimate total length for males",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "128.5",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "109.5",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "23/365/5",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "FranJone2018",
+      "temp": "C2K(6.9)",
+      "units.temp": "K",
+      "comment": "23 pups per litter, 1 litter per at 5 yr assumed"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "268",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "FranJone2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 8 cm: pi/6*8^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "31.7e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "{'fishbase','FranJone2018'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00490*Li^3.13, see F3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "21.8e3",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "{'fishbase','FranJone2018'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00490*Lim^3.13, see F3"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "FranJone2018",
+      "temp": "C2K(6.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "53*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FranJone2018",
+      "temp": "C2K(6.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

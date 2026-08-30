@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Cheloniidae",
+    "genus": "Lepidochelys",
+    "specie": "Lepidochelys_olivacea",
+    "specie_en": "Olive ridley sea turtle",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "130/365/2",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "EoL",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "'120 till 140 eggs per clutch"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "17",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "12.0 and 23.3 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "40e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": "25 till 46 kg"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "44900",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Approximation based on reproductive behavior occuring when physically at ultimate size"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "55",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "EoL",
+      "temp": "C2K(30)",
+      "units.temp": "K",
+      "comment": "45 till 51 d"
+    },
+    {
+      "entity": "am",
+      "entity.value": "50*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "17*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "EoL",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

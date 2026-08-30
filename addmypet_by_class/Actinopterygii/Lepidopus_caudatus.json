@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scombriformes",
+    "family": "Trichiuridae",
+    "genus": "Lepidopus",
+    "specie": "Lepidopus_caudatus",
+    "specie_en": "Silver scabbardfish"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.04",
+    "units": "g/g",
+    "label": "gonado somatic index",
+    "bibkey": "DemeMoll1993",
+    "temp": "C2K(12.1)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "210",
+    "units": "cm",
+    "label": "ultimate total length of female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "111",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "DemeMoll1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "97",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "DemeMoll1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "5.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on guessed egg diameter of 1 mm: pi/6*.1^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "8e3",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'max publish weight 8 kg"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "79/24",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "based on Trichiurus nanhaiensis"
+  },
+  {
+    "entity": "am",
+    "entity.value": "8*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(12.1)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "genus": "Ctenophorus",
+    "specie": "Ctenophorus_ornatus",
+    "specie_en": "Ornate dragon",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.565",
+      "units": "cm",
+      "label": "SV length at birth",
+      "bibkey": "Leba2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average lengh of 23 hatchlings incubated at between 27-31C in the lab"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "10.91",
+      "units": "cm",
+      "label": "ultimate SV length",
+      "bibkey": "Leba2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "largest male captured in the field, n animals approx 2000"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "6.8",
+      "units": "cm",
+      "label": "SV length at puberty",
+      "bibkey": "Brad1965",
+      "temp": null,
+      "units.temp": null,
+      "comment": "for females, also cited by Baverstock 1972, field data on visible egg follicles from Lebas supports this size"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "12/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Leba2015",
+      "temp": "C2K(22.5)",
+      "units.temp": "K",
+      "comment": "Wild females produce up to 3 clutches per season, maximum no. eggs palpated = 4,  Mike estimated a CTE assuming 14h at 20 C and 10 h at 37 C in summer and 15C constant in winter"
+    },
+    {
+      "entity": "Ww0",
+      "entity.value": "1.595",
+      "units": "g",
+      "label": "egg wet weight",
+      "bibkey": "Leba2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average mass of 33 eggs laid in lab by wild-caught females"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.844",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Leba2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Average mass of 24 hatchlings incubated at between 27-31C in the lab"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "39.15",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Leba2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "largest male captured in the field, n animals approx 2000"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "12.97",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Leba2015",
+      "temp": null,
+      "units.temp": null,
+      "comment": "verage mass of 9 females caught in the field at the threshold SVL of ~6.8 cm"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "111",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Harl2000",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2500",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Brad1965",
+      "temp": "C2K(25.3)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "316",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Leba2015",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": " average age at 6.8 cm threshold of 7 females reared in lab, incub. temps btwn 27-31 C"
+    }
+  ]
+}

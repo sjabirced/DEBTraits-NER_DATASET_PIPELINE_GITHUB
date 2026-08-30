@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anostraca",
+    "family": "Chirocephalidae",
+    "genus": "Eubranchipus",
+    "specie": "Eubranchipus_bundyi",
+    "specie_en": "Knobbedlip fairy shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.114,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Dabo1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 1.38,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Dabo1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 0.65,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Dabo1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": 0.00196,
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "Dabo1976",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on F1 and Li"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 2.06e-05,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "Belk1977",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 0.34 mm: pi/6*0.034^3"
+    },
+    {
+      "entity": "am",
+      "entity.value": 45.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Dabo1976",
+      "temp": "C2K(17)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

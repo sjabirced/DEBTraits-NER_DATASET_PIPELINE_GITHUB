@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Aulopiformes",
+    "family": "Synodontidae",
+    "genus": "Harpadon",
+    "specie": "Harpadon_nehereus",
+    "specie_en": "Bombay duck"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "38.5",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "FirdSoem2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "37.7",
+    "units": "cm",
+    "label": "ultimate total length for males",
+    "bibkey": "FirdSoem2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "21.4",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "Ghos2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "6*71507/365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "Ghos2014",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "'based on 10^3.0116 * Wwi^0.7784 per spawn"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "barcode",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.9 mm: 4/3*pi*0.045^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "233",
+    "units": "g",
+    "label": "wet weight at 33 cm total length female",
+    "bibkey": "FirdSoem2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwim",
+    "entity.value": "150",
+    "units": "g",
+    "label": "wet weight at 31 cm total length male",
+    "bibkey": "FirdSoem2017",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "3*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "FirdSoem2017",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

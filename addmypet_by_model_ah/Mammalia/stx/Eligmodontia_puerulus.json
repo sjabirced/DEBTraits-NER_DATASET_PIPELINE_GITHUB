@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Eligmodontia",
+    "specie": "Eligmodontia_puerulus",
+    "specie_en": "Andean gerbil mouse"
+  },
+  {
+    "entity": "JOi",
+    "entity.value": "33.6",
+    "units": "ml O2/h",
+    "label": "max BMR",
+    "bibkey": "GenoIsle2018",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "5.6/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "'5.6 pups per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on Eligmodontia typus"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "26",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "gbif",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "16-26 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "1.5*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Eligmodontia typus but very unsure"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "18",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Eligmodontia typus"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "49",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Eligmodontia typus"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "18",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "guess",
+    "temp": "C2K(37.5)",
+    "units.temp": "K",
+    "comment": "based on Eligmodontia typus"
+  }
+]

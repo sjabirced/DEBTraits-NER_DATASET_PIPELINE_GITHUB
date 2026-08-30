@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "genus": "Eulamprus",
+    "specie": "Eulamprus_quoyii",
+    "specie_en": "Eastern Water Skink",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "3.845",
+      "units": "cm",
+      "label": "snout to vent length at birth",
+      "bibkey": "CaleSchw2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "13",
+      "units": "cm",
+      "label": "ultimate snout to vent length",
+      "bibkey": "Schw2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Schwarzkopf unpublished observation"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "9",
+      "units": "cm",
+      "label": "snout to vent length at puberty",
+      "bibkey": "CaleSchw2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "CaleSchw2004",
+      "temp": "C2K(17.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "0.97",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CaleSchw2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "41.8",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Schw2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Schwarzkopf unpublished observation"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "11",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "CaleSchw2004",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "71",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "CaleSchw2004",
+      "temp": "C2K(25.8)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Schw2016",
+      "temp": "C2K(17.7)",
+      "units.temp": "K",
+      "comment": "Schwarzkopf unpublished observation"
+    },
+    {
+      "entity": "ap",
+      "entity.value": "data.ab+304.5",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "CaleSchw2004",
+      "temp": "C2K(25.8)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

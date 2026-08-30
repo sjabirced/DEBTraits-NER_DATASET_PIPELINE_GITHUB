@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gobiiformes",
+    "family": "Oxudercidae",
+    "genus": "Periophthalmus",
+    "specie": "Periophthalmus_waltoni",
+    "specie_en": "Waltson",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "15",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "SharTahe2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.1e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 1.1 mm and width of 0.6 mm: pi/6*0.11*0.06^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "31",
+      "units": "g",
+      "label": "ultimate wet weight for males",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01023*Li^2.96, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4.8",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'SharTahe2018','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01023*Lp^2.96, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(28.7)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SharTahe2018",
+      "temp": "C2K(28.7)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

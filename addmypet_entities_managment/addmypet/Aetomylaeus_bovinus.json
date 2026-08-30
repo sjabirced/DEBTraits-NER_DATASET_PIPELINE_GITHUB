@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Myliobatidae",
+    "genus": "Aetomylaeus",
+    "specie": "Aetomylaeus_bovinus",
+    "specie_en": "Bull ray",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "45",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "222",
+      "units": "cm",
+      "label": "ultimate disc width",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "95",
+      "units": "cm",
+      "label": "disc width at puberty",
+      "bibkey": "BasuAsla2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "50-56 cm"
+    },
+    {
+      "entity": "Lpm",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "disc width at puberty for males",
+      "bibkey": "BasuAsla2018",
+      "temp": null,
+      "units.temp": null,
+      "comment": "41-46 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(17.2)",
+      "units.temp": "K",
+      "comment": "3-7 pups per litter, assumed 1 litter per yr"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "116e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "11*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(17.2)",
+      "units.temp": "K",
+      "comment": "6-12 mnth"
+    },
+    {
+      "entity": "am",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "BasuAsla2018",
+      "temp": "C2K(17.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

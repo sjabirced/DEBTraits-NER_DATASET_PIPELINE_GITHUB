@@ -1,0 +1,83 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Polyplacophora",
+    "order": "Chitonida",
+    "family": "Chitonidae",
+    "species": "Chiton_tuberculatus",
+    "species_en": "West Indian green chiton",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "10",
+      "units": "cm",
+      "label": "ultimate length",
+      "bibkey": "Croz1918",
+      "temp": null,
+      "units.temp": null,
+      "comment": "sealifebase gives 7.6 cm,"
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.5",
+      "units": "cm",
+      "label": "length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on same relative length, compared to Lepidochitona_cinerea: 0.6*10/2.4)"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6.5e5/365",
+      "units": "#/d",
+      "label": "max reproduction rate",
+      "bibkey": "guess",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "based on size-corrected value for yearly fecundity of Lepidochitona_cinerea: (10/1.4)^3*1.8e3"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "4.2e-6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on egg diameter of 160-200 mum for Lepidochitona_cinerea:  pi/6*0.02^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "120",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Lord2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on equally-sized Katharina tunicata"
+    },
+    {
+      "entity": "Wwj",
+      "entity.value": "4.3e-6",
+      "units": "g",
+      "label": "wet weight at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Based on settlement following a few hours after hatching"
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Croz1918",
+      "temp": "C2K(10)",
+      "units.temp": "K",
+      "comment": "in view of growth at 12 yr, life span is likely to be underestimated"
+    }
+  ]
+}

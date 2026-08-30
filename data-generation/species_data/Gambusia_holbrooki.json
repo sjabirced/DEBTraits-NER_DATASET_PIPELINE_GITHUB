@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Poeciliidae",
+    "genus": "Gambusia",
+    "specie": "Gambusia_holbrooki",
+    "specie_en": "Eastern mosquitofish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.7",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "BeadGino2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "6 to 8 mm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "8",
+      "units": "cm",
+      "label": "ultimate total length for felmale",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "4.7",
+      "units": "cm",
+      "label": "ultimate total length for male",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "1.85",
+      "units": "cm",
+      "label": "total length at puberty for female",
+      "bibkey": "BeadGino2008",
+      "temp": null,
+      "units.temp": null,
+      "comment": "17 to 20 mm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "100*6/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "BeadGino2008",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": "based on 100 young per litter, assumed 6 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.1e-3",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "{'BeadGino2008','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00977*Lb^3.18, see F2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7.3",
+      "units": "g",
+      "label": "ultimate wet weight of female",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00977*Li^3.18, see F2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.34",
+      "units": "g",
+      "label": "ultimate wet weight of male",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00977*Lim^3.18, see F2"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "BeadGino2008",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "2.5 * 365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(27.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

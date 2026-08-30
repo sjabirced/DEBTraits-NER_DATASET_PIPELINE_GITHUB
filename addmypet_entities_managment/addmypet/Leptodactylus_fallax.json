@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Anura",
+    "family": "Leptodactylidae",
+    "genus": "Leptodactylus",
+    "specie": "Leptodactylus_fallax",
+    "specie_en": "Mountain chicken",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "28",
+      "units": "cm",
+      "label": "ultimate SVL for females",
+      "bibkey": "GuarGarc2014",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lim",
+      "entity.value": "20",
+      "units": "cm",
+      "label": "ultimate SVL for males",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on males being smaller than females"
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.98",
+      "units": "cm",
+      "label": "SVL at metam",
+      "bibkey": "amphibiaweb",
+      "temp": null,
+      "units.temp": null,
+      "comment": "TL 11 cm, fraction 0.79-0.84 is tail"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "25e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "'unfertized (trophic) eggs to feed the tadpoles"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.41e-2",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 3 mm: pi/6*0.3^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.06e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "{'Wiki','GuarGarc2014'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 1 kg for Li 22 cm: (28/22)^3*1e3"
+    },
+    {
+      "entity": "aj",
+      "entity.value": "45",
+      "units": "d",
+      "label": "age at metam",
+      "bibkey": "Wiki",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "12*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Wiki",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "ap",
+      "entity.value": "3*365",
+      "units": "d",
+      "label": "age at puberty",
+      "bibkey": "Wiki",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

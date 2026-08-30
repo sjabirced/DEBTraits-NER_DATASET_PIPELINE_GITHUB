@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetartiodactyla",
+    "family": "Delphinidae",
+    "genus": "Orcaella",
+    "specie": "Orcaella_brevirostris",
+    "specie_en": "Irrawaddy dolphin"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "100",
+    "units": "cm",
+    "label": "length at birth",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "275",
+    "units": "cm",
+    "label": "ultimate length for females",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "1/365/2.5",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "Wiki",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "calving interval 2-3 yr?"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "12.3e3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'AnAge','ADW'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 10 kg"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "190e3",
+    "units": "g",
+    "label": "ultimate wet weight for females",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Wiki: 90-200 kg"
+  },
+  {
+    "entity": "Wwx",
+    "entity.value": "45e3",
+    "units": "g",
+    "label": "wet weight at weaning",
+    "bibkey": "AnAge",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "30*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "Probably an underestimate"
+  },
+  {
+    "entity": "tg",
+    "entity.value": "426",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "ADW: 6-12 mnth"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "1826",
+    "units": "d",
+    "label": "time since birth at puberty for females",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": "Wiki: 7-9 yrs"
+  },
+  {
+    "entity": "tx",
+    "entity.value": "471",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "AnAge",
+    "temp": "C2K(35.5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

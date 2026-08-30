@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "Patellogastropoda",
+    "family": "Patellidae",
+    "genus": "Patella",
+    "specie": "Patella_vulgata",
+    "specie_en": "Common limpet"
+  },
+  {
+    "entity": "EW4",
+    "entity.value": "10",
+    "units": "kJ",
+    "label": "energy content at L = 4 cm",
+    "bibkey": "WrigHart1981",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.3",
+    "units": "g/g",
+    "label": "gonad dry weight as fraction of flesh dry weight at spawning",
+    "bibkey": "WrigHart1981",
+    "temp": "C2K(14)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "6",
+    "units": "cm",
+    "label": "ultimate shell length",
+    "bibkey": "Ball1961",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.02",
+    "units": "cm",
+    "label": "shell length at settling",
+    "bibkey": "marlin",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "settlement of larva"
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": "1.9",
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "Baxt1983",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on A*L^3, where ln A = -11.6 and L = 60 mm: exp(-11.6)*60^3"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2e-6",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "marlin",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on egg diameter of 160 mum:  4/3*pi*0.008^3"
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Ball1961",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "365",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Blac1969",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "Matures after 1 or 2 yr as male, which become female after 4 yr"
+  }
+]

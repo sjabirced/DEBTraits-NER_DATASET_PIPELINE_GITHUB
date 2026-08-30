@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Strix",
+    "specie": "Strix_occidentalis",
+    "specie_en": "Spotted Owl",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "48.3",
+      "units": "cm",
+      "label": "ultimate length",
+      "bibkey": "Daws1923",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'max adult size non sub-species specific"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "2 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "48.85",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GutiFran1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg size, length 50.62 mm (48-55.37), breadth 42.93  mm (40.3-46.87): 2/3*pi*(4.293/2)*(4.293/2)*(5.062)"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "680",
+      "units": "g",
+      "label": "ultimate wet weight female",
+      "bibkey": "GutiFran1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "max of the adult weight range reported for Mexican subspecies 569 g (480-680)"
+    },
+    {
+      "entity": "Wwim",
+      "entity.value": "625",
+      "units": "g",
+      "label": "ultimate wet weight male",
+      "bibkey": "GutiFran1995",
+      "temp": null,
+      "units.temp": null,
+      "comment": "max of the adult weight range reported for Mexican subspecies 509 g (449-625)"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "30",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "ForsMesl1984",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "mean value non sub-species specific"
+    },
+    {
+      "entity": "am",
+      "entity.value": "25*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "maximal life-span achieved in captivity. Mean is 15-17 years"
+    },
+    {
+      "entity": "tR",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at first reproduction",
+      "bibkey": "Mill1985",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "AnAge",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "mean value non sub-species specific"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "35",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ForsMesl1984",
+      "temp": "C2K(40.2)",
+      "units.temp": "K",
+      "comment": "mean value non sub-species specific"
+    }
+  ]
+}

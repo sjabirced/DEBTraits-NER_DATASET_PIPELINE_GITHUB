@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Lethrinidae",
+    "genus": "Lethrinus",
+    "specie": "Lethrinus_microdon",
+    "specie_en": "Smalltooth emperor",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "80",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "29.1",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "227e3/365",
+      "units": "#/d",
+      "label": "reprod rate",
+      "bibkey": "DegoAli2013",
+      "temp": "C2K(28.1)",
+      "units.temp": "K",
+      "comment": "'value for L. mahsena"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.8e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "GomaSiju2021",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.7 mm of Lethrinus_lentjan: pi/6*0.07^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "5275",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01175*Li^2.97, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "261.7",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'fishbase','guess'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01175*Lp^2.97, see F1"
+    },
+    {
+      "entity": "am",
+      "entity.value": "15*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(28.1)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

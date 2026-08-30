@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Profelis",
+    "specie": "Profelis_aurata",
+    "specie_en": "African golden cat"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "2/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": "'3 kittens per litter"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "248.33",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AnAge",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Wiki: 180 till 235 g"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "10650",
+    "units": "g",
+    "label": "ultimate wet weight for female",
+    "bibkey": "Wiki",
+    "temp": null,
+    "units.temp": null,
+    "comment": "Wiki: 5.5 till 16 kg"
+  },
+  {
+    "entity": "am",
+    "entity.value": "21*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tg",
+    "entity.value": "81",
+    "units": "d",
+    "label": "gestation time",
+    "bibkey": "AnAge",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": "ADW: 75 to 78 d"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "11*30.5",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "ADW",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tp",
+    "entity.value": "6*30.5",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "ADW",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": null
+  },
+  {
+    "entity": "tx",
+    "entity.value": "42",
+    "units": "d",
+    "label": "time since birth at weaning",
+    "bibkey": "ADW",
+    "temp": "C2K(39.8)",
+    "units.temp": "K",
+    "comment": null
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Euphausiacea",
+    "family": "Euphausiidae",
+    "genus": "Nyctiphanes",
+    "specie": "Nyctiphanes_australis",
+    "specie_en": "NZ krill"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.045,
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Hosi1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 2.75,
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "RitzHose1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "also the largest female recorded by Hosi1982 in 1980"
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 1.163,
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "HaywBurn2003",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ni",
+    "entity.value": 1100.0,
+    "units": "#",
+    "label": "life time reproductive output",
+    "bibkey": "Hosi1982",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "The total number of eggs produced by a female in a lifetime was calculated by the authors as 1100 (Table 3.5). The authors assumed that a female produces a batch of eggs every 30 days over a season of approximately 240 days"
+  },
+  {
+    "entity": "Wd0",
+    "entity.value": 8.6e-06,
+    "units": "g",
+    "label": "egg dry weight",
+    "bibkey": "Hosi1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "pp 70  - quote: The average dry weights of the egg and developing nauplius for N. australis were 0.0086 and 0.0081 mg respectively. The egg weight is similar to that recorded by Nemoto et al. (1972) for Euphausia pacifica"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": 0.05,
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Lago2016",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": 5.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Guess",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "we do not know the incubation time of eggs and weight zero is given to this data."
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Hosi1982",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": "authors says it appears unlikely that N. australis lives longer than one year"
+  },
+  {
+    "entity": "tp",
+    "entity.value": 115.0,
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "Hosi1982",
+    "temp": "C2K(12)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

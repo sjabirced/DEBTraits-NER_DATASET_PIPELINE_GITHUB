@@ -1,0 +1,124 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Mytiloida",
+    "family": "Mytilidae",
+    "genus": "Brachidontes",
+    "specie": "Brachidontes_pharaonis",
+    "specie_en": "Pharaonic mussel",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "9e-3",
+      "units": "cm",
+      "label": "shell height at birth",
+      "bibkey": "MontRoch2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'shell height is from umbo to ventral margin"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "3.8",
+      "units": "cm",
+      "label": "shell height length",
+      "bibkey": "SaraPalm2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "0.0273",
+      "units": "cm",
+      "label": "shell height at metam",
+      "bibkey": "MontRoch2006",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "0.75",
+      "units": "cm",
+      "label": "shell height at puberty",
+      "bibkey": "Mort1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "441069/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "SaraPalm2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.5456",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Rina2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.084",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Rina2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "1.1",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "MontRoch2006",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": "Data for B. solisianus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "SaraPalm2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "24",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "MontRoch2006",
+      "temp": "C2K(26)",
+      "units.temp": "K",
+      "comment": "Data for B. solisianus"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "182",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "Rina2013",
+      "temp": "C2K(20)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

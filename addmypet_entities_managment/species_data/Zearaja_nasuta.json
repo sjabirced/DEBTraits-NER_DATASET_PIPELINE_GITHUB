@@ -1,0 +1,114 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Rajiformes",
+    "family": "Rajidae",
+    "genus": "Zearaja",
+    "specie": "Zearaja_nasuta",
+    "specie_en": "New Zealand rough skate",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "27",
+      "units": "cm",
+      "label": "pelvic length at birth",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "91.3",
+      "units": "cm",
+      "label": "pelvic length for females",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "59",
+      "units": "cm",
+      "label": "pelvic length at puberty for females",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "52",
+      "units": "cm",
+      "label": "pelvic length at puberty  for males",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(9.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "15.11e3",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.021928*Li^2.978, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "4.11e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.021928*Lp^2.978, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "2.83e3",
+      "units": "g",
+      "label": "wet weight at puberty for females",
+      "bibkey": "FranCaoi2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.021928*Lpm^2.978, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(9.2)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "9*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FranCaoi2001",
+      "temp": "C2K(9.2)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

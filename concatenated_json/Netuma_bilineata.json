@@ -1,0 +1,71 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Ariidae",
+    "genus": "Netuma",
+    "specie": "Netuma_bilineata",
+    "specie_en": "Bronze catfish"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "90",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "36",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "0.449",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AlHuAlBa2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 9.5 mm: pi/6*0.95^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "7.9e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00794*Li^3.07, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "470",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "AlHuAlBa2021",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00794*Lp^3.07, see F1"
+  },
+  {
+    "entity": "am",
+    "entity.value": "22*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "AlHuAlBa2021",
+    "temp": "C2K(28.3)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

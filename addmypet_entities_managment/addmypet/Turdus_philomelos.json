@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "specie": "Turdus_philomelos",
+    "specie_en": "Song thrush",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "4.5/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.5",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "RodiErmo2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "66.2",
+      "units": "g",
+      "label": "ultimate wet weight for female",
+      "bibkey": "RodiErmo2016",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "13.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "Wiki",
+      "temp": "C2K(36)",
+      "units.temp": "K",
+      "comment": "temp from SchwWeav1977"
+    },
+    {
+      "entity": "am",
+      "entity.value": "17.5*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "37.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "temperature from DaanMasm1991,DawsWhit1999"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "12.5",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "RodiErmo2016",
+      "temp": "C2K(41.6)",
+      "units.temp": "K",
+      "comment": "temperature from DaanMasm1991,DawsWhit1999"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Siluridae",
+    "genus": "Silurus",
+    "specie": "Silurus_glanis",
+    "specie_en": "Wels catfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.7",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "ADW",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "278",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "87.5",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "for females"
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "114 * 3e4/ 365",
+    "units": "#/d",
+    "label": "max reprod rate",
+    "bibkey": "{'Wiki'}",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "computed from (eggs/kg/yr)"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.2e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AlpKara2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "W at L = 0.7 cm"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "114e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "Wiki",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "4.5e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "AlpKara2011",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "W at L = 87.5 cm"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "7",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "{'ADW','IUCN'}",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "80*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "{'nlWiki','ADW'}",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "2355",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "AlpKara2011",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": "from tL-data for L = 87.5 cm"
+  }
+]

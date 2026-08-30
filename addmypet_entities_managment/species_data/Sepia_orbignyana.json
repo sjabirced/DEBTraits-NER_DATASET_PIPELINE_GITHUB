@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Sepiida",
+    "family": "Sepiidae",
+    "genus": "Sepia",
+    "specie": "Sepia_orbignyana",
+    "specie_en": "Pinc cuttlefish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": 9.5,
+      "units": "cm",
+      "label": "mantle length at death",
+      "bibkey": "Bell2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 7.0,
+      "units": "cm",
+      "label": "mantle length at puberty",
+      "bibkey": "DursEron2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 5.0,
+      "units": "cm",
+      "label": "mantle length at puberty for  males",
+      "bibkey": "DursEron2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 1000.0,
+      "units": "#",
+      "label": "cum reprod at Li ",
+      "bibkey": "DursEron2013",
+      "temp": "C2K(14.4)",
+      "units.temp": "K",
+      "comment": "fecundity 201 - 1532"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.037,
+      "units": "g",
+      "label": "weight at birth",
+      "bibkey": "DursEron2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg length of 7.9 mm, assumed width of 3 mm: pi/6*0.79*0.3^2"
+    },
+    {
+      "entity": "am",
+      "entity.value": 120.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "Bell2001",
+      "temp": "C2K(14.4)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

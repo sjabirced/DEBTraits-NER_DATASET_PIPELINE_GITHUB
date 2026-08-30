@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Lutjaniformes",
+    "family": "Lutjanidae",
+    "genus": "Ocyurus",
+    "specie": "Ocyurus_chrysurus",
+    "specie_en": "Yellow snapper",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "86.3",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "23.8",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "range 28 to 40 cm, which does not include 52 cm"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "164756/365",
+      "units": "#/d",
+      "label": "max reoduction rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(25.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "3.2e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based egg diameter of 0.85 mm of L. stellatus: 4/3*pi*0.0425^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "7.8e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "'max published weight 4.1 kg"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "174",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.01514*Lp^2.95, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(25.9)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ArauMart2002",
+      "temp": "C2K(25.9)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

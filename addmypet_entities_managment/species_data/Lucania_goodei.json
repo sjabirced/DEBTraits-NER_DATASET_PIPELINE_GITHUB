@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Fundulidae",
+    "genus": "Lucania",
+    "specie": "Lucania_goodei",
+    "specie_en": "Bluefin killifish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "0.6",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "CrawBalo1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "6.0",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "2.3",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "210/365",
+      "units": "#/d",
+      "label": "max reprod rate",
+      "bibkey": "fishbase",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "8.17e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "CrawBalo1994",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter of 1.16 mm: pi/6*0.116^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1.65",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00724*Li^3.03, see F1"
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "0.09",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "{'guess','fishbase'}",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.00724*Lp^3.03, see F1"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "7.8",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "CrawBalo1994",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": "1 d is added to first visability of embryo to ensure that L(0)=0"
+    },
+    {
+      "entity": "am",
+      "entity.value": "2*365",
+      "units": "d",
+      "label": "time since birth at death",
+      "bibkey": "guess",
+      "temp": "C2K(25)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

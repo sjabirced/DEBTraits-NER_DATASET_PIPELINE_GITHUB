@@ -1,0 +1,23 @@
+name: bert-base-cased
+checkpoint: bert-base-cased
+data_dirname: bert-base-cased
+
+per_device_train_batch_size: 32
+per_device_eval_batch_size: 64
+gradient_accumulation_steps: 1
+# 2e-5: the gentlest of BERT's recommended fine-tuning rates (the paper uses
+# 2e-5 / 3e-5 / 5e-5). Lowered from 5e-5 to fit more slowly and curb the fast
+# overfitting seen at 5e-5 (train F1 -> ~0.99 while val plateaued around 0.94).
+learning_rate: 2e-5
+num_train_epochs: 50
+warmup_ratio: 0.1
+# Strong regularization to reduce overfitting (train F1 -> ~0.99 while val
+# plateaus ~0.94): 0.2 weight decay + 0.3 dropout, well above bert-base-cased's
+# 0.01 / 0.1 pretrained defaults. This shrinks the train/val gap; if val F1
+# drops, ease these back toward 0.1 / 0.2.
+weight_decay: 0.2
+hidden_dropout_prob: 0.3
+attention_probs_dropout_prob: 0.3
+fp16: true
+bf16: false
+seed: 42

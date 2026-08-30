@@ -1,0 +1,141 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Centrophoridae",
+    "genus": "Deania",
+    "specie": "Deania_calceus",
+    "specie_en": "Birdbeak dogfish"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "31",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "29 to 34 cm"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "117",
+    "units": "cm",
+    "label": "ultimate total length for female",
+    "bibkey": "ClarConn2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lim",
+    "entity.value": "109",
+    "units": "cm",
+    "label": "ultimate total length for male",
+    "bibkey": "ClarConn2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "106",
+    "units": "cm",
+    "label": "total length at puberty for female",
+    "bibkey": "ClarConn2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "85",
+    "units": "cm",
+    "label": "total length at puberty for male",
+    "bibkey": "ClarConn2002",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "13/365/4",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ClarConn2002",
+    "temp": "C2K(17)",
+    "units.temp": "K",
+    "comment": "13 pups per litter, assumed: 1 litter per 4 yr"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "87.3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "{'ClarConn2002','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0012*Lb^3.26, see F2"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.6e3",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "{'ClarConn2002','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "4.8e3",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'ClarConn2002','fishbase'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.0012*Lp^3.26, see F2"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "17*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "35*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "ClarConn2002",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": "highest observed age for female"
+  },
+  {
+    "entity": "tp",
+    "entity.value": "12.5*365",
+    "units": "d",
+    "label": "time since birth at puberty for female",
+    "bibkey": "ClarConn2002",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tpm",
+    "entity.value": "12*365",
+    "units": "d",
+    "label": "time since birth at puberty for male",
+    "bibkey": "ClarConn2002",
+    "temp": "C2K(5)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "genus": "Carcharhinus",
+    "specie": "Carcharhinus_signatus",
+    "specie_en": "Night shark"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "60",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "280",
+    "units": "cm",
+    "label": "ultimate total length for females",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "202",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "SantLess2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "185",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "SantLess2004",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "8/365",
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "fishbase",
+    "temp": "C2K(21.7)",
+    "units.temp": "K",
+    "comment": "4-12 pups per litter, 1 litter each yr"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "154e3",
+    "units": "g",
+    "label": "ultimate wet weight (female)",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "'based on 0.00447*Li^3.08, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "10*30.5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(21.7)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SantLess2004",
+    "temp": "C2K(21.7)",
+    "units.temp": "K",
+    "comment": "based on the assumption that max back-calculated age is close to life span"
+  }
+]

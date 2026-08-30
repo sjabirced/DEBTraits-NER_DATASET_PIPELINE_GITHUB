@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Pimelodidae",
+    "genus": "Calophysus",
+    "specie": "Calophysus_macropterus",
+    "specie_en": "Zamurito"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.20",
+    "units": "g/g",
+    "label": "gonado somatic index for female",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "40",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "27",
+    "units": "cm",
+    "label": "total length at puberty for females",
+    "bibkey": "CordLeon2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lpm",
+    "entity.value": "24",
+    "units": "cm",
+    "label": "total length at puberty for males",
+    "bibkey": "CordLeon2013",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.8e-3",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "AndrMakr2014",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 1.74 mm of Hemisorubim_platyrhynchos: pi/6*0.174^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "664.5",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00692*Li^3.11, see F1"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "195.7",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "{'fishbase','CordLeon2013'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on 0.00692*Lp^3.11, see F1"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "5",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "guess",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "15*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "fishbase",
+    "temp": "C2K(25)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

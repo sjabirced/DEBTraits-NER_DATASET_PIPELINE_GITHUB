@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Molossidae",
+    "genus": "Mops",
+    "specie": "Mops_condylurus",
+    "specie_en": "Angolan free-tailed bat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "32.20",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "GenoIsle2018",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "2/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "gbif",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "1 pup per litter, 2 litters per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "9.6",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Eumops_perotis: 16*39/65 g"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "39",
+      "units": "g",
+      "label": "ultimate wet weight for females",
+      "bibkey": "gbif",
+      "temp": null,
+      "units.temp": null,
+      "comment": "16-39 g"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "guess",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "based on Eumops_perotis"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "87.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "gbif",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": "85-90 d"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(38.5)",
+      "units.temp": "K",
+      "comment": "based on Eumops_perotis"
+    },
+    {
+      "entity": "tx",
+      "entity.value": "45",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(35.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

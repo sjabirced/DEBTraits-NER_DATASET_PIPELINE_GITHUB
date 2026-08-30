@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Cnidaria",
+    "class": "Scyphozoa",
+    "order": "Rhizostomeae",
+    "family": "Mastigiidae",
+    "genus": "Mastigias",
+    "specie": "Mastigias_papua",
+    "specie_en": "Spotted jelly",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.2,
+      "units": "cm",
+      "label": "bell diameter at birth",
+      "bibkey": "Sugi1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 20.0,
+      "units": "cm",
+      "label": "ultimate bell diameter",
+      "bibkey": "Hamn1982",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": 1.0,
+      "units": "cm",
+      "label": "bell diameter at metam",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 5.5,
+      "units": "cm",
+      "label": "bell diameter at puberty",
+      "bibkey": "Sugi1963",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": 6.0,
+      "units": "d",
+      "label": "age at birth of the medusae (release of ephyrae)",
+      "bibkey": "Sugi1965",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": "approximate latency between begining of strobilation and release of ephyra"
+    },
+    {
+      "entity": "aj",
+      "entity.value": 15.0,
+      "units": "d",
+      "label": "age at metam of the medusae (release of ephyrae)",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 360.0,
+      "units": "d",
+      "label": "life span of the medusae",
+      "bibkey": "guess",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": 40.0,
+      "units": "d",
+      "label": "age at puberty of the medusae",
+      "bibkey": "Sugi1963",
+      "temp": "C2K(27)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

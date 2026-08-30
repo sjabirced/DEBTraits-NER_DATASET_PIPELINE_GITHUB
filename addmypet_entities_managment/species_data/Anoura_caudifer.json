@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Chiroptera",
+    "family": "Phyllostomidae",
+    "genus": "Anoura",
+    "specie": "Anoura_caudifer",
+    "specie_en": "Tailed tailless bat",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "JOi",
+      "entity.value": "28.1",
+      "units": "ml O2/h",
+      "label": "max BMR",
+      "bibkey": "CruzGarl2001",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "WhitSeym2003: 70.8 ml O2/h for Ww=11.5 g and say that it comes from McNa1969, but that gives 42.7 ml O2/h"
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "1/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "ADW",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "'for Anoura geoffroyi: 1 pup per litter"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.8",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on Molossus_molossus: 3.45*11.3/14"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "11.3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "CruzGarl2001",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "8.5",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "10*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "ADW",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tg",
+      "entity.value": "4*30.5",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "ADW",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": "based on Anoura geoffroyi"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "guess",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "30.5",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "guess",
+      "temp": "C2K(36.5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

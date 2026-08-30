@@ -1,0 +1,64 @@
+{
+  "taxonomy": {
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Vampyromorpha",
+    "family": "Vampyroteuthidae",
+    "genus": "Vampyroteuthis",
+    "specie": "Vampyroteuthis_infernalis",
+    "specie_en": "Vampire squid",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Ni",
+      "entity.value": 1640.0,
+      "units": "#",
+      "label": "fecundity",
+      "bibkey": "guess",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": "based on kap=0.95"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": 0.0141,
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "SchwPist2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg of 3.2 mm length, 2.9 mm width: pi/6*0.32*0.29^2"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 286.0,
+      "units": "g",
+      "label": "wet weight at 220 d",
+      "bibkey": "SchwPist2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": 19.0,
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "SchwPist2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": 375.0,
+      "units": "d",
+      "label": "life span for female",
+      "bibkey": "SchwPist2020",
+      "temp": "C2K(6)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Squaliformes",
+    "family": "Somniosidae",
+    "genus": "Somniosus",
+    "specie": "Somniosus_microcephalus",
+    "specie_en": "Greenland shark",
+    "deb_model": "stf"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "MacNMcMe2012",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "550",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "NielHede2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": "375",
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Niel2017",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "419",
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "NielHede2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "284",
+      "units": "cm",
+      "label": "total length at puberty for males",
+      "bibkey": "NielHede2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "20/365/5",
+      "units": "#/d",
+      "label": "maximum reprod rate at TL 5 m",
+      "bibkey": "Koef1957",
+      "temp": "C2K(4)",
+      "units.temp": "K",
+      "comment": "'Koef1957 reports 10 pups per litter, but here doubled in view of D4"
+    },
+    {
+      "entity": "ab",
+      "entity.value": "4.7*365",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": "inserted to check litter interval, but otherwise ignorned in estimation and v is fixed"
+    },
+    {
+      "entity": "am",
+      "entity.value": "392*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "NielHede2016",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": " 392 +/- 120 years. typical temp is -0.6 till 12 C"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "156*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "NielHede2016",
+      "temp": "C2K(5)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

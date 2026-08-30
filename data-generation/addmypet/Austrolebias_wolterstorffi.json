@@ -1,0 +1,84 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cyprinodontiformes",
+    "family": "Rivulidae",
+    "genus": "Austrolebias",
+    "specie": "Austrolebias_wolterstorffi",
+    "specie_en": "Killifish",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.877,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "FonsVolc2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 0.71 cm and F3"
+    },
+    {
+      "entity": "Li",
+      "entity.value": 10.0,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "fishbase",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 2.6,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "FonsVolc2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on SL 2.1 cm and F3, from tp anf tL data"
+    },
+    {
+      "entity": "Ni",
+      "entity.value": 150.0,
+      "units": "#",
+      "label": "cum # eggs till 200 d",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": 7.5,
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "FonsVolc2013",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on  0.0029*Li^3.4123, see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": 200.0,
+      "units": "d",
+      "label": "life span",
+      "bibkey": "FonsVolc2013",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": 30.0,
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "FonsVolc2013",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

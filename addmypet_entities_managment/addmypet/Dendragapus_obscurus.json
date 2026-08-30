@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Dendragapus",
+    "specie": "Dendragapus_obscurus",
+    "specie_en": "Dusky grouse",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "Wiki",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": "8 eggs per clutch, 1 clutch per yr"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "22.7",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "ZwicBend2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "1271",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "ZwicBend2020",
+      "temp": null,
+      "units.temp": null,
+      "comment": "reported mean mass of males which might not differ a lot from females. Adult female mass increases in early spring, declines during incubation, and slowly recovers over summer."
+    },
+    {
+      "entity": "ab",
+      "entity.value": "26",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "AnAge",
+      "temp": "C2K(32)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "am",
+      "entity.value": "14*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tR",
+      "entity.value": "365",
+      "units": "d",
+      "label": "time since birth at 1st brood",
+      "bibkey": "AnAge",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4 * 30.5",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "ZwicBend2020",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": "brood organization disintegrates in late summer to automn, and nesting is may-june. So we assume 4 months. Moreover, Postjuvenile plumage complete at about 17 wk."
+    },
+    {
+      "entity": "tx",
+      "entity.value": "1",
+      "units": "d",
+      "label": "time since birth at fledging",
+      "bibkey": "ZwicBend2020",
+      "temp": "T_typical",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Spariformes",
+    "family": "Sparidae",
+    "genus": "Acanthopagrus",
+    "specie": "Acanthopagrus_berda",
+    "specie_en": "Goldsilk seabream"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.05",
+    "units": "g/g",
+    "label": "gonado-somatic index",
+    "bibkey": "Papa2013",
+    "temp": "C2K(17.5)",
+    "units.temp": "K",
+    "comment": "based on Sparus aurata"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.18",
+    "units": "cm",
+    "label": "total length at birth",
+    "bibkey": "Garr1993",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "90",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "SmitSmit1986",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "20",
+    "units": "cm",
+    "label": "total length st puberty",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "2.2e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Conn1996",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 750 mum: pi/6*0.075^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "3200",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": "39/24",
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "Garr1993",
+    "temp": "C2K(25.72)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": "14*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "MathSamu1991",
+    "temp": "C2K(25.72)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "tp",
+    "entity.value": "419.75",
+    "units": "d",
+    "label": "time since birth at puberty",
+    "bibkey": "SheaMolo1999",
+    "temp": "C2K(25.72)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

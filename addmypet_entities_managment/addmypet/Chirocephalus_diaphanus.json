@@ -1,0 +1,54 @@
+{
+  "taxonomy": {
+    "phylum": "Arthropoda",
+    "class": "Branchiopoda",
+    "order": "Anostraca",
+    "family": "Chirocephalidae",
+    "genus": "Chirocephalus",
+    "specie": "Chirocephalus_diaphanus",
+    "specie_en": "Fairy shrimp",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": 0.07,
+      "units": "cm",
+      "label": "total length at birth",
+      "bibkey": "Lake1969",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Li",
+      "entity.value": 4.2,
+      "units": "cm",
+      "label": "ultimate total length",
+      "bibkey": "Lake1969",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": 1.2,
+      "units": "cm",
+      "label": "total length at puberty",
+      "bibkey": "Lake1969",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wdi",
+      "entity.value": 0.126,
+      "units": "g",
+      "label": "ultimate dry weight",
+      "bibkey": "guess",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based in Arteria salina: 0.0017*(4.2/1)^3"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Cricetidae",
+    "genus": "Microtus",
+    "specie": "Microtus_arvalis",
+    "specie_en": "Common vole",
+    "deb_model": "stx"
+  },
+  "data": [
+    {
+      "entity": "Ri",
+      "entity.value": "15.75/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "BoycBoyc1988",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "average number of pups produced by solitary females in 1980, germany"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "1.43",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "BoycBoyc1988",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Sawi1970 report 1.88 g, "
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "50",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "Bale2007",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Wwp",
+      "entity.value": "9",
+      "units": "g",
+      "label": "wet weight at puberty",
+      "bibkey": "Fran1956",
+      "temp": null,
+      "units.temp": null,
+      "comment": "7-9 g, they are mature as soon as they are weaned see facts"
+    },
+    {
+      "entity": "Wwx",
+      "entity.value": "9",
+      "units": "g",
+      "label": "wet weight at weaning",
+      "bibkey": "Fran1956",
+      "temp": null,
+      "units.temp": null,
+      "comment": "7-9 g, they are mature as soon as they are weaned see facts"
+    },
+    {
+      "entity": "tg",
+      "entity.value": "21",
+      "units": "d",
+      "label": "gestation time",
+      "bibkey": "WielSell1990",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "temp from MathKlun2003"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "13.7",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "BoycBoyc1988",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tx",
+      "entity.value": "13.7",
+      "units": "d",
+      "label": "time since birth at weaning",
+      "bibkey": "BoycBoyc1988",
+      "temp": "C2K(37)",
+      "units.temp": "K",
+      "comment": "they are mature as soon as weaned see facts"
+    }
+  ]
+}

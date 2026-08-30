@@ -1,0 +1,91 @@
+[
+  {
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Amphipoda",
+    "family": "Corophiidae",
+    "genus": "Corophium",
+    "specie": "Corophium_volutator",
+    "specie_en": "Amphipod"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": 0.1,
+    "units": "cm",
+    "label": "physical length at birth",
+    "bibkey": "{'FishMill1979', 'MollRose1982'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": 1.05,
+    "units": "cm",
+    "label": "ultimate physical length",
+    "bibkey": "MollRose1982",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": 0.5,
+    "units": "cm",
+    "label": "physical length at puberty",
+    "bibkey": "{'MeisBick1997', 'FishMill1979', 'MollRose1982'}",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": 0.2904,
+    "units": "#/d",
+    "label": "maximum reprod rate",
+    "bibkey": "ConrDepl1999",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wdi",
+    "entity.value": 0.006594,
+    "units": "g",
+    "label": "ultimate dry weight",
+    "bibkey": "Birk1977",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "ab",
+    "entity.value": 14.0,
+    "units": "d",
+    "label": "age at birth",
+    "bibkey": "{'FishMill1979', 'MollRose1982'}",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "am",
+    "entity.value": 365.0,
+    "units": "d",
+    "label": "life span",
+    "bibkey": "Hugh1988",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "ap",
+    "entity.value": 29.0,
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "MollRose1982",
+    "temp": "C2K(15)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]

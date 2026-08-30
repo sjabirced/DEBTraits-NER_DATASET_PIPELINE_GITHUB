@@ -1,0 +1,208 @@
+{
+  "Actinopterygii_std_cycle_de_vie": {
+    "titre": "Life cycle of class Actinopterygii — STD (Standard DEB model)",
+    "ordre": "Teleostei",
+    "classe": "Actinopterygii",
+    "stades": [
+      {
+        "id": 1,
+        "label": "t0",
+        "nom": "Fertilisation",
+        "type": "transition",
+        "termes": [
+          "egg fertilisation",
+          "zygote formation",
+          "gamete fusion",
+          "syngamy",
+          "ovum activation",
+          "reproductive pairing",
+          "zygote stage onset",
+          "gametic union",
+          "fecundation",
+          "external fertilisation",
+          "broadcast spawning",
+          "spawning event",
+          "gamete release",
+          "oocyte fertilisation"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Egg",
+        "nom": "Pelagic or demersal egg",
+        "type": "stade",
+        "termes": [
+          "fertilised ovum",
+          "embryonated egg",
+          "incubating egg",
+          "yolk-laden egg",
+          "chorionate embryo",
+          "cleavage-stage embryo",
+          "blastula-stage embryo",
+          "gastrulating embryo",
+          "yolk-dependent embryo",
+          "pelagic egg",
+          "demersal egg",
+          "adhesive egg",
+          "eyed egg",
+          "teleost embryo",
+          "transparent egg"
+        ],
+        "note": "Teleost eggs may be pelagic (buoyant, transparent) or demersal (adhesive, benthic); all are enclosed in a chorion."
+      },
+      {
+        "id": 3,
+        "label": "H",
+        "nom": "Eclosion",
+        "type": "transition",
+        "termes": [
+          "eclosion",
+          "egg hatching",
+          "chorion rupture",
+          "eggshell hatching",
+          "embryo emergence",
+          "hatching event",
+          "shell breaking",
+          "larval eclosion",
+          "hatching enzyme activation",
+          "chorionase secretion",
+          "yolk-sac larva emergence",
+          "pre-larval emergence",
+          "prolarva eclosion"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Pre-feeding larva",
+        "nom": "Yolk-sac larva (alevin)",
+        "type": "stade",
+        "termes": [
+          "yolk-sac larva",
+          "endotrophic larva",
+          "lecithotrophic larva",
+          "yolk-dependent larva",
+          "non-feeding larva",
+          "yolk absorption stage",
+          "alevin",
+          "protolarva",
+          "prolarva",
+          "yolk-sac fry",
+          "sac-fry",
+          "pre-first-feeding larva",
+          "mouth-closed larva"
+        ],
+        "note": "The yolk-sac larva has hatched but the mouth and digestive tract are not yet functional for exogenous feeding; survival depends entirely on endogenous yolk."
+      },
+      {
+        "id": 5,
+        "label": "B",
+        "nom": "Onset of exogenous feeding",
+        "type": "transition",
+        "termes": [
+          "first exogenous feeding",
+          "first feeding",
+          "yolk-sac resorption",
+          "mouth opening",
+          "first prey capture",
+          "exotrophic transition",
+          "trophic switch",
+          "active feeding onset",
+          "larval feeding commencement",
+          "yolk absorption completion",
+          "point of no return",
+          "swim bladder inflation",
+          "exogenous nutrition onset",
+          "mouth gape opening",
+          "retinal differentiation",
+          "prey detection onset"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Juvenile",
+        "nom": "Juvenile fish",
+        "type": "stade",
+        "termes": [
+          "juvenile",
+          "sub-adult",
+          "immature individual",
+          "young individual",
+          "pre-reproductive juvenile",
+          "growing juvenile",
+          "immature organism",
+          "fingerling",
+          "fry",
+          "parr",
+          "smolt",
+          "post-settlement juvenile",
+          "young-of-year",
+          "immature fish"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "P",
+        "nom": "Sexual maturation",
+        "type": "transition",
+        "termes": [
+          "sexual maturation",
+          "reproductive maturity",
+          "first reproduction event",
+          "gonad maturation",
+          "puberty",
+          "gametogenesis onset",
+          "reproductive activation",
+          "age at first reproduction",
+          "first spawning",
+          "vitellogenesis onset",
+          "spermiation onset",
+          "HPG axis activation",
+          "gonadal recrudescence"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Breeding adult",
+        "nom": "Spawning adult",
+        "type": "stade",
+        "termes": [
+          "sexually mature adult",
+          "reproductively active adult",
+          "breeding individual",
+          "gravid individual",
+          "post-pubertal adult",
+          "reproductively viable organism",
+          "spawning adult",
+          "gravid fish",
+          "mature teleost",
+          "iteroparous adult",
+          "semelparous adult",
+          "nest-guarding adult",
+          "sexually mature fish"
+        ]
+      },
+      {
+        "id": 9,
+        "label": "M",
+        "nom": "Natural death",
+        "type": "transition",
+        "termes": [
+          "natural mortality",
+          "senescence",
+          "age-related death",
+          "post-reproductive mortality",
+          "biological death",
+          "somatic death",
+          "lifespan completion",
+          "ecological mortality",
+          "organismal death",
+          "reproductive senescence",
+          "physiological death",
+          "post-spawning death",
+          "semelparous death",
+          "senescent adult death"
+        ]
+      }
+    ]
+  }
+}

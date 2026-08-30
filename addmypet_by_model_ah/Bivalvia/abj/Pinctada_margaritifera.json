@@ -1,0 +1,111 @@
+[
+  {
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Pterioida",
+    "family": "Pteriidae",
+    "genus": "Pinctada",
+    "specie": "Pinctada_margaritifera",
+    "specie_en": "Black-lip pearl oyster"
+  },
+  {
+    "entity": "GSI",
+    "entity.value": "0.5",
+    "units": "g/g",
+    "label": "Gonado Somatic Index",
+    "bibkey": "Four2011",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "Calculated from a surface area ratio between total flesh and gonad"
+  },
+  {
+    "entity": "Lb",
+    "entity.value": "0.006",
+    "units": "cm",
+    "label": "shell diameter",
+    "bibkey": "Sang2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Li",
+    "entity.value": "30",
+    "units": "cm",
+    "label": "ultimate shell height",
+    "bibkey": "guess",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "['Maximal length data vary from 14 to 25 cm depending on the study"
+  },
+  {
+    "entity": "Lj",
+    "entity.value": "0.0180",
+    "units": "cm",
+    "label": "shell diameter",
+    "bibkey": "Sang2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "shell height",
+    "bibkey": "Pouv2000",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "Based on a family of maximal length equal to 14 cm"
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "1.6e-7",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "Sang2019",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 67 mum: pi/6*67e-4^3"
+  },
+  {
+    "entity": "ab",
+    "entity.value": "1",
+    "units": "d",
+    "label": "age at birth stage",
+    "bibkey": "SoutLuca2011",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "'observed age at birth is frequently larger than ab, because of diapauzes during incubation"
+  },
+  {
+    "entity": "aj",
+    "entity.value": "18",
+    "units": "d",
+    "label": "age at metamorphosis",
+    "bibkey": "Sang2019",
+    "temp": "C2K(28.1)",
+    "units.temp": "K",
+    "comment": "Plantigrade larvae, 23 d, 240 um"
+  },
+  {
+    "entity": "am",
+    "entity.value": "20*365",
+    "units": "d",
+    "label": "ultimate age",
+    "bibkey": "guess",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "based on Crassostrea gigas"
+  },
+  {
+    "entity": "ap",
+    "entity.value": "365",
+    "units": "d",
+    "label": "age at puberty",
+    "bibkey": "Pouv2000",
+    "temp": "C2K(28)",
+    "units.temp": "K",
+    "comment": "based on a family of maximal length equal to 14 cm"
+  }
+]

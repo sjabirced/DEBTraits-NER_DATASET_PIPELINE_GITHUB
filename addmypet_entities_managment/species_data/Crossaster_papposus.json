@@ -1,0 +1,94 @@
+{
+  "taxonomy": {
+    "phylum": "Echinodermata",
+    "class": "Asteroidea",
+    "order": "Valvatida",
+    "family": "Solasteridae",
+    "genus": "Crossaster",
+    "specie": "Crossaster_papposus",
+    "specie_en": "Common sunstar",
+    "deb_model": "abj"
+  },
+  "data": [
+    {
+      "entity": "Li",
+      "entity.value": "34",
+      "units": "cm",
+      "label": "ultimate diameter",
+      "bibkey": "CarlPfis1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lj",
+      "entity.value": "1.1",
+      "units": "cm",
+      "label": "diameter at metam",
+      "bibkey": "DupoLund2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "6e3/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "DupoLund2010",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "2.68e-4",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "DupoLund2010",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on egg diameter 0f 0.8 mm: pi/6*0.08^3"
+    },
+    {
+      "entity": "Wwi",
+      "entity.value": "2.6e3",
+      "units": "g",
+      "label": "ultimate wet weight",
+      "bibkey": "CarlPfis1999",
+      "temp": null,
+      "units.temp": null,
+      "comment": "based on 0.03972 * Li^3.144, see F2"
+    },
+    {
+      "entity": "am",
+      "entity.value": "20*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "marlin",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tj",
+      "entity.value": "2*30.5",
+      "units": "d",
+      "label": "time since birth at metam",
+      "bibkey": "DupoLund2010",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": "all temps guessed"
+    },
+    {
+      "entity": "tp",
+      "entity.value": "4*365",
+      "units": "d",
+      "label": "time since birth at puberty",
+      "bibkey": "marlin",
+      "temp": "C2K(14)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

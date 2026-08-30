@@ -1,0 +1,113 @@
+{
+  "taxonomy": {
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Viperidae",
+    "species": "Gloydius_blomhoffii",
+    "species_en": "Mamushi",
+    "deb_model": "std"
+  },
+  "data": [
+    {
+      "entity": "Lb",
+      "entity.value": "22.5",
+      "units": "cm",
+      "label": "SVL at birth",
+      "bibkey": "MoriHiga1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": "Wiki TL = 22 to 35 cm, with mean 28 cm"
+    },
+    {
+      "entity": "Li",
+      "entity.value": "91",
+      "units": "cm",
+      "label": "ultimate total length for females",
+      "bibkey": "Wiki",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "46",
+      "units": "cm",
+      "label": "SVL at puberty",
+      "bibkey": "MoriHiga1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Lp",
+      "entity.value": "40",
+      "units": "cm",
+      "label": "SVL at puberty for males",
+      "bibkey": "MoriHiga1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "Ri",
+      "entity.value": "8/365",
+      "units": "#/d",
+      "label": "maximum reprod rate",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "based on Agkistrodon piscivorus"
+    },
+    {
+      "entity": "Wwb",
+      "entity.value": "5.9",
+      "units": "g",
+      "label": "wet weight at birth",
+      "bibkey": "MoriHiga1986",
+      "temp": null,
+      "units.temp": null,
+      "comment": null
+    },
+    {
+      "entity": "ab",
+      "entity.value": "5*30.5",
+      "units": "d",
+      "label": "age at birth",
+      "bibkey": "guess",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": "based on Agkistrodon piscivorus"
+    },
+    {
+      "entity": "am",
+      "entity.value": "13.8*365",
+      "units": "d",
+      "label": "life span",
+      "bibkey": "AnAge",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1095",
+      "units": "d",
+      "label": "time since birth at puberty for females",
+      "bibkey": "MoriHiga1986",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    },
+    {
+      "entity": "tp",
+      "entity.value": "1095",
+      "units": "d",
+      "label": "time since birth at puberty for males",
+      "bibkey": "MoriHiga1986",
+      "temp": "C2K(24)",
+      "units.temp": "K",
+      "comment": null
+    }
+  ]
+}

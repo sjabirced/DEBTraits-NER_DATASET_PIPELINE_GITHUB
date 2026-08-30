@@ -1,0 +1,81 @@
+[
+  {
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Garra",
+    "specie": "Garra_kemali",
+    "specie_en": "Eregli minnow"
+  },
+  {
+    "entity": "Li",
+    "entity.value": "7.5",
+    "units": "cm",
+    "label": "ultimate total length",
+    "bibkey": "fishbase",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Lp",
+    "entity.value": "4",
+    "units": "cm",
+    "label": "total length at puberty",
+    "bibkey": "SariIlha2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": NaN
+  },
+  {
+    "entity": "Ri",
+    "entity.value": "666/365",
+    "units": "#/d",
+    "label": "max reproduction rate",
+    "bibkey": "SariIlha2008",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  },
+  {
+    "entity": "Wwb",
+    "entity.value": "3.8e-4",
+    "units": "g",
+    "label": "wet weight at birth",
+    "bibkey": "SariIlha2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "based on egg diameter of 0.9 mm: pi/6*0.09^3"
+  },
+  {
+    "entity": "Wwi",
+    "entity.value": "6.6",
+    "units": "g",
+    "label": "ultimate wet weight",
+    "bibkey": "SariIlha2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase: 0.01047*Li^3.02, see F1, gives 4.6 g"
+  },
+  {
+    "entity": "Wwp",
+    "entity.value": "1",
+    "units": "g",
+    "label": "wet weight at puberty",
+    "bibkey": "SariIlha2008",
+    "temp": NaN,
+    "units.temp": NaN,
+    "comment": "fishbase: 0.01047*Lp^3.02, see F1, gives 0.7 g"
+  },
+  {
+    "entity": "am",
+    "entity.value": "4*365",
+    "units": "d",
+    "label": "life span",
+    "bibkey": "SajaMerc2015",
+    "temp": "C2K(20)",
+    "units.temp": "K",
+    "comment": NaN
+  }
+]
