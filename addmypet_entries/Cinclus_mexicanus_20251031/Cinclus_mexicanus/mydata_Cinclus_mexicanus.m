@@ -1,0 +1,129 @@
+function [data, auxData, metaData, txtData, weights] = mydata_Cinclus_mexicanus
+%% set metaData
+metaData.phylum     = 'Chordata'; 
+metaData.class      = 'Aves'; 
+metaData.order      = 'Passeriformes'; 
+metaData.family     = 'Cinclidae';
+metaData.species    = 'Cinclus_mexicanus'; 
+metaData.species_en = 'American dipper'; 
+
+metaData.ecoCode.climate = {'B','Dfb','Dfc'};
+metaData.ecoCode.ecozone = {'THn'};
+metaData.ecoCode.habitat = {'0iTf'};
+metaData.ecoCode.embryo  = {'Tncf'};
+metaData.ecoCode.migrate = {};
+metaData.ecoCode.food    = {'biCi'};
+metaData.ecoCode.gender  = {'Dg'};
+metaData.ecoCode.reprod  = {'O'};
+
+metaData.T_typical  = C2K(41.6); % K, body temp
+metaData.data_0     = {'ab'; 'ap'; 'aR'; 'am'; 'Ww0'; 'Wwi'; 'Ri'; 'JOi'}; 
+metaData.data_1     = {}; 
+
+metaData.COMPLETE = 2.1; % using criteria of LikaKear2011
+
+metaData.author    = {'Bas Kooijman'};    
+metaData.date_subm = [2025 10 31];              
+metaData.email     = {'bas.kooijman@vu.nl'};            
+metaData.address   = {'VU University, Amsterdam'};   
+
+metaData.curator     = {'Dina Lika'};
+metaData.email_cur   = {'lika@uoc.gr'}; 
+metaData.date_acc    = [2025 10 31];
+
+%% set data
+% zero-variate data
+
+data.ab = 16;    units.ab = 'd';    label.ab = 'age at birth';             bibkey.ab = 'avibase';   
+  temp.ab = C2K(37);  units.temp.ab = 'K'; label.temp.ab = 'temperature';
+  comment.ab = '13-17 d';
+data.tx = 20;    units.tx = 'd';    label.tx = 'time since birth at fledging'; bibkey.tx = 'avibase';
+  temp.tx = C2K(41.6);  units.temp.tx = 'K'; label.temp.tx = 'temperature';
+  comment.tx = '18-25 d';
+data.tp = 45;   units.tp = 'd';    label.tp = 'time since birth at puberty'; bibkey.tp = 'avibase';
+  temp.tp = C2K(41.6);  units.temp.tp = 'K'; label.temp.tp = 'temperature';
+data.tR = 365;    units.tR = 'd';    label.tR = 'time since birth at 1st brood'; bibkey.tR = 'guess';   
+  temp.tR = C2K(41.6);  units.temp.tR = 'K'; label.temp.tR = 'temperature';
+data.am = 7.2*365;    units.am = 'd';    label.am = 'life span';          bibkey.am = 'avibase';   
+  temp.am = C2K(41.6);  units.temp.am = 'K'; label.temp.am = 'temperature'; 
+
+data.Ww0 = 4.38; units.Ww0 = 'g';   label.Ww0 = 'initial wet weight';    bibkey.Ww0 = 'bow';
+ comment.Ww0 = 'based on egg length 22.3 mm, width 16.1 mm: pi/6*2.23*1.61^2';
+data.Wwi = 53.6; units.Wwi = 'g';   label.Wwi = 'ultimate wet weight for females';  bibkey.Wwi = 'avibase';
+data.Wwim = 60; units.Wwim = 'g';   label.Wwim = 'ultimate wet weight for males';  bibkey.Wwim = 'avibase';
+
+data.Ri  = 2*4/365; units.Ri  = '#/d'; label.Ri  = 'maximum reprod rate';    bibkey.Ri  = 'guess';   
+  temp.Ri = C2K(41.6);  units.temp.Ri = 'K'; label.temp.Ri = 'temperature';
+  comment.Ri = '4 eggs per clutch; 2 clutches per yr';
+
+data.JOi  = 83; units.JOi  = 'ml O2/h'; label.JOi  = 'max BMR';  bibkey.JOi  = 'GavrGolu2023';   
+  temp.JOi = C2K(41.6);  units.temp.JOi = 'K'; label.temp.JOi = 'temperature';
+  weight.JOi = 50.2; units.weight.JOi = 'g'; label.weight.JOi = 'weight';
+
+%% set weights for all real data
+weights = setweights(data, []);
+weights.JOi = 3 * weights.JOi;
+
+%% set pseudodata and respective weights
+[data, units, label, weights] = addpseudodata(data, units, label, weights);
+
+%% pack auxData and txtData for output
+auxData.temp = temp;
+auxData.weight = weight;
+txtData.units = units;
+txtData.label = label;
+txtData.bibkey = bibkey;
+txtData.comment = comment;
+
+%% Discussion points
+D1 = 'Males are assumed to differ from females by {p_Am} only';
+metaData.discussion = struct('D1',D1);
+
+% %% Facts
+% F1 = '';
+% metaData.bibkey.F1 = ''; 
+% metaData.facts = struct('F1',F1);
+
+%% Links
+metaData.links.id_CoL = 'VDPK'; % Cat of Life
+metaData.links.id_ITIS = '178536'; % ITIS
+metaData.links.id_EoL = ''; % Ency of Life
+metaData.links.id_Wiki = 'Cinclus_mexicanus'; % Wikipedia
+metaData.links.id_ADW = 'Cinclus_mexicanus'; % ADW
+metaData.links.id_Taxo = '56720'; % Taxonomicon
+metaData.links.id_WoRMS = ''; % WoRMS
+metaData.links.id_avibase = 'A5EC8BF53E504B0A'; % avibase
+metaData.links.id_birdlife = 'american-dipper-cinclus-mexicanus';
+
+%% References
+bibkey = 'Wiki'; type = 'Misc'; bib = ...
+'howpublished = {\url{http://en.wikipedia.org/wiki/Cinclus_mexicanus}}';
+metaData.biblist.(bibkey) = ['''@', type, '{', bibkey, ', ' bib, '}'';'];
+%
+bibkey = 'Kooy2010'; type = 'Book'; bib = [ ...  % used in setting of chemical parameters and pseudodata
+'author = {Kooijman, S.A.L.M.}, ' ...
+'year = {2010}, ' ...
+'title  = {Dynamic Energy Budget theory for metabolic organisation}, ' ...
+'publisher = {Cambridge Univ. Press, Cambridge}, ' ...
+'pages = {Table 4.2 (page 150), 8.1 (page 300)}, ' ...
+'howpublished = {\url{../../../bib/Kooy2010.html}}'];
+metaData.biblist.(bibkey) = ['''@', type, '{', bibkey, ', ' bib, '}'';'];
+%
+bibkey = 'bow'; type = 'Misc'; bib = ...
+'howpublished = {\url{https://birdsoftheworld.org/bow/species/amedip/cur/introduction}}';
+metaData.biblist.(bibkey) = ['''@', type, '{', bibkey, ', ' bib, '}'';'];
+%
+bibkey = 'avibase'; type = 'Misc'; bib = ...
+'howpublished = {\url{https://avibase.bsc-eoc.org/species.jsp?lang=EN&avibaseid=A5EC8BF53E504B0A&sec=lifehistory}}';
+metaData.biblist.(bibkey) = ['''@', type, '{', bibkey, ', ' bib, '}'';'];
+%
+bibkey = 'GavrGolu2023'; type = 'Article'; bib = [ ... 
+'doi = {10.3897/zookeys.1148.93458}, ' ...
+'title = {Metabolic rate, sleep duration, and body temperature in evolution of mammals and birds: the influence of geological time of principal groups divergence}, ' ...
+'journal = {ZooKeys}, ' ...
+'volume = {1148}, ' ...
+'year = {2013}, ' ...
+'pages = {1-27}, ' ...
+'author = {Valery M. Gavrilov and Tatiana B. Golubeva and Andrey V. Bushuev}'];
+metaData.biblist.(bibkey) = ['''@', type, '{', bibkey, ', ' bib, '}'';'];
+

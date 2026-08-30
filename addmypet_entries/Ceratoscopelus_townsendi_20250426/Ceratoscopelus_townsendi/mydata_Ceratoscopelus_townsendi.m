@@ -1,0 +1,137 @@
+function [data, auxData, metaData, txtData, weights] = mydata_Ceratoscopelus_townsendi
+%% set metadata
+metaData.phylum     = 'Chordata'; 
+metaData.class      = 'Actinopterygii'; 
+metaData.order      = 'Myctophiformes'; 
+metaData.family     = 'Myctophidae';
+metaData.species    = 'Ceratoscopelus_townsendi'; 
+metaData.species_en = 'Dogtooth lanternfish'; 
+
+metaData.ecoCode.climate = {'MA'};
+metaData.ecoCode.ecozone = {'MC'};
+metaData.ecoCode.habitat = {'0jMpe', 'jiMpb'};
+metaData.ecoCode.embryo  = {'Mpe'};
+metaData.ecoCode.migrate = {'Mo'};
+metaData.ecoCode.food    = {'biPz'};
+metaData.ecoCode.gender  = {'D'};
+metaData.ecoCode.reprod  = {'O'};
+
+metaData.T_typical  = C2K(15.2); % in K, body temp
+metaData.data_0     = {'am'; 'Lp'; 'Li'; 'Wwb'; 'Wwp'; 'Wwi'; 'Ri'}; 
+metaData.data_1     = {'t-L'}; 
+
+metaData.COMPLETE = 2.3; % using criteria of LikaKear2011
+
+metaData.author    = {'Bas Kooijman'};    
+metaData.date_subm = [2025 04 26];              
+metaData.email     = {'bas.kooijman@vu.nl'};            
+metaData.address   = {'VU University Amsterdam'};  
+
+metaData.curator     = {'Dina Lika'};
+metaData.email_cur   = {'lika@uoc.gr'}; 
+metaData.date_acc    = [2025 04 26];
+
+%% set data
+% zero-variate data
+data.am = 2.2*365; units.am = 'd';    label.am = 'life span';                   bibkey.am = 'guess';  
+  temp.am = C2K(15.2); units.temp.am = 'K'; label.temp.am = 'temperature';
+
+data.Lp = 9;   units.Lp = 'cm';   label.Lp = 'standard length at puberty';  bibkey.Lp = 'guess';
+data.Li = 18.4;   units.Li = 'cm';   label.Li = 'ultimate standard length';    bibkey.Li = 'fishbase';
+
+data.Wwb = 5.2e-4; units.Wwb = 'g'; label.Wwb = 'wet weight at birth';       bibkey.Wwb = 'guess';
+  comment.Wwb = 'based on egg diameter of 1 mm: pi/6*0.1^3 for Benthosema_suborbitale';
+data.Wwp = 5; units.Wwp = 'g'; label.Wwp = 'wet weight at puberty';       bibkey.Wwp = 'fishbase';
+  comment.Wwp = 'based on 0.00513*Lp^3.14, see F1';
+data.Wwi = 48; units.Wwi = 'g'; label.Wwi = 'ultimate wet weight';       bibkey.Wwi = 'fishbase';
+  comment.Wwi = 'based on 0.00513*Li^3.14, see F1';
+  
+data.Ri = 1e4/365; units.Ri = '#/d';  label.Ri = 'max reprod rate ';         bibkey.Ri = 'guess';
+  temp.Ri = C2K(15.2); units.temp.Ri = 'K'; label.temp.Ri = 'temperature'; 
+
+% uni-variate data
+% time-length
+data.tL = [ ... % time since birth (d), standard length (cm) 
+11.160	0.454
+12.980	0.623
+13.411	0.441
+15.084	0.644
+15.091	0.708
+16.588	0.670
+17.200	0.775
+18.713	0.881
+20.066	0.894
+20.224	0.966
+20.353	0.776
+20.507	0.810
+21.266	0.882
+21.841	0.645
+23.078	0.983];
+units.tL = {'d', 'cm'}; label.tL = {'time since birth', 'standard length'};  
+temp.tL = C2K(15.2);  units.temp.tL = 'K'; label.temp.tL = 'temperature';
+bibkey.tL = 'ConlGart2009';
+
+%% set weights for all real data
+weights = setweights(data, []);
+weights.tL = 50*weights.tL;
+weights.Li = 3*weights.Li;
+
+%% set pseudodata and respective weights
+[data, units, label, weights] = addpseudodata(data, units, label, weights);
+
+%% pack auxData and txtData for output
+auxData.temp = temp;
+txtData.units = units;
+txtData.label = label;
+txtData.bibkey = bibkey;
+txtData.comment = comment;
+
+% %% Group plots
+% set1 = {''}; subtitle1 = {''};
+% metaData.grp.sets = {set1};
+% metaData.grp.subtitle = {subtitle1};
+
+%% Facts
+F1 = 'length-weight Ww in g = 0.00513*(TL in cm)^3.14';
+metaData.bibkey.F1 = 'fishbase'; 
+F2 = 'Circumglobal. Common south of 35 N. North Pacific: off Japan, Hawaii, and from off southern British Columbia, Canada to southern California, USA. Western Central Atlantic: Cuba. Southeast Atlantic: Agulhas Current Region';
+metaData.bibkey.F2 = 'fishbase'; 
+metaData.facts = struct('F1',F1, 'F2',F2);
+
+%% Links
+metaData.links.id_CoL = 'SPPY'; % Cat of Life
+metaData.links.id_ITIS = '162577'; % ITIS
+metaData.links.id_EoL = '46564049'; % Ency of Life
+metaData.links.id_Wiki = 'Ceratoscopelus'; % Wikipedia
+metaData.links.id_ADW = 'Ceratoscopelus_townsendi'; % ADW
+metaData.links.id_Taxo = '166829'; % Taxonomicon
+metaData.links.id_WoRMS = '272656'; % WoRMS
+metaData.links.id_fishbase = 'Ceratoscopelus_townsendi'; % fishbase
+
+%% References
+bibkey = 'Wiki'; type = 'Misc'; bib = ...
+'howpublished = {\url{http://en.wikipedia.org/wiki/Ceratoscopelus}}';
+metaData.biblist.(bibkey) = ['''@', type, '{', bibkey, ', ' bib, '}'';'];
+%
+bibkey = 'Kooy2010'; type = 'Book'; bib = [ ...  % used in setting of chemical parameters and pseudodata
+'author = {Kooijman, S.A.L.M.}, ' ...
+'year = {2010}, ' ...
+'title  = {Dynamic Energy Budget theory for metabolic organisation}, ' ...
+'publisher = {Cambridge Univ. Press, Cambridge}, ' ...
+'pages = {Table 4.2 (page 150), 8.1 (page 300)}, ' ...
+'howpublished = {\url{../../../bib/Kooy2010.html}}'];
+metaData.biblist.(bibkey) = ['''@', type, '{', bibkey, ', ' bib, '}'';'];
+%
+bibkey = 'ConlGart2009'; type = 'article'; bib = [ ...
+'author = {Walter J. Conley and John V. Gartner}, ' ... 
+'year   = {2009}, ' ...
+'title  = {GROWTH AMONG LARVAE OF LANTERNFISHES ({T}ELEOSTEI: {M}YCTOPHIDAE) FROM THE EASTERN {G}ULF OF {M}EXICO}, ' ...
+'journal = {Bulletin of Marine Science}, ' ...
+'page = {123–135}, ' ...
+'volume = {84(1)}'];
+metaData.biblist.(bibkey) = ['''@', type, '{', bibkey, ', ' bib, '}'';'];
+%
+bibkey = 'fishbase'; type = 'Misc'; bib = ...
+'howpublished = {\url{http://www.fishbase.org/summary/Ceratoscopelus_townsendi.html}}';
+metaData.biblist.(bibkey) = ['''@', type, '{', bibkey, ', ' bib, '}'';'];
+
