@@ -224,3 +224,29 @@ The BIO-tagged NER dataset built from the generated annotation texts (`all_speci
 **[huggingface.co/datasets/Somaya-Jabir/animalia-deb-ner-dataset](https://huggingface.co/datasets/Somaya-Jabir/animalia-deb-ner-dataset)**
 
 > Currently private while the dataset is finalized. It will be made public (with a citable DOI) at submission time.
+
+---
+
+## License
+
+This repository is released under a dual license, reflecting the two natures of
+its content:
+
+| Content | License | File |
+| --- | --- | --- |
+| Source code — Python scripts (`*.py`) and Jupyter notebooks (`*.ipynb`) | MIT | [`LICENSE`](LICENSE) |
+| Data — JSON files, lifecycle diagrams, lexical resources, annotation texts, NER corpus, figures | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [`LICENSE-DATA`](LICENSE-DATA) |
+
+Copyright (c) 2026 Somaya Jabir, Université Cadi Ayyad.
+
+Reuse of the data requires attribution. If you use this dataset or pipeline in
+your research, please cite the associated article and this repository.
+
+### Source data
+
+The records processed by this pipeline originate from the
+[Add-my-Pet (AmP)](https://www.bio.vu.nl/thb/deb/deblab/add_my_pet/) collection.
+The license above covers the contributions of the authors of this repository —
+extraction, normalization, classification, life cycle modelling, lexical
+resources and generated corpora. The underlying AmP entries remain subject to
+the terms of the AmP portal and must be cited as the original source.
