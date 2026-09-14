@@ -250,3 +250,23 @@ The license above covers the contributions of the authors of this repository —
 extraction, normalization, classification, life cycle modelling, lexical
 resources and generated corpora. The underlying AmP entries remain subject to
 the terms of the AmP portal and must be cited as the original source.
+
+---
+
+## How to Cite
+
+This repository provides a [`CITATION.cff`](CITATION.cff) file. GitHub reads it
+automatically and offers a **“Cite this repository”** button in the right-hand
+sidebar, with ready-to-copy APA and BibTeX entries.
+
+Plain-text citation:
+
+> Jabir, S. (2026). *Animalia Dataset Generator: a DEB-based pipeline for life
+> cycle modelling and biological NER corpus generation* (Version 1.0.0)
+> [Data set]. Université Cadi Ayyad.
+> https://github.com/sjabirced/animalia-deb-dataset-pipeline
+
+An archived snapshot of the released version, together with a permanent DOI,
+will be deposited on Zenodo at publication time. Once available, the DOI is the
+preferred way to cite this work, as it points to a fixed, immutable version of
+the data rather than to the evolving repository.

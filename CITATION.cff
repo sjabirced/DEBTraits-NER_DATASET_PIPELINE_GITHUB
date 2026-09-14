@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this dataset or this pipeline in your research, please cite it as below."
+title: "Animalia Dataset Generator: a DEB-based pipeline for life cycle modelling and biological NER corpus generation"
+abstract: >-
+  A two-stage pipeline for extracting, classifying and structuring biological
+  data from the Add-my-Pet (AmP) collection, covering 7,332 animal species.
+  It produces normalized per-species DEB parameter files, life cycle timeline
+  diagrams and narrative descriptions for 54 taxonomic classes across 10 DEB
+  models, a biological lexicon of stage and transition synonyms, generated
+  annotation texts, and a BIO-tagged named entity recognition corpus.
+type: dataset
+authors:
+  - family-names: Jabir
+    given-names: Somaya
+    email: s.jabir.ced@uca.ac.ma
+    affiliation: "Université Cadi Ayyad"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/sjabirced/animalia-deb-dataset-pipeline"
+url: "https://github.com/sjabirced/animalia-deb-dataset-pipeline"
+license:
+  - MIT
+  - CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-09-01"
+keywords:
+  - Dynamic Energy Budget
+  - DEB theory
+  - Add-my-Pet
+  - life cycle
+  - named entity recognition
+  - biological text mining
+  - annotated corpus
+  - Animalia
