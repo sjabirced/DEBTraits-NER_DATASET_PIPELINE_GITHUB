@@ -264,7 +264,7 @@ Plain-text citation:
 > Jabir, S. (2026). *Animalia Dataset Generator: a DEB-based pipeline for life
 > cycle modelling and biological NER corpus generation* (Version 1.0.0)
 > [Data set]. Université Cadi Ayyad.
-> https://github.com/sjabirced/animalia-deb-dataset-pipeline
+> https://github.com/sjabirced/DEBTraits-NER_DATASET_PIPELINE_GITHUB
 
 An archived snapshot of the released version, together with a permanent DOI,
 will be deposited on Zenodo at publication time. Once available, the DOI is the
