@@ -6,7 +6,7 @@ The release also contains the AmP source records, the life cycles and biological
 
 **Links**
 
-- Archived release (Zenodo): DOI to be added
+- Archived release (Zenodo): https://doi.org/10.5281/zenodo.23452003 (DOI: [10.5281/zenodo.23452003](https://doi.org/10.5281/zenodo.23452003))
 - Code and pipeline (GitHub): https://github.com/sjabirced/DEBTraits-NER_DATASET_PIPELINE_GITHUB
 - Ready-to-use dataset (Hugging Face): https://huggingface.co/datasets/Somaya-Jabir/DEBTraits-NER (DOI: [10.57967/hf/11049](https://doi.org/10.57967/hf/11049))
 
@@ -281,8 +281,11 @@ Plain-text citation:
 
 > Jabir, S., El Alaoui Elabdallaoui, H., El Hassan, A., & Pecquerie, L. (2026).
 > *DEBTraits-NER: annotated corpus and construction pipeline* (Version 1.0.0)
-> [Data set]. Zenodo.
+> [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23452003
 
-This version is archived on Zenodo. Its permanent DOI, given on the Zenodo
-record, is the preferred way to cite this work, as it points to a fixed,
-immutable version of the data.
+This version is archived on Zenodo under the DOI
+[10.5281/zenodo.23452003](https://doi.org/10.5281/zenodo.23452003), which is
+the preferred way to cite this work, as it points to a fixed, immutable version
+of the data. The concept DOI
+[10.5281/zenodo.23452002](https://doi.org/10.5281/zenodo.23452002) refers to
+all versions and always resolves to the latest one.
