@@ -4,6 +4,12 @@ An annotated corpus for named-entity recognition (NER) of Dynamic Energy Budget 
 
 The release also contains the AmP source records, the life cycles and biological lexica of the 67 class × DEB-model pairings, and the notebooks, scripts and prompts used to generate and verify the corpus.
 
+**Links**
+
+- Archived release (Zenodo): DOI to be added
+- Code and pipeline (GitHub): https://github.com/sjabirced/DEBTraits-NER_DATASET_PIPELINE_GITHUB
+- Ready-to-use dataset (Hugging Face): https://huggingface.co/datasets/Somaya-Jabir/DEBTraits-NER (DOI: [10.57967/hf/11049](https://doi.org/10.57967/hf/11049))
+
 ---
 
 ## Repository Structure
@@ -227,6 +233,16 @@ The BIO-tagged NER dataset built from the verified corpus is included in this re
 - [`data_annotation/animalia_dataset/all_species_bio.jsonl.zip`](data_annotation/animalia_dataset/) — full corpus, one sentence per line
 - [`data_annotation/animalia_dataset/bio_dataset_split.zip`](data_annotation/animalia_dataset/) — species-disjoint `train` / `validation` / `test` splits
 - [`data_in_brief_server/bio_tagging/bio_dataset.zip`](data_in_brief_server/bio_tagging/) — tokenised `DatasetDict` (`bert-base-cased`, 41 labels) used by the reference baseline
+
+The same splits, the full BIO corpus and the inline-annotated texts are also
+available, uncompressed and ready to load, on Hugging Face:
+[Somaya-Jabir/DEBTraits-NER](https://huggingface.co/datasets/Somaya-Jabir/DEBTraits-NER)
+(DOI: [10.57967/hf/11049](https://doi.org/10.57967/hf/11049)).
+
+```python
+from datasets import load_dataset
+ds = load_dataset("Somaya-Jabir/DEBTraits-NER")
+```
 
 ---
 
